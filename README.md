@@ -32,8 +32,8 @@
 		<td>371</td>
 		<td>373</td>
 		<td>373</td>
-		<td>373</td>
-		<td></td>
+		<td>376</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>315</td>
-		<td>317</td>
-		<td>+ 2</td>
+		<td>320</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -65,8 +65,8 @@
 		<td>384</td>
 		<td>388</td>
 		<td>390</td>
-		<td>392</td>
-		<td>+ 2</td>
+		<td>395</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -619,8 +619,19 @@
 		<td>384</td>
 		<td>388</td>
 		<td>390</td>
-		<td>392</td>
-		<td>+ 2</td>
+		<td>395</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>367</td>
+		<td>369</td>
+		<td>369</td>
+		<td>371</td>
+		<td>373</td>
+		<td>373</td>
+		<td>376</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -639,17 +650,6 @@
 		<td>373</td>
 		<td>373</td>
 		<td>373</td>
-		<td>373</td>
-		<td>373</td>
-		<td>373</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>367</td>
-		<td>369</td>
-		<td>369</td>
-		<td>371</td>
 		<td>373</td>
 		<td>373</td>
 		<td>373</td>
@@ -718,8 +718,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>315</td>
-		<td>317</td>
-		<td>+ 2</td>
+		<td>320</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
