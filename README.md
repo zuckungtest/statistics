@@ -164,8 +164,8 @@
 		<td>599</td>
 		<td>601</td>
 		<td>604</td>
-		<td>606</td>
-		<td>+ 2</td>
+		<td>608</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>28</td>
 		<td>28</td>
 		<td>30</td>
-		<td>30</td>
-		<td></td>
+		<td>32</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -208,8 +208,8 @@
 		<td>272</td>
 		<td>274</td>
 		<td>274</td>
-		<td>274</td>
-		<td></td>
+		<td>275</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -252,8 +252,8 @@
 		<td>303</td>
 		<td>305</td>
 		<td>305</td>
-		<td>305</td>
-		<td></td>
+		<td>307</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -329,8 +329,8 @@
 		<td>487</td>
 		<td>491</td>
 		<td>491</td>
-		<td>491</td>
-		<td></td>
+		<td>493</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -487,8 +487,8 @@
 		<td>599</td>
 		<td>601</td>
 		<td>604</td>
-		<td>606</td>
-		<td>+ 2</td>
+		<td>608</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>487</td>
 		<td>491</td>
 		<td>491</td>
-		<td>491</td>
-		<td></td>
+		<td>493</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -740,8 +740,8 @@
 		<td>303</td>
 		<td>305</td>
 		<td>305</td>
-		<td>305</td>
-		<td></td>
+		<td>307</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -777,18 +777,18 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>landing.images.android</td>
+		<td>human.labels</td>
 		<td>270</td>
 		<td>272</td>
 		<td>272</td>
 		<td>272</td>
 		<td>274</td>
 		<td>274</td>
-		<td>274</td>
-		<td></td>
+		<td>275</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>human.labels</td>
+		<td>landing.images.android</td>
 		<td>270</td>
 		<td>272</td>
 		<td>272</td>
@@ -927,8 +927,8 @@
 		<td>28</td>
 		<td>28</td>
 		<td>30</td>
-		<td>30</td>
-		<td></td>
+		<td>32</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
