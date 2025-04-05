@@ -43,8 +43,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>315</td>
-		<td>315</td>
-		<td></td>
+		<td>317</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -65,8 +65,8 @@
 		<td>384</td>
 		<td>388</td>
 		<td>390</td>
-		<td>390</td>
-		<td></td>
+		<td>392</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -175,8 +175,8 @@
 		<td>467</td>
 		<td>469</td>
 		<td>469</td>
-		<td>469</td>
-		<td></td>
+		<td>471</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -241,8 +241,8 @@
 		<td>462</td>
 		<td>464</td>
 		<td>464</td>
-		<td>464</td>
-		<td></td>
+		<td>466</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>441</td>
 		<td>445</td>
 		<td>445</td>
-		<td>445</td>
-		<td></td>
+		<td>447</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -564,8 +564,8 @@
 		<td>467</td>
 		<td>469</td>
 		<td>469</td>
-		<td>469</td>
-		<td></td>
+		<td>471</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -575,8 +575,19 @@
 		<td>462</td>
 		<td>464</td>
 		<td>464</td>
-		<td>464</td>
-		<td></td>
+		<td>466</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>more.arfectas</td>
+		<td>439</td>
+		<td>441</td>
+		<td>441</td>
+		<td>441</td>
+		<td>445</td>
+		<td>445</td>
+		<td>447</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -587,17 +598,6 @@
 		<td>446</td>
 		<td>446</td>
 		<td>446</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.arfectas</td>
-		<td>439</td>
-		<td>441</td>
-		<td>441</td>
-		<td>441</td>
-		<td>445</td>
-		<td>445</td>
-		<td>445</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -619,8 +619,8 @@
 		<td>384</td>
 		<td>388</td>
 		<td>390</td>
-		<td>390</td>
-		<td></td>
+		<td>392</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -718,8 +718,8 @@
 		<td>311</td>
 		<td>311</td>
 		<td>315</td>
-		<td>315</td>
-		<td></td>
+		<td>317</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
