@@ -32,8 +32,8 @@
 		<td>373</td>
 		<td>373</td>
 		<td>376</td>
-		<td>377</td>
-		<td>+ 1</td>
+		<td>379</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>311</td>
 		<td>315</td>
 		<td>320</td>
-		<td>321</td>
-		<td>+ 1</td>
+		<td>323</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -630,8 +630,8 @@
 		<td>373</td>
 		<td>373</td>
 		<td>376</td>
-		<td>377</td>
-		<td>+ 1</td>
+		<td>379</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -718,8 +718,8 @@
 		<td>311</td>
 		<td>315</td>
 		<td>320</td>
-		<td>321</td>
-		<td>+ 1</td>
+		<td>323</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
