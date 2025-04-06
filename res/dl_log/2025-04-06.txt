@@ -13,7 +13,7 @@ v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 134
 v1.0.7-bunrodea.missions | downloads: 128
 v1.0.5-human.labels | downloads: 61
-v1.1.4-more.boarding.missions | downloads: 128
+v1.1.4-more.boarding.missions | downloads: 130
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 103
 v1.0.15-additional.command.buttons.radial | downloads: 69
@@ -42,7 +42,7 @@ v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 281
 v1.0.6-coalition.shopping | downloads: 225
-v1.0.5-snowfeather.robotics | downloads: 179
+v1.0.5-snowfeather.robotics | downloads: 181
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 296
 v1.0.10-additional.command.buttons.radial | downloads: 40
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14237
+# TOTAL DOWNLOADS: 14241
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -225,7 +225,7 @@ landing.images.android 274
 landing.images.highres 219
 mission.helper 197
 more.arfectas 449
-more.boarding.missions 448
+more.boarding.missions 450
 more.person.ships 333
 navy.licenses 493
 no.more.mereti.mines 283
@@ -237,7 +237,7 @@ planet.pluto 108
 quarg.farm 482
 real.fluff 93
 show.reputation 360
-snowfeather.robotics 338
+snowfeather.robotics 340
 space.fauna 272
 too.many.asteroids 509
 tribute.republic 228
