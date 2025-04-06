@@ -76,8 +76,8 @@
 		<td>505</td>
 		<td>505</td>
 		<td>505</td>
-		<td>505</td>
-		<td></td>
+		<td>507</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -131,8 +131,8 @@
 		<td>271</td>
 		<td>271</td>
 		<td>271</td>
-		<td>271</td>
-		<td></td>
+		<td>273</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -175,8 +175,8 @@
 		<td>469</td>
 		<td>469</td>
 		<td>471</td>
-		<td>471</td>
-		<td></td>
+		<td>473</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -439,8 +439,8 @@
 		<td>507</td>
 		<td>507</td>
 		<td>507</td>
-		<td>507</td>
-		<td></td>
+		<td>509</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>507</td>
 		<td>507</td>
 		<td>507</td>
-		<td>507</td>
-		<td></td>
+		<td>509</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>505</td>
 		<td>505</td>
 		<td>505</td>
-		<td>505</td>
-		<td></td>
+		<td>507</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -564,8 +564,8 @@
 		<td>469</td>
 		<td>469</td>
 		<td>471</td>
-		<td>471</td>
-		<td></td>
+		<td>473</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>disable.spaceport.repeatables</td>
+		<td>271</td>
+		<td>271</td>
+		<td>271</td>
+		<td>271</td>
+		<td>271</td>
+		<td>271</td>
+		<td>273</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>270</td>
 		<td>270</td>
@@ -807,17 +818,6 @@
 		<td>272</td>
 		<td>272</td>
 		<td>272</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>disable.spaceport.repeatables</td>
-		<td>271</td>
-		<td>271</td>
-		<td>271</td>
-		<td>271</td>
-		<td>271</td>
-		<td>271</td>
-		<td>271</td>
 		<td></td>
 	</tr>
 	<tr>
