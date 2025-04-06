@@ -2,7 +2,7 @@
 v1.1.6-galactic.capital.investment | downloads: 48
 v1.0.19-additional.command.buttons.radial | downloads: 79
 v1.0.1-highrollers.ltd | downloads: 21
-v1.0.3-gegno.pirates | downloads: 46
+v1.0.3-gegno.pirates | downloads: 48
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 31
 v1.0.2-mission.helper | downloads: 134
@@ -11,7 +11,7 @@ v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 134
-v1.0.7-bunrodea.missions | downloads: 126
+v1.0.7-bunrodea.missions | downloads: 128
 v1.0.5-human.labels | downloads: 61
 v1.1.4-more.boarding.missions | downloads: 128
 v1.0.6-bunrodea.missions | downloads: 6
@@ -25,7 +25,7 @@ v1.1.7-captureable.person.ships | downloads: 127
 v1.0.8-uniques | downloads: 119
 v1.0.3-quarg.farm | downloads: 171
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 176
+v1.0.4-too.many.asteroids | downloads: 178
 v1.0.3-show.reputation | downloads: 111
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 180
@@ -134,7 +134,7 @@ v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
-v1.1.1-disable.spaceport.repeatables | downloads: 270
+v1.1.1-disable.spaceport.repeatables | downloads: 272
 v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 283
 v1.0.0-control.station | downloads: 1
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14229
+# TOTAL DOWNLOADS: 14237
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -203,17 +203,17 @@ automata.destruction.0percent 376
 automata.in.human.space 320
 avgi.licenses 151
 better.starts 395
-bunrodea.missions 505
+bunrodea.missions 507
 captureable.person.ships 373
 coalition.shopping 419
 control.station 284
 devil-run.unhidden 66
 disable.person.ships 178
-disable.spaceport.repeatables 271
+disable.spaceport.repeatables 273
 expert.crew.members 499
 free.worlds.5.years.later 266
 galactic.capital.investment 610
-gegno.pirates 471
+gegno.pirates 473
 hai.side.mission.unlocker 342
 highrollers.ltd 32
 human.labels 275
@@ -239,7 +239,7 @@ real.fluff 93
 show.reputation 360
 snowfeather.robotics 338
 space.fauna 272
-too.many.asteroids 507
+too.many.asteroids 509
 tribute.republic 228
 unique.fix 44
 uniques 329
