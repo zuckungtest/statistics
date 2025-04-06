@@ -307,8 +307,8 @@
 		<td>446</td>
 		<td>446</td>
 		<td>446</td>
-		<td>448</td>
-		<td>+ 2</td>
+		<td>450</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -417,8 +417,8 @@
 		<td>336</td>
 		<td>336</td>
 		<td>336</td>
-		<td>338</td>
-		<td>+ 2</td>
+		<td>340</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -579,6 +579,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>more.boarding.missions</td>
+		<td>434</td>
+		<td>436</td>
+		<td>440</td>
+		<td>446</td>
+		<td>446</td>
+		<td>446</td>
+		<td>450</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>441</td>
 		<td>441</td>
@@ -587,17 +598,6 @@
 		<td>445</td>
 		<td>447</td>
 		<td>449</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>more.boarding.missions</td>
-		<td>434</td>
-		<td>436</td>
-		<td>440</td>
-		<td>446</td>
-		<td>446</td>
-		<td>446</td>
-		<td>448</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -685,8 +685,8 @@
 		<td>336</td>
 		<td>336</td>
 		<td>336</td>
-		<td>338</td>
-		<td>+ 2</td>
+		<td>340</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
