@@ -54,8 +54,8 @@
 		<td>151</td>
 		<td>151</td>
 		<td>154</td>
-		<td>156</td>
-		<td>+ 2</td>
+		<td>158</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -197,8 +197,8 @@
 		<td>30</td>
 		<td>32</td>
 		<td>33</td>
-		<td>33</td>
-		<td></td>
+		<td>35</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -905,8 +905,8 @@
 		<td>151</td>
 		<td>151</td>
 		<td>154</td>
-		<td>156</td>
-		<td>+ 2</td>
+		<td>158</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -927,8 +927,8 @@
 		<td>30</td>
 		<td>32</td>
 		<td>33</td>
-		<td>33</td>
-		<td></td>
+		<td>35</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
