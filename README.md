@@ -98,8 +98,8 @@
 		<td>419</td>
 		<td>419</td>
 		<td>420</td>
-		<td>422</td>
-		<td>+ 2</td>
+		<td>424</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -296,8 +296,8 @@
 		<td>445</td>
 		<td>447</td>
 		<td>450</td>
-		<td>451</td>
-		<td>+ 1</td>
+		<td>452</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -395,8 +395,8 @@
 		<td>480</td>
 		<td>480</td>
 		<td>483</td>
-		<td>489</td>
-		<td>+ 6</td>
+		<td>491</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -553,8 +553,8 @@
 		<td>480</td>
 		<td>480</td>
 		<td>483</td>
-		<td>489</td>
-		<td>+ 6</td>
+		<td>491</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -597,8 +597,8 @@
 		<td>445</td>
 		<td>447</td>
 		<td>450</td>
-		<td>451</td>
-		<td>+ 1</td>
+		<td>452</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -608,8 +608,8 @@
 		<td>419</td>
 		<td>419</td>
 		<td>420</td>
-		<td>422</td>
-		<td>+ 2</td>
+		<td>424</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
