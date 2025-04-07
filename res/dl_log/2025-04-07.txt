@@ -23,7 +23,7 @@ v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 130
 v1.0.8-uniques | downloads: 126
-v1.0.3-quarg.farm | downloads: 178
+v1.0.3-quarg.farm | downloads: 180
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 181
 v1.0.3-show.reputation | downloads: 112
@@ -41,7 +41,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 286
-v1.0.6-coalition.shopping | downloads: 228
+v1.0.6-coalition.shopping | downloads: 230
 v1.0.5-snowfeather.robotics | downloads: 184
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 299
@@ -158,7 +158,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 449
+v1.0.2-more.arfectas | downloads: 450
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14375
+# TOTAL DOWNLOADS: 14380
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -205,7 +205,7 @@ avgi.licenses 158
 better.starts 398
 bunrodea.missions 512
 captureable.person.ships 376
-coalition.shopping 422
+coalition.shopping 424
 control.station 287
 devil-run.unhidden 66
 disable.person.ships 179
@@ -224,7 +224,7 @@ landing.images 313
 landing.images.android 275
 landing.images.highres 220
 mission.helper 198
-more.arfectas 451
+more.arfectas 452
 more.boarding.missions 455
 more.person.ships 340
 navy.licenses 498
@@ -234,7 +234,7 @@ paint.your.ships 315
 pirate.warlords 3
 planet.map 211
 planet.pluto 111
-quarg.farm 489
+quarg.farm 491
 real.fluff 93
 show.reputation 361
 snowfeather.robotics 343
