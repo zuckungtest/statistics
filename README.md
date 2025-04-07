@@ -153,8 +153,8 @@
 		<td>266</td>
 		<td>266</td>
 		<td>269</td>
-		<td>271</td>
-		<td>+ 2</td>
+		<td>273</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -164,8 +164,8 @@
 		<td>604</td>
 		<td>608</td>
 		<td>611</td>
-		<td>615</td>
-		<td>+ 4</td>
+		<td>617</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -487,8 +487,8 @@
 		<td>604</td>
 		<td>608</td>
 		<td>611</td>
-		<td>615</td>
-		<td>+ 4</td>
+		<td>617</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -828,8 +828,8 @@
 		<td>266</td>
 		<td>266</td>
 		<td>269</td>
-		<td>271</td>
-		<td>+ 2</td>
+		<td>273</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
