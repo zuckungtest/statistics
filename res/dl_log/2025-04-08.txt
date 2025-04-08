@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.6-galactic.capital.investment | downloads: 55
+v1.1.6-galactic.capital.investment | downloads: 56
 v1.0.19-additional.command.buttons.radial | downloads: 82
-v1.0.1-highrollers.ltd | downloads: 24
+v1.0.1-highrollers.ltd | downloads: 26
 v1.0.3-gegno.pirates | downloads: 53
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 31
@@ -25,7 +25,7 @@ v1.1.7-captureable.person.ships | downloads: 130
 v1.0.8-uniques | downloads: 126
 v1.0.3-quarg.farm | downloads: 180
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 181
+v1.0.4-too.many.asteroids | downloads: 183
 v1.0.3-show.reputation | downloads: 112
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 183
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14386
+# TOTAL DOWNLOADS: 14391
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -212,10 +212,10 @@ disable.person.ships 179
 disable.spaceport.repeatables 274
 expert.crew.members 504
 free.worlds.5.years.later 273
-galactic.capital.investment 617
+galactic.capital.investment 618
 gegno.pirates 478
 hai.side.mission.unlocker 345
-highrollers.ltd 35
+highrollers.ltd 37
 human.labels 278
 jump.gates 377
 kestrel.unlocks 307
@@ -239,7 +239,7 @@ real.fluff 93
 show.reputation 361
 snowfeather.robotics 343
 space.fauna 273
-too.many.asteroids 512
+too.many.asteroids 514
 tribute.republic 229
 unique.fix 44
 uniques 336
