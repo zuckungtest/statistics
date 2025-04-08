@@ -164,8 +164,8 @@
 		<td>608</td>
 		<td>611</td>
 		<td>617</td>
-		<td>617</td>
-		<td></td>
+		<td>618</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>32</td>
 		<td>33</td>
 		<td>35</td>
-		<td>35</td>
-		<td></td>
+		<td>37</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -439,8 +439,8 @@
 		<td>507</td>
 		<td>510</td>
 		<td>512</td>
-		<td>512</td>
-		<td></td>
+		<td>514</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -487,8 +487,8 @@
 		<td>608</td>
 		<td>611</td>
 		<td>617</td>
-		<td>617</td>
-		<td></td>
+		<td>618</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>507</td>
 		<td>510</td>
 		<td>512</td>
-		<td>512</td>
-		<td></td>
+		<td>514</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -927,8 +927,8 @@
 		<td>32</td>
 		<td>33</td>
 		<td>35</td>
-		<td>35</td>
-		<td></td>
+		<td>37</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
