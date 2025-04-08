@@ -285,8 +285,8 @@
 		<td>197</td>
 		<td>198</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>200</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -883,8 +883,8 @@
 		<td>197</td>
 		<td>198</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>200</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
