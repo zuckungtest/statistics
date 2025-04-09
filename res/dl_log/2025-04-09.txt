@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.6-galactic.capital.investment | downloads: 56
-v1.0.19-additional.command.buttons.radial | downloads: 82
+v1.1.6-galactic.capital.investment | downloads: 58
+v1.0.19-additional.command.buttons.radial | downloads: 83
 v1.0.1-highrollers.ltd | downloads: 26
 v1.0.3-gegno.pirates | downloads: 53
 v1.0.0-highrollers.ltd | downloads: 11
@@ -11,14 +11,14 @@ v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 134
-v1.0.7-bunrodea.missions | downloads: 133
+v1.0.7-bunrodea.missions | downloads: 135
 v1.0.5-human.labels | downloads: 64
 v1.1.4-more.boarding.missions | downloads: 135
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 106
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 151
-v1.0.0-avgi.licenses | downloads: 158
+v1.0.0-avgi.licenses | downloads: 160
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 130
@@ -41,7 +41,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 288
-v1.0.6-coalition.shopping | downloads: 230
+v1.0.6-coalition.shopping | downloads: 232
 v1.0.5-snowfeather.robotics | downloads: 184
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 299
@@ -193,26 +193,26 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14393
+# TOTAL DOWNLOADS: 14402
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 603
+additional.command.buttons.radial 604
 automata.destruction.0percent 379
 automata.in.human.space 324
-avgi.licenses 158
+avgi.licenses 160
 better.starts 398
-bunrodea.missions 512
+bunrodea.missions 514
 captureable.person.ships 376
-coalition.shopping 424
+coalition.shopping 426
 control.station 287
 devil-run.unhidden 66
 disable.person.ships 179
 disable.spaceport.repeatables 274
 expert.crew.members 504
 free.worlds.5.years.later 273
-galactic.capital.investment 618
+galactic.capital.investment 620
 gegno.pirates 478
 hai.side.mission.unlocker 345
 highrollers.ltd 37
