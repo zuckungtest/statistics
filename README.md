@@ -21,8 +21,8 @@
 		<td>601</td>
 		<td>603</td>
 		<td>603</td>
-		<td>603</td>
-		<td></td>
+		<td>604</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>154</td>
 		<td>158</td>
 		<td>158</td>
-		<td>158</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>508</td>
 		<td>512</td>
 		<td>512</td>
-		<td>512</td>
-		<td></td>
+		<td>514</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>420</td>
 		<td>424</td>
 		<td>424</td>
-		<td>424</td>
-		<td></td>
+		<td>426</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -164,8 +164,8 @@
 		<td>611</td>
 		<td>617</td>
 		<td>618</td>
-		<td>618</td>
-		<td></td>
+		<td>620</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -487,8 +487,8 @@
 		<td>611</td>
 		<td>617</td>
 		<td>618</td>
-		<td>618</td>
-		<td></td>
+		<td>620</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -498,8 +498,8 @@
 		<td>601</td>
 		<td>603</td>
 		<td>603</td>
-		<td>603</td>
-		<td></td>
+		<td>604</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -520,8 +520,8 @@
 		<td>508</td>
 		<td>512</td>
 		<td>512</td>
-		<td>512</td>
-		<td></td>
+		<td>514</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -608,8 +608,8 @@
 		<td>420</td>
 		<td>424</td>
 		<td>424</td>
-		<td>424</td>
-		<td></td>
+		<td>426</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -905,8 +905,8 @@
 		<td>154</td>
 		<td>158</td>
 		<td>158</td>
-		<td>158</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
