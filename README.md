@@ -76,8 +76,8 @@
 		<td>508</td>
 		<td>512</td>
 		<td>512</td>
-		<td>516</td>
-		<td>+ 4</td>
+		<td>518</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -509,8 +509,8 @@
 		<td>508</td>
 		<td>512</td>
 		<td>512</td>
-		<td>516</td>
-		<td>+ 4</td>
+		<td>518</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
