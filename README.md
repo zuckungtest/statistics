@@ -340,8 +340,8 @@
 		<td>286</td>
 		<td>286</td>
 		<td>286</td>
-		<td>286</td>
-		<td></td>
+		<td>288</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -755,6 +755,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>no.more.mereti.mines</td>
+		<td>281</td>
+		<td>283</td>
+		<td>283</td>
+		<td>286</td>
+		<td>286</td>
+		<td>286</td>
+		<td>288</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>284</td>
 		<td>284</td>
@@ -763,17 +774,6 @@
 		<td>287</td>
 		<td>287</td>
 		<td>287</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>no.more.mereti.mines</td>
-		<td>281</td>
-		<td>283</td>
-		<td>283</td>
-		<td>286</td>
-		<td>286</td>
-		<td>286</td>
-		<td>286</td>
 		<td></td>
 	</tr>
 	<tr>
