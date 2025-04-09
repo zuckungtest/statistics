@@ -2,10 +2,10 @@
 v1.1.6-galactic.capital.investment | downloads: 58
 v1.0.19-additional.command.buttons.radial | downloads: 83
 v1.0.1-highrollers.ltd | downloads: 26
-v1.0.3-gegno.pirates | downloads: 53
+v1.0.3-gegno.pirates | downloads: 55
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 31
-v1.0.2-mission.helper | downloads: 137
+v1.0.2-mission.helper | downloads: 139
 v1.0.17-additional.command.buttons.radial | downloads: 21
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
@@ -23,7 +23,7 @@ v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 130
 v1.0.8-uniques | downloads: 126
-v1.0.3-quarg.farm | downloads: 180
+v1.0.3-quarg.farm | downloads: 182
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 183
 v1.0.3-show.reputation | downloads: 112
@@ -44,7 +44,7 @@ v1.0.3-navy.licenses | downloads: 288
 v1.0.6-coalition.shopping | downloads: 232
 v1.0.5-snowfeather.robotics | downloads: 184
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 299
+v1.0.2-kor.efret.shipyard | downloads: 301
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -58,11 +58,11 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 240
+v1.0.4-landing.images | downloads: 242
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
-v1.0.2-landing.images.highres | downloads: 152
+v1.0.2-landing.images.highres | downloads: 154
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
 v1.0.1-automata.in.human.space | downloads: 263
@@ -71,17 +71,17 @@ v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
-v1.1.4-hai.side.mission.unlocker | downloads: 270
+v1.1.4-hai.side.mission.unlocker | downloads: 272
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 230
-v1.0.1-paint.your.ships | downloads: 311
+v1.0.1-paint.your.ships | downloads: 313
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
 v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
-v1.0.0-outfits.weapon.slot | downloads: 269
+v1.0.0-outfits.weapon.slot | downloads: 271
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14402
+# TOTAL DOWNLOADS: 14420
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -213,28 +213,28 @@ disable.spaceport.repeatables 274
 expert.crew.members 504
 free.worlds.5.years.later 273
 galactic.capital.investment 620
-gegno.pirates 478
-hai.side.mission.unlocker 345
+gegno.pirates 480
+hai.side.mission.unlocker 347
 highrollers.ltd 37
 human.labels 278
 jump.gates 377
 kestrel.unlocks 307
-kor.efret.shipyard 469
-landing.images 313
+kor.efret.shipyard 471
+landing.images 315
 landing.images.android 275
-landing.images.highres 220
-mission.helper 200
+landing.images.highres 222
+mission.helper 202
 more.arfectas 452
 more.boarding.missions 455
 more.person.ships 340
 navy.licenses 500
 no.more.mereti.mines 286
-outfits.weapon.slot 269
-paint.your.ships 315
+outfits.weapon.slot 271
+paint.your.ships 317
 pirate.warlords 3
 planet.map 211
 planet.pluto 111
-quarg.farm 491
+quarg.farm 493
 real.fluff 93
 show.reputation 361
 snowfeather.robotics 343
