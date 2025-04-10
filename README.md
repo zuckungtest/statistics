@@ -362,8 +362,8 @@
 		<td>315</td>
 		<td>315</td>
 		<td>317</td>
-		<td>317</td>
-		<td></td>
+		<td>319</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -729,8 +729,8 @@
 		<td>315</td>
 		<td>315</td>
 		<td>317</td>
-		<td>317</td>
-		<td></td>
+		<td>319</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
