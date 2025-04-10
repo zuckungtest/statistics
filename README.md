@@ -21,8 +21,8 @@
 		<td>603</td>
 		<td>603</td>
 		<td>604</td>
-		<td>604</td>
-		<td></td>
+		<td>606</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>158</td>
 		<td>158</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -498,8 +498,8 @@
 		<td>603</td>
 		<td>603</td>
 		<td>604</td>
-		<td>604</td>
-		<td></td>
+		<td>606</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -905,8 +905,8 @@
 		<td>158</td>
 		<td>158</td>
 		<td>161</td>
-		<td>161</td>
-		<td></td>
+		<td>163</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
