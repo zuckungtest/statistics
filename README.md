@@ -164,8 +164,8 @@
 		<td>617</td>
 		<td>618</td>
 		<td>621</td>
-		<td>621</td>
-		<td></td>
+		<td>623</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -285,8 +285,8 @@
 		<td>198</td>
 		<td>200</td>
 		<td>204</td>
-		<td>206</td>
-		<td>+ 2</td>
+		<td>208</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -439,8 +439,8 @@
 		<td>512</td>
 		<td>514</td>
 		<td>514</td>
-		<td>516</td>
-		<td>+ 2</td>
+		<td>518</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -487,8 +487,8 @@
 		<td>617</td>
 		<td>618</td>
 		<td>621</td>
-		<td>621</td>
-		<td></td>
+		<td>623</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -502,6 +502,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>507</td>
+		<td>507</td>
+		<td>510</td>
+		<td>512</td>
+		<td>514</td>
+		<td>514</td>
+		<td>518</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>505</td>
 		<td>505</td>
@@ -511,17 +522,6 @@
 		<td>518</td>
 		<td>518</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>507</td>
-		<td>507</td>
-		<td>510</td>
-		<td>512</td>
-		<td>514</td>
-		<td>514</td>
-		<td>516</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -883,8 +883,8 @@
 		<td>198</td>
 		<td>200</td>
 		<td>204</td>
-		<td>206</td>
-		<td>+ 2</td>
+		<td>208</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
