@@ -153,8 +153,8 @@
 		<td>273</td>
 		<td>273</td>
 		<td>273</td>
-		<td>273</td>
-		<td></td>
+		<td>274</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -164,8 +164,8 @@
 		<td>618</td>
 		<td>621</td>
 		<td>623</td>
-		<td>625</td>
-		<td>+ 2</td>
+		<td>626</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>469</td>
 		<td>471</td>
 		<td>471</td>
-		<td>471</td>
-		<td></td>
+		<td>472</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>200</td>
 		<td>204</td>
 		<td>208</td>
-		<td>208</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -487,8 +487,8 @@
 		<td>618</td>
 		<td>621</td>
 		<td>623</td>
-		<td>625</td>
-		<td>+ 2</td>
+		<td>626</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -575,8 +575,8 @@
 		<td>469</td>
 		<td>471</td>
 		<td>471</td>
-		<td>471</td>
-		<td></td>
+		<td>472</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>free.worlds.5.years.later</td>
+		<td>266</td>
+		<td>269</td>
+		<td>273</td>
+		<td>273</td>
+		<td>273</td>
+		<td>273</td>
+		<td>274</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>271</td>
 		<td>274</td>
@@ -813,17 +824,6 @@
 		<td>space.fauna</td>
 		<td>272</td>
 		<td>273</td>
-		<td>273</td>
-		<td>273</td>
-		<td>273</td>
-		<td>273</td>
-		<td>273</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>free.worlds.5.years.later</td>
-		<td>266</td>
-		<td>269</td>
 		<td>273</td>
 		<td>273</td>
 		<td>273</td>
@@ -883,8 +883,8 @@
 		<td>200</td>
 		<td>204</td>
 		<td>208</td>
-		<td>208</td>
-		<td></td>
+		<td>209</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
