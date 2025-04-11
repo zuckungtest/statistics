@@ -1,11 +1,11 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.6-galactic.capital.investment | downloads: 63
+v1.1.6-galactic.capital.investment | downloads: 64
 v1.0.19-additional.command.buttons.radial | downloads: 90
 v1.0.1-highrollers.ltd | downloads: 31
 v1.0.3-gegno.pirates | downloads: 58
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 31
-v1.0.2-mission.helper | downloads: 145
+v1.0.2-mission.helper | downloads: 146
 v1.0.17-additional.command.buttons.radial | downloads: 21
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
@@ -44,7 +44,7 @@ v1.0.3-navy.licenses | downloads: 291
 v1.0.6-coalition.shopping | downloads: 234
 v1.0.5-snowfeather.robotics | downloads: 184
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 301
+v1.0.2-kor.efret.shipyard | downloads: 302
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -179,7 +179,7 @@ v1.0-more.boarding.missions | downloads: 4
 v1.0-more.arfectas | downloads: 1
 v1.0-kor.efret.shipyard | downloads: 155
 v1.0-gegno.pirates | downloads: 1
-v1.0-free.worlds.5.years.later | downloads: 273
+v1.0-free.worlds.5.years.later | downloads: 274
 v1.0-expert.crew.members | downloads: 4
 v1.0-disable.person.ships | downloads: 179
 v1.0-devil-run.unhidden | downloads: 1
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14489
+# TOTAL DOWNLOADS: 14493
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -211,19 +211,19 @@ devil-run.unhidden 66
 disable.person.ships 179
 disable.spaceport.repeatables 274
 expert.crew.members 505
-free.worlds.5.years.later 273
-galactic.capital.investment 625
+free.worlds.5.years.later 274
+galactic.capital.investment 626
 gegno.pirates 483
 hai.side.mission.unlocker 347
 highrollers.ltd 42
 human.labels 282
 jump.gates 379
 kestrel.unlocks 307
-kor.efret.shipyard 471
+kor.efret.shipyard 472
 landing.images 317
 landing.images.android 275
 landing.images.highres 222
-mission.helper 208
+mission.helper 209
 more.arfectas 452
 more.boarding.missions 458
 more.person.ships 340
