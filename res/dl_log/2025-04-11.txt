@@ -15,7 +15,7 @@ v1.0.7-bunrodea.missions | downloads: 139
 v1.0.5-human.labels | downloads: 68
 v1.1.4-more.boarding.missions | downloads: 138
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 108
+v1.0.3-jump.gates | downloads: 110
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 152
 v1.0.0-avgi.licenses | downloads: 164
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14493
+# TOTAL DOWNLOADS: 14495
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -217,7 +217,7 @@ gegno.pirates 483
 hai.side.mission.unlocker 347
 highrollers.ltd 42
 human.labels 282
-jump.gates 379
+jump.gates 381
 kestrel.unlocks 307
 kor.efret.shipyard 472
 landing.images 317
