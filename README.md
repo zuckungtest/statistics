@@ -21,8 +21,8 @@
 		<td>603</td>
 		<td>604</td>
 		<td>606</td>
-		<td>609</td>
-		<td>+ 3</td>
+		<td>611</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -197,8 +197,8 @@
 		<td>37</td>
 		<td>38</td>
 		<td>38</td>
-		<td>40</td>
-		<td>+ 2</td>
+		<td>42</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -208,8 +208,8 @@
 		<td>278</td>
 		<td>278</td>
 		<td>280</td>
-		<td>280</td>
-		<td></td>
+		<td>282</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -362,8 +362,8 @@
 		<td>315</td>
 		<td>317</td>
 		<td>319</td>
-		<td>319</td>
-		<td></td>
+		<td>321</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -439,8 +439,8 @@
 		<td>514</td>
 		<td>514</td>
 		<td>518</td>
-		<td>518</td>
-		<td></td>
+		<td>520</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -498,8 +498,8 @@
 		<td>603</td>
 		<td>604</td>
 		<td>606</td>
-		<td>609</td>
-		<td>+ 3</td>
+		<td>611</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -509,8 +509,8 @@
 		<td>514</td>
 		<td>514</td>
 		<td>518</td>
-		<td>518</td>
-		<td></td>
+		<td>520</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -729,8 +729,8 @@
 		<td>315</td>
 		<td>317</td>
 		<td>319</td>
-		<td>319</td>
-		<td></td>
+		<td>321</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -784,8 +784,8 @@
 		<td>278</td>
 		<td>278</td>
 		<td>280</td>
-		<td>280</td>
-		<td></td>
+		<td>282</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -927,8 +927,8 @@
 		<td>37</td>
 		<td>38</td>
 		<td>38</td>
-		<td>40</td>
-		<td>+ 2</td>
+		<td>42</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
