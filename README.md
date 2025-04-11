@@ -219,8 +219,8 @@
 		<td>377</td>
 		<td>377</td>
 		<td>379</td>
-		<td>379</td>
-		<td></td>
+		<td>381</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -623,6 +623,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>374</td>
+		<td>377</td>
+		<td>377</td>
+		<td>377</td>
+		<td>377</td>
+		<td>379</td>
+		<td>381</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>376</td>
 		<td>379</td>
@@ -632,17 +643,6 @@
 		<td>379</td>
 		<td>380</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>374</td>
-		<td>377</td>
-		<td>377</td>
-		<td>377</td>
-		<td>377</td>
-		<td>379</td>
-		<td>379</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
