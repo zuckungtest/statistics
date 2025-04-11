@@ -32,8 +32,8 @@
 		<td>379</td>
 		<td>379</td>
 		<td>379</td>
-		<td>379</td>
-		<td></td>
+		<td>380</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>158</td>
 		<td>161</td>
 		<td>163</td>
-		<td>163</td>
-		<td></td>
+		<td>164</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -329,8 +329,8 @@
 		<td>500</td>
 		<td>500</td>
 		<td>502</td>
-		<td>502</td>
-		<td></td>
+		<td>503</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -542,8 +542,8 @@
 		<td>500</td>
 		<td>500</td>
 		<td>502</td>
-		<td>502</td>
-		<td></td>
+		<td>503</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -623,23 +623,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>jump.gates</td>
-		<td>374</td>
-		<td>377</td>
-		<td>377</td>
-		<td>377</td>
-		<td>377</td>
-		<td>379</td>
-		<td>379</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>376</td>
 		<td>379</td>
 		<td>379</td>
 		<td>379</td>
 		<td>379</td>
+		<td>379</td>
+		<td>380</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
+		<td>jump.gates</td>
+		<td>374</td>
+		<td>377</td>
+		<td>377</td>
+		<td>377</td>
+		<td>377</td>
 		<td>379</td>
 		<td>379</td>
 		<td></td>
@@ -905,8 +905,8 @@
 		<td>158</td>
 		<td>161</td>
 		<td>163</td>
-		<td>163</td>
-		<td></td>
+		<td>164</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
