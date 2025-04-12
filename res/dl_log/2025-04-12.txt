@@ -21,7 +21,7 @@ v1.0.6-expert.crew.members | downloads: 154
 v1.0.0-avgi.licenses | downloads: 164
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
-v1.1.7-captureable.person.ships | downloads: 132
+v1.1.7-captureable.person.ships | downloads: 134
 v1.0.8-uniques | downloads: 131
 v1.0.3-quarg.farm | downloads: 182
 v1.0.7-uniques | downloads: 5
@@ -193,7 +193,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 192
-# TOTAL DOWNLOADS: 14564
+# TOTAL DOWNLOADS: 14566
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -204,7 +204,7 @@ automata.in.human.space 324
 avgi.licenses 164
 better.starts 404
 bunrodea.missions 520
-captureable.person.ships 378
+captureable.person.ships 380
 coalition.shopping 432
 control.station 291
 devil-run.unhidden 66
