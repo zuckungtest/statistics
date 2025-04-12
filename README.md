@@ -351,8 +351,8 @@
 		<td>271</td>
 		<td>271</td>
 		<td>271</td>
-		<td>273</td>
-		<td>+ 2</td>
+		<td>275</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -439,8 +439,8 @@
 		<td>514</td>
 		<td>518</td>
 		<td>520</td>
-		<td>522</td>
-		<td>+ 2</td>
+		<td>523</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>514</td>
 		<td>518</td>
 		<td>520</td>
-		<td>522</td>
-		<td>+ 2</td>
+		<td>523</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>outfits.weapon.slot</td>
+		<td>267</td>
+		<td>269</td>
+		<td>269</td>
+		<td>271</td>
+		<td>271</td>
+		<td>271</td>
+		<td>275</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>free.worlds.5.years.later</td>
 		<td>269</td>
 		<td>273</td>
@@ -830,17 +841,6 @@
 		<td>273</td>
 		<td>273</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>267</td>
-		<td>269</td>
-		<td>269</td>
-		<td>271</td>
-		<td>271</td>
-		<td>271</td>
-		<td>273</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
