@@ -87,8 +87,8 @@
 		<td>376</td>
 		<td>376</td>
 		<td>378</td>
-		<td>378</td>
-		<td></td>
+		<td>380</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -634,6 +634,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>374</td>
+		<td>376</td>
+		<td>376</td>
+		<td>376</td>
+		<td>376</td>
+		<td>378</td>
+		<td>380</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>379</td>
 		<td>379</td>
@@ -642,17 +653,6 @@
 		<td>379</td>
 		<td>380</td>
 		<td>380</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>374</td>
-		<td>376</td>
-		<td>376</td>
-		<td>376</td>
-		<td>376</td>
-		<td>378</td>
-		<td>378</td>
 		<td></td>
 	</tr>
 	<tr>
