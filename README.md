@@ -98,8 +98,8 @@
 		<td>426</td>
 		<td>428</td>
 		<td>430</td>
-		<td>430</td>
-		<td></td>
+		<td>432</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -608,8 +608,8 @@
 		<td>426</td>
 		<td>428</td>
 		<td>430</td>
-		<td>430</td>
-		<td></td>
+		<td>432</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
