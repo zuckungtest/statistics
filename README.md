@@ -21,8 +21,8 @@
 		<td>606</td>
 		<td>613</td>
 		<td>615</td>
-		<td>615</td>
-		<td></td>
+		<td>619</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>287</td>
 		<td>289</td>
 		<td>291</td>
-		<td>291</td>
-		<td></td>
+		<td>293</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -406,8 +406,8 @@
 		<td>361</td>
 		<td>361</td>
 		<td>361</td>
-		<td>361</td>
-		<td></td>
+		<td>363</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -498,8 +498,8 @@
 		<td>606</td>
 		<td>613</td>
 		<td>615</td>
-		<td>615</td>
-		<td></td>
+		<td>619</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -663,8 +663,8 @@
 		<td>361</td>
 		<td>361</td>
 		<td>361</td>
-		<td>361</td>
-		<td></td>
+		<td>363</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -762,8 +762,8 @@
 		<td>287</td>
 		<td>289</td>
 		<td>291</td>
-		<td>291</td>
-		<td></td>
+		<td>293</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
