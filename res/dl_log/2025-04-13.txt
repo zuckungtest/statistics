@@ -1,4 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
+v1.0.8-bunrodea.missions | downloads: 0
 v1.1.6-galactic.capital.investment | downloads: 64
 v1.0.19-additional.command.buttons.radial | downloads: 98
 v1.0.1-highrollers.ltd | downloads: 33
@@ -192,7 +193,7 @@ v1.0-additional.command.buttons | downloads: 1
 v1.1-galactic.capital.investment | downloads: 28
 
 
-# NUMBER OF RELEASES: 192
+# NUMBER OF RELEASES: 193
 # TOTAL DOWNLOADS: 14596
 
 
