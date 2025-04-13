@@ -142,8 +142,8 @@
 		<td>505</td>
 		<td>505</td>
 		<td>507</td>
-		<td>507</td>
-		<td></td>
+		<td>508</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -164,8 +164,8 @@
 		<td>623</td>
 		<td>626</td>
 		<td>626</td>
-		<td>626</td>
-		<td></td>
+		<td>627</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -175,8 +175,8 @@
 		<td>483</td>
 		<td>485</td>
 		<td>487</td>
-		<td>487</td>
-		<td></td>
+		<td>488</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -428,8 +428,8 @@
 		<td>273</td>
 		<td>273</td>
 		<td>273</td>
-		<td>273</td>
-		<td></td>
+		<td>275</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -439,8 +439,8 @@
 		<td>518</td>
 		<td>520</td>
 		<td>523</td>
-		<td>523</td>
-		<td></td>
+		<td>525</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>337</td>
 		<td>339</td>
 		<td>341</td>
-		<td>341</td>
-		<td></td>
+		<td>343</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>623</td>
 		<td>626</td>
 		<td>626</td>
-		<td>626</td>
-		<td></td>
+		<td>627</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>518</td>
 		<td>520</td>
 		<td>523</td>
-		<td>523</td>
-		<td></td>
+		<td>525</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>505</td>
 		<td>505</td>
 		<td>507</td>
-		<td>507</td>
-		<td></td>
+		<td>508</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -564,8 +564,8 @@
 		<td>483</td>
 		<td>485</td>
 		<td>487</td>
-		<td>487</td>
-		<td></td>
+		<td>488</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -689,6 +689,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>336</td>
+		<td>336</td>
+		<td>337</td>
+		<td>337</td>
+		<td>339</td>
+		<td>341</td>
+		<td>343</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>343</td>
 		<td>343</td>
@@ -697,17 +708,6 @@
 		<td>343</td>
 		<td>343</td>
 		<td>343</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>336</td>
-		<td>336</td>
-		<td>337</td>
-		<td>337</td>
-		<td>339</td>
-		<td>341</td>
-		<td>341</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>space.fauna</td>
+		<td>273</td>
+		<td>273</td>
+		<td>273</td>
+		<td>273</td>
+		<td>273</td>
+		<td>273</td>
+		<td>275</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>269</td>
 		<td>269</td>
@@ -829,17 +840,6 @@
 		<td>274</td>
 		<td>274</td>
 		<td>274</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>273</td>
-		<td>273</td>
-		<td>273</td>
-		<td>273</td>
-		<td>273</td>
-		<td>273</td>
-		<td>273</td>
 		<td></td>
 	</tr>
 	<tr>
