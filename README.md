@@ -230,8 +230,8 @@
 		<td>307</td>
 		<td>309</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>310</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -241,8 +241,8 @@
 		<td>471</td>
 		<td>474</td>
 		<td>474</td>
-		<td>474</td>
-		<td></td>
+		<td>476</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>452</td>
 		<td>454</td>
 		<td>454</td>
-		<td>454</td>
-		<td></td>
+		<td>456</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -329,8 +329,8 @@
 		<td>502</td>
 		<td>505</td>
 		<td>505</td>
-		<td>505</td>
-		<td></td>
+		<td>507</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -362,8 +362,8 @@
 		<td>319</td>
 		<td>321</td>
 		<td>321</td>
-		<td>321</td>
-		<td></td>
+		<td>323</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -395,8 +395,8 @@
 		<td>493</td>
 		<td>493</td>
 		<td>493</td>
-		<td>493</td>
-		<td></td>
+		<td>495</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -542,8 +542,8 @@
 		<td>502</td>
 		<td>505</td>
 		<td>505</td>
-		<td>505</td>
-		<td></td>
+		<td>507</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -553,8 +553,8 @@
 		<td>493</td>
 		<td>493</td>
 		<td>493</td>
-		<td>493</td>
-		<td></td>
+		<td>495</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>471</td>
 		<td>474</td>
 		<td>474</td>
-		<td>474</td>
-		<td></td>
+		<td>476</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>452</td>
 		<td>454</td>
 		<td>454</td>
-		<td>454</td>
-		<td></td>
+		<td>456</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -729,8 +729,8 @@
 		<td>319</td>
 		<td>321</td>
 		<td>321</td>
-		<td>321</td>
-		<td></td>
+		<td>323</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -751,8 +751,8 @@
 		<td>307</td>
 		<td>309</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>310</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
