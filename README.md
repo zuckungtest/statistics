@@ -285,8 +285,8 @@
 		<td>208</td>
 		<td>211</td>
 		<td>213</td>
-		<td>213</td>
-		<td></td>
+		<td>215</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -872,8 +872,8 @@
 		<td>208</td>
 		<td>211</td>
 		<td>213</td>
-		<td>213</td>
-		<td></td>
+		<td>215</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
