@@ -32,8 +32,8 @@
 		<td>380</td>
 		<td>380</td>
 		<td>382</td>
-		<td>382</td>
-		<td></td>
+		<td>384</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>324</td>
 		<td>324</td>
 		<td>326</td>
-		<td>326</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -76,8 +76,8 @@
 		<td>518</td>
 		<td>520</td>
 		<td>524</td>
-		<td>524</td>
-		<td></td>
+		<td>526</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -520,8 +520,8 @@
 		<td>518</td>
 		<td>520</td>
 		<td>524</td>
-		<td>524</td>
-		<td></td>
+		<td>526</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -634,22 +634,22 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>captureable.person.ships</td>
-		<td>376</td>
-		<td>376</td>
-		<td>376</td>
-		<td>378</td>
-		<td>380</td>
-		<td>382</td>
-		<td>382</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>379</td>
 		<td>379</td>
 		<td>379</td>
 		<td>380</td>
+		<td>380</td>
+		<td>382</td>
+		<td>384</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>captureable.person.ships</td>
+		<td>376</td>
+		<td>376</td>
+		<td>376</td>
+		<td>378</td>
 		<td>380</td>
 		<td>382</td>
 		<td>382</td>
@@ -718,8 +718,8 @@
 		<td>324</td>
 		<td>324</td>
 		<td>326</td>
-		<td>326</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
