@@ -43,8 +43,8 @@
 		<td>324</td>
 		<td>324</td>
 		<td>326</td>
-		<td>329</td>
-		<td>+ 3</td>
+		<td>331</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -718,8 +718,8 @@
 		<td>324</td>
 		<td>324</td>
 		<td>326</td>
-		<td>329</td>
-		<td>+ 3</td>
+		<td>331</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
