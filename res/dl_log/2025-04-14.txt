@@ -68,7 +68,7 @@ v1.0.2-quarg.farm | downloads: 190
 v1.0.2-landing.images.highres | downloads: 157
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
-v1.0.1-automata.in.human.space | downloads: 268
+v1.0.1-automata.in.human.space | downloads: 270
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -196,14 +196,14 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 195
-# TOTAL DOWNLOADS: 14731
+# TOTAL DOWNLOADS: 14733
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 622
 automata.destruction.0percent 385
-automata.in.human.space 329
+automata.in.human.space 331
 avgi.licenses 169
 better.starts 407
 bunrodea.missions 527
