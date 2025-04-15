@@ -329,8 +329,8 @@
 		<td>505</td>
 		<td>509</td>
 		<td>512</td>
-		<td>512</td>
-		<td></td>
+		<td>514</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -524,6 +524,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>navy.licenses</td>
+		<td>500</td>
+		<td>502</td>
+		<td>505</td>
+		<td>505</td>
+		<td>509</td>
+		<td>512</td>
+		<td>514</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>expert.crew.members</td>
 		<td>505</td>
 		<td>505</td>
@@ -532,17 +543,6 @@
 		<td>510</td>
 		<td>513</td>
 		<td>513</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>navy.licenses</td>
-		<td>500</td>
-		<td>502</td>
-		<td>505</td>
-		<td>505</td>
-		<td>509</td>
-		<td>512</td>
-		<td>512</td>
 		<td></td>
 	</tr>
 	<tr>
