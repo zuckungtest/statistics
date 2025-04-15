@@ -8,7 +8,7 @@ v1.0.1-highrollers.ltd | downloads: 36
 v1.0.3-gegno.pirates | downloads: 70
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 31
-v1.0.2-mission.helper | downloads: 159
+v1.0.2-mission.helper | downloads: 161
 v1.0.17-additional.command.buttons.radial | downloads: 21
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
@@ -196,7 +196,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 195
-# TOTAL DOWNLOADS: 14788
+# TOTAL DOWNLOADS: 14790
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -226,7 +226,7 @@ kor.efret.shipyard 481
 landing.images 324
 landing.images.android 280
 landing.images.highres 225
-mission.helper 222
+mission.helper 224
 more.arfectas 461
 more.boarding.missions 467
 more.person.ships 347
