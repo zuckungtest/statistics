@@ -1,35 +1,35 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-planet.map | downloads: 1
 v1.0.8-bunrodea.missions | downloads: 9
-v1.0.7-expert.crew.members | downloads: 4
-v1.1.6-galactic.capital.investment | downloads: 67
-v1.0.19-additional.command.buttons.radial | downloads: 103
-v1.0.1-highrollers.ltd | downloads: 36
+v1.0.7-expert.crew.members | downloads: 6
+v1.1.6-galactic.capital.investment | downloads: 69
+v1.0.19-additional.command.buttons.radial | downloads: 105
+v1.0.1-highrollers.ltd | downloads: 38
 v1.0.3-gegno.pirates | downloads: 70
 v1.0.0-highrollers.ltd | downloads: 11
-v1.0.18-additional.command.buttons.radial | downloads: 31
-v1.0.2-mission.helper | downloads: 161
-v1.0.17-additional.command.buttons.radial | downloads: 21
+v1.0.18-additional.command.buttons.radial | downloads: 32
+v1.0.2-mission.helper | downloads: 163
+v1.0.17-additional.command.buttons.radial | downloads: 22
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 25
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 135
 v1.0.7-bunrodea.missions | downloads: 141
-v1.0.5-human.labels | downloads: 75
-v1.1.4-more.boarding.missions | downloads: 147
+v1.0.5-human.labels | downloads: 77
+v1.1.4-more.boarding.missions | downloads: 151
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 117
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
-v1.0.0-avgi.licenses | downloads: 173
+v1.0.0-avgi.licenses | downloads: 175
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 137
-v1.0.8-uniques | downloads: 138
+v1.0.8-uniques | downloads: 140
 v1.0.3-quarg.farm | downloads: 193
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 197
-v1.0.3-show.reputation | downloads: 119
+v1.0.3-show.reputation | downloads: 121
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 192
 v1.0.5-bunrodea.missions | downloads: 120
@@ -43,7 +43,7 @@ v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
-v1.0.3-navy.licenses | downloads: 302
+v1.0.3-navy.licenses | downloads: 304
 v1.0.6-coalition.shopping | downloads: 243
 v1.0.5-snowfeather.robotics | downloads: 189
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -77,14 +77,14 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 277
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 235
-v1.0.1-paint.your.ships | downloads: 322
+v1.0.1-paint.your.ships | downloads: 324
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
 v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
-v1.0.0-outfits.weapon.slot | downloads: 280
+v1.0.0-outfits.weapon.slot | downloads: 284
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
@@ -196,15 +196,15 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 195
-# TOTAL DOWNLOADS: 14794
+# TOTAL DOWNLOADS: 14826
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 624
+additional.command.buttons.radial 628
 automata.destruction.0percent 388
 automata.in.human.space 331
-avgi.licenses 173
+avgi.licenses 175
 better.starts 407
 bunrodea.missions 529
 captureable.person.ships 383
@@ -213,36 +213,36 @@ control.station 296
 devil-run.unhidden 66
 disable.person.ships 184
 disable.spaceport.repeatables 279
-expert.crew.members 513
+expert.crew.members 515
 free.worlds.5.years.later 277
-galactic.capital.investment 630
+galactic.capital.investment 632
 gegno.pirates 495
 hai.side.mission.unlocker 352
-highrollers.ltd 47
-human.labels 289
+highrollers.ltd 49
+human.labels 291
 jump.gates 388
 kestrel.unlocks 315
 kor.efret.shipyard 481
 landing.images 324
 landing.images.android 280
 landing.images.highres 225
-mission.helper 224
+mission.helper 226
 more.arfectas 461
-more.boarding.missions 467
+more.boarding.missions 471
 more.person.ships 347
-navy.licenses 514
+navy.licenses 516
 no.more.mereti.mines 291
-outfits.weapon.slot 280
-paint.your.ships 326
+outfits.weapon.slot 284
+paint.your.ships 328
 pirate.warlords 3
 planet.map 214
 planet.pluto 116
 quarg.farm 504
 real.fluff 93
-show.reputation 368
+show.reputation 370
 snowfeather.robotics 348
 space.fauna 278
 too.many.asteroids 528
 tribute.republic 234
 unique.fix 44
-uniques 348
+uniques 350
