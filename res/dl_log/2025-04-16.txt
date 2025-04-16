@@ -1,9 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.9-uniques | downloads: 1
+v1.0.9-uniques | downloads: 3
 v1.0.3-planet.map | downloads: 2
 v1.0.8-bunrodea.missions | downloads: 10
 v1.0.7-expert.crew.members | downloads: 9
-v1.1.6-galactic.capital.investment | downloads: 74
+v1.1.6-galactic.capital.investment | downloads: 76
 v1.0.19-additional.command.buttons.radial | downloads: 106
 v1.0.1-highrollers.ltd | downloads: 43
 v1.0.3-gegno.pirates | downloads: 71
@@ -29,10 +29,10 @@ v1.1.7-captureable.person.ships | downloads: 138
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 194
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 198
+v1.0.4-too.many.asteroids | downloads: 200
 v1.0.3-show.reputation | downloads: 126
 v1.0.13-additional.command.buttons.radial | downloads: 93
-v1.0.4-better.starts | downloads: 195
+v1.0.4-better.starts | downloads: 197
 v1.0.5-bunrodea.missions | downloads: 120
 v1.0.2-planet.pluto | downloads: 94
 v1.0.2-planet.map | downloads: 80
@@ -133,7 +133,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 388
+v1.0.1-automata.destruction.0percent | downloads: 390
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -197,16 +197,16 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 196
-# TOTAL DOWNLOADS: 14913
+# TOTAL DOWNLOADS: 14923
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 629
-automata.destruction.0percent 389
+automata.destruction.0percent 391
 automata.in.human.space 332
 avgi.licenses 176
-better.starts 410
+better.starts 412
 bunrodea.missions 530
 captureable.person.ships 384
 coalition.shopping 438
@@ -216,7 +216,7 @@ disable.person.ships 185
 disable.spaceport.repeatables 280
 expert.crew.members 518
 free.worlds.5.years.later 278
-galactic.capital.investment 637
+galactic.capital.investment 639
 gegno.pirates 496
 hai.side.mission.unlocker 355
 highrollers.ltd 54
@@ -243,7 +243,7 @@ real.fluff 93
 show.reputation 375
 snowfeather.robotics 351
 space.fauna 279
-too.many.asteroids 529
+too.many.asteroids 531
 tribute.republic 237
 unique.fix 44
-uniques 353
+uniques 355
