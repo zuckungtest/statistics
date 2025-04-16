@@ -142,8 +142,8 @@
 		<td>510</td>
 		<td>513</td>
 		<td>517</td>
-		<td>518</td>
-		<td>+ 1</td>
+		<td>520</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -461,8 +461,8 @@
 		<td>345</td>
 		<td>348</td>
 		<td>352</td>
-		<td>355</td>
-		<td>+ 3</td>
+		<td>357</td>
+		<td>+ 5</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>510</td>
 		<td>513</td>
 		<td>517</td>
-		<td>518</td>
-		<td>+ 1</td>
+		<td>520</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -674,8 +674,8 @@
 		<td>345</td>
 		<td>348</td>
 		<td>352</td>
-		<td>355</td>
-		<td>+ 3</td>
+		<td>357</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
