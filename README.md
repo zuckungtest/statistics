@@ -32,8 +32,8 @@
 		<td>382</td>
 		<td>388</td>
 		<td>388</td>
-		<td>389</td>
-		<td>+ 1</td>
+		<td>391</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -65,8 +65,8 @@
 		<td>406</td>
 		<td>407</td>
 		<td>407</td>
-		<td>410</td>
-		<td>+ 3</td>
+		<td>412</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -164,8 +164,8 @@
 		<td>629</td>
 		<td>630</td>
 		<td>636</td>
-		<td>637</td>
-		<td>+ 1</td>
+		<td>639</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -439,8 +439,8 @@
 		<td>527</td>
 		<td>528</td>
 		<td>528</td>
-		<td>529</td>
-		<td>+ 1</td>
+		<td>531</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>345</td>
 		<td>348</td>
 		<td>352</td>
-		<td>353</td>
-		<td>+ 1</td>
+		<td>355</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>629</td>
 		<td>630</td>
 		<td>636</td>
-		<td>637</td>
-		<td>+ 1</td>
+		<td>639</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -502,6 +502,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>518</td>
+		<td>520</td>
+		<td>523</td>
+		<td>527</td>
+		<td>528</td>
+		<td>528</td>
+		<td>531</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>518</td>
 		<td>518</td>
@@ -510,17 +521,6 @@
 		<td>529</td>
 		<td>529</td>
 		<td>530</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>518</td>
-		<td>520</td>
-		<td>523</td>
-		<td>527</td>
-		<td>528</td>
-		<td>528</td>
-		<td>529</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
@@ -619,8 +619,8 @@
 		<td>406</td>
 		<td>407</td>
 		<td>407</td>
-		<td>410</td>
-		<td>+ 3</td>
+		<td>412</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -641,8 +641,8 @@
 		<td>382</td>
 		<td>388</td>
 		<td>388</td>
-		<td>389</td>
-		<td>+ 1</td>
+		<td>391</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -667,6 +667,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>337</td>
+		<td>339</td>
+		<td>341</td>
+		<td>345</td>
+		<td>348</td>
+		<td>352</td>
+		<td>355</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>347</td>
 		<td>349</td>
@@ -676,17 +687,6 @@
 		<td>352</td>
 		<td>355</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>337</td>
-		<td>339</td>
-		<td>341</td>
-		<td>345</td>
-		<td>348</td>
-		<td>352</td>
-		<td>353</td>
-		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
