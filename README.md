@@ -142,8 +142,8 @@
 		<td>513</td>
 		<td>517</td>
 		<td>520</td>
-		<td>522</td>
-		<td>+ 2</td>
+		<td>524</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -153,8 +153,8 @@
 		<td>277</td>
 		<td>277</td>
 		<td>278</td>
-		<td>280</td>
-		<td>+ 2</td>
+		<td>282</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -175,8 +175,8 @@
 		<td>495</td>
 		<td>495</td>
 		<td>496</td>
-		<td>498</td>
-		<td>+ 2</td>
+		<td>500</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -461,8 +461,8 @@
 		<td>348</td>
 		<td>352</td>
 		<td>357</td>
-		<td>359</td>
-		<td>+ 2</td>
+		<td>361</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -524,6 +524,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>505</td>
+		<td>507</td>
+		<td>510</td>
+		<td>513</td>
+		<td>517</td>
+		<td>520</td>
+		<td>524</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>navy.licenses</td>
 		<td>505</td>
 		<td>505</td>
@@ -532,17 +543,6 @@
 		<td>520</td>
 		<td>521</td>
 		<td>523</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>expert.crew.members</td>
-		<td>505</td>
-		<td>507</td>
-		<td>510</td>
-		<td>513</td>
-		<td>517</td>
-		<td>520</td>
-		<td>522</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -564,8 +564,8 @@
 		<td>495</td>
 		<td>495</td>
 		<td>496</td>
-		<td>498</td>
-		<td>+ 2</td>
+		<td>500</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -674,8 +674,8 @@
 		<td>348</td>
 		<td>352</td>
 		<td>357</td>
-		<td>359</td>
-		<td>+ 2</td>
+		<td>361</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -810,6 +810,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>free.worlds.5.years.later</td>
+		<td>274</td>
+		<td>274</td>
+		<td>276</td>
+		<td>277</td>
+		<td>277</td>
+		<td>278</td>
+		<td>282</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>274</td>
 		<td>274</td>
@@ -829,17 +840,6 @@
 		<td>278</td>
 		<td>279</td>
 		<td>281</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>free.worlds.5.years.later</td>
-		<td>274</td>
-		<td>274</td>
-		<td>276</td>
-		<td>277</td>
-		<td>277</td>
-		<td>278</td>
-		<td>280</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
