@@ -30,7 +30,7 @@ v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 194
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 200
-v1.0.3-show.reputation | downloads: 126
+v1.0.3-show.reputation | downloads: 128
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 197
 v1.0.5-bunrodea.missions | downloads: 120
@@ -197,7 +197,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 196
-# TOTAL DOWNLOADS: 14927
+# TOTAL DOWNLOADS: 14929
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -240,7 +240,7 @@ planet.map 215
 planet.pluto 117
 quarg.farm 505
 real.fluff 93
-show.reputation 375
+show.reputation 377
 snowfeather.robotics 351
 space.fauna 279
 too.many.asteroids 531
