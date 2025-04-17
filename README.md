@@ -32,8 +32,8 @@
 		<td>388</td>
 		<td>388</td>
 		<td>391</td>
-		<td>394</td>
-		<td>+ 3</td>
+		<td>395</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -623,21 +623,21 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
-		<td>jump.gates</td>
-		<td>383</td>
-		<td>383</td>
-		<td>385</td>
-		<td>388</td>
-		<td>388</td>
-		<td>391</td>
-		<td>394</td>
-		<td>+ 3</td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>380</td>
 		<td>380</td>
 		<td>382</td>
+		<td>388</td>
+		<td>388</td>
+		<td>391</td>
+		<td>395</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>jump.gates</td>
+		<td>383</td>
+		<td>383</td>
+		<td>385</td>
 		<td>388</td>
 		<td>388</td>
 		<td>391</td>
