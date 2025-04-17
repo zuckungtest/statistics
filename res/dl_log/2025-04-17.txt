@@ -1,12 +1,12 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.9-uniques | downloads: 7
+v1.0.9-uniques | downloads: 9
 v1.0.3-planet.map | downloads: 4
 v1.0.8-bunrodea.missions | downloads: 12
-v1.0.7-expert.crew.members | downloads: 13
+v1.0.7-expert.crew.members | downloads: 15
 v1.1.6-galactic.capital.investment | downloads: 78
 v1.0.19-additional.command.buttons.radial | downloads: 108
 v1.0.1-highrollers.ltd | downloads: 45
-v1.0.3-gegno.pirates | downloads: 73
+v1.0.3-gegno.pirates | downloads: 75
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 168
@@ -183,7 +183,7 @@ v1.0-more.boarding.missions | downloads: 4
 v1.0-more.arfectas | downloads: 1
 v1.0-kor.efret.shipyard | downloads: 155
 v1.0-gegno.pirates | downloads: 1
-v1.0-free.worlds.5.years.later | downloads: 280
+v1.0-free.worlds.5.years.later | downloads: 282
 v1.0-expert.crew.members | downloads: 4
 v1.0-disable.person.ships | downloads: 187
 v1.0-devil-run.unhidden | downloads: 1
@@ -197,7 +197,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 196
-# TOTAL DOWNLOADS: 15011
+# TOTAL DOWNLOADS: 15019
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -214,10 +214,10 @@ control.station 299
 devil-run.unhidden 66
 disable.person.ships 187
 disable.spaceport.repeatables 282
-expert.crew.members 522
-free.worlds.5.years.later 280
+expert.crew.members 524
+free.worlds.5.years.later 282
 galactic.capital.investment 641
-gegno.pirates 498
+gegno.pirates 500
 hai.side.mission.unlocker 357
 highrollers.ltd 56
 human.labels 296
@@ -246,4 +246,4 @@ space.fauna 281
 too.many.asteroids 533
 tribute.republic 239
 unique.fix 44
-uniques 359
+uniques 361
