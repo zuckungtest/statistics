@@ -153,8 +153,8 @@
 		<td>277</td>
 		<td>278</td>
 		<td>283</td>
-		<td>284</td>
-		<td>+ 1</td>
+		<td>286</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -307,8 +307,8 @@
 		<td>473</td>
 		<td>476</td>
 		<td>479</td>
-		<td>480</td>
-		<td>+ 1</td>
+		<td>482</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -586,8 +586,8 @@
 		<td>473</td>
 		<td>476</td>
 		<td>479</td>
-		<td>480</td>
-		<td>+ 1</td>
+		<td>482</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -799,6 +799,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>free.worlds.5.years.later</td>
+		<td>274</td>
+		<td>276</td>
+		<td>277</td>
+		<td>277</td>
+		<td>278</td>
+		<td>283</td>
+		<td>286</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>landing.images.android</td>
 		<td>277</td>
 		<td>279</td>
@@ -807,17 +818,6 @@
 		<td>281</td>
 		<td>284</td>
 		<td>285</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>free.worlds.5.years.later</td>
-		<td>274</td>
-		<td>276</td>
-		<td>277</td>
-		<td>277</td>
-		<td>278</td>
-		<td>283</td>
-		<td>284</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
