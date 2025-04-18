@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-quarg.farm | downloads: 5
+v1.0.4-quarg.farm | downloads: 7
 v1.0.9-uniques | downloads: 11
 v1.0.3-planet.map | downloads: 6
 v1.0.8-bunrodea.missions | downloads: 16
@@ -198,7 +198,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 197
-# TOTAL DOWNLOADS: 15129
+# TOTAL DOWNLOADS: 15131
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -239,7 +239,7 @@ paint.your.ships 337
 pirate.warlords 3
 planet.map 219
 planet.pluto 121
-quarg.farm 513
+quarg.farm 515
 real.fluff 93
 show.reputation 381
 snowfeather.robotics 355
