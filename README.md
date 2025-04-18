@@ -76,8 +76,8 @@
 		<td>529</td>
 		<td>530</td>
 		<td>533</td>
-		<td>534</td>
-		<td>+ 1</td>
+		<td>536</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>437</td>
 		<td>438</td>
 		<td>441</td>
-		<td>442</td>
-		<td>+ 1</td>
+		<td>444</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -164,8 +164,8 @@
 		<td>636</td>
 		<td>639</td>
 		<td>642</td>
-		<td>643</td>
-		<td>+ 1</td>
+		<td>645</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -175,8 +175,8 @@
 		<td>495</td>
 		<td>496</td>
 		<td>501</td>
-		<td>502</td>
-		<td>+ 1</td>
+		<td>504</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -197,8 +197,8 @@
 		<td>53</td>
 		<td>54</td>
 		<td>57</td>
-		<td>60</td>
-		<td>+ 3</td>
+		<td>62</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -487,8 +487,8 @@
 		<td>636</td>
 		<td>639</td>
 		<td>642</td>
-		<td>643</td>
-		<td>+ 1</td>
+		<td>645</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -502,6 +502,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>bunrodea.missions</td>
+		<td>520</td>
+		<td>524</td>
+		<td>529</td>
+		<td>529</td>
+		<td>530</td>
+		<td>533</td>
+		<td>536</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>523</td>
 		<td>527</td>
@@ -510,17 +521,6 @@
 		<td>531</td>
 		<td>534</td>
 		<td>535</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>bunrodea.missions</td>
-		<td>520</td>
-		<td>524</td>
-		<td>529</td>
-		<td>529</td>
-		<td>530</td>
-		<td>533</td>
-		<td>534</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
@@ -564,8 +564,8 @@
 		<td>495</td>
 		<td>496</td>
 		<td>501</td>
-		<td>502</td>
-		<td>+ 1</td>
+		<td>504</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -608,8 +608,8 @@
 		<td>437</td>
 		<td>438</td>
 		<td>441</td>
-		<td>442</td>
-		<td>+ 1</td>
+		<td>444</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -927,8 +927,8 @@
 		<td>53</td>
 		<td>54</td>
 		<td>57</td>
-		<td>60</td>
-		<td>+ 3</td>
+		<td>62</td>
+		<td>+ 5</td>
 	</tr>
 </table>
 </sub></sup>
