@@ -417,8 +417,8 @@
 		<td>348</td>
 		<td>351</td>
 		<td>354</td>
-		<td>355</td>
-		<td>+ 1</td>
+		<td>357</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -439,8 +439,8 @@
 		<td>528</td>
 		<td>531</td>
 		<td>534</td>
-		<td>535</td>
-		<td>+ 1</td>
+		<td>537</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -502,6 +502,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>523</td>
+		<td>527</td>
+		<td>528</td>
+		<td>528</td>
+		<td>531</td>
+		<td>534</td>
+		<td>537</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>520</td>
 		<td>524</td>
@@ -511,17 +522,6 @@
 		<td>533</td>
 		<td>536</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>523</td>
-		<td>527</td>
-		<td>528</td>
-		<td>528</td>
-		<td>531</td>
-		<td>534</td>
-		<td>535</td>
-		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -696,8 +696,8 @@
 		<td>348</td>
 		<td>351</td>
 		<td>354</td>
-		<td>355</td>
-		<td>+ 1</td>
+		<td>357</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
