@@ -5,7 +5,7 @@ v1.0.8-bunrodea.missions | downloads: 13
 v1.0.7-expert.crew.members | downloads: 16
 v1.1.6-galactic.capital.investment | downloads: 79
 v1.0.19-additional.command.buttons.radial | downloads: 111
-v1.0.1-highrollers.ltd | downloads: 46
+v1.0.1-highrollers.ltd | downloads: 48
 v1.0.3-gegno.pirates | downloads: 76
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
@@ -197,7 +197,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 196
-# TOTAL DOWNLOADS: 15068
+# TOTAL DOWNLOADS: 15070
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -219,7 +219,7 @@ free.worlds.5.years.later 283
 galactic.capital.investment 642
 gegno.pirates 501
 hai.side.mission.unlocker 358
-highrollers.ltd 57
+highrollers.ltd 59
 human.labels 297
 jump.gates 394
 kestrel.unlocks 319
