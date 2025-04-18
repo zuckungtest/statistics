@@ -285,8 +285,8 @@
 		<td>228</td>
 		<td>229</td>
 		<td>232</td>
-		<td>232</td>
-		<td></td>
+		<td>233</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -861,8 +861,8 @@
 		<td>228</td>
 		<td>229</td>
 		<td>232</td>
-		<td>232</td>
-		<td></td>
+		<td>233</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
