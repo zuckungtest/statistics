@@ -186,8 +186,8 @@
 		<td>355</td>
 		<td>358</td>
 		<td>359</td>
-		<td>361</td>
-		<td>+ 2</td>
+		<td>363</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -219,8 +219,8 @@
 		<td>391</td>
 		<td>394</td>
 		<td>395</td>
-		<td>397</td>
-		<td>+ 2</td>
+		<td>399</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -285,8 +285,8 @@
 		<td>229</td>
 		<td>232</td>
 		<td>234</td>
-		<td>236</td>
-		<td>+ 2</td>
+		<td>239</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -296,8 +296,8 @@
 		<td>462</td>
 		<td>465</td>
 		<td>468</td>
-		<td>470</td>
-		<td>+ 2</td>
+		<td>472</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -307,8 +307,8 @@
 		<td>476</td>
 		<td>479</td>
 		<td>482</td>
-		<td>484</td>
-		<td>+ 2</td>
+		<td>486</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -406,8 +406,8 @@
 		<td>375</td>
 		<td>380</td>
 		<td>381</td>
-		<td>383</td>
-		<td>+ 2</td>
+		<td>385</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -586,8 +586,8 @@
 		<td>476</td>
 		<td>479</td>
 		<td>482</td>
-		<td>484</td>
-		<td>+ 2</td>
+		<td>486</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -597,8 +597,8 @@
 		<td>462</td>
 		<td>465</td>
 		<td>468</td>
-		<td>470</td>
-		<td>+ 2</td>
+		<td>472</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -623,6 +623,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>385</td>
+		<td>388</td>
+		<td>388</td>
+		<td>391</td>
+		<td>394</td>
+		<td>395</td>
+		<td>399</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>382</td>
 		<td>388</td>
@@ -631,17 +642,6 @@
 		<td>395</td>
 		<td>396</td>
 		<td>398</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>385</td>
-		<td>388</td>
-		<td>388</td>
-		<td>391</td>
-		<td>394</td>
-		<td>395</td>
-		<td>397</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -663,8 +663,8 @@
 		<td>375</td>
 		<td>380</td>
 		<td>381</td>
-		<td>383</td>
-		<td>+ 2</td>
+		<td>385</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -685,8 +685,8 @@
 		<td>355</td>
 		<td>358</td>
 		<td>359</td>
-		<td>361</td>
-		<td>+ 2</td>
+		<td>363</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -861,8 +861,8 @@
 		<td>229</td>
 		<td>232</td>
 		<td>234</td>
-		<td>236</td>
-		<td>+ 2</td>
+		<td>239</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
