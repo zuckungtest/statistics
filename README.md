@@ -32,8 +32,8 @@
 		<td>391</td>
 		<td>395</td>
 		<td>396</td>
-		<td>396</td>
-		<td></td>
+		<td>398</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -623,6 +623,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>382</td>
+		<td>388</td>
+		<td>388</td>
+		<td>391</td>
+		<td>395</td>
+		<td>396</td>
+		<td>398</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>385</td>
 		<td>388</td>
@@ -632,17 +643,6 @@
 		<td>395</td>
 		<td>397</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>382</td>
-		<td>388</td>
-		<td>388</td>
-		<td>391</td>
-		<td>395</td>
-		<td>396</td>
-		<td>396</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
