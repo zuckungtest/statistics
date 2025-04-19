@@ -142,8 +142,8 @@
 		<td>520</td>
 		<td>525</td>
 		<td>526</td>
-		<td>528</td>
-		<td>+ 2</td>
+		<td>530</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -531,8 +531,8 @@
 		<td>520</td>
 		<td>525</td>
 		<td>526</td>
-		<td>528</td>
-		<td>+ 2</td>
+		<td>530</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
