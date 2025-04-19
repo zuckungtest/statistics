@@ -1,11 +1,11 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.4-quarg.farm | downloads: 8
-v1.0.9-uniques | downloads: 13
+v1.0.9-uniques | downloads: 15
 v1.0.3-planet.map | downloads: 6
 v1.0.8-bunrodea.missions | downloads: 16
-v1.0.7-expert.crew.members | downloads: 21
+v1.0.7-expert.crew.members | downloads: 23
 v1.1.6-galactic.capital.investment | downloads: 84
-v1.0.19-additional.command.buttons.radial | downloads: 112
+v1.0.19-additional.command.buttons.radial | downloads: 115
 v1.0.1-highrollers.ltd | downloads: 53
 v1.0.3-gegno.pirates | downloads: 81
 v1.0.0-highrollers.ltd | downloads: 11
@@ -86,7 +86,7 @@ v1.0.1-uniques | downloads: 14
 v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
-v1.0.0-outfits.weapon.slot | downloads: 293
+v1.0.0-outfits.weapon.slot | downloads: 297
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
@@ -198,12 +198,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 197
-# TOTAL DOWNLOADS: 15193
+# TOTAL DOWNLOADS: 15204
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 635
+additional.command.buttons.radial 638
 automata.destruction.0percent 398
 automata.in.human.space 338
 avgi.licenses 180
@@ -215,7 +215,7 @@ control.station 303
 devil-run.unhidden 66
 disable.person.ships 189
 disable.spaceport.repeatables 284
-expert.crew.members 530
+expert.crew.members 532
 free.worlds.5.years.later 286
 galactic.capital.investment 647
 gegno.pirates 506
@@ -234,7 +234,7 @@ more.boarding.missions 486
 more.person.ships 352
 navy.licenses 527
 no.more.mereti.mines 298
-outfits.weapon.slot 293
+outfits.weapon.slot 297
 paint.your.ships 337
 pirate.warlords 3
 planet.map 219
@@ -247,4 +247,4 @@ space.fauna 283
 too.many.asteroids 539
 tribute.republic 243
 unique.fix 44
-uniques 365
+uniques 367
