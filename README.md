@@ -21,8 +21,8 @@
 		<td>629</td>
 		<td>632</td>
 		<td>635</td>
-		<td>635</td>
-		<td></td>
+		<td>638</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -142,8 +142,8 @@
 		<td>520</td>
 		<td>525</td>
 		<td>526</td>
-		<td>530</td>
-		<td>+ 4</td>
+		<td>532</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -351,8 +351,8 @@
 		<td>287</td>
 		<td>290</td>
 		<td>291</td>
-		<td>293</td>
-		<td>+ 2</td>
+		<td>297</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -461,8 +461,8 @@
 		<td>357</td>
 		<td>362</td>
 		<td>363</td>
-		<td>365</td>
-		<td>+ 2</td>
+		<td>367</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>629</td>
 		<td>632</td>
 		<td>635</td>
-		<td>635</td>
-		<td></td>
+		<td>638</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>520</td>
 		<td>525</td>
 		<td>526</td>
-		<td>530</td>
-		<td>+ 4</td>
+		<td>532</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -674,8 +674,8 @@
 		<td>357</td>
 		<td>362</td>
 		<td>363</td>
-		<td>365</td>
-		<td>+ 2</td>
+		<td>367</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -795,8 +795,8 @@
 		<td>287</td>
 		<td>290</td>
 		<td>291</td>
-		<td>293</td>
-		<td>+ 2</td>
+		<td>297</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
