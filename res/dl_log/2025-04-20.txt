@@ -76,7 +76,7 @@ v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
-v1.1.4-hai.side.mission.unlocker | downloads: 288
+v1.1.4-hai.side.mission.unlocker | downloads: 290
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 242
 v1.0.1-paint.your.ships | downloads: 333
@@ -198,7 +198,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 197
-# TOTAL DOWNLOADS: 15218
+# TOTAL DOWNLOADS: 15220
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -219,7 +219,7 @@ expert.crew.members 532
 free.worlds.5.years.later 286
 galactic.capital.investment 647
 gegno.pirates 506
-hai.side.mission.unlocker 363
+hai.side.mission.unlocker 365
 highrollers.ltd 64
 human.labels 298
 jump.gates 399
