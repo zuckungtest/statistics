@@ -263,8 +263,8 @@
 		<td>284</td>
 		<td>285</td>
 		<td>285</td>
-		<td>285</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -799,6 +799,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images.android</td>
+		<td>280</td>
+		<td>280</td>
+		<td>281</td>
+		<td>284</td>
+		<td>285</td>
+		<td>285</td>
+		<td>286</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>free.worlds.5.years.later</td>
 		<td>277</td>
 		<td>277</td>
@@ -807,17 +818,6 @@
 		<td>286</td>
 		<td>286</td>
 		<td>286</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images.android</td>
-		<td>280</td>
-		<td>280</td>
-		<td>281</td>
-		<td>284</td>
-		<td>285</td>
-		<td>285</td>
-		<td>285</td>
 		<td></td>
 	</tr>
 	<tr>
