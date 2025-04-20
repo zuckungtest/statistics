@@ -5,7 +5,7 @@ v1.0.3-planet.map | downloads: 6
 v1.0.8-bunrodea.missions | downloads: 18
 v1.0.7-expert.crew.members | downloads: 23
 v1.1.6-galactic.capital.investment | downloads: 84
-v1.0.19-additional.command.buttons.radial | downloads: 115
+v1.0.19-additional.command.buttons.radial | downloads: 117
 v1.0.1-highrollers.ltd | downloads: 53
 v1.0.3-gegno.pirates | downloads: 81
 v1.0.0-highrollers.ltd | downloads: 11
@@ -198,12 +198,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 197
-# TOTAL DOWNLOADS: 15220
+# TOTAL DOWNLOADS: 15222
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 638
+additional.command.buttons.radial 640
 automata.destruction.0percent 398
 automata.in.human.space 338
 avgi.licenses 182
