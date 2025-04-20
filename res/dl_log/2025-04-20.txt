@@ -23,7 +23,7 @@ v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 130
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
-v1.0.0-avgi.licenses | downloads: 182
+v1.0.0-avgi.licenses | downloads: 184
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 144
@@ -45,7 +45,7 @@ v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
-v1.0.3-navy.licenses | downloads: 315
+v1.0.3-navy.licenses | downloads: 316
 v1.0.6-coalition.shopping | downloads: 250
 v1.0.5-snowfeather.robotics | downloads: 198
 v1.0.4-snowfeather.robotics | downloads: 3
@@ -198,7 +198,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 197
-# TOTAL DOWNLOADS: 15227
+# TOTAL DOWNLOADS: 15230
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -206,7 +206,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 642
 automata.destruction.0percent 398
 automata.in.human.space 338
-avgi.licenses 182
+avgi.licenses 184
 better.starts 416
 bunrodea.missions 538
 captureable.person.ships 390
@@ -232,7 +232,7 @@ mission.helper 241
 more.arfectas 474
 more.boarding.missions 486
 more.person.ships 352
-navy.licenses 527
+navy.licenses 528
 no.more.mereti.mines 298
 outfits.weapon.slot 299
 paint.your.ships 337
