@@ -54,8 +54,8 @@
 		<td>179</td>
 		<td>180</td>
 		<td>180</td>
-		<td>182</td>
-		<td>+ 2</td>
+		<td>184</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -329,8 +329,8 @@
 		<td>524</td>
 		<td>525</td>
 		<td>527</td>
-		<td>527</td>
-		<td></td>
+		<td>528</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -542,8 +542,8 @@
 		<td>524</td>
 		<td>525</td>
 		<td>527</td>
-		<td>527</td>
-		<td></td>
+		<td>528</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -905,8 +905,8 @@
 		<td>179</td>
 		<td>180</td>
 		<td>180</td>
-		<td>182</td>
-		<td>+ 2</td>
+		<td>184</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
