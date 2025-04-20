@@ -186,8 +186,8 @@
 		<td>358</td>
 		<td>359</td>
 		<td>363</td>
-		<td>363</td>
-		<td></td>
+		<td>365</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -685,8 +685,8 @@
 		<td>358</td>
 		<td>359</td>
 		<td>363</td>
-		<td>363</td>
-		<td></td>
+		<td>365</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
