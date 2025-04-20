@@ -219,8 +219,8 @@
 		<td>394</td>
 		<td>395</td>
 		<td>399</td>
-		<td>399</td>
-		<td></td>
+		<td>401</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -630,8 +630,8 @@
 		<td>394</td>
 		<td>395</td>
 		<td>399</td>
-		<td>399</td>
-		<td></td>
+		<td>401</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
