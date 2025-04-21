@@ -3,7 +3,7 @@ v1.0.20-additional.command.buttons.radial | downloads: 1
 v1.0.4-quarg.farm | downloads: 9
 v1.0.9-uniques | downloads: 16
 v1.0.3-planet.map | downloads: 7
-v1.0.8-bunrodea.missions | downloads: 19
+v1.0.8-bunrodea.missions | downloads: 21
 v1.0.7-expert.crew.members | downloads: 24
 v1.1.6-galactic.capital.investment | downloads: 85
 v1.0.19-additional.command.buttons.radial | downloads: 119
@@ -50,7 +50,7 @@ v1.0.3-navy.licenses | downloads: 317
 v1.0.6-coalition.shopping | downloads: 251
 v1.0.5-snowfeather.robotics | downloads: 199
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 323
+v1.0.2-kor.efret.shipyard | downloads: 325
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -199,7 +199,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 198
-# TOTAL DOWNLOADS: 15271
+# TOTAL DOWNLOADS: 15275
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -209,7 +209,7 @@ automata.destruction.0percent 399
 automata.in.human.space 339
 avgi.licenses 185
 better.starts 417
-bunrodea.missions 539
+bunrodea.missions 541
 captureable.person.ships 391
 coalition.shopping 445
 control.station 304
@@ -225,7 +225,7 @@ highrollers.ltd 65
 human.labels 299
 jump.gates 402
 kestrel.unlocks 325
-kor.efret.shipyard 493
+kor.efret.shipyard 495
 landing.images 330
 landing.images.android 287
 landing.images.highres 231
