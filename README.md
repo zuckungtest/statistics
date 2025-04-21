@@ -87,8 +87,8 @@
 		<td>388</td>
 		<td>390</td>
 		<td>390</td>
-		<td>393</td>
-		<td>+ 3</td>
+		<td>395</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -318,8 +318,8 @@
 		<td>352</td>
 		<td>352</td>
 		<td>352</td>
-		<td>353</td>
-		<td>+ 1</td>
+		<td>355</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -428,8 +428,8 @@
 		<td>283</td>
 		<td>283</td>
 		<td>283</td>
-		<td>284</td>
-		<td>+ 1</td>
+		<td>288</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -439,8 +439,8 @@
 		<td>537</td>
 		<td>539</td>
 		<td>539</td>
-		<td>540</td>
-		<td>+ 1</td>
+		<td>542</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -520,8 +520,8 @@
 		<td>537</td>
 		<td>539</td>
 		<td>539</td>
-		<td>540</td>
-		<td>+ 1</td>
+		<td>542</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -652,8 +652,8 @@
 		<td>388</td>
 		<td>390</td>
 		<td>390</td>
-		<td>393</td>
-		<td>+ 3</td>
+		<td>395</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -707,8 +707,8 @@
 		<td>352</td>
 		<td>352</td>
 		<td>352</td>
-		<td>353</td>
-		<td>+ 1</td>
+		<td>355</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -799,6 +799,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>space.fauna</td>
+		<td>278</td>
+		<td>279</td>
+		<td>282</td>
+		<td>283</td>
+		<td>283</td>
+		<td>283</td>
+		<td>288</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>landing.images.android</td>
 		<td>280</td>
 		<td>281</td>
@@ -829,17 +840,6 @@
 		<td>284</td>
 		<td>284</td>
 		<td>285</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>278</td>
-		<td>279</td>
-		<td>282</td>
-		<td>283</td>
-		<td>283</td>
-		<td>283</td>
-		<td>284</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
