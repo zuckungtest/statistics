@@ -76,8 +76,8 @@
 		<td>536</td>
 		<td>536</td>
 		<td>538</td>
-		<td>542</td>
-		<td>+ 4</td>
+		<td>544</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>388</td>
 		<td>390</td>
 		<td>390</td>
-		<td>391</td>
-		<td>+ 1</td>
+		<td>393</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -142,8 +142,8 @@
 		<td>526</td>
 		<td>532</td>
 		<td>532</td>
-		<td>533</td>
-		<td>+ 1</td>
+		<td>535</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>504</td>
 		<td>506</td>
 		<td>506</td>
-		<td>508</td>
-		<td>+ 2</td>
+		<td>510</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -285,8 +285,8 @@
 		<td>234</td>
 		<td>239</td>
 		<td>241</td>
-		<td>242</td>
-		<td>+ 1</td>
+		<td>244</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -362,8 +362,8 @@
 		<td>337</td>
 		<td>337</td>
 		<td>337</td>
-		<td>338</td>
-		<td>+ 1</td>
+		<td>340</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -509,8 +509,8 @@
 		<td>536</td>
 		<td>536</td>
 		<td>538</td>
-		<td>542</td>
-		<td>+ 4</td>
+		<td>544</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>526</td>
 		<td>532</td>
 		<td>532</td>
-		<td>533</td>
-		<td>+ 1</td>
+		<td>535</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -564,8 +564,8 @@
 		<td>504</td>
 		<td>506</td>
 		<td>506</td>
-		<td>508</td>
-		<td>+ 2</td>
+		<td>510</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -652,8 +652,8 @@
 		<td>388</td>
 		<td>390</td>
 		<td>390</td>
-		<td>391</td>
-		<td>+ 1</td>
+		<td>393</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -711,6 +711,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>330</td>
+		<td>333</td>
+		<td>336</td>
+		<td>337</td>
+		<td>337</td>
+		<td>337</td>
+		<td>340</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>331</td>
 		<td>332</td>
@@ -719,17 +730,6 @@
 		<td>338</td>
 		<td>338</td>
 		<td>339</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>330</td>
-		<td>333</td>
-		<td>336</td>
-		<td>337</td>
-		<td>337</td>
-		<td>337</td>
-		<td>338</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
@@ -861,8 +861,8 @@
 		<td>234</td>
 		<td>239</td>
 		<td>241</td>
-		<td>242</td>
-		<td>+ 1</td>
+		<td>244</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
