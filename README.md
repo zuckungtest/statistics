@@ -54,8 +54,8 @@
 		<td>180</td>
 		<td>180</td>
 		<td>184</td>
-		<td>185</td>
-		<td>+ 1</td>
+		<td>186</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>536</td>
 		<td>536</td>
 		<td>538</td>
-		<td>541</td>
-		<td>+ 3</td>
+		<td>542</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>444</td>
 		<td>444</td>
 		<td>444</td>
-		<td>445</td>
-		<td>+ 1</td>
+		<td>446</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>504</td>
 		<td>506</td>
 		<td>506</td>
-		<td>507</td>
-		<td>+ 1</td>
+		<td>508</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -241,8 +241,8 @@
 		<td>490</td>
 		<td>490</td>
 		<td>492</td>
-		<td>495</td>
-		<td>+ 3</td>
+		<td>496</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -329,8 +329,8 @@
 		<td>525</td>
 		<td>527</td>
 		<td>528</td>
-		<td>529</td>
-		<td>+ 1</td>
+		<td>530</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -509,8 +509,8 @@
 		<td>536</td>
 		<td>536</td>
 		<td>538</td>
-		<td>541</td>
-		<td>+ 3</td>
+		<td>542</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -542,8 +542,8 @@
 		<td>525</td>
 		<td>527</td>
 		<td>528</td>
-		<td>529</td>
-		<td>+ 1</td>
+		<td>530</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>504</td>
 		<td>506</td>
 		<td>506</td>
-		<td>507</td>
-		<td>+ 1</td>
+		<td>508</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -575,8 +575,8 @@
 		<td>490</td>
 		<td>490</td>
 		<td>492</td>
-		<td>495</td>
-		<td>+ 3</td>
+		<td>496</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -608,8 +608,8 @@
 		<td>444</td>
 		<td>444</td>
 		<td>444</td>
-		<td>445</td>
-		<td>+ 1</td>
+		<td>446</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -905,8 +905,8 @@
 		<td>180</td>
 		<td>180</td>
 		<td>184</td>
-		<td>185</td>
-		<td>+ 1</td>
+		<td>186</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
