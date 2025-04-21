@@ -27,11 +27,11 @@ v1.0.6-expert.crew.members | downloads: 156
 v1.0.0-avgi.licenses | downloads: 186
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
-v1.1.7-captureable.person.ships | downloads: 147
+v1.1.7-captureable.person.ships | downloads: 149
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 209
+v1.0.4-too.many.asteroids | downloads: 211
 v1.0.3-show.reputation | downloads: 137
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 202
@@ -59,7 +59,7 @@ v1.1.4-galactic.capital.investment | downloads: 230
 v1.0.9-additional.command.buttons.radial | downloads: 29
 v1.0.2-gegno.pirates | downloads: 253
 v1.0.1-kor.efret.shipyard | downloads: 15
-v1.0.2-more.person.ships | downloads: 218
+v1.0.2-more.person.ships | downloads: 220
 v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
@@ -149,7 +149,7 @@ v1.1.3-more.boarding.missions | downloads: 313
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 1
-v1.1.2-space.fauna | downloads: 282
+v1.1.2-space.fauna | downloads: 286
 v1.0.3-snowfeather.robotics | downloads: 149
 v1.0.2-snowfeather.robotics | downloads: 1
 v1.1.1-space.fauna | downloads: 1
@@ -199,7 +199,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 198
-# TOTAL DOWNLOADS: 15293
+# TOTAL DOWNLOADS: 15303
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -210,7 +210,7 @@ automata.in.human.space 339
 avgi.licenses 186
 better.starts 417
 bunrodea.missions 544
-captureable.person.ships 393
+captureable.person.ships 395
 coalition.shopping 446
 control.station 304
 devil-run.unhidden 66
@@ -232,7 +232,7 @@ landing.images.highres 231
 mission.helper 244
 more.arfectas 475
 more.boarding.missions 487
-more.person.ships 353
+more.person.ships 355
 navy.licenses 530
 no.more.mereti.mines 299
 outfits.weapon.slot 300
@@ -244,8 +244,8 @@ quarg.farm 517
 real.fluff 93
 show.reputation 386
 snowfeather.robotics 358
-space.fauna 284
-too.many.asteroids 540
+space.fauna 288
+too.many.asteroids 542
 tribute.republic 244
 unique.fix 44
 uniques 368
