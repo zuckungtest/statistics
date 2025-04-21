@@ -76,8 +76,8 @@
 		<td>536</td>
 		<td>536</td>
 		<td>538</td>
-		<td>539</td>
-		<td>+ 1</td>
+		<td>541</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -241,8 +241,8 @@
 		<td>490</td>
 		<td>490</td>
 		<td>492</td>
-		<td>493</td>
-		<td>+ 1</td>
+		<td>495</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -502,6 +502,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>bunrodea.missions</td>
+		<td>529</td>
+		<td>530</td>
+		<td>533</td>
+		<td>536</td>
+		<td>536</td>
+		<td>538</td>
+		<td>541</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>528</td>
 		<td>531</td>
@@ -510,17 +521,6 @@
 		<td>539</td>
 		<td>539</td>
 		<td>540</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>bunrodea.missions</td>
-		<td>529</td>
-		<td>530</td>
-		<td>533</td>
-		<td>536</td>
-		<td>536</td>
-		<td>538</td>
-		<td>539</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
@@ -575,8 +575,8 @@
 		<td>490</td>
 		<td>490</td>
 		<td>492</td>
-		<td>493</td>
-		<td>+ 1</td>
+		<td>495</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
