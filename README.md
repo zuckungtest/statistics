@@ -285,8 +285,8 @@
 		<td>239</td>
 		<td>241</td>
 		<td>244</td>
-		<td>245</td>
-		<td>+ 1</td>
+		<td>247</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -850,8 +850,8 @@
 		<td>239</td>
 		<td>241</td>
 		<td>244</td>
-		<td>245</td>
-		<td>+ 1</td>
+		<td>247</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
