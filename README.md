@@ -65,8 +65,8 @@
 		<td>416</td>
 		<td>417</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>419</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -285,8 +285,8 @@
 		<td>241</td>
 		<td>244</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -619,8 +619,8 @@
 		<td>416</td>
 		<td>417</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>419</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -850,8 +850,8 @@
 		<td>241</td>
 		<td>244</td>
 		<td>247</td>
-		<td>247</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
