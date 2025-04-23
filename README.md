@@ -21,8 +21,8 @@
 		<td>642</td>
 		<td>643</td>
 		<td>646</td>
-		<td>648</td>
-		<td>+ 2</td>
+		<td>649</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -98,8 +98,8 @@
 		<td>444</td>
 		<td>446</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>448</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -142,8 +142,8 @@
 		<td>532</td>
 		<td>535</td>
 		<td>535</td>
-		<td>535</td>
-		<td></td>
+		<td>537</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -164,8 +164,8 @@
 		<td>647</td>
 		<td>648</td>
 		<td>648</td>
-		<td>648</td>
-		<td></td>
+		<td>650</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -175,8 +175,8 @@
 		<td>506</td>
 		<td>510</td>
 		<td>510</td>
-		<td>510</td>
-		<td></td>
+		<td>512</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -487,8 +487,8 @@
 		<td>647</td>
 		<td>648</td>
 		<td>648</td>
-		<td>648</td>
-		<td></td>
+		<td>650</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -498,8 +498,8 @@
 		<td>642</td>
 		<td>643</td>
 		<td>646</td>
-		<td>648</td>
-		<td>+ 2</td>
+		<td>649</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>532</td>
 		<td>535</td>
 		<td>535</td>
-		<td>535</td>
-		<td></td>
+		<td>537</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -564,8 +564,8 @@
 		<td>506</td>
 		<td>510</td>
 		<td>510</td>
-		<td>510</td>
-		<td></td>
+		<td>512</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -608,8 +608,8 @@
 		<td>444</td>
 		<td>446</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>448</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
