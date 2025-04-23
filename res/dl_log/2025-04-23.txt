@@ -1,14 +1,14 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.20-additional.command.buttons.radial | downloads: 6
+v1.0.20-additional.command.buttons.radial | downloads: 7
 v1.0.4-quarg.farm | downloads: 10
 v1.0.9-uniques | downloads: 16
 v1.0.3-planet.map | downloads: 7
 v1.0.8-bunrodea.missions | downloads: 25
-v1.0.7-expert.crew.members | downloads: 26
-v1.1.6-galactic.capital.investment | downloads: 85
+v1.0.7-expert.crew.members | downloads: 28
+v1.1.6-galactic.capital.investment | downloads: 87
 v1.0.19-additional.command.buttons.radial | downloads: 119
 v1.0.1-highrollers.ltd | downloads: 54
-v1.0.3-gegno.pirates | downloads: 85
+v1.0.3-gegno.pirates | downloads: 87
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 184
@@ -47,7 +47,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 318
-v1.0.6-coalition.shopping | downloads: 252
+v1.0.6-coalition.shopping | downloads: 254
 v1.0.5-snowfeather.robotics | downloads: 201
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 326
@@ -199,27 +199,27 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 198
-# TOTAL DOWNLOADS: 15329
+# TOTAL DOWNLOADS: 15338
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 648
+additional.command.buttons.radial 649
 automata.destruction.0percent 399
 automata.in.human.space 339
 avgi.licenses 187
 better.starts 419
 bunrodea.missions 545
 captureable.person.ships 395
-coalition.shopping 446
+coalition.shopping 448
 control.station 304
 devil-run.unhidden 66
 disable.person.ships 190
 disable.spaceport.repeatables 285
-expert.crew.members 535
+expert.crew.members 537
 free.worlds.5.years.later 288
-galactic.capital.investment 648
-gegno.pirates 510
+galactic.capital.investment 650
+gegno.pirates 512
 hai.side.mission.unlocker 366
 highrollers.ltd 65
 human.labels 300
