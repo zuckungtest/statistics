@@ -296,8 +296,8 @@
 		<td>474</td>
 		<td>475</td>
 		<td>476</td>
-		<td>476</td>
-		<td></td>
+		<td>478</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>474</td>
 		<td>475</td>
 		<td>476</td>
-		<td>476</td>
-		<td></td>
+		<td>478</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
