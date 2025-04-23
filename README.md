@@ -21,8 +21,8 @@
 		<td>642</td>
 		<td>643</td>
 		<td>646</td>
-		<td>646</td>
-		<td></td>
+		<td>648</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -498,8 +498,8 @@
 		<td>642</td>
 		<td>643</td>
 		<td>646</td>
-		<td>646</td>
-		<td></td>
+		<td>648</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
