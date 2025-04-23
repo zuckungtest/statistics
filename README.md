@@ -241,8 +241,8 @@
 		<td>492</td>
 		<td>496</td>
 		<td>496</td>
-		<td>496</td>
-		<td></td>
+		<td>497</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>474</td>
 		<td>475</td>
 		<td>476</td>
-		<td>478</td>
-		<td>+ 2</td>
+		<td>479</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -329,8 +329,8 @@
 		<td>528</td>
 		<td>530</td>
 		<td>530</td>
-		<td>530</td>
-		<td></td>
+		<td>531</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -542,8 +542,8 @@
 		<td>528</td>
 		<td>530</td>
 		<td>530</td>
-		<td>530</td>
-		<td></td>
+		<td>531</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -575,8 +575,8 @@
 		<td>492</td>
 		<td>496</td>
 		<td>496</td>
-		<td>496</td>
-		<td></td>
+		<td>497</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>474</td>
 		<td>475</td>
 		<td>476</td>
-		<td>478</td>
-		<td>+ 2</td>
+		<td>479</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
