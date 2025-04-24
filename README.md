@@ -21,8 +21,8 @@
 		<td>643</td>
 		<td>646</td>
 		<td>649</td>
-		<td>649</td>
-		<td></td>
+		<td>651</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -480,6 +480,17 @@
 		<td>today +</td>
 	</tr>
 	<tr>
+		<td>additional.command.buttons.radial</td>
+		<td>635</td>
+		<td>638</td>
+		<td>642</td>
+		<td>643</td>
+		<td>646</td>
+		<td>649</td>
+		<td>651</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>galactic.capital.investment</td>
 		<td>645</td>
 		<td>647</td>
@@ -488,17 +499,6 @@
 		<td>648</td>
 		<td>650</td>
 		<td>650</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>additional.command.buttons.radial</td>
-		<td>635</td>
-		<td>638</td>
-		<td>642</td>
-		<td>643</td>
-		<td>646</td>
-		<td>649</td>
-		<td>649</td>
 		<td></td>
 	</tr>
 	<tr>
