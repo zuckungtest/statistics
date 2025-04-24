@@ -197,8 +197,8 @@
 		<td>65</td>
 		<td>65</td>
 		<td>65</td>
-		<td>65</td>
-		<td></td>
+		<td>67</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -230,8 +230,8 @@
 		<td>325</td>
 		<td>325</td>
 		<td>325</td>
-		<td>329</td>
-		<td>+ 4</td>
+		<td>331</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -274,8 +274,8 @@
 		<td>231</td>
 		<td>231</td>
 		<td>231</td>
-		<td>235</td>
-		<td>+ 4</td>
+		<td>237</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -417,8 +417,8 @@
 		<td>358</td>
 		<td>360</td>
 		<td>360</td>
-		<td>362</td>
-		<td>+ 2</td>
+		<td>364</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -696,8 +696,8 @@
 		<td>358</td>
 		<td>360</td>
 		<td>360</td>
-		<td>362</td>
-		<td>+ 2</td>
+		<td>364</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -751,8 +751,8 @@
 		<td>325</td>
 		<td>325</td>
 		<td>325</td>
-		<td>329</td>
-		<td>+ 4</td>
+		<td>331</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -872,8 +872,8 @@
 		<td>231</td>
 		<td>231</td>
 		<td>231</td>
-		<td>235</td>
-		<td>+ 4</td>
+		<td>237</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -927,8 +927,8 @@
 		<td>65</td>
 		<td>65</td>
 		<td>65</td>
-		<td>65</td>
-		<td></td>
+		<td>67</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
