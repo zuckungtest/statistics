@@ -252,8 +252,8 @@
 		<td>330</td>
 		<td>330</td>
 		<td>336</td>
-		<td>338</td>
-		<td>+ 2</td>
+		<td>340</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>231</td>
 		<td>231</td>
 		<td>239</td>
-		<td>239</td>
-		<td></td>
+		<td>241</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -740,8 +740,8 @@
 		<td>330</td>
 		<td>330</td>
 		<td>336</td>
-		<td>338</td>
-		<td>+ 2</td>
+		<td>340</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -872,8 +872,8 @@
 		<td>231</td>
 		<td>231</td>
 		<td>239</td>
-		<td>239</td>
-		<td></td>
+		<td>241</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
