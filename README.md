@@ -54,8 +54,8 @@
 		<td>187</td>
 		<td>193</td>
 		<td>193</td>
-		<td>198</td>
-		<td>+ 5</td>
+		<td>202</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -219,8 +219,8 @@
 		<td>402</td>
 		<td>406</td>
 		<td>410</td>
-		<td>413</td>
-		<td>+ 3</td>
+		<td>415</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -395,8 +395,8 @@
 		<td>518</td>
 		<td>522</td>
 		<td>522</td>
-		<td>524</td>
-		<td>+ 2</td>
+		<td>526</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -553,8 +553,8 @@
 		<td>518</td>
 		<td>522</td>
 		<td>522</td>
-		<td>524</td>
-		<td>+ 2</td>
+		<td>526</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -630,8 +630,8 @@
 		<td>402</td>
 		<td>406</td>
 		<td>410</td>
-		<td>413</td>
-		<td>+ 3</td>
+		<td>415</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -894,8 +894,8 @@
 		<td>187</td>
 		<td>193</td>
 		<td>193</td>
-		<td>198</td>
-		<td>+ 5</td>
+		<td>202</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
