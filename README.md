@@ -164,8 +164,8 @@
 		<td>650</td>
 		<td>650</td>
 		<td>650</td>
-		<td>650</td>
-		<td></td>
+		<td>651</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -285,8 +285,8 @@
 		<td>248</td>
 		<td>250</td>
 		<td>252</td>
-		<td>254</td>
-		<td>+ 2</td>
+		<td>255</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -498,8 +498,8 @@
 		<td>650</td>
 		<td>650</td>
 		<td>650</td>
-		<td>650</td>
-		<td></td>
+		<td>651</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -850,8 +850,8 @@
 		<td>248</td>
 		<td>250</td>
 		<td>252</td>
-		<td>254</td>
-		<td>+ 2</td>
+		<td>255</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
