@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.21-additional.command.buttons.radial | downloads: 1
 v1.0.20-additional.command.buttons.radial | downloads: 13
-v1.0.4-quarg.farm | downloads: 16
+v1.0.4-quarg.farm | downloads: 18
 v1.0.9-uniques | downloads: 25
 v1.0.3-planet.map | downloads: 8
 v1.0.8-bunrodea.missions | downloads: 31
@@ -22,10 +22,10 @@ v1.0.7-bunrodea.missions | downloads: 141
 v1.0.5-human.labels | downloads: 93
 v1.1.4-more.boarding.missions | downloads: 172
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 142
+v1.0.3-jump.gates | downloads: 144
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
-v1.0.0-avgi.licenses | downloads: 198
+v1.0.0-avgi.licenses | downloads: 202
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 154
@@ -200,7 +200,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 199
-# TOTAL DOWNLOADS: 15594
+# TOTAL DOWNLOADS: 15602
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -208,7 +208,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 656
 automata.destruction.0percent 408
 automata.in.human.space 342
-avgi.licenses 198
+avgi.licenses 202
 better.starts 424
 bunrodea.missions 551
 captureable.person.ships 400
@@ -224,7 +224,7 @@ gegno.pirates 514
 hai.side.mission.unlocker 369
 highrollers.ltd 68
 human.labels 307
-jump.gates 413
+jump.gates 415
 kestrel.unlocks 332
 kor.efret.shipyard 503
 landing.images 343
@@ -241,7 +241,7 @@ paint.your.ships 344
 pirate.warlords 3
 planet.map 221
 planet.pluto 125
-quarg.farm 524
+quarg.farm 526
 real.fluff 93
 show.reputation 401
 snowfeather.robotics 367
