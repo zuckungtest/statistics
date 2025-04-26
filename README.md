@@ -54,8 +54,8 @@
 		<td>187</td>
 		<td>193</td>
 		<td>193</td>
-		<td>196</td>
-		<td>+ 3</td>
+		<td>197</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -894,8 +894,8 @@
 		<td>187</td>
 		<td>193</td>
 		<td>193</td>
-		<td>196</td>
-		<td>+ 3</td>
+		<td>197</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
