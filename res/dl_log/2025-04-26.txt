@@ -19,7 +19,7 @@ v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 135
 v1.0.7-bunrodea.missions | downloads: 141
 v1.0.5-human.labels | downloads: 90
-v1.1.4-more.boarding.missions | downloads: 169
+v1.1.4-more.boarding.missions | downloads: 171
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 139
 v1.0.15-additional.command.buttons.radial | downloads: 69
@@ -199,7 +199,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 198
-# TOTAL DOWNLOADS: 15522
+# TOTAL DOWNLOADS: 15524
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -231,7 +231,7 @@ landing.images.android 287
 landing.images.highres 241
 mission.helper 252
 more.arfectas 488
-more.boarding.missions 489
+more.boarding.missions 491
 more.person.ships 359
 navy.licenses 538
 no.more.mereti.mines 301
