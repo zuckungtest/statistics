@@ -32,8 +32,8 @@
 		<td>405</td>
 		<td>405</td>
 		<td>408</td>
-		<td>411</td>
-		<td>+ 3</td>
+		<td>413</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -641,8 +641,8 @@
 		<td>405</td>
 		<td>405</td>
 		<td>408</td>
-		<td>411</td>
-		<td>+ 3</td>
+		<td>413</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
