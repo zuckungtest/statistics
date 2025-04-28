@@ -241,8 +241,8 @@
 		<td>501</td>
 		<td>503</td>
 		<td>506</td>
-		<td>506</td>
-		<td></td>
+		<td>508</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -575,8 +575,8 @@
 		<td>501</td>
 		<td>503</td>
 		<td>506</td>
-		<td>506</td>
-		<td></td>
+		<td>508</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
