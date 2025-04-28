@@ -5,7 +5,7 @@ v1.0.4-quarg.farm | downloads: 21
 v1.0.9-uniques | downloads: 30
 v1.0.3-planet.map | downloads: 11
 v1.0.8-bunrodea.missions | downloads: 34
-v1.0.7-expert.crew.members | downloads: 37
+v1.0.7-expert.crew.members | downloads: 39
 v1.1.6-galactic.capital.investment | downloads: 92
 v1.0.19-additional.command.buttons.radial | downloads: 119
 v1.0.1-highrollers.ltd | downloads: 62
@@ -19,7 +19,7 @@ v1.0.1-mission.helper | downloads: 26
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 135
 v1.0.7-bunrodea.missions | downloads: 141
-v1.0.5-human.labels | downloads: 96
+v1.0.5-human.labels | downloads: 98
 v1.1.4-more.boarding.missions | downloads: 177
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 147
@@ -47,8 +47,8 @@ v1.0.12-additional.command.buttons.radial | downloads: 47
 v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
-v1.0.3-navy.licenses | downloads: 331
-v1.0.6-coalition.shopping | downloads: 266
+v1.0.3-navy.licenses | downloads: 333
+v1.0.6-coalition.shopping | downloads: 268
 v1.0.5-snowfeather.robotics | downloads: 211
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 335
@@ -141,7 +141,7 @@ v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
-v1.1.1-disable.spaceport.repeatables | downloads: 290
+v1.1.1-disable.spaceport.repeatables | downloads: 292
 v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 315
 v1.0.0-control.station | downloads: 1
@@ -200,7 +200,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 199
-# TOTAL DOWNLOADS: 15748
+# TOTAL DOWNLOADS: 15758
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -212,18 +212,18 @@ avgi.licenses 205
 better.starts 428
 bunrodea.missions 554
 captureable.person.ships 403
-coalition.shopping 460
+coalition.shopping 462
 control.station 316
 devil-run.unhidden 66
 disable.person.ships 196
-disable.spaceport.repeatables 291
-expert.crew.members 546
+disable.spaceport.repeatables 293
+expert.crew.members 548
 free.worlds.5.years.later 296
 galactic.capital.investment 655
 gegno.pirates 519
 hai.side.mission.unlocker 372
 highrollers.ltd 73
-human.labels 310
+human.labels 312
 jump.gates 418
 kestrel.unlocks 335
 kor.efret.shipyard 506
@@ -234,7 +234,7 @@ mission.helper 259
 more.arfectas 494
 more.boarding.missions 497
 more.person.ships 365
-navy.licenses 544
+navy.licenses 546
 no.more.mereti.mines 305
 outfits.weapon.slot 310
 paint.your.ships 347
