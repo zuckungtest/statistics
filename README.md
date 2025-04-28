@@ -98,8 +98,8 @@
 		<td>454</td>
 		<td>456</td>
 		<td>459</td>
-		<td>460</td>
-		<td>+ 1</td>
+		<td>462</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -131,8 +131,8 @@
 		<td>285</td>
 		<td>288</td>
 		<td>291</td>
-		<td>291</td>
-		<td></td>
+		<td>293</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -142,8 +142,8 @@
 		<td>542</td>
 		<td>543</td>
 		<td>546</td>
-		<td>546</td>
-		<td></td>
+		<td>548</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -208,8 +208,8 @@
 		<td>304</td>
 		<td>307</td>
 		<td>310</td>
-		<td>310</td>
-		<td></td>
+		<td>312</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -329,8 +329,8 @@
 		<td>537</td>
 		<td>541</td>
 		<td>544</td>
-		<td>544</td>
-		<td></td>
+		<td>546</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -531,8 +531,8 @@
 		<td>542</td>
 		<td>543</td>
 		<td>546</td>
-		<td>546</td>
-		<td></td>
+		<td>548</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -542,8 +542,8 @@
 		<td>537</td>
 		<td>541</td>
 		<td>544</td>
-		<td>544</td>
-		<td></td>
+		<td>546</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -608,8 +608,8 @@
 		<td>454</td>
 		<td>456</td>
 		<td>459</td>
-		<td>460</td>
-		<td>+ 1</td>
+		<td>462</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -766,22 +766,22 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>302</td>
-		<td>302</td>
-		<td>304</td>
-		<td>306</td>
-		<td>307</td>
-		<td>310</td>
-		<td>310</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>human.labels</td>
 		<td>300</td>
 		<td>300</td>
 		<td>302</td>
 		<td>304</td>
+		<td>307</td>
+		<td>310</td>
+		<td>312</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>outfits.weapon.slot</td>
+		<td>302</td>
+		<td>302</td>
+		<td>304</td>
+		<td>306</td>
 		<td>307</td>
 		<td>310</td>
 		<td>310</td>
@@ -821,22 +821,22 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>landing.images.android</td>
-		<td>287</td>
-		<td>287</td>
-		<td>287</td>
-		<td>287</td>
-		<td>288</td>
-		<td>291</td>
-		<td>291</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>285</td>
 		<td>285</td>
 		<td>285</td>
 		<td>285</td>
+		<td>288</td>
+		<td>291</td>
+		<td>293</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>landing.images.android</td>
+		<td>287</td>
+		<td>287</td>
+		<td>287</td>
+		<td>287</td>
 		<td>288</td>
 		<td>291</td>
 		<td>291</td>
