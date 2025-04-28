@@ -175,8 +175,8 @@
 		<td>512</td>
 		<td>514</td>
 		<td>517</td>
-		<td>517</td>
-		<td></td>
+		<td>519</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -296,8 +296,8 @@
 		<td>487</td>
 		<td>489</td>
 		<td>492</td>
-		<td>492</td>
-		<td></td>
+		<td>494</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -307,8 +307,8 @@
 		<td>489</td>
 		<td>492</td>
 		<td>495</td>
-		<td>495</td>
-		<td></td>
+		<td>497</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>359</td>
 		<td>360</td>
 		<td>363</td>
-		<td>363</td>
-		<td></td>
+		<td>365</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -439,8 +439,8 @@
 		<td>550</td>
 		<td>553</td>
 		<td>556</td>
-		<td>556</td>
-		<td></td>
+		<td>558</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>374</td>
 		<td>377</td>
 		<td>380</td>
-		<td>380</td>
-		<td></td>
+		<td>382</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>550</td>
 		<td>553</td>
 		<td>556</td>
-		<td>556</td>
-		<td></td>
+		<td>558</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -564,8 +564,8 @@
 		<td>512</td>
 		<td>514</td>
 		<td>517</td>
-		<td>517</td>
-		<td></td>
+		<td>519</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -586,8 +586,8 @@
 		<td>489</td>
 		<td>492</td>
 		<td>495</td>
-		<td>495</td>
-		<td></td>
+		<td>497</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -597,8 +597,8 @@
 		<td>487</td>
 		<td>489</td>
 		<td>492</td>
-		<td>492</td>
-		<td></td>
+		<td>494</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -674,8 +674,8 @@
 		<td>374</td>
 		<td>377</td>
 		<td>380</td>
-		<td>380</td>
-		<td></td>
+		<td>382</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -707,8 +707,8 @@
 		<td>359</td>
 		<td>360</td>
 		<td>363</td>
-		<td>363</td>
-		<td></td>
+		<td>365</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
