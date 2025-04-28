@@ -48,7 +48,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 331
-v1.0.6-coalition.shopping | downloads: 265
+v1.0.6-coalition.shopping | downloads: 266
 v1.0.5-snowfeather.robotics | downloads: 211
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 335
@@ -200,7 +200,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 199
-# TOTAL DOWNLOADS: 15735
+# TOTAL DOWNLOADS: 15736
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -212,7 +212,7 @@ avgi.licenses 205
 better.starts 428
 bunrodea.missions 554
 captureable.person.ships 403
-coalition.shopping 459
+coalition.shopping 460
 control.station 316
 devil-run.unhidden 66
 disable.person.ships 196
