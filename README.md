@@ -186,8 +186,8 @@
 		<td>514</td>
 		<td>517</td>
 		<td>523</td>
-		<td>523</td>
-		<td></td>
+		<td>524</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -575,8 +575,8 @@
 		<td>514</td>
 		<td>517</td>
 		<td>523</td>
-		<td>523</td>
-		<td></td>
+		<td>524</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
