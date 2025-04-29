@@ -21,8 +21,8 @@
 		<td>656</td>
 		<td>664</td>
 		<td>669</td>
-		<td>671</td>
-		<td>+ 2</td>
+		<td>673</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -153,8 +153,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>1</td>
-		<td>3</td>
-		<td>+ 2</td>
+		<td>5</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -498,8 +498,8 @@
 		<td>656</td>
 		<td>664</td>
 		<td>669</td>
-		<td>671</td>
-		<td>+ 2</td>
+		<td>673</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -949,8 +949,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>1</td>
-		<td>3</td>
-		<td>+ 2</td>
+		<td>5</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
