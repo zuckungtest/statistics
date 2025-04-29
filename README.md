@@ -164,8 +164,8 @@
 		<td>293</td>
 		<td>296</td>
 		<td>300</td>
-		<td>300</td>
-		<td></td>
+		<td>302</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -175,8 +175,8 @@
 		<td>652</td>
 		<td>655</td>
 		<td>659</td>
-		<td>659</td>
-		<td></td>
+		<td>661</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -509,8 +509,8 @@
 		<td>652</td>
 		<td>655</td>
 		<td>659</td>
-		<td>659</td>
-		<td></td>
+		<td>661</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -817,8 +817,8 @@
 		<td>293</td>
 		<td>296</td>
 		<td>300</td>
-		<td>300</td>
-		<td></td>
+		<td>302</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
