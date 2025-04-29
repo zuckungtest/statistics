@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.22-additional.command.buttons.radial | downloads: 3
-v1.0.0-flare.play | downloads: 3
-v1.0.21-additional.command.buttons.radial | downloads: 13
+v1.0.0-flare.play | downloads: 5
+v1.0.21-additional.command.buttons.radial | downloads: 15
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 26
 v1.0.9-uniques | downloads: 34
@@ -202,12 +202,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 201
-# TOTAL DOWNLOADS: 15959
+# TOTAL DOWNLOADS: 15963
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 671
+additional.command.buttons.radial 673
 automata.destruction.0percent 417
 automata.in.human.space 349
 avgi.licenses 213
@@ -220,7 +220,7 @@ devil-run.unhidden 66
 disable.person.ships 200
 disable.spaceport.repeatables 297
 expert.crew.members 556
-flare.play 3
+flare.play 5
 free.worlds.5.years.later 300
 galactic.capital.investment 659
 gegno.pirates 523
