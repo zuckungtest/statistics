@@ -11,7 +11,7 @@ v1.0.7-expert.crew.members | downloads: 47
 v1.1.6-galactic.capital.investment | downloads: 96
 v1.0.19-additional.command.buttons.radial | downloads: 119
 v1.0.1-highrollers.ltd | downloads: 70
-v1.0.3-gegno.pirates | downloads: 98
+v1.0.3-gegno.pirates | downloads: 99
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 199
@@ -202,7 +202,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 201
-# TOTAL DOWNLOADS: 15963
+# TOTAL DOWNLOADS: 15964
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -223,7 +223,7 @@ expert.crew.members 556
 flare.play 5
 free.worlds.5.years.later 300
 galactic.capital.investment 659
-gegno.pirates 523
+gegno.pirates 524
 hai.side.mission.unlocker 376
 highrollers.ltd 81
 human.labels 316
