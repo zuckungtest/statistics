@@ -54,8 +54,8 @@
 		<td>202</td>
 		<td>205</td>
 		<td>209</td>
-		<td>211</td>
-		<td>+ 2</td>
+		<td>213</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -142,8 +142,8 @@
 		<td>543</td>
 		<td>546</td>
 		<td>552</td>
-		<td>554</td>
-		<td>+ 2</td>
+		<td>556</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -153,8 +153,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>1</td>
-		<td>1</td>
-		<td></td>
+		<td>3</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -208,8 +208,8 @@
 		<td>68</td>
 		<td>73</td>
 		<td>77</td>
-		<td>79</td>
-		<td>+ 2</td>
+		<td>81</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -307,8 +307,8 @@
 		<td>489</td>
 		<td>492</td>
 		<td>498</td>
-		<td>500</td>
-		<td>+ 2</td>
+		<td>502</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -351,8 +351,8 @@
 		<td>302</td>
 		<td>305</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>311</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -542,8 +542,8 @@
 		<td>543</td>
 		<td>546</td>
 		<td>552</td>
-		<td>554</td>
-		<td>+ 2</td>
+		<td>556</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -590,6 +590,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>more.arfectas</td>
+		<td>479</td>
+		<td>485</td>
+		<td>487</td>
+		<td>489</td>
+		<td>492</td>
+		<td>498</td>
+		<td>502</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>more.boarding.missions</td>
 		<td>487</td>
 		<td>489</td>
@@ -599,17 +610,6 @@
 		<td>501</td>
 		<td>501</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>more.arfectas</td>
-		<td>479</td>
-		<td>485</td>
-		<td>487</td>
-		<td>489</td>
-		<td>492</td>
-		<td>498</td>
-		<td>500</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -806,8 +806,8 @@
 		<td>302</td>
 		<td>305</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>311</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -905,8 +905,8 @@
 		<td>202</td>
 		<td>205</td>
 		<td>209</td>
-		<td>211</td>
-		<td>+ 2</td>
+		<td>213</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -938,8 +938,8 @@
 		<td>68</td>
 		<td>73</td>
 		<td>77</td>
-		<td>79</td>
-		<td>+ 2</td>
+		<td>81</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>1</td>
-		<td>1</td>
-		<td></td>
+		<td>3</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
