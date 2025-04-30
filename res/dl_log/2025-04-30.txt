@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.22-additional.command.buttons.radial | downloads: 3
 v1.0.0-flare.play | downloads: 7
-v1.0.21-additional.command.buttons.radial | downloads: 15
+v1.0.21-additional.command.buttons.radial | downloads: 17
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 26
 v1.0.9-uniques | downloads: 36
@@ -14,14 +14,14 @@ v1.0.1-highrollers.ltd | downloads: 70
 v1.0.3-gegno.pirates | downloads: 103
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
-v1.0.2-mission.helper | downloads: 199
+v1.0.2-mission.helper | downloads: 201
 v1.0.17-additional.command.buttons.radial | downloads: 22
 v1.0.16-additional.command.buttons.radial | downloads: 3
 v1.0.1-mission.helper | downloads: 26
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 135
 v1.0.7-bunrodea.missions | downloads: 141
-v1.0.5-human.labels | downloads: 102
+v1.0.5-human.labels | downloads: 104
 v1.1.4-more.boarding.missions | downloads: 185
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 155
@@ -34,8 +34,8 @@ v1.1.7-captureable.person.ships | downloads: 163
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 233
-v1.0.3-show.reputation | downloads: 159
+v1.0.4-too.many.asteroids | downloads: 235
+v1.0.3-show.reputation | downloads: 161
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 221
 v1.0.5-bunrodea.missions | downloads: 120
@@ -202,12 +202,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 201
-# TOTAL DOWNLOADS: 16031
+# TOTAL DOWNLOADS: 16041
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 673
+additional.command.buttons.radial 675
 automata.destruction.0percent 417
 automata.in.human.space 350
 avgi.licenses 213
@@ -226,14 +226,14 @@ galactic.capital.investment 666
 gegno.pirates 528
 hai.side.mission.unlocker 376
 highrollers.ltd 81
-human.labels 316
+human.labels 318
 jump.gates 426
 kestrel.unlocks 343
 kor.efret.shipyard 512
 landing.images 352
 landing.images.android 297
 landing.images.highres 251
-mission.helper 263
+mission.helper 265
 more.arfectas 506
 more.boarding.missions 505
 more.person.ships 369
@@ -246,10 +246,10 @@ planet.map 230
 planet.pluto 132
 quarg.farm 534
 real.fluff 93
-show.reputation 408
+show.reputation 410
 snowfeather.robotics 376
 space.fauna 298
-too.many.asteroids 564
+too.many.asteroids 566
 tribute.republic 254
 unique.fix 44
 uniques 388
