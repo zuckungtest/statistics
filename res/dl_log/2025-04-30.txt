@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.22-additional.command.buttons.radial | downloads: 3
-v1.0.0-flare.play | downloads: 5
+v1.0.0-flare.play | downloads: 7
 v1.0.21-additional.command.buttons.radial | downloads: 15
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 26
@@ -11,7 +11,7 @@ v1.0.7-expert.crew.members | downloads: 53
 v1.1.6-galactic.capital.investment | downloads: 99
 v1.0.19-additional.command.buttons.radial | downloads: 119
 v1.0.1-highrollers.ltd | downloads: 70
-v1.0.3-gegno.pirates | downloads: 101
+v1.0.3-gegno.pirates | downloads: 103
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 199
@@ -90,7 +90,7 @@ v1.0.1-uniques | downloads: 14
 v1.0.4-additional.command.buttons.radial | downloads: 5
 v1.0.3-additional.command.buttons.radial | downloads: 10
 v1.0.2-additional.command.buttons.radial | downloads: 4
-v1.0.0-outfits.weapon.slot | downloads: 314
+v1.0.0-outfits.weapon.slot | downloads: 316
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
@@ -202,7 +202,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 201
-# TOTAL DOWNLOADS: 16013
+# TOTAL DOWNLOADS: 16019
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -220,10 +220,10 @@ devil-run.unhidden 66
 disable.person.ships 200
 disable.spaceport.repeatables 297
 expert.crew.members 562
-flare.play 5
+flare.play 7
 free.worlds.5.years.later 302
 galactic.capital.investment 662
-gegno.pirates 526
+gegno.pirates 528
 hai.side.mission.unlocker 376
 highrollers.ltd 81
 human.labels 316
@@ -239,7 +239,7 @@ more.boarding.missions 505
 more.person.ships 369
 navy.licenses 554
 no.more.mereti.mines 313
-outfits.weapon.slot 314
+outfits.weapon.slot 316
 paint.your.ships 354
 pirate.warlords 3
 planet.map 230
