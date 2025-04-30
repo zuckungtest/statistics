@@ -21,8 +21,8 @@
 		<td>664</td>
 		<td>669</td>
 		<td>673</td>
-		<td>673</td>
-		<td></td>
+		<td>675</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -219,8 +219,8 @@
 		<td>310</td>
 		<td>316</td>
 		<td>316</td>
-		<td>316</td>
-		<td></td>
+		<td>318</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -296,8 +296,8 @@
 		<td>259</td>
 		<td>263</td>
 		<td>263</td>
-		<td>263</td>
-		<td></td>
+		<td>265</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>404</td>
 		<td>408</td>
 		<td>408</td>
-		<td>408</td>
-		<td></td>
+		<td>410</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td>556</td>
 		<td>562</td>
 		<td>564</td>
-		<td>564</td>
-		<td></td>
+		<td>566</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -498,8 +498,8 @@
 		<td>664</td>
 		<td>669</td>
 		<td>673</td>
-		<td>673</td>
-		<td></td>
+		<td>675</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -520,8 +520,8 @@
 		<td>556</td>
 		<td>562</td>
 		<td>564</td>
-		<td>564</td>
-		<td></td>
+		<td>566</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -656,6 +656,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>show.reputation</td>
+		<td>394</td>
+		<td>398</td>
+		<td>401</td>
+		<td>404</td>
+		<td>408</td>
+		<td>408</td>
+		<td>410</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>399</td>
 		<td>399</td>
@@ -664,17 +675,6 @@
 		<td>407</td>
 		<td>409</td>
 		<td>409</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>show.reputation</td>
-		<td>394</td>
-		<td>398</td>
-		<td>401</td>
-		<td>404</td>
-		<td>408</td>
-		<td>408</td>
-		<td>408</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -777,6 +777,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>human.labels</td>
+		<td>302</td>
+		<td>304</td>
+		<td>307</td>
+		<td>310</td>
+		<td>316</td>
+		<td>316</td>
+		<td>318</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>304</td>
 		<td>306</td>
@@ -786,17 +797,6 @@
 		<td>314</td>
 		<td>316</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>human.labels</td>
-		<td>302</td>
-		<td>304</td>
-		<td>307</td>
-		<td>310</td>
-		<td>316</td>
-		<td>316</td>
-		<td>316</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -861,8 +861,8 @@
 		<td>259</td>
 		<td>263</td>
 		<td>263</td>
-		<td>263</td>
-		<td></td>
+		<td>265</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
