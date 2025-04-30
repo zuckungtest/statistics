@@ -98,8 +98,8 @@
 		<td>459</td>
 		<td>466</td>
 		<td>466</td>
-		<td>466</td>
-		<td></td>
+		<td>468</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>655</td>
 		<td>659</td>
 		<td>661</td>
-		<td>664</td>
-		<td>+ 3</td>
+		<td>666</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -340,8 +340,8 @@
 		<td>544</td>
 		<td>550</td>
 		<td>552</td>
-		<td>554</td>
-		<td>+ 2</td>
+		<td>556</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -509,8 +509,8 @@
 		<td>655</td>
 		<td>659</td>
 		<td>661</td>
-		<td>664</td>
-		<td>+ 3</td>
+		<td>666</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -553,8 +553,8 @@
 		<td>544</td>
 		<td>550</td>
 		<td>552</td>
-		<td>554</td>
-		<td>+ 2</td>
+		<td>556</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -619,8 +619,8 @@
 		<td>459</td>
 		<td>466</td>
 		<td>466</td>
-		<td>466</td>
-		<td></td>
+		<td>468</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
