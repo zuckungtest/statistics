@@ -76,8 +76,8 @@
 		<td>554</td>
 		<td>558</td>
 		<td>558</td>
-		<td>560</td>
-		<td>+ 2</td>
+		<td>562</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>655</td>
 		<td>659</td>
 		<td>661</td>
-		<td>662</td>
-		<td>+ 1</td>
+		<td>664</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>418</td>
 		<td>422</td>
 		<td>424</td>
-		<td>424</td>
-		<td></td>
+		<td>426</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -509,8 +509,8 @@
 		<td>655</td>
 		<td>659</td>
 		<td>661</td>
-		<td>662</td>
-		<td>+ 1</td>
+		<td>664</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -542,8 +542,8 @@
 		<td>554</td>
 		<td>558</td>
 		<td>558</td>
-		<td>560</td>
-		<td>+ 2</td>
+		<td>562</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -641,8 +641,8 @@
 		<td>418</td>
 		<td>422</td>
 		<td>424</td>
-		<td>424</td>
-		<td></td>
+		<td>426</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
