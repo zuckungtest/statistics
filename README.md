@@ -153,8 +153,8 @@
 		<td>0</td>
 		<td>1</td>
 		<td>5</td>
-		<td>5</td>
-		<td></td>
+		<td>7</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -186,8 +186,8 @@
 		<td>517</td>
 		<td>523</td>
 		<td>524</td>
-		<td>526</td>
-		<td>+ 2</td>
+		<td>528</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -362,8 +362,8 @@
 		<td>310</td>
 		<td>314</td>
 		<td>314</td>
-		<td>314</td>
-		<td></td>
+		<td>316</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -575,8 +575,8 @@
 		<td>517</td>
 		<td>523</td>
 		<td>524</td>
-		<td>526</td>
-		<td>+ 2</td>
+		<td>528</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -777,6 +777,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>outfits.weapon.slot</td>
+		<td>304</td>
+		<td>306</td>
+		<td>307</td>
+		<td>310</td>
+		<td>314</td>
+		<td>314</td>
+		<td>316</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>302</td>
 		<td>304</td>
@@ -785,17 +796,6 @@
 		<td>316</td>
 		<td>316</td>
 		<td>316</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>304</td>
-		<td>306</td>
-		<td>307</td>
-		<td>310</td>
-		<td>314</td>
-		<td>314</td>
-		<td>314</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -949,8 +949,8 @@
 		<td>0</td>
 		<td>1</td>
 		<td>5</td>
-		<td>5</td>
-		<td></td>
+		<td>7</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
