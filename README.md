@@ -318,8 +318,8 @@
 		<td>501</td>
 		<td>503</td>
 		<td>505</td>
-		<td>507</td>
-		<td>+ 2</td>
+		<td>509</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -417,8 +417,8 @@
 		<td>408</td>
 		<td>408</td>
 		<td>410</td>
-		<td>412</td>
-		<td>+ 2</td>
+		<td>414</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td>562</td>
 		<td>564</td>
 		<td>566</td>
-		<td>568</td>
-		<td>+ 2</td>
+		<td>571</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -520,8 +520,8 @@
 		<td>562</td>
 		<td>564</td>
 		<td>566</td>
-		<td>568</td>
-		<td>+ 2</td>
+		<td>571</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -590,6 +590,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>more.boarding.missions</td>
+		<td>489</td>
+		<td>492</td>
+		<td>495</td>
+		<td>501</td>
+		<td>503</td>
+		<td>505</td>
+		<td>509</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>487</td>
 		<td>489</td>
@@ -598,17 +609,6 @@
 		<td>504</td>
 		<td>506</td>
 		<td>508</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>more.boarding.missions</td>
-		<td>489</td>
-		<td>492</td>
-		<td>495</td>
-		<td>501</td>
-		<td>503</td>
-		<td>505</td>
-		<td>507</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -663,8 +663,8 @@
 		<td>408</td>
 		<td>408</td>
 		<td>410</td>
-		<td>412</td>
-		<td>+ 2</td>
+		<td>414</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
