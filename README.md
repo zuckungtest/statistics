@@ -373,8 +373,8 @@
 		<td>351</td>
 		<td>353</td>
 		<td>354</td>
-		<td>356</td>
-		<td>+ 2</td>
+		<td>358</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -729,8 +729,8 @@
 		<td>351</td>
 		<td>353</td>
 		<td>354</td>
-		<td>356</td>
-		<td>+ 2</td>
+		<td>358</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
