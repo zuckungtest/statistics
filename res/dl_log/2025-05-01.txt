@@ -24,7 +24,7 @@ v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 135
 v1.0.7-bunrodea.missions | downloads: 141
 v1.0.5-human.labels | downloads: 108
-v1.1.4-more.boarding.missions | downloads: 187
+v1.1.4-more.boarding.missions | downloads: 189
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 157
 v1.0.15-additional.command.buttons.radial | downloads: 69
@@ -36,8 +36,8 @@ v1.1.7-captureable.person.ships | downloads: 165
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 237
-v1.0.3-show.reputation | downloads: 163
+v1.0.4-too.many.asteroids | downloads: 240
+v1.0.3-show.reputation | downloads: 165
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 223
 v1.0.5-bunrodea.missions | downloads: 120
@@ -204,7 +204,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 203
-# TOTAL DOWNLOADS: 16132
+# TOTAL DOWNLOADS: 16139
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -237,7 +237,7 @@ landing.images.android 299
 landing.images.highres 253
 mission.helper 269
 more.arfectas 508
-more.boarding.missions 507
+more.boarding.missions 509
 more.person.ships 371
 navy.licenses 558
 no.more.mereti.mines 315
@@ -248,10 +248,10 @@ planet.map 232
 planet.pluto 134
 quarg.farm 536
 real.fluff 93
-show.reputation 412
+show.reputation 414
 snowfeather.robotics 378
 space.fauna 300
-too.many.asteroids 568
+too.many.asteroids 571
 tribute.republic 256
 unique.fix 44
 uniques 390
