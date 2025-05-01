@@ -175,8 +175,8 @@
 		<td>659</td>
 		<td>661</td>
 		<td>666</td>
-		<td>668</td>
-		<td>+ 2</td>
+		<td>670</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -509,8 +509,8 @@
 		<td>659</td>
 		<td>661</td>
 		<td>666</td>
-		<td>668</td>
-		<td>+ 2</td>
+		<td>670</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
