@@ -197,8 +197,8 @@
 		<td>376</td>
 		<td>376</td>
 		<td>376</td>
-		<td>378</td>
-		<td>+ 2</td>
+		<td>380</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -689,23 +689,23 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>snowfeather.robotics</td>
-		<td>366</td>
-		<td>367</td>
-		<td>370</td>
-		<td>374</td>
-		<td>374</td>
-		<td>376</td>
-		<td>378</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>366</td>
 		<td>369</td>
 		<td>372</td>
 		<td>376</td>
 		<td>376</td>
+		<td>376</td>
+		<td>380</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>snowfeather.robotics</td>
+		<td>366</td>
+		<td>367</td>
+		<td>370</td>
+		<td>374</td>
+		<td>374</td>
 		<td>376</td>
 		<td>378</td>
 		<td>+ 2</td>
