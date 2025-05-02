@@ -142,8 +142,8 @@
 		<td>558</td>
 		<td>562</td>
 		<td>564</td>
-		<td>566</td>
-		<td>+ 2</td>
+		<td>567</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -153,8 +153,8 @@
 		<td>5</td>
 		<td>7</td>
 		<td>9</td>
-		<td>9</td>
-		<td></td>
+		<td>11</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>661</td>
 		<td>666</td>
 		<td>670</td>
-		<td>670</td>
-		<td></td>
+		<td>673</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -509,8 +509,8 @@
 		<td>661</td>
 		<td>666</td>
 		<td>670</td>
-		<td>670</td>
-		<td></td>
+		<td>673</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>558</td>
 		<td>562</td>
 		<td>564</td>
-		<td>566</td>
-		<td>+ 2</td>
+		<td>567</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -949,8 +949,8 @@
 		<td>5</td>
 		<td>7</td>
 		<td>9</td>
-		<td>9</td>
-		<td></td>
+		<td>11</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
