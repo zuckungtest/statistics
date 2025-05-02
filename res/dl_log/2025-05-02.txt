@@ -9,7 +9,7 @@ v1.0.4-quarg.farm | downloads: 30
 v1.0.9-uniques | downloads: 40
 v1.0.3-planet.map | downloads: 19
 v1.0.8-bunrodea.missions | downloads: 48
-v1.0.7-expert.crew.members | downloads: 58
+v1.0.7-expert.crew.members | downloads: 60
 v1.1.6-galactic.capital.investment | downloads: 110
 v1.0.19-additional.command.buttons.radial | downloads: 119
 v1.0.1-highrollers.ltd | downloads: 72
@@ -147,7 +147,7 @@ v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
 v1.1.1-disable.spaceport.repeatables | downloads: 298
 v1.0.0-quarg.farm | downloads: 1
-v1.0.1-control.station | downloads: 323
+v1.0.1-control.station | downloads: 325
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
 v1.1.3-more.boarding.missions | downloads: 313
@@ -190,7 +190,7 @@ v1.0-more.boarding.missions | downloads: 4
 v1.0-more.arfectas | downloads: 1
 v1.0-kor.efret.shipyard | downloads: 155
 v1.0-gegno.pirates | downloads: 1
-v1.0-free.worlds.5.years.later | downloads: 304
+v1.0-free.worlds.5.years.later | downloads: 306
 v1.0-expert.crew.members | downloads: 4
 v1.0-disable.person.ships | downloads: 202
 v1.0-devil-run.unhidden | downloads: 1
@@ -204,7 +204,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 203
-# TOTAL DOWNLOADS: 16202
+# TOTAL DOWNLOADS: 16208
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -217,13 +217,13 @@ better.starts 440
 bunrodea.missions 568
 captureable.person.ships 413
 coalition.shopping 470
-control.station 324
+control.station 326
 devil-run.unhidden 66
 disable.person.ships 202
 disable.spaceport.repeatables 299
-expert.crew.members 567
+expert.crew.members 569
 flare.play 11
-free.worlds.5.years.later 304
+free.worlds.5.years.later 306
 galactic.capital.investment 673
 gegno.pirates 532
 hai.side.mission.unlocker 380
