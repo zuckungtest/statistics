@@ -29,7 +29,7 @@ v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 157
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
-v1.0.0-avgi.licenses | downloads: 217
+v1.0.0-avgi.licenses | downloads: 219
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 165
@@ -204,7 +204,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 203
-# TOTAL DOWNLOADS: 16188
+# TOTAL DOWNLOADS: 16190
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -212,7 +212,7 @@ additional.command.buttons 93
 additional.command.buttons.radial 681
 automata.destruction.0percent 422
 automata.in.human.space 352
-avgi.licenses 217
+avgi.licenses 219
 better.starts 440
 bunrodea.missions 566
 captureable.person.ships 411
