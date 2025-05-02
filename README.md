@@ -21,8 +21,8 @@
 		<td>673</td>
 		<td>675</td>
 		<td>677</td>
-		<td>679</td>
-		<td>+ 2</td>
+		<td>681</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -296,8 +296,8 @@
 		<td>263</td>
 		<td>267</td>
 		<td>269</td>
-		<td>269</td>
-		<td></td>
+		<td>271</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>408</td>
 		<td>410</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -498,8 +498,8 @@
 		<td>673</td>
 		<td>675</td>
 		<td>677</td>
-		<td>679</td>
-		<td>+ 2</td>
+		<td>681</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -663,8 +663,8 @@
 		<td>408</td>
 		<td>410</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -861,8 +861,8 @@
 		<td>263</td>
 		<td>267</td>
 		<td>269</td>
-		<td>269</td>
-		<td></td>
+		<td>271</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
