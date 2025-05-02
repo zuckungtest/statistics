@@ -428,8 +428,8 @@
 		<td>374</td>
 		<td>376</td>
 		<td>378</td>
-		<td>380</td>
-		<td>+ 2</td>
+		<td>382</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -696,8 +696,8 @@
 		<td>374</td>
 		<td>376</td>
 		<td>378</td>
-		<td>380</td>
-		<td>+ 2</td>
+		<td>382</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
