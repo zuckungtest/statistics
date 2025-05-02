@@ -8,7 +8,7 @@ v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 30
 v1.0.9-uniques | downloads: 40
 v1.0.3-planet.map | downloads: 19
-v1.0.8-bunrodea.missions | downloads: 46
+v1.0.8-bunrodea.missions | downloads: 48
 v1.0.7-expert.crew.members | downloads: 58
 v1.1.6-galactic.capital.investment | downloads: 110
 v1.0.19-additional.command.buttons.radial | downloads: 119
@@ -29,10 +29,10 @@ v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 157
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
-v1.0.0-avgi.licenses | downloads: 219
+v1.0.0-avgi.licenses | downloads: 221
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
-v1.1.7-captureable.person.ships | downloads: 165
+v1.1.7-captureable.person.ships | downloads: 167
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
@@ -204,7 +204,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 203
-# TOTAL DOWNLOADS: 16196
+# TOTAL DOWNLOADS: 16202
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -212,10 +212,10 @@ additional.command.buttons 93
 additional.command.buttons.radial 681
 automata.destruction.0percent 422
 automata.in.human.space 352
-avgi.licenses 219
+avgi.licenses 221
 better.starts 440
-bunrodea.missions 566
-captureable.person.ships 411
+bunrodea.missions 568
+captureable.person.ships 413
 coalition.shopping 470
 control.station 324
 devil-run.unhidden 66
