@@ -109,8 +109,8 @@
 		<td>322</td>
 		<td>322</td>
 		<td>324</td>
-		<td>324</td>
-		<td></td>
+		<td>326</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>558</td>
 		<td>562</td>
 		<td>564</td>
-		<td>567</td>
-		<td>+ 3</td>
+		<td>569</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -164,8 +164,8 @@
 		<td>302</td>
 		<td>302</td>
 		<td>304</td>
-		<td>304</td>
-		<td></td>
+		<td>306</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -524,6 +524,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>543</td>
+		<td>546</td>
+		<td>552</td>
+		<td>558</td>
+		<td>562</td>
+		<td>564</td>
+		<td>569</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>551</td>
 		<td>554</td>
@@ -533,17 +544,6 @@
 		<td>564</td>
 		<td>568</td>
 		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>expert.crew.members</td>
-		<td>543</td>
-		<td>546</td>
-		<td>552</td>
-		<td>558</td>
-		<td>562</td>
-		<td>564</td>
-		<td>567</td>
-		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -766,6 +766,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>control.station</td>
+		<td>313</td>
+		<td>316</td>
+		<td>320</td>
+		<td>322</td>
+		<td>322</td>
+		<td>324</td>
+		<td>326</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>307</td>
 		<td>310</td>
@@ -775,17 +786,6 @@
 		<td>322</td>
 		<td>324</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>control.station</td>
-		<td>313</td>
-		<td>316</td>
-		<td>320</td>
-		<td>322</td>
-		<td>322</td>
-		<td>324</td>
-		<td>324</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -817,8 +817,8 @@
 		<td>302</td>
 		<td>302</td>
 		<td>304</td>
-		<td>304</td>
-		<td></td>
+		<td>306</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
