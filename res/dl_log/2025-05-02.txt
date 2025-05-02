@@ -1,9 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-mission.helper | downloads: 2
+v1.0.3-mission.helper | downloads: 4
 v1.0.1-flare.play | downloads: 1
 v1.0.22-additional.command.buttons.radial | downloads: 3
 v1.0.0-flare.play | downloads: 8
-v1.0.21-additional.command.buttons.radial | downloads: 21
+v1.0.21-additional.command.buttons.radial | downloads: 23
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 30
 v1.0.9-uniques | downloads: 38
@@ -37,7 +37,7 @@ v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 240
-v1.0.3-show.reputation | downloads: 165
+v1.0.3-show.reputation | downloads: 167
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 225
 v1.0.5-bunrodea.missions | downloads: 120
@@ -204,12 +204,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 203
-# TOTAL DOWNLOADS: 16152
+# TOTAL DOWNLOADS: 16158
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 679
+additional.command.buttons.radial 681
 automata.destruction.0percent 422
 automata.in.human.space 352
 avgi.licenses 215
@@ -235,7 +235,7 @@ kor.efret.shipyard 514
 landing.images 354
 landing.images.android 299
 landing.images.highres 253
-mission.helper 269
+mission.helper 271
 more.arfectas 508
 more.boarding.missions 509
 more.person.ships 371
@@ -248,7 +248,7 @@ planet.map 232
 planet.pluto 134
 quarg.farm 538
 real.fluff 93
-show.reputation 414
+show.reputation 416
 snowfeather.robotics 378
 space.fauna 300
 too.many.asteroids 571
