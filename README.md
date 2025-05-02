@@ -54,8 +54,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>215</td>
-		<td>219</td>
-		<td>+ 4</td>
+		<td>221</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>558</td>
 		<td>562</td>
 		<td>564</td>
-		<td>566</td>
-		<td>+ 2</td>
+		<td>568</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>409</td>
 		<td>409</td>
 		<td>411</td>
-		<td>411</td>
-		<td></td>
+		<td>413</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -524,6 +524,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>bunrodea.missions</td>
+		<td>551</td>
+		<td>554</td>
+		<td>558</td>
+		<td>558</td>
+		<td>562</td>
+		<td>564</td>
+		<td>568</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>expert.crew.members</td>
 		<td>543</td>
 		<td>546</td>
@@ -533,17 +544,6 @@
 		<td>564</td>
 		<td>567</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>bunrodea.missions</td>
-		<td>551</td>
-		<td>554</td>
-		<td>558</td>
-		<td>558</td>
-		<td>562</td>
-		<td>564</td>
-		<td>566</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -674,8 +674,8 @@
 		<td>409</td>
 		<td>409</td>
 		<td>411</td>
-		<td>411</td>
-		<td></td>
+		<td>413</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -905,8 +905,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>215</td>
-		<td>219</td>
-		<td>+ 4</td>
+		<td>221</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
