@@ -21,8 +21,8 @@
 		<td>675</td>
 		<td>677</td>
 		<td>681</td>
-		<td>685</td>
-		<td>+ 4</td>
+		<td>686</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -498,8 +498,8 @@
 		<td>675</td>
 		<td>677</td>
 		<td>681</td>
-		<td>685</td>
-		<td>+ 4</td>
+		<td>686</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
