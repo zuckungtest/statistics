@@ -153,8 +153,8 @@
 		<td>7</td>
 		<td>9</td>
 		<td>11</td>
-		<td>12</td>
-		<td>+ 1</td>
+		<td>14</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -949,8 +949,8 @@
 		<td>7</td>
 		<td>9</td>
 		<td>11</td>
-		<td>12</td>
-		<td>+ 1</td>
+		<td>14</td>
+		<td>+ 3</td>
 	</tr>
 </table>
 </sub></sup>
