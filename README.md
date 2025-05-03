@@ -21,8 +21,8 @@
 		<td>675</td>
 		<td>677</td>
 		<td>681</td>
-		<td>686</td>
-		<td>+ 5</td>
+		<td>689</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -142,8 +142,8 @@
 		<td>562</td>
 		<td>564</td>
 		<td>571</td>
-		<td>574</td>
-		<td>+ 3</td>
+		<td>576</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -241,8 +241,8 @@
 		<td>343</td>
 		<td>345</td>
 		<td>351</td>
-		<td>352</td>
-		<td>+ 1</td>
+		<td>354</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -296,8 +296,8 @@
 		<td>267</td>
 		<td>269</td>
 		<td>275</td>
-		<td>276</td>
-		<td>+ 1</td>
+		<td>279</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -498,8 +498,8 @@
 		<td>675</td>
 		<td>677</td>
 		<td>681</td>
-		<td>686</td>
-		<td>+ 5</td>
+		<td>689</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -513,6 +513,17 @@
 		<td>+ 5</td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>546</td>
+		<td>552</td>
+		<td>558</td>
+		<td>562</td>
+		<td>564</td>
+		<td>571</td>
+		<td>576</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>556</td>
 		<td>562</td>
@@ -522,17 +533,6 @@
 		<td>573</td>
 		<td>574</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>expert.crew.members</td>
-		<td>546</td>
-		<td>552</td>
-		<td>558</td>
-		<td>562</td>
-		<td>564</td>
-		<td>571</td>
-		<td>574</td>
-		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -744,6 +744,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>kestrel.unlocks</td>
+		<td>335</td>
+		<td>339</td>
+		<td>341</td>
+		<td>343</td>
+		<td>345</td>
+		<td>351</td>
+		<td>354</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>345</td>
 		<td>349</td>
@@ -752,17 +763,6 @@
 		<td>352</td>
 		<td>352</td>
 		<td>353</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>kestrel.unlocks</td>
-		<td>335</td>
-		<td>339</td>
-		<td>341</td>
-		<td>343</td>
-		<td>345</td>
-		<td>351</td>
-		<td>352</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
@@ -861,8 +861,8 @@
 		<td>267</td>
 		<td>269</td>
 		<td>275</td>
-		<td>276</td>
-		<td>+ 1</td>
+		<td>279</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
