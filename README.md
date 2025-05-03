@@ -318,8 +318,8 @@
 		<td>505</td>
 		<td>509</td>
 		<td>515</td>
-		<td>516</td>
-		<td>+ 1</td>
+		<td>518</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -597,8 +597,8 @@
 		<td>505</td>
 		<td>509</td>
 		<td>515</td>
-		<td>516</td>
-		<td>+ 1</td>
+		<td>518</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
