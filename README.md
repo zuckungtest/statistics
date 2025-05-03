@@ -76,8 +76,8 @@
 		<td>562</td>
 		<td>564</td>
 		<td>570</td>
-		<td>571</td>
-		<td>+ 1</td>
+		<td>573</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>409</td>
 		<td>411</td>
 		<td>415</td>
-		<td>416</td>
-		<td>+ 1</td>
+		<td>418</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -142,8 +142,8 @@
 		<td>562</td>
 		<td>564</td>
 		<td>571</td>
-		<td>572</td>
-		<td>+ 1</td>
+		<td>574</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>666</td>
 		<td>670</td>
 		<td>677</td>
-		<td>680</td>
-		<td>+ 3</td>
+		<td>682</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>528</td>
 		<td>530</td>
 		<td>536</td>
-		<td>537</td>
-		<td>+ 1</td>
+		<td>539</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -230,8 +230,8 @@
 		<td>426</td>
 		<td>429</td>
 		<td>431</td>
-		<td>432</td>
-		<td>+ 1</td>
+		<td>434</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -340,8 +340,8 @@
 		<td>556</td>
 		<td>558</td>
 		<td>565</td>
-		<td>566</td>
-		<td>+ 1</td>
+		<td>568</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -509,8 +509,8 @@
 		<td>666</td>
 		<td>670</td>
 		<td>677</td>
-		<td>680</td>
-		<td>+ 3</td>
+		<td>682</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>562</td>
 		<td>564</td>
 		<td>571</td>
-		<td>572</td>
-		<td>+ 1</td>
+		<td>574</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>562</td>
 		<td>564</td>
 		<td>570</td>
-		<td>571</td>
-		<td>+ 1</td>
+		<td>573</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -553,8 +553,8 @@
 		<td>556</td>
 		<td>558</td>
 		<td>565</td>
-		<td>566</td>
-		<td>+ 1</td>
+		<td>568</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -575,8 +575,8 @@
 		<td>528</td>
 		<td>530</td>
 		<td>536</td>
-		<td>537</td>
-		<td>+ 1</td>
+		<td>539</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -641,8 +641,8 @@
 		<td>426</td>
 		<td>429</td>
 		<td>431</td>
-		<td>432</td>
-		<td>+ 1</td>
+		<td>434</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -674,8 +674,8 @@
 		<td>409</td>
 		<td>411</td>
 		<td>415</td>
-		<td>416</td>
-		<td>+ 1</td>
+		<td>418</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
