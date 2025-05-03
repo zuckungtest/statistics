@@ -175,8 +175,8 @@
 		<td>666</td>
 		<td>670</td>
 		<td>677</td>
-		<td>677</td>
-		<td></td>
+		<td>679</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -417,8 +417,8 @@
 		<td>410</td>
 		<td>414</td>
 		<td>422</td>
-		<td>422</td>
-		<td></td>
+		<td>424</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -509,8 +509,8 @@
 		<td>666</td>
 		<td>670</td>
 		<td>677</td>
-		<td>677</td>
-		<td></td>
+		<td>679</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -645,6 +645,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>show.reputation</td>
+		<td>404</td>
+		<td>408</td>
+		<td>408</td>
+		<td>410</td>
+		<td>414</td>
+		<td>422</td>
+		<td>424</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>413</td>
 		<td>417</td>
@@ -653,17 +664,6 @@
 		<td>422</td>
 		<td>424</td>
 		<td>424</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>show.reputation</td>
-		<td>404</td>
-		<td>408</td>
-		<td>408</td>
-		<td>410</td>
-		<td>414</td>
-		<td>422</td>
-		<td>422</td>
 		<td></td>
 	</tr>
 	<tr>
