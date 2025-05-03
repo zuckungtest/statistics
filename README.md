@@ -65,8 +65,8 @@
 		<td>436</td>
 		<td>440</td>
 		<td>440</td>
-		<td>441</td>
-		<td>+ 1</td>
+		<td>443</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -630,8 +630,8 @@
 		<td>436</td>
 		<td>440</td>
 		<td>440</td>
-		<td>441</td>
-		<td>+ 1</td>
+		<td>443</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
