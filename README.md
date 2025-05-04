@@ -65,8 +65,8 @@
 		<td>440</td>
 		<td>440</td>
 		<td>443</td>
-		<td>443</td>
-		<td></td>
+		<td>444</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>564</td>
 		<td>570</td>
 		<td>573</td>
-		<td>573</td>
-		<td></td>
+		<td>574</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>470</td>
 		<td>472</td>
 		<td>473</td>
-		<td>473</td>
-		<td></td>
+		<td>474</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -120,8 +120,8 @@
 		<td>202</td>
 		<td>202</td>
 		<td>203</td>
-		<td>203</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -142,8 +142,8 @@
 		<td>564</td>
 		<td>571</td>
 		<td>576</td>
-		<td>576</td>
-		<td></td>
+		<td>577</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -153,8 +153,8 @@
 		<td>9</td>
 		<td>11</td>
 		<td>14</td>
-		<td>14</td>
-		<td></td>
+		<td>15</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>670</td>
 		<td>677</td>
 		<td>682</td>
-		<td>682</td>
-		<td></td>
+		<td>683</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>345</td>
 		<td>351</td>
 		<td>354</td>
-		<td>354</td>
-		<td></td>
+		<td>356</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -252,8 +252,8 @@
 		<td>514</td>
 		<td>520</td>
 		<td>521</td>
-		<td>521</td>
-		<td></td>
+		<td>523</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -263,8 +263,8 @@
 		<td>354</td>
 		<td>356</td>
 		<td>357</td>
-		<td>359</td>
-		<td>+ 2</td>
+		<td>361</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -296,8 +296,8 @@
 		<td>269</td>
 		<td>275</td>
 		<td>279</td>
-		<td>279</td>
-		<td></td>
+		<td>281</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>508</td>
 		<td>508</td>
 		<td>509</td>
-		<td>511</td>
-		<td>+ 2</td>
+		<td>513</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -318,8 +318,8 @@
 		<td>509</td>
 		<td>515</td>
 		<td>518</td>
-		<td>518</td>
-		<td></td>
+		<td>520</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -340,8 +340,8 @@
 		<td>558</td>
 		<td>565</td>
 		<td>568</td>
-		<td>568</td>
-		<td></td>
+		<td>570</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -351,8 +351,8 @@
 		<td>315</td>
 		<td>319</td>
 		<td>322</td>
-		<td>322</td>
-		<td></td>
+		<td>324</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -373,8 +373,8 @@
 		<td>358</td>
 		<td>358</td>
 		<td>359</td>
-		<td>359</td>
-		<td></td>
+		<td>361</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -406,8 +406,8 @@
 		<td>536</td>
 		<td>542</td>
 		<td>543</td>
-		<td>543</td>
-		<td></td>
+		<td>545</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -509,8 +509,19 @@
 		<td>670</td>
 		<td>677</td>
 		<td>682</td>
-		<td>682</td>
-		<td></td>
+		<td>683</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
+		<td>expert.crew.members</td>
+		<td>552</td>
+		<td>558</td>
+		<td>562</td>
+		<td>564</td>
+		<td>571</td>
+		<td>576</td>
+		<td>577</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -524,17 +535,6 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>expert.crew.members</td>
-		<td>552</td>
-		<td>558</td>
-		<td>562</td>
-		<td>564</td>
-		<td>571</td>
-		<td>576</td>
-		<td>576</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>bunrodea.missions</td>
 		<td>558</td>
 		<td>558</td>
@@ -542,8 +542,8 @@
 		<td>564</td>
 		<td>570</td>
 		<td>573</td>
-		<td>573</td>
-		<td></td>
+		<td>574</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -553,8 +553,8 @@
 		<td>558</td>
 		<td>565</td>
 		<td>568</td>
-		<td>568</td>
-		<td></td>
+		<td>570</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>536</td>
 		<td>542</td>
 		<td>543</td>
-		<td>543</td>
-		<td></td>
+		<td>545</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -586,8 +586,8 @@
 		<td>514</td>
 		<td>520</td>
 		<td>521</td>
-		<td>521</td>
-		<td></td>
+		<td>523</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>509</td>
 		<td>515</td>
 		<td>518</td>
-		<td>518</td>
-		<td></td>
+		<td>520</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -608,8 +608,8 @@
 		<td>508</td>
 		<td>508</td>
 		<td>509</td>
-		<td>511</td>
-		<td>+ 2</td>
+		<td>513</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>470</td>
 		<td>472</td>
 		<td>473</td>
-		<td>473</td>
-		<td></td>
+		<td>474</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -630,8 +630,8 @@
 		<td>440</td>
 		<td>440</td>
 		<td>443</td>
-		<td>443</td>
-		<td></td>
+		<td>444</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -729,8 +729,8 @@
 		<td>358</td>
 		<td>358</td>
 		<td>359</td>
-		<td>359</td>
-		<td></td>
+		<td>361</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -740,8 +740,8 @@
 		<td>354</td>
 		<td>356</td>
 		<td>357</td>
-		<td>359</td>
-		<td>+ 2</td>
+		<td>361</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -751,8 +751,8 @@
 		<td>345</td>
 		<td>351</td>
 		<td>354</td>
-		<td>354</td>
-		<td></td>
+		<td>356</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -795,8 +795,8 @@
 		<td>315</td>
 		<td>319</td>
 		<td>322</td>
-		<td>322</td>
-		<td></td>
+		<td>324</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -861,8 +861,8 @@
 		<td>269</td>
 		<td>275</td>
 		<td>279</td>
-		<td>279</td>
-		<td></td>
+		<td>281</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -916,8 +916,8 @@
 		<td>202</td>
 		<td>202</td>
 		<td>203</td>
-		<td>203</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -949,8 +949,8 @@
 		<td>9</td>
 		<td>11</td>
 		<td>14</td>
-		<td>14</td>
-		<td></td>
+		<td>15</td>
+		<td>+ 1</td>
 	</tr>
 </table>
 </sub></sup>
