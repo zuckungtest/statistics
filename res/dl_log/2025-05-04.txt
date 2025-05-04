@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-mission.helper | downloads: 14
+v1.0.3-mission.helper | downloads: 15
 v1.0.1-flare.play | downloads: 7
-v1.0.22-additional.command.buttons.radial | downloads: 11
+v1.0.22-additional.command.buttons.radial | downloads: 12
 v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
@@ -29,7 +29,7 @@ v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 164
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
-v1.0.0-avgi.licenses | downloads: 225
+v1.0.0-avgi.licenses | downloads: 226
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
 v1.1.7-captureable.person.ships | downloads: 172
@@ -37,7 +37,7 @@ v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 248
-v1.0.3-show.reputation | downloads: 179
+v1.0.3-show.reputation | downloads: 181
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 229
 v1.0.5-bunrodea.missions | downloads: 120
@@ -76,7 +76,7 @@ v1.0.2-quarg.farm | downloads: 190
 v1.0.2-landing.images.highres | downloads: 186
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
-v1.0.1-automata.in.human.space | downloads: 292
+v1.0.1-automata.in.human.space | downloads: 294
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -140,7 +140,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 425
+v1.0.1-automata.destruction.0percent | downloads: 427
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -204,15 +204,15 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 203
-# TOTAL DOWNLOADS: 16421
+# TOTAL DOWNLOADS: 16430
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 693
-automata.destruction.0percent 426
-automata.in.human.space 353
-avgi.licenses 225
+additional.command.buttons.radial 694
+automata.destruction.0percent 428
+automata.in.human.space 355
+avgi.licenses 226
 better.starts 444
 bunrodea.missions 574
 captureable.person.ships 418
@@ -235,7 +235,7 @@ kor.efret.shipyard 523
 landing.images 361
 landing.images.android 304
 landing.images.highres 254
-mission.helper 281
+mission.helper 282
 more.arfectas 514
 more.boarding.missions 521
 more.person.ships 376
@@ -248,7 +248,7 @@ planet.map 233
 planet.pluto 137
 quarg.farm 545
 real.fluff 93
-show.reputation 428
+show.reputation 430
 snowfeather.robotics 389
 space.fauna 301
 too.many.asteroids 579
