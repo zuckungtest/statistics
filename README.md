@@ -21,8 +21,8 @@
 		<td>677</td>
 		<td>681</td>
 		<td>689</td>
-		<td>693</td>
-		<td>+ 4</td>
+		<td>694</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>422</td>
 		<td>424</td>
 		<td>425</td>
-		<td>426</td>
-		<td>+ 1</td>
+		<td>428</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>352</td>
 		<td>352</td>
 		<td>353</td>
-		<td>353</td>
-		<td></td>
+		<td>355</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>avgi.licenses</td>
@@ -54,8 +54,8 @@
 		<td>215</td>
 		<td>223</td>
 		<td>224</td>
-		<td>225</td>
-		<td>+ 1</td>
+		<td>226</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -296,8 +296,8 @@
 		<td>269</td>
 		<td>275</td>
 		<td>279</td>
-		<td>281</td>
-		<td>+ 2</td>
+		<td>282</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>414</td>
 		<td>422</td>
 		<td>426</td>
-		<td>428</td>
-		<td>+ 2</td>
+		<td>430</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -498,8 +498,8 @@
 		<td>677</td>
 		<td>681</td>
 		<td>689</td>
-		<td>693</td>
-		<td>+ 4</td>
+		<td>694</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -652,8 +652,8 @@
 		<td>414</td>
 		<td>422</td>
 		<td>426</td>
-		<td>428</td>
-		<td>+ 2</td>
+		<td>430</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -663,8 +663,8 @@
 		<td>422</td>
 		<td>424</td>
 		<td>425</td>
-		<td>426</td>
-		<td>+ 1</td>
+		<td>428</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -762,8 +762,8 @@
 		<td>352</td>
 		<td>352</td>
 		<td>353</td>
-		<td>353</td>
-		<td></td>
+		<td>355</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -861,8 +861,8 @@
 		<td>269</td>
 		<td>275</td>
 		<td>279</td>
-		<td>281</td>
-		<td>+ 2</td>
+		<td>282</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -905,8 +905,8 @@
 		<td>215</td>
 		<td>223</td>
 		<td>224</td>
-		<td>225</td>
-		<td>+ 1</td>
+		<td>226</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
