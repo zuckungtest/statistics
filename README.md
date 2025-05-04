@@ -21,8 +21,8 @@
 		<td>677</td>
 		<td>681</td>
 		<td>689</td>
-		<td>689</td>
-		<td></td>
+		<td>693</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -164,8 +164,8 @@
 		<td>304</td>
 		<td>308</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>311</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -274,8 +274,8 @@
 		<td>299</td>
 		<td>299</td>
 		<td>300</td>
-		<td>302</td>
-		<td>+ 2</td>
+		<td>304</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -417,8 +417,8 @@
 		<td>414</td>
 		<td>422</td>
 		<td>426</td>
-		<td>426</td>
-		<td></td>
+		<td>428</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td>571</td>
 		<td>573</td>
 		<td>574</td>
-		<td>576</td>
-		<td>+ 2</td>
+		<td>578</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -498,8 +498,8 @@
 		<td>677</td>
 		<td>681</td>
 		<td>689</td>
-		<td>689</td>
-		<td></td>
+		<td>693</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -513,6 +513,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>562</td>
+		<td>564</td>
+		<td>566</td>
+		<td>571</td>
+		<td>573</td>
+		<td>574</td>
+		<td>578</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>expert.crew.members</td>
 		<td>552</td>
 		<td>558</td>
@@ -522,17 +533,6 @@
 		<td>576</td>
 		<td>577</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>562</td>
-		<td>564</td>
-		<td>566</td>
-		<td>571</td>
-		<td>573</td>
-		<td>574</td>
-		<td>576</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -652,8 +652,8 @@
 		<td>414</td>
 		<td>422</td>
 		<td>426</td>
-		<td>426</td>
-		<td></td>
+		<td>428</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -817,8 +817,8 @@
 		<td>304</td>
 		<td>308</td>
 		<td>309</td>
-		<td>309</td>
-		<td></td>
+		<td>311</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -828,8 +828,8 @@
 		<td>299</td>
 		<td>299</td>
 		<td>300</td>
-		<td>302</td>
-		<td>+ 2</td>
+		<td>304</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
