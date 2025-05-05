@@ -450,8 +450,8 @@
 		<td>573</td>
 		<td>574</td>
 		<td>579</td>
-		<td>583</td>
-		<td>+ 4</td>
+		<td>585</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -520,8 +520,8 @@
 		<td>573</td>
 		<td>574</td>
 		<td>579</td>
-		<td>583</td>
-		<td>+ 4</td>
+		<td>585</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
