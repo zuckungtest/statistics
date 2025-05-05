@@ -472,8 +472,8 @@
 		<td>392</td>
 		<td>393</td>
 		<td>394</td>
-		<td>394</td>
-		<td></td>
+		<td>396</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>392</td>
 		<td>393</td>
 		<td>394</td>
-		<td>394</td>
-		<td></td>
+		<td>396</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
