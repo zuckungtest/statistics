@@ -21,8 +21,8 @@
 		<td>689</td>
 		<td>694</td>
 		<td>696</td>
-		<td>696</td>
-		<td></td>
+		<td>698</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -373,8 +373,8 @@
 		<td>359</td>
 		<td>361</td>
 		<td>361</td>
-		<td>363</td>
-		<td>+ 2</td>
+		<td>365</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -498,8 +498,8 @@
 		<td>689</td>
 		<td>694</td>
 		<td>696</td>
-		<td>696</td>
-		<td></td>
+		<td>698</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -729,8 +729,8 @@
 		<td>359</td>
 		<td>361</td>
 		<td>361</td>
-		<td>363</td>
-		<td>+ 2</td>
+		<td>365</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
