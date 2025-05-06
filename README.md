@@ -32,8 +32,8 @@
 		<td>425</td>
 		<td>428</td>
 		<td>428</td>
-		<td>428</td>
-		<td></td>
+		<td>430</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>224</td>
 		<td>226</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>228</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>573</td>
 		<td>574</td>
 		<td>574</td>
-		<td>574</td>
-		<td></td>
+		<td>576</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>418</td>
 		<td>418</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>420</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -142,8 +142,8 @@
 		<td>576</td>
 		<td>577</td>
 		<td>577</td>
-		<td>577</td>
-		<td></td>
+		<td>579</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -450,8 +450,8 @@
 		<td>574</td>
 		<td>579</td>
 		<td>585</td>
-		<td>585</td>
-		<td></td>
+		<td>587</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td>393</td>
 		<td>394</td>
 		<td>396</td>
-		<td>396</td>
-		<td></td>
+		<td>398</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>574</td>
 		<td>579</td>
 		<td>585</td>
-		<td>585</td>
-		<td></td>
+		<td>587</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -531,8 +531,8 @@
 		<td>576</td>
 		<td>577</td>
 		<td>577</td>
-		<td>577</td>
-		<td></td>
+		<td>579</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>573</td>
 		<td>574</td>
 		<td>574</td>
-		<td>574</td>
-		<td></td>
+		<td>576</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>navy.licenses</td>
@@ -663,8 +663,8 @@
 		<td>425</td>
 		<td>428</td>
 		<td>428</td>
-		<td>428</td>
-		<td></td>
+		<td>430</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -674,8 +674,8 @@
 		<td>418</td>
 		<td>418</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>420</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -685,8 +685,8 @@
 		<td>393</td>
 		<td>394</td>
 		<td>396</td>
-		<td>396</td>
-		<td></td>
+		<td>398</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -905,8 +905,8 @@
 		<td>224</td>
 		<td>226</td>
 		<td>226</td>
-		<td>226</td>
-		<td></td>
+		<td>228</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
