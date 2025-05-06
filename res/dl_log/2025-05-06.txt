@@ -73,7 +73,7 @@ v1.0.4-landing.images | downloads: 290
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
-v1.0.2-landing.images.highres | downloads: 188
+v1.0.2-landing.images.highres | downloads: 190
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
 v1.0.1-automata.in.human.space | downloads: 294
@@ -204,7 +204,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 203
-# TOTAL DOWNLOADS: 16502
+# TOTAL DOWNLOADS: 16504
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -234,7 +234,7 @@ kestrel.unlocks 358
 kor.efret.shipyard 525
 landing.images 363
 landing.images.android 304
-landing.images.highres 256
+landing.images.highres 258
 mission.helper 282
 more.arfectas 516
 more.boarding.missions 523
