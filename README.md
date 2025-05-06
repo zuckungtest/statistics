@@ -285,8 +285,8 @@
 		<td>254</td>
 		<td>254</td>
 		<td>254</td>
-		<td>256</td>
-		<td>+ 2</td>
+		<td>258</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -865,6 +865,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images.highres</td>
+		<td>251</td>
+		<td>253</td>
+		<td>253</td>
+		<td>254</td>
+		<td>254</td>
+		<td>254</td>
+		<td>258</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>tribute.republic</td>
 		<td>254</td>
 		<td>256</td>
@@ -874,17 +885,6 @@
 		<td>257</td>
 		<td>257</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images.highres</td>
-		<td>251</td>
-		<td>253</td>
-		<td>253</td>
-		<td>254</td>
-		<td>254</td>
-		<td>254</td>
-		<td>256</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
