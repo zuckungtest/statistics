@@ -142,8 +142,8 @@
 		<td>577</td>
 		<td>577</td>
 		<td>579</td>
-		<td>579</td>
-		<td></td>
+		<td>581</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -531,8 +531,8 @@
 		<td>577</td>
 		<td>577</td>
 		<td>579</td>
-		<td>579</td>
-		<td></td>
+		<td>581</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
