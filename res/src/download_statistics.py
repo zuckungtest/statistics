@@ -8,13 +8,13 @@ import json
 def set_var():
 	global username
 	global token
+	global token2
 	global repo
-	token = os.environ['PAT'] # was github_token
+	token = os.environ['PAT']
 	token2 = os.environ['github_token']
 	#username = os.environ['USER']
 	#username = os.environ['CUR_REPO'].split('/')[0]
 	username = 'zuckungtest'
-	print(username)
 	repo = 'zuckung/endless-sky-plugins'
 
 def get_date():
@@ -73,7 +73,7 @@ def get_usercount():
 	dates, newdates, newlist = [], [], []
 	now = datetime.now()
 	date_time = now.strftime("%Y-%m-%d" + 'T00:00:00Z')
-	response = requests.get('https://api.github.com/repos/' + repo + '/traffic/views?per_page=100', auth=(username, token))
+	response = requests.get('https://api.github.com/repos/' + repo + '/traffic/views?per_page=100', auth=(username, token2))
 	data = response.json()
 	print(data)
 	print('getting live data from last 2 days:')
@@ -118,7 +118,7 @@ def get_usercount():
 def run():
 	set_var()
 	analyze_write()
-	get_usercount()
+	#get_usercount()
 
 
 if __name__ == "__main__":
