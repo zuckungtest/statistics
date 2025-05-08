@@ -197,8 +197,8 @@
 		<td>383</td>
 		<td>385</td>
 		<td>385</td>
-		<td>387</td>
-		<td>+ 2</td>
+		<td>389</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -296,8 +296,8 @@
 		<td>282</td>
 		<td>282</td>
 		<td>284</td>
-		<td>284</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td>396</td>
 		<td>398</td>
 		<td>398</td>
-		<td>400</td>
-		<td>+ 2</td>
+		<td>402</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>396</td>
 		<td>398</td>
 		<td>398</td>
-		<td>400</td>
-		<td>+ 2</td>
+		<td>402</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -707,8 +707,8 @@
 		<td>383</td>
 		<td>385</td>
 		<td>385</td>
-		<td>387</td>
-		<td>+ 2</td>
+		<td>389</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -861,8 +861,8 @@
 		<td>282</td>
 		<td>282</td>
 		<td>284</td>
-		<td>284</td>
-		<td></td>
+		<td>286</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
