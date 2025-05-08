@@ -2,6 +2,7 @@ name: (scheduled) download statistics
 env:
   github_token: ${{ secrets.GITHUB_TOKEN }}
   CUR_REPO: ${{ github.repository }}
+  ST: ${{ secrets.ST }}
 on: 
   schedule: 
     - cron: '00 * * * *' 
