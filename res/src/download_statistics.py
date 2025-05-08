@@ -9,8 +9,8 @@ def set_var():
 	global username
 	global token
 	global repo
-	username = ''
-	token = ''
+	token = os.environ['github_token']
+	username = os.environ['CUR_REPO'].split('/')[0]
 	repo = 'zuckung/endless-sky-plugins'
 
 def get_date():
@@ -64,9 +64,55 @@ def analyze_write():
 			target.writelines(each + '\n')
 
 
+def get_usercount():
+	dates, newdates, newlist = [], [], []
+	now = datetime.now()
+	date_time = now.strftime("%Y-%m-%d" + 'T00:00:00Z')
+	response = requests.get('https://api.github.com/repos/' + repo + '/traffic/views?per_page=100', auth=(username, token))
+	data = response.json()
+	print('getting live data from last 2 days:')
+	for i in range(13, len(data['views'])):
+		timestamp = data['views'][i]["timestamp"]
+		count = data['views'][i]["count"]
+		uniques = data['views'][i]["uniques"]
+		print('\t' + timestamp + '|' + str(count) + '|' + str(uniques))
+		dates.append(timestamp + '|' + str(count) + '|' + str(uniques))
+	print('comparing with saved:')
+	with open('res/usercount.txt', 'r') as source:
+		olddates = source.readlines()
+	for each in dates:
+		if each + '\n' in olddates:
+			print ('\tduplicate', each)
+		else:
+			newdates.append(each + '\n')
+	for each in newdates:
+		print('\tchanged', each.strip())
+	if len(newdates) == 0:
+		print('\tno changed data')
+	print('adding changed data to text:')
+	if len(newdates) > 0:
+		for olddate in olddates:
+			found = False
+			for newdate in newdates:
+				newdatedate = newdate.split('|')[0]
+				if olddate.startswith(newdatedate):
+					newlist.append(newdate)
+					found = True
+					break
+			if found == False:
+				newlist.append(olddate)
+		if not newdates[len(newdates)-1].split('|')[0] in olddates:
+			newlist.append(newdates[len(newdates)-1])
+	else:
+		print('\tnothing to add')
+	with open('res/usercount.txt', 'w') as target:
+		for each in newlist:
+			target.writelines(each)
+
 def run():
 	set_var()
 	analyze_write()
+	get_usercount()
 
 
 if __name__ == "__main__":
