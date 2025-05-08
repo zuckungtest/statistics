@@ -170,7 +170,7 @@ def write_users():
 	# sort for seven days
 	print('CREATE TABLE FOR SEVEN DAYS')
 	sevendays, row1, row2, row3 = [], [], [], []
-	for i in range(len(userdata)-1, len(userdata)-8, -1):
+	for i in range(len(userdata)-1, len(userdata)-10, -1):
 		sevendays.append(userdata[i].strip())
 	for line in sevendays:
 		date, views, uniques = parse(line)
