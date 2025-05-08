@@ -177,7 +177,7 @@ def write_users():
 	row3.append('unique visitors')
 	for line in sevendays:
 		date, views, uniques = parse(line)
-		row1.append(date.replace('T00:00:00Z', '')
+		row1.append(date.replace('T00:00:00Z', ''))
 		row2.append(views)
 		row3.append(uniques)
 		print('\t', date, views, uniques)
