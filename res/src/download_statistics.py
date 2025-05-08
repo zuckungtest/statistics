@@ -10,7 +10,9 @@ def set_var():
 	global token
 	global repo
 	token = os.environ['PAT'] # was github_token
-	username = os.environ['CUR_REPO'].split('/')[0]
+	token2 = os.environ['github_token']
+	username = os.enviro ['USER']
+	#username = os.environ['CUR_REPO'].split('/')[0]
 	print(username)
 	repo = 'zuckung/endless-sky-plugins'
 
@@ -33,7 +35,7 @@ def analyze_write():
 				response = requests.get('https://api.github.com/repos/' + repo + '/releases?page=' + str(i) + '&per_page=100')
 			else:
 				print('user/token found')
-				response = requests.get('https://api.github.com/repos/' + repo + '/releases?page=' + str(i) + '&per_page=100', auth=(username, token))
+				response = requests.get('https://api.github.com/repos/' + repo + '/releases?page=' + str(i) + '&per_page=100', auth=(username, token2))
 			data = response.json()	
 			if len(data) == 0:
 				break
