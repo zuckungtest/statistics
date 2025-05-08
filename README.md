@@ -958,33 +958,33 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-05-08</td>
-		<td>2025-05-07</td>
-		<td>2025-05-06</td>
-		<td>2025-05-05</td>
-		<td>2025-05-04</td>
-		<td>2025-05-03</td>
 		<td>2025-05-02</td>
+		<td>2025-05-03</td>
+		<td>2025-05-04</td>
+		<td>2025-05-05</td>
+		<td>2025-05-06</td>
+		<td>2025-05-07</td>
+		<td>2025-05-08</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>80</td>
-		<td>24</td>
-		<td>20</td>
-		<td>34</td>
-		<td>30</td>
-		<td>56</td>
 		<td>48</td>
+		<td>56</td>
+		<td>30</td>
+		<td>34</td>
+		<td>20</td>
+		<td>24</td>
+		<td>80</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>15</td>
-		<td>10</td>
-		<td>10</td>
-		<td>14</td>
-		<td>12</td>
-		<td>12</td>
 		<td>16</td>
+		<td>12</td>
+		<td>12</td>
+		<td>14</td>
+		<td>10</td>
+		<td>10</td>
+		<td>15</td>
 	</tr>
 </table>
 <br>
