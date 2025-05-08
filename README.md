@@ -54,8 +54,8 @@
 		<td>226</td>
 		<td>228</td>
 		<td>228</td>
-		<td>228</td>
-		<td></td>
+		<td>229</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -142,8 +142,8 @@
 		<td>577</td>
 		<td>579</td>
 		<td>581</td>
-		<td>585</td>
-		<td>+ 4</td>
+		<td>586</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -531,8 +531,8 @@
 		<td>577</td>
 		<td>579</td>
 		<td>581</td>
-		<td>585</td>
-		<td>+ 4</td>
+		<td>586</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -905,8 +905,8 @@
 		<td>226</td>
 		<td>228</td>
 		<td>228</td>
-		<td>228</td>
-		<td></td>
+		<td>229</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -958,7 +958,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-04-30</td>
 		<td>2025-05-01</td>
 		<td>2025-05-02</td>
 		<td>2025-05-03</td>
@@ -967,10 +966,10 @@
 		<td>2025-05-06</td>
 		<td>2025-05-07</td>
 		<td>2025-05-08</td>
+		<td>2025-05-08</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>77</td>
 		<td>34</td>
 		<td>48</td>
 		<td>56</td>
@@ -978,11 +977,11 @@
 		<td>34</td>
 		<td>20</td>
 		<td>24</td>
-		<td>80</td>
+		<td>117</td>
+		<td>117</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>14</td>
 		<td>10</td>
 		<td>16</td>
 		<td>12</td>
@@ -990,6 +989,7 @@
 		<td>14</td>
 		<td>10</td>
 		<td>10</td>
+		<td>15</td>
 		<td>15</td>
 	</tr>
 </table>
@@ -1004,9 +1004,9 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>754</td>
-		<td>175</td>
-		<td>103</td>
+		<td>908</td>
+		<td>190</td>
+		<td>117</td>
 		<td>16</td>
 	</tr>
 </table>
