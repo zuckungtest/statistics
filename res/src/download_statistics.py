@@ -105,7 +105,7 @@ def get_usercount():
 				newlist.append(olddate)
 		found = False
 		for new in newlist:
-			if new.startswith(newdates[len(newdates)-1].split('|')[0]:
+			if new.startswith(newdates[len(newdates)-1].split('|')[0]):
 				found = True
 				break
 		if found == False:
