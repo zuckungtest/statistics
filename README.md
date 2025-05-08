@@ -954,6 +954,7 @@
 	</tr>
 </table>
 </sub></sup>
+<h6>Other statistics</h6><sub><sup><br>
 <table>
 	<tr>
 		<td> </td>
@@ -986,6 +987,7 @@
 		<td>16</td>
 	</tr>
 </table>
+</sub></sup>
 <br>
 <table>
 	<tr>
@@ -1003,3 +1005,4 @@
 		<td>16</td>
 	</tr>
 </table>
+</sub></sup>
