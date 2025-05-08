@@ -4,11 +4,6 @@ from datetime import datetime
 import json
 
 
-# for local testing
-if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src':
-	os.chdir('../../')
-
-
 
 def set_var():
 	global username
@@ -69,9 +64,15 @@ def analyze_write():
 			target.writelines(each + '\n')
 
 
+def run():
+	set_var()
+	analyze_write()
+
+
+if __name__ == "__main__":
+	run()
 		 
 		
 
 
-set_var()
-analyze_write()
+
