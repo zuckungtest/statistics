@@ -11,8 +11,9 @@ def set_var():
 	global repo
 	token = os.environ['PAT'] # was github_token
 	token2 = os.environ['github_token']
-	username = os.environ['USER']
+	#username = os.environ['USER']
 	#username = os.environ['CUR_REPO'].split('/')[0]
+	username = 'zuckungtest'
 	print(username)
 	repo = 'zuckung/endless-sky-plugins'
 
