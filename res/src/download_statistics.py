@@ -10,11 +10,7 @@ def set_var():
 	global token
 	global token2
 	global repo
-	#token = os.environ['PAT']
 	token = os.environ['ST']
-	#token = os.environ['github_token']
-	#username = os.environ['USER']
-	#username = os.environ['CUR_REPO'].split('/')[0]
 	username = 'zuckungtest'
 	repo = 'zuckung/endless-sky-plugins'
 
@@ -76,7 +72,7 @@ def get_usercount():
 	date_time = now.strftime("%Y-%m-%d" + 'T00:00:00Z')
 	response = requests.get('https://api.github.com/repos/' + repo + '/traffic/views?per_page=100', auth=(username, token))
 	data = response.json()
-	print(data)
+	#print(data)
 	print('getting live data from last 2 days:')
 	for i in range(13, len(data['views'])):
 		timestamp = data['views'][i]["timestamp"]
@@ -108,7 +104,7 @@ def get_usercount():
 					break
 			if found == False:
 				newlist.append(olddate)
-		if not newdates[len(newdates)-1].split('|')[0] in olddates:
+		if not newdates[len(newdates)-1].split('|')[0] in newlist:
 			newlist.append(newdates[len(newdates)-1])
 	else:
 		print('\tnothing to add')
