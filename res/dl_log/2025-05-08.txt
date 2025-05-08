@@ -1,12 +1,12 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-mission.helper | downloads: 17
+v1.0.3-mission.helper | downloads: 19
 v1.0.1-flare.play | downloads: 13
 v1.0.22-additional.command.buttons.radial | downloads: 18
 v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 37
-v1.0.9-uniques | downloads: 48
+v1.0.9-uniques | downloads: 50
 v1.0.3-planet.map | downloads: 20
 v1.0.8-bunrodea.missions | downloads: 59
 v1.0.7-expert.crew.members | downloads: 74
@@ -82,7 +82,7 @@ v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
-v1.1.4-hai.side.mission.unlocker | downloads: 312
+v1.1.4-hai.side.mission.unlocker | downloads: 314
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 268
 v1.0.1-paint.your.ships | downloads: 361
@@ -204,7 +204,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 203
-# TOTAL DOWNLOADS: 16533
+# TOTAL DOWNLOADS: 16539
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -226,7 +226,7 @@ flare.play 21
 free.worlds.5.years.later 313
 galactic.capital.investment 685
 gegno.pirates 543
-hai.side.mission.unlocker 387
+hai.side.mission.unlocker 389
 highrollers.ltd 86
 human.labels 325
 jump.gates 438
@@ -235,7 +235,7 @@ kor.efret.shipyard 525
 landing.images 365
 landing.images.android 306
 landing.images.highres 258
-mission.helper 284
+mission.helper 286
 more.arfectas 516
 more.boarding.missions 523
 more.person.ships 376
@@ -254,4 +254,4 @@ space.fauna 303
 too.many.asteroids 587
 tribute.republic 257
 unique.fix 44
-uniques 400
+uniques 402
