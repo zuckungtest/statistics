@@ -32,6 +32,7 @@ def analyze_write():
 			if username == '' or token == '':
 				response = requests.get('https://api.github.com/repos/' + repo + '/releases?page=' + str(i) + '&per_page=100')
 			else:
+				print('user/token found')
 				response = requests.get('https://api.github.com/repos/' + repo + '/releases?page=' + str(i) + '&per_page=100', auth=(username, token))
 			data = response.json()	
 			if len(data) == 0:
