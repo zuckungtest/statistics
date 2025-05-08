@@ -3,6 +3,7 @@ on:
   workflow_dispatch:
 env:
   github_token: ${{ secrets.GITHUB_TOKEN }}
+  PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
   CUR_REPO: ${{ github.repository }}
 jobs:
   First:
