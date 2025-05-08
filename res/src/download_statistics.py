@@ -11,7 +11,7 @@ def set_var():
 	global token2
 	global repo
 	token = os.environ['PAT']
-	token2 = os.environ['github_token']
+	#token2 = os.environ['github_token']
 	#username = os.environ['USER']
 	#username = os.environ['CUR_REPO'].split('/')[0]
 	username = 'zuckungtest'
@@ -36,7 +36,7 @@ def analyze_write():
 				response = requests.get('https://api.github.com/repos/' + repo + '/releases?page=' + str(i) + '&per_page=100')
 			else:
 				print('user/token found')
-				response = requests.get('https://api.github.com/repos/' + repo + '/releases?page=' + str(i) + '&per_page=100', auth=(username, token2))
+				response = requests.get('https://api.github.com/repos/' + repo + '/releases?page=' + str(i) + '&per_page=100', auth=(username, token))
 			data = response.json()	
 			if len(data) == 0:
 				break
@@ -73,7 +73,7 @@ def get_usercount():
 	dates, newdates, newlist = [], [], []
 	now = datetime.now()
 	date_time = now.strftime("%Y-%m-%d" + 'T00:00:00Z')
-	response = requests.get('https://api.github.com/repos/' + repo + '/traffic/views?per_page=100', auth=(username, token2))
+	response = requests.get('https://api.github.com/repos/' + repo + '/traffic/views?per_page=100', auth=(username, token))
 	data = response.json()
 	print(data)
 	print('getting live data from last 2 days:')
