@@ -3,12 +3,6 @@ import PIL
 from PIL import Image, ImageDraw, ImageFont
 
 
-def local_check():
-	# for local testing
-	if os.getcwd() == '/storage/emulated/0/Download/pytests/test/res/src':
-		os.chdir('../../')
-
-
 def create_image(countnumber, plugin):
 	iFont = 'DejaVuSans.ttf'
 	im = PIL.Image.open('pics/new.png')
@@ -165,8 +159,85 @@ def write_readme():
 		target.writelines('</table>\n</sub></sup>\n')
 		
 
+def write_users():
+	def parse(line):
+		date = line.split('|')[0]
+		views = line.split('|')[1]
+		uniques = line.split('|')[2].strip()
+		return date, views, uniques
+	with open('res/usercount.txt', 'r') as source:
+		userdata = source.readlines()
+	# sort for seven days
+	print('CREATE TABLE FOR SEVEN DAYS')
+	sevendays, row1, row2, row3 = [], [], [], []
+	for i in range(len(userdata)-1, len(userdata)-8, -1):
+		sevendays.append(userdata[i].strip())
+	row1.append(' ')
+	row2.append('page<br>views')
+	row3.append('unique<br>visitors')
+	for line in sevendays:
+		date, views, uniques = parse(line)
+		row1.append(date)
+		row2.append(views)
+		row3.append(uniques)
+		print('\t', date, views, uniques)
+	# calculate stats
+	allviews, alluniques, highviews, highuniques = 0, 0, 0, 0
+	firstread = False
+	for line in userdata:
+		date, views, uniques = parse(line)
+		if firstread == False:
+			firstdate = date.replace('T00:00:00Z', '')
+			firstread = True
+		allviews += int(views)
+		alluniques += int(uniques)
+		if int(views) > highviews:
+			highviews = int(views)
+		if int(uniques) > highuniques:
+			highuniques = int(uniques)
+	print(firstdate, allviews, alluniques, highviews, highuniques)
+	# write table
+	with open('README.md', 'a') as target:
+		target.writelines('<table>\n')
+		target.writelines('\t<tr>\n')
+		for each in row1:
+			target.writelines('\t\t<td>' + each + '</td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('\t<tr>\n')
+		for each in row2:
+			target.writelines('\t\t<td>' + each + '</td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('\t<tr>\n')
+		for each in row3:
+			target.writelines('\t\t<td>' + each + '</td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('</table>\n')
+		# write stats
+		target.writelines('<br>\n')
+		target.writelines('<table>\n')
+		target.writelines('\t<tr>\n')
+		target.writelines('\t\t<td>statistics<br>start</td>\n')
+		target.writelines('\t\t<td>all page<br>views</td>\n')
+		target.writelines('\t\t<td>all unique<br>visitors</td>\n')
+		target.writelines('\t\t<td>highest<br>page view</td>\n')
+		target.writelines('\t\t<td>highest<br>unique visitors</td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('\t<tr>\n')
+		target.writelines('\t\t<td>' + firstdate + '</td>\n')
+		target.writelines('\t\t<td>' + str(allviews) + '</td>\n')
+		target.writelines('\t\t<td>' + str(alluniques) + '</td>\n')
+		target.writelines('\t\t<td>' + str(highviews) + '</td>\n')
+		target.writelines('\t\t<td>' + str(highuniques) + '</td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('</table>\n')
 				
 		 
-		
-local_check()
-write_readme()
+def run():
+	write_readme()
+	write_users()
+
+
+if __name__ == "__main__":
+	run()		
+
+
