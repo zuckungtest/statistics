@@ -10,8 +10,8 @@ def set_var():
 	global token
 	global token2
 	global repo
-	token = os.environ['PAT']
-	#token2 = os.environ['github_token']
+	#token = os.environ['PAT']
+	token = os.environ['github_token']
 	#username = os.environ['USER']
 	#username = os.environ['CUR_REPO'].split('/')[0]
 	username = 'zuckungtest'
