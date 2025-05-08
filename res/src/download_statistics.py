@@ -108,9 +108,10 @@ def get_usercount():
 			newlist.append(newdates[len(newdates)-1])
 	else:
 		print('\tnothing to add')
-	with open('res/usercount.txt', 'w') as target:
-		for each in newlist:
-			target.writelines(each)
+	if len(newlist) > 0:
+		with open('usercount.txt', 'w') as target:
+			for each in newlist:
+				target.writelines(each)
 
 def run():
 	set_var()
