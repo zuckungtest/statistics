@@ -11,7 +11,8 @@ def set_var():
 	global token2
 	global repo
 	#token = os.environ['PAT']
-	token = os.environ['github_token']
+	token = os.environ['ST']
+	#token = os.environ['github_token']
 	#username = os.environ['USER']
 	#username = os.environ['CUR_REPO'].split('/')[0]
 	username = 'zuckungtest'
@@ -118,7 +119,7 @@ def get_usercount():
 def run():
 	set_var()
 	analyze_write()
-	#get_usercount()
+	get_usercount()
 
 
 if __name__ == "__main__":
