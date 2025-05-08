@@ -175,8 +175,8 @@
 		<td>683</td>
 		<td>685</td>
 		<td>685</td>
-		<td>687</td>
-		<td>+ 2</td>
+		<td>688</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -340,8 +340,8 @@
 		<td>570</td>
 		<td>572</td>
 		<td>572</td>
-		<td>574</td>
-		<td>+ 2</td>
+		<td>575</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -373,8 +373,8 @@
 		<td>361</td>
 		<td>365</td>
 		<td>365</td>
-		<td>365</td>
-		<td></td>
+		<td>366</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -450,8 +450,8 @@
 		<td>585</td>
 		<td>587</td>
 		<td>587</td>
-		<td>590</td>
-		<td>+ 3</td>
+		<td>591</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -509,8 +509,8 @@
 		<td>683</td>
 		<td>685</td>
 		<td>685</td>
-		<td>687</td>
-		<td>+ 2</td>
+		<td>688</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -520,8 +520,8 @@
 		<td>585</td>
 		<td>587</td>
 		<td>587</td>
-		<td>590</td>
-		<td>+ 3</td>
+		<td>591</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -553,8 +553,8 @@
 		<td>570</td>
 		<td>572</td>
 		<td>572</td>
-		<td>574</td>
-		<td>+ 2</td>
+		<td>575</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -740,8 +740,8 @@
 		<td>361</td>
 		<td>365</td>
 		<td>365</td>
-		<td>365</td>
-		<td></td>
+		<td>366</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -958,6 +958,7 @@
 <table>
 	<tr>
 		<td> </td>
+		<td>2025-04-30</td>
 		<td>2025-05-01</td>
 		<td>2025-05-02</td>
 		<td>2025-05-03</td>
@@ -966,10 +967,10 @@
 		<td>2025-05-06</td>
 		<td>2025-05-07</td>
 		<td>2025-05-08</td>
-		<td>2025-05-08</td>
 	</tr>
 	<tr>
 		<td>page views</td>
+		<td>77</td>
 		<td>34</td>
 		<td>48</td>
 		<td>56</td>
@@ -978,10 +979,10 @@
 		<td>20</td>
 		<td>24</td>
 		<td>117</td>
-		<td>117</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
+		<td>14</td>
 		<td>10</td>
 		<td>16</td>
 		<td>12</td>
@@ -989,7 +990,6 @@
 		<td>14</td>
 		<td>10</td>
 		<td>10</td>
-		<td>15</td>
 		<td>15</td>
 	</tr>
 </table>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>908</td>
-		<td>190</td>
+		<td>791</td>
+		<td>175</td>
 		<td>117</td>
 		<td>16</td>
 	</tr>
