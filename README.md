@@ -958,6 +958,8 @@
 <table>
 	<tr>
 		<td> </td>
+		<td>2025-04-30</td>
+		<td>2025-05-01</td>
 		<td>2025-05-02</td>
 		<td>2025-05-03</td>
 		<td>2025-05-04</td>
@@ -968,6 +970,8 @@
 	</tr>
 	<tr>
 		<td>page views</td>
+		<td>77</td>
+		<td>34</td>
 		<td>48</td>
 		<td>56</td>
 		<td>30</td>
@@ -978,6 +982,8 @@
 	</tr>
 	<tr>
 		<td>unique visitors</td>
+		<td>14</td>
+		<td>10</td>
 		<td>16</td>
 		<td>12</td>
 		<td>12</td>
