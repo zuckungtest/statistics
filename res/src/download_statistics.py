@@ -109,7 +109,7 @@ def get_usercount():
 	else:
 		print('\tnothing to add')
 	if len(newlist) > 0:
-		with open('usercount.txt', 'w') as target:
+		with open('res/usercount.txt', 'w') as target:
 			for each in newlist:
 				target.writelines(each)
 
