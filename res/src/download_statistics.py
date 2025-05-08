@@ -118,7 +118,7 @@ def get_usercount():
 def run():
 	set_var()
 	analyze_write()
-	#get_usercount()
+	get_usercount()
 
 
 if __name__ == "__main__":
