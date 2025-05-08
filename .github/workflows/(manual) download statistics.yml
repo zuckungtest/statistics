@@ -5,7 +5,7 @@ env:
   github_token: ${{ secrets.GITHUB_TOKEN }}
   PAT: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
   CUR_REPO: ${{ github.repository }}
-  USER: ${{ GITHUB_USER }}
+  USER: ${{ github.owner }}
 jobs:
   First:
     name: gather statistics
