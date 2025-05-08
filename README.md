@@ -958,16 +958,16 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-05-08T00:00:00Z</td>
-		<td>2025-05-07T00:00:00Z</td>
-		<td>2025-05-06T00:00:00Z</td>
-		<td>2025-05-05T00:00:00Z</td>
-		<td>2025-05-04T00:00:00Z</td>
-		<td>2025-05-03T00:00:00Z</td>
-		<td>2025-05-02T00:00:00Z</td>
+		<td>2025-05-08</td>
+		<td>2025-05-07</td>
+		<td>2025-05-06</td>
+		<td>2025-05-05</td>
+		<td>2025-05-04</td>
+		<td>2025-05-03</td>
+		<td>2025-05-02</td>
 	</tr>
 	<tr>
-		<td>page<br>views</td>
+		<td>page views</td>
 		<td>80</td>
 		<td>24</td>
 		<td>20</td>
@@ -977,7 +977,7 @@
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>unique<br>visitors</td>
+		<td>unique visitors</td>
 		<td>15</td>
 		<td>10</td>
 		<td>10</td>
@@ -987,15 +987,14 @@
 		<td>16</td>
 	</tr>
 </table>
-</sub></sup>
 <br>
 <table>
 	<tr>
-		<td>statistics<br>start</td>
-		<td>all page<br>views</td>
-		<td>all unique<br>visitors</td>
-		<td>highest<br>page view</td>
-		<td>highest<br>unique visitors</td>
+		<td>statistics start</td>
+		<td>all page views</td>
+		<td>all unique visitors</td>
+		<td>highest page view</td>
+		<td>highest unique visitors</td>
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
