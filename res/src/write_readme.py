@@ -172,15 +172,18 @@ def write_users():
 	sevendays, row1, row2, row3 = [], [], [], []
 	for i in range(len(userdata)-1, len(userdata)-8, -1):
 		sevendays.append(userdata[i].strip())
-	row1.append(' ')
-	row2.append('page views')
-	row3.append('unique visitors')
 	for line in sevendays:
 		date, views, uniques = parse(line)
 		row1.append(date.replace('T00:00:00Z', ''))
 		row2.append(views)
 		row3.append(uniques)
 		print('\t', date, views, uniques)
+	row1.append(' ')
+	row2.append('page views')
+	row3.append('unique visitors')
+	row1.reverse()
+	row2.reverse()
+	row3.reverse()
 	# calculate stats
 	allviews, alluniques, highviews, highuniques = 0, 0, 0, 0
 	firstread = False
