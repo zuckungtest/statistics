@@ -198,6 +198,7 @@ def write_users():
 	print(firstdate, allviews, alluniques, highviews, highuniques)
 	# write table
 	with open('README.md', 'a') as target:
+		target.writelines('<h6>Other statistics</h6><sub><sup><br>\n')
 		target.writelines('<table>\n')
 		target.writelines('\t<tr>\n')
 		for each in row1:
@@ -211,7 +212,7 @@ def write_users():
 		for each in row3:
 			target.writelines('\t\t<td>' + each + '</td>\n')
 		target.writelines('\t</tr>\n')
-		target.writelines('</table>\n')
+		target.writelines('</table>\n</sub></sup>\n')
 		# write stats
 		target.writelines('<br>\n')
 		target.writelines('<table>\n')
@@ -229,7 +230,7 @@ def write_users():
 		target.writelines('\t\t<td>' + str(highviews) + '</td>\n')
 		target.writelines('\t\t<td>' + str(highuniques) + '</td>\n')
 		target.writelines('\t</tr>\n')
-		target.writelines('</table>\n')
+		target.writelines('</table>\n</sub></sup>\n')
 				
 		 
 def run():
