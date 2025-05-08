@@ -406,8 +406,8 @@
 		<td>430</td>
 		<td>432</td>
 		<td>434</td>
-		<td>438</td>
-		<td>+ 4</td>
+		<td>440</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -630,8 +630,8 @@
 		<td>430</td>
 		<td>432</td>
 		<td>434</td>
-		<td>438</td>
-		<td>+ 4</td>
+		<td>440</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
