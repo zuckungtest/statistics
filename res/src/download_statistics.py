@@ -8,7 +8,6 @@ import json
 def set_var():
 	global username
 	global token
-	global token2
 	global repo
 	token = os.environ['ST']
 	username = 'zuckungtest'
@@ -104,7 +103,12 @@ def get_usercount():
 					break
 			if found == False:
 				newlist.append(olddate)
-		if not newdates[len(newdates)-1].split('|')[0] in newlist:
+		found = False
+		for new in newlist:
+			if new.startswith(newdates[len(newdates)-1].split('|')[0]:
+				found = True
+				break
+		if found == False:
 			newlist.append(newdates[len(newdates)-1])
 	else:
 		print('\tnothing to add')
