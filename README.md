@@ -954,3 +954,52 @@
 	</tr>
 </table>
 </sub></sup>
+<table>
+	<tr>
+		<td> </td>
+		<td>2025-05-08T00:00:00Z</td>
+		<td>2025-05-07T00:00:00Z</td>
+		<td>2025-05-06T00:00:00Z</td>
+		<td>2025-05-05T00:00:00Z</td>
+		<td>2025-05-04T00:00:00Z</td>
+		<td>2025-05-03T00:00:00Z</td>
+		<td>2025-05-02T00:00:00Z</td>
+	</tr>
+	<tr>
+		<td>page<br>views</td>
+		<td>80</td>
+		<td>24</td>
+		<td>20</td>
+		<td>34</td>
+		<td>30</td>
+		<td>56</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>unique<br>visitors</td>
+		<td>15</td>
+		<td>10</td>
+		<td>10</td>
+		<td>14</td>
+		<td>12</td>
+		<td>12</td>
+		<td>16</td>
+	</tr>
+</table>
+<br>
+<table>
+	<tr>
+		<td>statistics<br>start</td>
+		<td>all page<br>views</td>
+		<td>all unique<br>visitors</td>
+		<td>highest<br>page view</td>
+		<td>highest<br>unique visitors</td>
+	</tr>
+	<tr>
+		<td>2025-04-23</td>
+		<td>754</td>
+		<td>175</td>
+		<td>103</td>
+		<td>16</td>
+	</tr>
+</table>
