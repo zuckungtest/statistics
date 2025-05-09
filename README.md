@@ -285,8 +285,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>6</td>
-		<td>16</td>
-		<td>+ 10</td>
+		<td>18</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -927,8 +927,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>6</td>
-		<td>16</td>
-		<td>+ 10</td>
+		<td>18</td>
+		<td>+ 12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>20</td>
 		<td>24</td>
 		<td>165</td>
-		<td>14</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>10</td>
 		<td>10</td>
 		<td>16</td>
-		<td>9</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>853</td>
-		<td>185</td>
+		<td>869</td>
+		<td>187</td>
 		<td>165</td>
 		<td>16</td>
 	</tr>
