@@ -285,8 +285,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>6</td>
-		<td>6</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -927,8 +927,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>6</td>
-		<td>6</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
