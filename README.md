@@ -65,8 +65,8 @@
 		<td>576</td>
 		<td>577</td>
 		<td>583</td>
-		<td>585</td>
-		<td>+ 2</td>
+		<td>587</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -285,8 +285,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>6</td>
-		<td>14</td>
-		<td>+ 8</td>
+		<td>16</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -531,8 +531,8 @@
 		<td>576</td>
 		<td>577</td>
 		<td>583</td>
-		<td>585</td>
-		<td>+ 2</td>
+		<td>587</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -927,8 +927,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>6</td>
-		<td>14</td>
-		<td>+ 8</td>
+		<td>16</td>
+		<td>+ 10</td>
 	</tr>
 </table>
 </sub></sup>
