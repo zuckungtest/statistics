@@ -171,7 +171,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 518
+v1.0.2-more.arfectas | downloads: 520
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 16802
+# TOTAL DOWNLOADS: 16804
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -239,7 +239,7 @@ landing.images.android 312
 landing.images.highres 264
 licenses 18
 mission.helper 292
-more.arfectas 520
+more.arfectas 522
 more.boarding.missions 531
 more.person.ships 380
 navy.licenses 575
