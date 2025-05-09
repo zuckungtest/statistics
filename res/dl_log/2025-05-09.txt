@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-licenses | downloads: 6
+v1.0.1-licenses | downloads: 8
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 23
 v1.0.1-flare.play | downloads: 19
@@ -8,7 +8,7 @@ v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 41
-v1.0.9-uniques | downloads: 56
+v1.0.9-uniques | downloads: 58
 v1.0.3-planet.map | downloads: 24
 v1.0.8-bunrodea.missions | downloads: 63
 v1.0.7-expert.crew.members | downloads: 81
@@ -38,7 +38,7 @@ v1.1.7-captureable.person.ships | downloads: 178
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 264
+v1.0.4-too.many.asteroids | downloads: 266
 v1.0.3-show.reputation | downloads: 191
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 235
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 16745
+# TOTAL DOWNLOADS: 16751
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -237,7 +237,7 @@ kor.efret.shipyard 529
 landing.images 372
 landing.images.android 312
 landing.images.highres 264
-licenses 8
+licenses 10
 mission.helper 290
 more.arfectas 520
 more.boarding.missions 529
@@ -254,7 +254,7 @@ real.fluff 93
 show.reputation 440
 snowfeather.robotics 397
 space.fauna 307
-too.many.asteroids 595
+too.many.asteroids 597
 tribute.republic 261
 unique.fix 44
-uniques 408
+uniques 410
