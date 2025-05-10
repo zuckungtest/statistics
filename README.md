@@ -987,5 +987,19 @@
 		<td>165</td>
 		<td>16</td>
 	</tr>
+	<tr>
+		<td>days since start</td>
+		<td>average daily page views</td>
+		<td>average daily visitors</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td>52.11764705882353</td>
+		<td>11.470588235294118</td>
+		<td></td>
+		<td></td>
+	</tr>
 </table>
 </sub></sup>
