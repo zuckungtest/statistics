@@ -54,8 +54,8 @@
 		<td>446</td>
 		<td>450</td>
 		<td>452</td>
-		<td>452</td>
-		<td></td>
+		<td>454</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -131,8 +131,8 @@
 		<td>581</td>
 		<td>590</td>
 		<td>590</td>
-		<td>590</td>
-		<td></td>
+		<td>592</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -142,8 +142,8 @@
 		<td>21</td>
 		<td>27</td>
 		<td>27</td>
-		<td>27</td>
-		<td></td>
+		<td>29</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -164,8 +164,8 @@
 		<td>685</td>
 		<td>692</td>
 		<td>694</td>
-		<td>694</td>
-		<td></td>
+		<td>696</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -208,8 +208,8 @@
 		<td>325</td>
 		<td>329</td>
 		<td>331</td>
-		<td>331</td>
-		<td></td>
+		<td>333</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -296,8 +296,8 @@
 		<td>284</td>
 		<td>290</td>
 		<td>292</td>
-		<td>292</td>
-		<td></td>
+		<td>294</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -498,8 +498,8 @@
 		<td>685</td>
 		<td>692</td>
 		<td>694</td>
-		<td>694</td>
-		<td></td>
+		<td>696</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -520,8 +520,8 @@
 		<td>581</td>
 		<td>590</td>
 		<td>590</td>
-		<td>590</td>
-		<td></td>
+		<td>592</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -608,8 +608,8 @@
 		<td>446</td>
 		<td>450</td>
 		<td>452</td>
-		<td>452</td>
-		<td></td>
+		<td>454</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -744,6 +744,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>human.labels</td>
+		<td>325</td>
+		<td>325</td>
+		<td>325</td>
+		<td>325</td>
+		<td>329</td>
+		<td>331</td>
+		<td>333</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>327</td>
 		<td>327</td>
@@ -760,17 +771,6 @@
 		<td>321</td>
 		<td>323</td>
 		<td>323</td>
-		<td>329</td>
-		<td>331</td>
-		<td>331</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>human.labels</td>
-		<td>325</td>
-		<td>325</td>
-		<td>325</td>
-		<td>325</td>
 		<td>329</td>
 		<td>331</td>
 		<td>331</td>
@@ -839,8 +839,8 @@
 		<td>284</td>
 		<td>290</td>
 		<td>292</td>
-		<td>292</td>
-		<td></td>
+		<td>294</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -916,8 +916,8 @@
 		<td>21</td>
 		<td>27</td>
 		<td>27</td>
-		<td>27</td>
-		<td></td>
+		<td>29</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -936,7 +936,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-05-01</td>
 		<td>2025-05-02</td>
 		<td>2025-05-03</td>
 		<td>2025-05-04</td>
@@ -945,10 +944,10 @@
 		<td>2025-05-07</td>
 		<td>2025-05-08</td>
 		<td>2025-05-09</td>
+		<td>2025-05-10</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>34</td>
 		<td>48</td>
 		<td>56</td>
 		<td>30</td>
@@ -957,10 +956,10 @@
 		<td>24</td>
 		<td>165</td>
 		<td>37</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>10</td>
 		<td>16</td>
 		<td>12</td>
 		<td>12</td>
@@ -969,6 +968,7 @@
 		<td>10</td>
 		<td>16</td>
 		<td>15</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>876</td>
-		<td>191</td>
+		<td>879</td>
+		<td>194</td>
 		<td>165</td>
 		<td>16</td>
 	</tr>
