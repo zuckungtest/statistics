@@ -1,6 +1,7 @@
 import os
 import PIL
 from PIL import Image, ImageDraw, ImageFont
+from datetime import datetime
 
 
 def create_image(countnumber, plugin):
@@ -198,6 +199,8 @@ def write_users():
 			highviews = int(views)
 		if int(uniques) > highuniques:
 			highuniques = int(uniques)
+	div = datetime.strptime(datetime.now().strftime('%Y-%m-%d'), '%Y-%m-%d') - datetime.strptime(firstdate, '%Y-%m-%d')
+	div = int(div.days)
 	print(firstdate, allviews, alluniques, highviews, highuniques)
 	# write table
 	with open('README.md', 'a') as target:
@@ -232,6 +235,20 @@ def write_users():
 		target.writelines('\t\t<td>' + str(alluniques) + '</td>\n')
 		target.writelines('\t\t<td>' + str(highviews) + '</td>\n')
 		target.writelines('\t\t<td>' + str(highuniques) + '</td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('\t<tr>\n')
+		target.writelines('\t\t<td>days since start</td>\n')
+		target.writelines('\t\t<td>average daily page views</td>\n')
+		target.writelines('\t\t<td>average daily visitors</td>\n')
+		target.writelines('\t\t<td></td>\n')
+		target.writelines('\t\t<td></td>\n')
+		target.writelines('\t</tr>\n')
+		target.writelines('\t<tr>\n')
+		target.writelines('\t\t<td>' + str(div) + '</td>\n')
+		target.writelines('\t\t<td>' + str(allviews/div) + '</td>\n')
+		target.writelines('\t\t<td>' + str(alluniques/div) + '</td>\n')
+		target.writelines('\t\t<td></td>\n')
+		target.writelines('\t\t<td></td>\n')
 		target.writelines('\t</tr>\n')
 		target.writelines('</table>\n</sub></sup>\n')
 				
