@@ -230,8 +230,8 @@
 		<td>358</td>
 		<td>362</td>
 		<td>364</td>
-		<td>366</td>
-		<td>+ 2</td>
+		<td>368</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -729,8 +729,8 @@
 		<td>358</td>
 		<td>362</td>
 		<td>364</td>
-		<td>366</td>
-		<td>+ 2</td>
+		<td>368</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
