@@ -142,8 +142,8 @@
 		<td>27</td>
 		<td>27</td>
 		<td>29</td>
-		<td>29</td>
-		<td></td>
+		<td>31</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -927,8 +927,8 @@
 		<td>27</td>
 		<td>27</td>
 		<td>29</td>
-		<td>29</td>
-		<td></td>
+		<td>31</td>
+		<td>+ 2</td>
 	</tr>
 </table>
 </sub></sup>
