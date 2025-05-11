@@ -285,8 +285,8 @@
 		<td>6</td>
 		<td>18</td>
 		<td>22</td>
-		<td>26</td>
-		<td>+ 4</td>
+		<td>28</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>290</td>
 		<td>292</td>
 		<td>296</td>
-		<td>301</td>
-		<td>+ 5</td>
+		<td>303</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -839,8 +839,8 @@
 		<td>290</td>
 		<td>292</td>
 		<td>296</td>
-		<td>301</td>
-		<td>+ 5</td>
+		<td>303</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -927,8 +927,8 @@
 		<td>6</td>
 		<td>18</td>
 		<td>22</td>
-		<td>26</td>
-		<td>+ 4</td>
+		<td>28</td>
+		<td>+ 6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>165</td>
 		<td>37</td>
 		<td>17</td>
-		<td>9</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>16</td>
 		<td>15</td>
 		<td>7</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>902</td>
-		<td>202</td>
+		<td>903</td>
+		<td>203</td>
 		<td>165</td>
 		<td>16</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>18</td>
-		<td>50.11</td>
-		<td>11.22</td>
+		<td>50.17</td>
+		<td>11.28</td>
 		<td></td>
 		<td></td>
 	</tr>
