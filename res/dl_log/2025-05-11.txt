@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-licenses | downloads: 32
+v1.0.1-licenses | downloads: 34
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 40
 v1.0.1-flare.play | downloads: 23
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17024
+# TOTAL DOWNLOADS: 17026
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -237,7 +237,7 @@ kor.efret.shipyard 537
 landing.images 376
 landing.images.android 314
 landing.images.highres 266
-licenses 34
+licenses 36
 mission.helper 307
 more.arfectas 528
 more.boarding.missions 535
