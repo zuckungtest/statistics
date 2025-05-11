@@ -87,8 +87,8 @@
 		<td>480</td>
 		<td>480</td>
 		<td>482</td>
-		<td>486</td>
-		<td>+ 4</td>
+		<td>488</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>317</td>
 		<td>319</td>
 		<td>319</td>
-		<td>323</td>
-		<td>+ 4</td>
+		<td>325</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -285,8 +285,8 @@
 		<td>6</td>
 		<td>18</td>
 		<td>22</td>
-		<td>36</td>
-		<td>+ 14</td>
+		<td>38</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -417,8 +417,8 @@
 		<td>397</td>
 		<td>399</td>
 		<td>399</td>
-		<td>403</td>
-		<td>+ 4</td>
+		<td>404</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -439,8 +439,8 @@
 		<td>595</td>
 		<td>597</td>
 		<td>597</td>
-		<td>601</td>
-		<td>+ 4</td>
+		<td>602</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>15923</td>
-		<td>179</td>
+		<td>15931</td>
+		<td>187</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>595</td>
 		<td>597</td>
 		<td>597</td>
-		<td>601</td>
-		<td>+ 4</td>
+		<td>602</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -608,8 +608,8 @@
 		<td>480</td>
 		<td>480</td>
 		<td>482</td>
-		<td>486</td>
-		<td>+ 4</td>
+		<td>488</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -685,8 +685,8 @@
 		<td>397</td>
 		<td>399</td>
 		<td>399</td>
-		<td>403</td>
-		<td>+ 4</td>
+		<td>404</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -806,8 +806,8 @@
 		<td>317</td>
 		<td>319</td>
 		<td>319</td>
-		<td>323</td>
-		<td>+ 4</td>
+		<td>325</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -927,8 +927,8 @@
 		<td>6</td>
 		<td>18</td>
 		<td>22</td>
-		<td>36</td>
-		<td>+ 14</td>
+		<td>38</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>15923</td>
-		<td>179</td>
+		<td>15931</td>
+		<td>187</td>
 	</tr>
 </table>
 </sub></sup>
