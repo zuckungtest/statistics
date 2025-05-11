@@ -131,8 +131,8 @@
 		<td>590</td>
 		<td>590</td>
 		<td>592</td>
-		<td>596</td>
-		<td>+ 4</td>
+		<td>597</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -164,8 +164,8 @@
 		<td>692</td>
 		<td>694</td>
 		<td>696</td>
-		<td>702</td>
-		<td>+ 6</td>
+		<td>704</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>393</td>
 		<td>395</td>
 		<td>397</td>
-		<td>399</td>
-		<td>+ 2</td>
+		<td>400</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -285,8 +285,8 @@
 		<td>6</td>
 		<td>18</td>
 		<td>22</td>
-		<td>24</td>
-		<td>+ 2</td>
+		<td>26</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -498,8 +498,8 @@
 		<td>692</td>
 		<td>694</td>
 		<td>696</td>
-		<td>702</td>
-		<td>+ 6</td>
+		<td>704</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -520,8 +520,8 @@
 		<td>590</td>
 		<td>590</td>
 		<td>592</td>
-		<td>596</td>
-		<td>+ 4</td>
+		<td>597</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -685,8 +685,8 @@
 		<td>393</td>
 		<td>395</td>
 		<td>397</td>
-		<td>399</td>
-		<td>+ 2</td>
+		<td>400</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -927,8 +927,8 @@
 		<td>6</td>
 		<td>18</td>
 		<td>22</td>
-		<td>24</td>
-		<td>+ 2</td>
+		<td>26</td>
+		<td>+ 4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -936,7 +936,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-05-02</td>
 		<td>2025-05-03</td>
 		<td>2025-05-04</td>
 		<td>2025-05-05</td>
@@ -945,10 +944,10 @@
 		<td>2025-05-08</td>
 		<td>2025-05-09</td>
 		<td>2025-05-10</td>
+		<td>2025-05-11</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>48</td>
 		<td>56</td>
 		<td>30</td>
 		<td>34</td>
@@ -957,10 +956,10 @@
 		<td>165</td>
 		<td>37</td>
 		<td>17</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>16</td>
 		<td>12</td>
 		<td>12</td>
 		<td>14</td>
@@ -969,6 +968,7 @@
 		<td>16</td>
 		<td>15</td>
 		<td>7</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>893</td>
-		<td>198</td>
+		<td>902</td>
+		<td>202</td>
 		<td>165</td>
 		<td>16</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>18</td>
-		<td>49.61</td>
-		<td>11.00</td>
+		<td>50.11</td>
+		<td>11.22</td>
 		<td></td>
 		<td></td>
 	</tr>
