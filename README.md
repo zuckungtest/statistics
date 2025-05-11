@@ -464,6 +464,17 @@
 		<td>414</td>
 		<td>+ 4</td>
 	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>15921</td>
+		<td>177</td>
+	</tr>
 </table>
 </sub></sup>
 <h6>Plugin download count, sorted by download count</h6><sub><sup><br>
