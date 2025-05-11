@@ -296,8 +296,8 @@
 		<td>290</td>
 		<td>292</td>
 		<td>296</td>
-		<td>305</td>
-		<td>+ 9</td>
+		<td>307</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -839,8 +839,8 @@
 		<td>290</td>
 		<td>292</td>
 		<td>296</td>
-		<td>305</td>
-		<td>+ 9</td>
+		<td>307</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
