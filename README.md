@@ -285,8 +285,8 @@
 		<td>6</td>
 		<td>18</td>
 		<td>22</td>
-		<td>30</td>
-		<td>+ 8</td>
+		<td>32</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -916,8 +916,8 @@
 		<td>6</td>
 		<td>18</td>
 		<td>22</td>
-		<td>30</td>
-		<td>+ 8</td>
+		<td>32</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
