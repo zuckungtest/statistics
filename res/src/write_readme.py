@@ -112,7 +112,7 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows7, row.split(' ')[0]) + '</td>\n')
 				create_image(findp(rows7, row.split(' ')[0]) ,row.split(' ')[0])
 				difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
-				totaldifference += difference
+				totaldifference += int(difference)
 				totaldownloads += int(findp(rows7, row.split(' ')[0]))
 				if difference == '0':
 					difference = ''
