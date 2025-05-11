@@ -79,6 +79,8 @@ def write_readme():
 		# split the 7 variable contents to lists
 		target.writelines('<h6>Plugin download count, sorted by name</h6><sub><sup><br>\n')
 		first = True
+		totaldifference = 0
+		totaldownloads = 0
 		for row in rows7:
 			if row == '':
 					continue
@@ -110,12 +112,17 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows7, row.split(' ')[0]) + '</td>\n')
 				create_image(findp(rows7, row.split(' ')[0]) ,row.split(' ')[0])
 				difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
+				totaldifference += difference
+				totaldownloads += int(findp(rows7, row.split(' ')[0]))
 				if difference == '0':
 					difference = ''
 				else:
 					difference = '+ ' + difference 
 				target.writelines('\t\t<td>' + difference + '</td>\n')
 				target.writelines('\t</tr>\n')
+		target.writelines('\t<tr>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n')
+		target.writelines('\t\t<td>' + str(totaldownloads) + '</td>\n')
+		target.writelines('\t\t<td>' + str(totaldifference) + '</td>\n\t</tr>\n')
 		target.writelines('</table>\n</sub></sup>\n')		
 		# second table, sorted by latest download counts		
 		# split the 7 variable contents to lists
