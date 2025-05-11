@@ -164,6 +164,9 @@ def write_readme():
 				target.writelines('\t\t<td>' + difference + '</td>\n')
 				target.writelines('\t</tr>\n')
 				index += 1
+		target.writelines('\t<tr>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n')
+		target.writelines('\t\t<td>' + str(totaldownloads) + '</td>\n')
+		target.writelines('\t\t<td>' + str(totaldifference) + '</td>\n\t</tr>\n')
 		target.writelines('</table>\n</sub></sup>\n')
 		
 
