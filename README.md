@@ -941,6 +941,17 @@
 		<td>31</td>
 		<td>+ 2</td>
 	</tr>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td>15921</td>
+		<td>177</td>
+	</tr>
 </table>
 </sub></sup>
 <h6>Other statistics</h6><sub><sup><br>
