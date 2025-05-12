@@ -54,8 +54,8 @@
 		<td>452</td>
 		<td>456</td>
 		<td>460</td>
-		<td>462</td>
-		<td>+ 2</td>
+		<td>464</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>15965</td>
-		<td>34</td>
+		<td>15967</td>
+		<td>36</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>452</td>
 		<td>456</td>
 		<td>460</td>
-		<td>462</td>
-		<td>+ 2</td>
+		<td>464</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>15965</td>
-		<td>34</td>
+		<td>15967</td>
+		<td>36</td>
 	</tr>
 </table>
 </sub></sup>
