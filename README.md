@@ -21,8 +21,8 @@
 		<td>707</td>
 		<td>713</td>
 		<td>719</td>
-		<td>719</td>
-		<td></td>
+		<td>721</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>456</td>
 		<td>460</td>
 		<td>464</td>
-		<td>464</td>
-		<td></td>
+		<td>466</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16006</td>
-		<td>0</td>
+		<td>16010</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>707</td>
 		<td>713</td>
 		<td>719</td>
-		<td>719</td>
-		<td></td>
+		<td>721</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -619,8 +619,8 @@
 		<td>456</td>
 		<td>460</td>
 		<td>464</td>
-		<td>464</td>
-		<td></td>
+		<td>466</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16006</td>
-		<td>0</td>
+		<td>16010</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
