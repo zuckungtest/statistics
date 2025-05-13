@@ -164,8 +164,8 @@
 		<td>696</td>
 		<td>706</td>
 		<td>708</td>
-		<td>708</td>
-		<td></td>
+		<td>710</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16010</td>
-		<td>4</td>
+		<td>16012</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>696</td>
 		<td>706</td>
 		<td>708</td>
-		<td>708</td>
-		<td></td>
+		<td>710</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16010</td>
-		<td>4</td>
+		<td>16012</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>17</td>
 		<td>45</td>
 		<td>25</td>
-		<td>6</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>7</td>
 		<td>21</td>
 		<td>12</td>
-		<td>5</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>969</td>
-		<td>236</td>
+		<td>972</td>
+		<td>238</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>20</td>
-		<td>48.45</td>
-		<td>11.80</td>
+		<td>48.60</td>
+		<td>11.90</td>
 		<td></td>
 		<td></td>
 	</tr>
