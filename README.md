@@ -219,8 +219,8 @@
 		<td>452</td>
 		<td>452</td>
 		<td>452</td>
-		<td>452</td>
-		<td></td>
+		<td>454</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -263,8 +263,8 @@
 		<td>314</td>
 		<td>314</td>
 		<td>314</td>
-		<td>314</td>
-		<td></td>
+		<td>316</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -439,8 +439,8 @@
 		<td>602</td>
 		<td>606</td>
 		<td>606</td>
-		<td>608</td>
-		<td>+ 2</td>
+		<td>611</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16044</td>
-		<td>32</td>
+		<td>16051</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>602</td>
 		<td>606</td>
 		<td>606</td>
-		<td>608</td>
-		<td>+ 2</td>
+		<td>611</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -641,8 +641,8 @@
 		<td>452</td>
 		<td>452</td>
 		<td>452</td>
-		<td>452</td>
-		<td></td>
+		<td>454</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -817,8 +817,8 @@
 		<td>314</td>
 		<td>314</td>
 		<td>314</td>
-		<td>314</td>
-		<td></td>
+		<td>316</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16044</td>
-		<td>32</td>
+		<td>16051</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
