@@ -32,8 +32,8 @@
 		<td>440</td>
 		<td>442</td>
 		<td>442</td>
-		<td>442</td>
-		<td></td>
+		<td>444</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -87,8 +87,8 @@
 		<td>488</td>
 		<td>492</td>
 		<td>492</td>
-		<td>492</td>
-		<td></td>
+		<td>494</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -285,8 +285,8 @@
 		<td>38</td>
 		<td>41</td>
 		<td>41</td>
-		<td>41</td>
-		<td></td>
+		<td>43</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16012</td>
-		<td>0</td>
+		<td>16018</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>488</td>
 		<td>492</td>
 		<td>492</td>
-		<td>492</td>
-		<td></td>
+		<td>494</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -652,8 +652,8 @@
 		<td>440</td>
 		<td>442</td>
 		<td>442</td>
-		<td>442</td>
-		<td></td>
+		<td>444</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td>38</td>
 		<td>41</td>
 		<td>41</td>
-		<td>41</td>
-		<td></td>
+		<td>43</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16012</td>
-		<td>0</td>
+		<td>16018</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
