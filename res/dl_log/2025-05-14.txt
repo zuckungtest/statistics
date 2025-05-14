@@ -11,7 +11,7 @@ v1.0.4-quarg.farm | downloads: 50
 v1.0.9-uniques | downloads: 62
 v1.0.3-planet.map | downloads: 27
 v1.0.8-bunrodea.missions | downloads: 77
-v1.0.7-expert.crew.members | downloads: 94
+v1.0.7-expert.crew.members | downloads: 96
 v1.1.6-galactic.capital.investment | downloads: 149
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 83
@@ -38,8 +38,8 @@ v1.1.7-captureable.person.ships | downloads: 186
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 275
-v1.0.3-show.reputation | downloads: 204
+v1.0.4-too.many.asteroids | downloads: 277
+v1.0.3-show.reputation | downloads: 206
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 251
 v1.0.5-bunrodea.missions | downloads: 120
@@ -57,7 +57,7 @@ v1.0.3-navy.licenses | downloads: 362
 v1.0.6-coalition.shopping | downloads: 300
 v1.0.5-snowfeather.robotics | downloads: 249
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 370
+v1.0.2-kor.efret.shipyard | downloads: 372
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -71,11 +71,11 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 303
+v1.0.4-landing.images | downloads: 305
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
-v1.0.2-landing.images.highres | downloads: 198
+v1.0.2-landing.images.highres | downloads: 200
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
 v1.0.1-automata.in.human.space | downloads: 310
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17135
+# TOTAL DOWNLOADS: 17147
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -223,7 +223,7 @@ control.station 341
 devil-run.unhidden 66
 disable.person.ships 210
 disable.spaceport.repeatables 314
-expert.crew.members 603
+expert.crew.members 605
 flare.play 31
 free.worlds.5.years.later 325
 galactic.capital.investment 712
@@ -233,10 +233,10 @@ highrollers.ltd 94
 human.labels 337
 jump.gates 452
 kestrel.unlocks 374
-kor.efret.shipyard 541
-landing.images 376
+kor.efret.shipyard 543
+landing.images 378
 landing.images.android 314
-landing.images.highres 266
+landing.images.highres 268
 licenses 45
 mission.helper 307
 more.arfectas 532
@@ -251,10 +251,10 @@ planet.map 240
 planet.pluto 143
 quarg.farm 558
 real.fluff 93
-show.reputation 453
+show.reputation 455
 snowfeather.robotics 408
 space.fauna 311
-too.many.asteroids 606
+too.many.asteroids 608
 tribute.republic 267
 unique.fix 44
 uniques 414
