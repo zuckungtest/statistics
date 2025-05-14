@@ -28,7 +28,7 @@ v1.0.7-bunrodea.missions | downloads: 141
 v1.0.5-human.labels | downloads: 123
 v1.1.4-more.boarding.missions | downloads: 217
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 180
+v1.0.3-jump.gates | downloads: 182
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
 v1.0.0-avgi.licenses | downloads: 229
@@ -38,7 +38,7 @@ v1.1.7-captureable.person.ships | downloads: 186
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 277
+v1.0.4-too.many.asteroids | downloads: 280
 v1.0.3-show.reputation | downloads: 206
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 251
@@ -103,7 +103,7 @@ v1.0.2-tribute.republic | downloads: 249
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 286
+v1.0.3-landing.images.android | downloads: 288
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17147
+# TOTAL DOWNLOADS: 17154
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -231,11 +231,11 @@ gegno.pirates 561
 hai.side.mission.unlocker 404
 highrollers.ltd 94
 human.labels 337
-jump.gates 452
+jump.gates 454
 kestrel.unlocks 374
 kor.efret.shipyard 543
 landing.images 378
-landing.images.android 314
+landing.images.android 316
 landing.images.highres 268
 licenses 45
 mission.helper 307
@@ -254,7 +254,7 @@ real.fluff 93
 show.reputation 455
 snowfeather.robotics 408
 space.fauna 311
-too.many.asteroids 608
+too.many.asteroids 611
 tribute.republic 267
 unique.fix 44
 uniques 414
