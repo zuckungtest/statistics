@@ -285,8 +285,8 @@
 		<td>38</td>
 		<td>41</td>
 		<td>41</td>
-		<td>43</td>
-		<td>+ 2</td>
+		<td>45</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -329,8 +329,8 @@
 		<td>384</td>
 		<td>384</td>
 		<td>384</td>
-		<td>384</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -362,8 +362,8 @@
 		<td>374</td>
 		<td>374</td>
 		<td>374</td>
-		<td>374</td>
-		<td></td>
+		<td>376</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -417,8 +417,8 @@
 		<td>404</td>
 		<td>406</td>
 		<td>406</td>
-		<td>406</td>
-		<td></td>
+		<td>408</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16018</td>
-		<td>6</td>
+		<td>16026</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>404</td>
 		<td>406</td>
 		<td>406</td>
-		<td>406</td>
-		<td></td>
+		<td>408</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -707,8 +707,19 @@
 		<td>384</td>
 		<td>384</td>
 		<td>384</td>
-		<td>384</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>paint.your.ships</td>
+		<td>370</td>
+		<td>372</td>
+		<td>372</td>
+		<td>374</td>
+		<td>374</td>
+		<td>374</td>
+		<td>376</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -719,17 +730,6 @@
 		<td>376</td>
 		<td>376</td>
 		<td>376</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>370</td>
-		<td>372</td>
-		<td>372</td>
-		<td>374</td>
-		<td>374</td>
-		<td>374</td>
-		<td>374</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -927,8 +927,8 @@
 		<td>38</td>
 		<td>41</td>
 		<td>41</td>
-		<td>43</td>
-		<td>+ 2</td>
+		<td>45</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16018</td>
-		<td>6</td>
+		<td>16026</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
