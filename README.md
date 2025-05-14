@@ -131,8 +131,8 @@
 		<td>599</td>
 		<td>603</td>
 		<td>603</td>
-		<td>603</td>
-		<td></td>
+		<td>605</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -241,8 +241,8 @@
 		<td>537</td>
 		<td>541</td>
 		<td>541</td>
-		<td>541</td>
-		<td></td>
+		<td>543</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -252,8 +252,8 @@
 		<td>376</td>
 		<td>376</td>
 		<td>376</td>
-		<td>376</td>
-		<td></td>
+		<td>378</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -274,8 +274,8 @@
 		<td>266</td>
 		<td>266</td>
 		<td>266</td>
-		<td>266</td>
-		<td></td>
+		<td>268</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -406,8 +406,8 @@
 		<td>448</td>
 		<td>453</td>
 		<td>453</td>
-		<td>453</td>
-		<td></td>
+		<td>455</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -439,8 +439,8 @@
 		<td>602</td>
 		<td>606</td>
 		<td>606</td>
-		<td>606</td>
-		<td></td>
+		<td>608</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16032</td>
-		<td>20</td>
+		<td>16044</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>602</td>
 		<td>606</td>
 		<td>606</td>
-		<td>606</td>
-		<td></td>
+		<td>608</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -531,8 +531,8 @@
 		<td>599</td>
 		<td>603</td>
 		<td>603</td>
-		<td>603</td>
-		<td></td>
+		<td>605</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -575,8 +575,8 @@
 		<td>537</td>
 		<td>541</td>
 		<td>541</td>
-		<td>541</td>
-		<td></td>
+		<td>543</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -630,8 +630,8 @@
 		<td>448</td>
 		<td>453</td>
 		<td>453</td>
-		<td>453</td>
-		<td></td>
+		<td>455</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -711,6 +711,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>372</td>
+		<td>372</td>
+		<td>376</td>
+		<td>376</td>
+		<td>376</td>
+		<td>376</td>
+		<td>378</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>paint.your.ships</td>
 		<td>370</td>
 		<td>372</td>
@@ -720,17 +731,6 @@
 		<td>374</td>
 		<td>376</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>372</td>
-		<td>372</td>
-		<td>376</td>
-		<td>376</td>
-		<td>376</td>
-		<td>376</td>
-		<td>376</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -854,6 +854,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images.highres</td>
+		<td>264</td>
+		<td>264</td>
+		<td>266</td>
+		<td>266</td>
+		<td>266</td>
+		<td>266</td>
+		<td>268</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>tribute.republic</td>
 		<td>261</td>
 		<td>261</td>
@@ -862,17 +873,6 @@
 		<td>267</td>
 		<td>267</td>
 		<td>267</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images.highres</td>
-		<td>264</td>
-		<td>264</td>
-		<td>266</td>
-		<td>266</td>
-		<td>266</td>
-		<td>266</td>
-		<td>266</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16032</td>
-		<td>20</td>
+		<td>16044</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
