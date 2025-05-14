@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-licenses | downloads: 41
+v1.0.1-licenses | downloads: 43
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 40
 v1.0.1-flare.play | downloads: 23
@@ -55,7 +55,7 @@ v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
 v1.0.6-coalition.shopping | downloads: 300
-v1.0.5-snowfeather.robotics | downloads: 247
+v1.0.5-snowfeather.robotics | downloads: 249
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 370
 v1.0.10-additional.command.buttons.radial | downloads: 40
@@ -66,7 +66,7 @@ v1.1.4-galactic.capital.investment | downloads: 230
 v1.0.9-additional.command.buttons.radial | downloads: 29
 v1.0.2-gegno.pirates | downloads: 253
 v1.0.1-kor.efret.shipyard | downloads: 16
-v1.0.2-more.person.ships | downloads: 249
+v1.0.2-more.person.ships | downloads: 251
 v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
@@ -87,7 +87,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 329
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 276
-v1.0.1-paint.your.ships | downloads: 370
+v1.0.1-paint.your.ships | downloads: 372
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17121
+# TOTAL DOWNLOADS: 17129
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -237,22 +237,22 @@ kor.efret.shipyard 541
 landing.images 376
 landing.images.android 314
 landing.images.highres 266
-licenses 43
+licenses 45
 mission.helper 307
 more.arfectas 532
 more.boarding.missions 537
-more.person.ships 384
+more.person.ships 386
 navy.licenses 575
 no.more.mereti.mines 332
 outfits.weapon.slot 335
-paint.your.ships 374
+paint.your.ships 376
 pirate.warlords 3
 planet.map 240
 planet.pluto 143
 quarg.farm 558
 real.fluff 93
 show.reputation 453
-snowfeather.robotics 406
+snowfeather.robotics 408
 space.fauna 311
 too.many.asteroids 606
 tribute.republic 267
