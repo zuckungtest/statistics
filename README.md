@@ -164,8 +164,8 @@
 		<td>706</td>
 		<td>708</td>
 		<td>710</td>
-		<td>710</td>
-		<td></td>
+		<td>712</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16028</td>
-		<td>16</td>
+		<td>16030</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>706</td>
 		<td>708</td>
 		<td>710</td>
-		<td>710</td>
-		<td></td>
+		<td>712</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16028</td>
-		<td>16</td>
+		<td>16030</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
