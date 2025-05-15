@@ -285,8 +285,8 @@
 		<td>41</td>
 		<td>41</td>
 		<td>45</td>
-		<td>48</td>
-		<td>+ 3</td>
+		<td>50</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16061</td>
-		<td>10</td>
+		<td>16063</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -927,8 +927,8 @@
 		<td>41</td>
 		<td>41</td>
 		<td>45</td>
-		<td>48</td>
-		<td>+ 3</td>
+		<td>50</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16061</td>
-		<td>10</td>
+		<td>16063</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
