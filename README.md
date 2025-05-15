@@ -461,8 +461,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16099</td>
-		<td>48</td>
+		<td>16101</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
@@ -674,8 +674,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16099</td>
-		<td>48</td>
+		<td>16101</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
