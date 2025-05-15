@@ -54,8 +54,8 @@
 		<td>464</td>
 		<td>466</td>
 		<td>466</td>
-		<td>466</td>
-		<td></td>
+		<td>468</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -186,8 +186,8 @@
 		<td>404</td>
 		<td>404</td>
 		<td>404</td>
-		<td>404</td>
-		<td></td>
+		<td>406</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16079</td>
-		<td>28</td>
+		<td>16083</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>464</td>
 		<td>466</td>
 		<td>466</td>
-		<td>466</td>
-		<td></td>
+		<td>468</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -696,8 +696,8 @@
 		<td>404</td>
 		<td>404</td>
 		<td>404</td>
-		<td>404</td>
-		<td></td>
+		<td>406</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16079</td>
-		<td>28</td>
+		<td>16083</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>25</td>
 		<td>15</td>
 		<td>26</td>
-		<td>15</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>12</td>
 		<td>11</td>
 		<td>15</td>
-		<td>8</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1019</td>
-		<td>265</td>
+		<td>1030</td>
+		<td>269</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>22</td>
-		<td>46.32</td>
-		<td>12.05</td>
+		<td>46.82</td>
+		<td>12.23</td>
 		<td></td>
 		<td></td>
 	</tr>
