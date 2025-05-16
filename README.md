@@ -32,8 +32,8 @@
 		<td>442</td>
 		<td>444</td>
 		<td>444</td>
-		<td>444</td>
-		<td></td>
+		<td>445</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -241,8 +241,8 @@
 		<td>541</td>
 		<td>543</td>
 		<td>543</td>
-		<td>543</td>
-		<td></td>
+		<td>544</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -340,8 +340,8 @@
 		<td>332</td>
 		<td>332</td>
 		<td>332</td>
-		<td>332</td>
-		<td></td>
+		<td>333</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16133</td>
-		<td>30</td>
+		<td>16136</td>
+		<td>33</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>541</td>
 		<td>543</td>
 		<td>543</td>
-		<td>543</td>
-		<td></td>
+		<td>544</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -652,8 +652,8 @@
 		<td>442</td>
 		<td>444</td>
 		<td>444</td>
-		<td>444</td>
-		<td></td>
+		<td>445</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -795,8 +795,8 @@
 		<td>332</td>
 		<td>332</td>
 		<td>332</td>
-		<td>332</td>
-		<td></td>
+		<td>333</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16133</td>
-		<td>30</td>
+		<td>16136</td>
+		<td>33</td>
 	</tr>
 </table>
 </sub></sup>
