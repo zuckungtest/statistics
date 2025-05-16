@@ -65,8 +65,8 @@
 		<td>597</td>
 		<td>597</td>
 		<td>597</td>
-		<td>597</td>
-		<td></td>
+		<td>599</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -285,8 +285,8 @@
 		<td>41</td>
 		<td>45</td>
 		<td>56</td>
-		<td>56</td>
-		<td></td>
+		<td>58</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>416</td>
-		<td>416</td>
-		<td></td>
+		<td>418</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16109</td>
-		<td>6</td>
+		<td>16115</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>597</td>
 		<td>597</td>
 		<td>597</td>
-		<td>597</td>
-		<td></td>
+		<td>599</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -674,8 +674,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>416</td>
-		<td>416</td>
-		<td></td>
+		<td>418</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -927,8 +927,8 @@
 		<td>41</td>
 		<td>45</td>
 		<td>56</td>
-		<td>56</td>
-		<td></td>
+		<td>58</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16109</td>
-		<td>6</td>
+		<td>16115</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
