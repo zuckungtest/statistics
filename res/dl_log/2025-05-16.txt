@@ -57,7 +57,7 @@ v1.0.3-navy.licenses | downloads: 362
 v1.0.6-coalition.shopping | downloads: 300
 v1.0.5-snowfeather.robotics | downloads: 252
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 372
+v1.0.2-kor.efret.shipyard | downloads: 373
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -86,7 +86,7 @@ v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 331
 v1.0.6-additional.command.buttons.radial | downloads: 48
-v1.0.3-no.more.mereti.mines | downloads: 276
+v1.0.3-no.more.mereti.mines | downloads: 277
 v1.0.1-paint.your.ships | downloads: 376
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
@@ -142,7 +142,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 443
+v1.0.1-automata.destruction.0percent | downloads: 444
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -206,13 +206,13 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17236
+# TOTAL DOWNLOADS: 17239
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 725
-automata.destruction.0percent 444
+automata.destruction.0percent 445
 automata.in.human.space 373
 avgi.licenses 229
 better.starts 469
@@ -233,7 +233,7 @@ highrollers.ltd 96
 human.labels 337
 jump.gates 456
 kestrel.unlocks 374
-kor.efret.shipyard 543
+kor.efret.shipyard 544
 landing.images 382
 landing.images.android 316
 landing.images.highres 270
@@ -243,7 +243,7 @@ more.arfectas 533
 more.boarding.missions 539
 more.person.ships 388
 navy.licenses 575
-no.more.mereti.mines 332
+no.more.mereti.mines 333
 outfits.weapon.slot 335
 paint.your.ships 380
 pirate.warlords 3
