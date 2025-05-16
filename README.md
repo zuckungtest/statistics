@@ -153,8 +153,8 @@
 		<td>325</td>
 		<td>325</td>
 		<td>326</td>
-		<td>326</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -164,8 +164,8 @@
 		<td>710</td>
 		<td>712</td>
 		<td>712</td>
-		<td>712</td>
-		<td></td>
+		<td>714</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16105</td>
-		<td>2</td>
+		<td>16109</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>710</td>
 		<td>712</td>
 		<td>712</td>
-		<td>712</td>
-		<td></td>
+		<td>714</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -806,8 +806,8 @@
 		<td>325</td>
 		<td>325</td>
 		<td>326</td>
-		<td>326</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16105</td>
-		<td>2</td>
+		<td>16109</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>15</td>
 		<td>26</td>
 		<td>41</td>
-		<td>13</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>11</td>
 		<td>15</td>
 		<td>15</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1058</td>
-		<td>276</td>
+		<td>1060</td>
+		<td>277</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>23</td>
-		<td>46.00</td>
-		<td>12.00</td>
+		<td>46.09</td>
+		<td>12.04</td>
 		<td></td>
 		<td></td>
 	</tr>
