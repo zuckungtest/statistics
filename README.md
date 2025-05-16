@@ -417,8 +417,8 @@
 		<td>406</td>
 		<td>408</td>
 		<td>409</td>
-		<td>409</td>
-		<td></td>
+		<td>410</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16115</td>
-		<td>12</td>
+		<td>16116</td>
+		<td>13</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>406</td>
 		<td>408</td>
 		<td>409</td>
-		<td>409</td>
-		<td></td>
+		<td>410</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16115</td>
-		<td>12</td>
+		<td>16116</td>
+		<td>13</td>
 	</tr>
 </table>
 </sub></sup>
