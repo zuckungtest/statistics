@@ -10,12 +10,12 @@ v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 54
 v1.0.9-uniques | downloads: 70
 v1.0.3-planet.map | downloads: 27
-v1.0.8-bunrodea.missions | downloads: 82
+v1.0.8-bunrodea.missions | downloads: 84
 v1.0.7-expert.crew.members | downloads: 100
 v1.1.6-galactic.capital.investment | downloads: 155
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 87
-v1.0.3-gegno.pirates | downloads: 143
+v1.0.3-gegno.pirates | downloads: 145
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 203
@@ -38,7 +38,7 @@ v1.1.7-captureable.person.ships | downloads: 192
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 283
+v1.0.4-too.many.asteroids | downloads: 285
 v1.0.3-show.reputation | downloads: 211
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 256
@@ -84,7 +84,7 @@ v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
 v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
-v1.1.4-hai.side.mission.unlocker | downloads: 333
+v1.1.4-hai.side.mission.unlocker | downloads: 335
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 279
 v1.0.1-paint.your.ships | downloads: 376
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17323
+# TOTAL DOWNLOADS: 17331
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -216,7 +216,7 @@ automata.destruction.0percent 447
 automata.in.human.space 375
 avgi.licenses 229
 better.starts 471
-bunrodea.missions 602
+bunrodea.missions 604
 captureable.person.ships 438
 coalition.shopping 496
 control.station 346
@@ -227,8 +227,8 @@ expert.crew.members 609
 flare.play 39
 free.worlds.5.years.later 329
 galactic.capital.investment 718
-gegno.pirates 568
-hai.side.mission.unlocker 408
+gegno.pirates 570
+hai.side.mission.unlocker 410
 highrollers.ltd 98
 human.labels 339
 jump.gates 458
@@ -254,7 +254,7 @@ real.fluff 93
 show.reputation 460
 snowfeather.robotics 415
 space.fauna 311
-too.many.asteroids 614
+too.many.asteroids 616
 tribute.republic 269
 unique.fix 44
 uniques 422
