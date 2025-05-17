@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.1-licenses | downloads: 64
 v1.0.0-licenses | downloads: 2
-v1.0.3-mission.helper | downloads: 44
+v1.0.3-mission.helper | downloads: 46
 v1.0.1-flare.play | downloads: 31
 v1.0.22-additional.command.buttons.radial | downloads: 44
 v1.0.0-flare.play | downloads: 8
@@ -142,7 +142,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 444
+v1.0.1-automata.destruction.0percent | downloads: 446
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -206,13 +206,13 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17319
+# TOTAL DOWNLOADS: 17323
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 727
-automata.destruction.0percent 445
+automata.destruction.0percent 447
 automata.in.human.space 375
 avgi.licenses 229
 better.starts 471
@@ -238,7 +238,7 @@ landing.images 382
 landing.images.android 316
 landing.images.highres 270
 licenses 66
-mission.helper 311
+mission.helper 313
 more.arfectas 536
 more.boarding.missions 542
 more.person.ships 390
