@@ -142,8 +142,8 @@
 		<td>31</td>
 		<td>35</td>
 		<td>35</td>
-		<td>35</td>
-		<td></td>
+		<td>37</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -285,8 +285,8 @@
 		<td>45</td>
 		<td>56</td>
 		<td>60</td>
-		<td>60</td>
-		<td></td>
+		<td>61</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16136</td>
-		<td>0</td>
+		<td>16139</td>
+		<td>3</td>
 	</tr>
 </table>
 </sub></sup>
@@ -927,8 +927,8 @@
 		<td>45</td>
 		<td>56</td>
 		<td>60</td>
-		<td>60</td>
-		<td></td>
+		<td>61</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -938,8 +938,8 @@
 		<td>31</td>
 		<td>35</td>
 		<td>35</td>
-		<td>35</td>
-		<td></td>
+		<td>37</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16136</td>
-		<td>0</td>
+		<td>16139</td>
+		<td>3</td>
 	</tr>
 </table>
 </sub></sup>
