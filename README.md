@@ -32,8 +32,8 @@
 		<td>444</td>
 		<td>444</td>
 		<td>445</td>
-		<td>445</td>
-		<td></td>
+		<td>447</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -296,8 +296,8 @@
 		<td>307</td>
 		<td>308</td>
 		<td>308</td>
-		<td>311</td>
-		<td>+ 3</td>
+		<td>313</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16216</td>
-		<td>80</td>
+		<td>16220</td>
+		<td>84</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>444</td>
 		<td>444</td>
 		<td>445</td>
-		<td>445</td>
-		<td></td>
+		<td>447</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -832,6 +832,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>307</td>
+		<td>307</td>
+		<td>307</td>
+		<td>307</td>
+		<td>308</td>
+		<td>308</td>
+		<td>313</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>space.fauna</td>
 		<td>311</td>
 		<td>311</td>
@@ -841,17 +852,6 @@
 		<td>311</td>
 		<td>311</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>307</td>
-		<td>307</td>
-		<td>307</td>
-		<td>307</td>
-		<td>308</td>
-		<td>308</td>
-		<td>311</td>
-		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16216</td>
-		<td>80</td>
+		<td>16220</td>
+		<td>84</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>26</td>
 		<td>41</td>
 		<td>27</td>
-		<td>58</td>
+		<td>61</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>15</td>
 		<td>15</td>
 		<td>8</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1130</td>
-		<td>290</td>
+		<td>1133</td>
+		<td>291</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>24</td>
-		<td>47.08</td>
-		<td>12.08</td>
+		<td>47.21</td>
+		<td>12.12</td>
 		<td></td>
 		<td></td>
 	</tr>
