@@ -65,8 +65,8 @@
 		<td>597</td>
 		<td>597</td>
 		<td>599</td>
-		<td>602</td>
-		<td>+ 3</td>
+		<td>604</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>561</td>
 		<td>565</td>
 		<td>565</td>
-		<td>568</td>
-		<td>+ 3</td>
+		<td>570</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -186,8 +186,8 @@
 		<td>404</td>
 		<td>406</td>
 		<td>406</td>
-		<td>408</td>
-		<td>+ 2</td>
+		<td>410</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -439,8 +439,8 @@
 		<td>611</td>
 		<td>612</td>
 		<td>612</td>
-		<td>614</td>
-		<td>+ 2</td>
+		<td>616</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16220</td>
-		<td>84</td>
+		<td>16228</td>
+		<td>92</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>611</td>
 		<td>612</td>
 		<td>612</td>
-		<td>614</td>
-		<td>+ 2</td>
+		<td>616</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>597</td>
 		<td>597</td>
 		<td>599</td>
-		<td>602</td>
-		<td>+ 3</td>
+		<td>604</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>561</td>
 		<td>565</td>
 		<td>565</td>
-		<td>568</td>
-		<td>+ 3</td>
+		<td>570</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -696,8 +696,8 @@
 		<td>404</td>
 		<td>406</td>
 		<td>406</td>
-		<td>408</td>
-		<td>+ 2</td>
+		<td>410</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16220</td>
-		<td>84</td>
+		<td>16228</td>
+		<td>92</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>26</td>
 		<td>41</td>
 		<td>27</td>
-		<td>61</td>
+		<td>62</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1133</td>
+		<td>1134</td>
 		<td>291</td>
 		<td>165</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>24</td>
-		<td>47.21</td>
+		<td>47.25</td>
 		<td>12.12</td>
 		<td></td>
 		<td></td>
