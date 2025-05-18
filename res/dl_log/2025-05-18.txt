@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.1-licenses | downloads: 66
 v1.0.0-licenses | downloads: 2
-v1.0.3-mission.helper | downloads: 46
+v1.0.3-mission.helper | downloads: 48
 v1.0.1-flare.play | downloads: 31
 v1.0.22-additional.command.buttons.radial | downloads: 50
 v1.0.0-flare.play | downloads: 8
@@ -9,7 +9,7 @@ v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 54
 v1.0.9-uniques | downloads: 70
-v1.0.3-planet.map | downloads: 27
+v1.0.3-planet.map | downloads: 29
 v1.0.8-bunrodea.missions | downloads: 85
 v1.0.7-expert.crew.members | downloads: 100
 v1.1.6-galactic.capital.investment | downloads: 155
@@ -38,8 +38,8 @@ v1.1.7-captureable.person.ships | downloads: 192
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 285
-v1.0.3-show.reputation | downloads: 211
+v1.0.4-too.many.asteroids | downloads: 287
+v1.0.3-show.reputation | downloads: 213
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 258
 v1.0.5-bunrodea.missions | downloads: 120
@@ -87,7 +87,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 335
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 281
-v1.0.1-paint.your.ships | downloads: 376
+v1.0.1-paint.your.ships | downloads: 378
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -156,7 +156,7 @@ v1.1.3-more.boarding.missions | downloads: 313
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 2
-v1.1.2-space.fauna | downloads: 309
+v1.1.2-space.fauna | downloads: 311
 v1.0.3-snowfeather.robotics | downloads: 150
 v1.0.2-snowfeather.robotics | downloads: 1
 v1.1.1-space.fauna | downloads: 1
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17372
+# TOTAL DOWNLOADS: 17384
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -238,23 +238,23 @@ landing.images 386
 landing.images.android 318
 landing.images.highres 270
 licenses 68
-mission.helper 313
+mission.helper 315
 more.arfectas 536
 more.boarding.missions 542
 more.person.ships 390
 navy.licenses 575
 no.more.mereti.mines 337
 outfits.weapon.slot 337
-paint.your.ships 380
+paint.your.ships 382
 pirate.warlords 3
-planet.map 240
+planet.map 242
 planet.pluto 145
 quarg.farm 562
 real.fluff 93
-show.reputation 460
+show.reputation 462
 snowfeather.robotics 415
-space.fauna 311
-too.many.asteroids 616
+space.fauna 313
+too.many.asteroids 618
 tribute.republic 269
 unique.fix 44
 uniques 422
