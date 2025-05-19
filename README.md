@@ -54,8 +54,8 @@
 		<td>469</td>
 		<td>471</td>
 		<td>477</td>
-		<td>477</td>
-		<td></td>
+		<td>479</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -241,8 +241,8 @@
 		<td>544</td>
 		<td>546</td>
 		<td>555</td>
-		<td>555</td>
-		<td></td>
+		<td>557</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -351,8 +351,8 @@
 		<td>335</td>
 		<td>337</td>
 		<td>339</td>
-		<td>339</td>
-		<td></td>
+		<td>341</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -373,8 +373,8 @@
 		<td>240</td>
 		<td>240</td>
 		<td>242</td>
-		<td>242</td>
-		<td></td>
+		<td>244</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16374</td>
-		<td>4</td>
+		<td>16382</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>544</td>
 		<td>546</td>
 		<td>555</td>
-		<td>555</td>
-		<td></td>
+		<td>557</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -619,8 +619,8 @@
 		<td>469</td>
 		<td>471</td>
 		<td>477</td>
-		<td>477</td>
-		<td></td>
+		<td>479</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>outfits.weapon.slot</td>
+		<td>335</td>
+		<td>335</td>
+		<td>335</td>
+		<td>335</td>
+		<td>337</td>
+		<td>339</td>
+		<td>341</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>337</td>
 		<td>337</td>
@@ -774,17 +785,6 @@
 		<td>339</td>
 		<td>341</td>
 		<td>341</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>335</td>
-		<td>335</td>
-		<td>335</td>
-		<td>335</td>
-		<td>337</td>
-		<td>339</td>
-		<td>339</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -883,8 +883,8 @@
 		<td>240</td>
 		<td>240</td>
 		<td>242</td>
-		<td>242</td>
-		<td></td>
+		<td>244</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16374</td>
-		<td>4</td>
+		<td>16382</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
