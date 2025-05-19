@@ -43,8 +43,8 @@
 		<td>373</td>
 		<td>375</td>
 		<td>375</td>
-		<td>375</td>
-		<td></td>
+		<td>377</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -98,8 +98,8 @@
 		<td>344</td>
 		<td>346</td>
 		<td>350</td>
-		<td>350</td>
-		<td></td>
+		<td>352</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -285,8 +285,8 @@
 		<td>60</td>
 		<td>66</td>
 		<td>71</td>
-		<td>73</td>
-		<td>+ 2</td>
+		<td>75</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -406,8 +406,8 @@
 		<td>455</td>
 		<td>460</td>
 		<td>464</td>
-		<td>464</td>
-		<td></td>
+		<td>466</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16382</td>
-		<td>12</td>
+		<td>16390</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>455</td>
 		<td>460</td>
 		<td>464</td>
-		<td>464</td>
-		<td></td>
+		<td>466</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -751,8 +751,8 @@
 		<td>373</td>
 		<td>375</td>
 		<td>375</td>
-		<td>375</td>
-		<td></td>
+		<td>377</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -762,8 +762,8 @@
 		<td>344</td>
 		<td>346</td>
 		<td>350</td>
-		<td>350</td>
-		<td></td>
+		<td>352</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -927,8 +927,8 @@
 		<td>60</td>
 		<td>66</td>
 		<td>71</td>
-		<td>73</td>
-		<td>+ 2</td>
+		<td>75</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16382</td>
-		<td>12</td>
+		<td>16390</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
