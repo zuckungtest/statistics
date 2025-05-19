@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-licenses | downloads: 71
+v1.0.1-licenses | downloads: 73
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 48
 v1.0.1-flare.play | downloads: 33
@@ -39,7 +39,7 @@ v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 287
-v1.0.3-show.reputation | downloads: 215
+v1.0.3-show.reputation | downloads: 217
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 264
 v1.0.5-bunrodea.missions | downloads: 120
@@ -78,7 +78,7 @@ v1.0.2-quarg.farm | downloads: 190
 v1.0.2-landing.images.highres | downloads: 203
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
-v1.0.1-automata.in.human.space | downloads: 314
+v1.0.1-automata.in.human.space | downloads: 316
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -149,7 +149,7 @@ v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
 v1.1.1-disable.spaceport.repeatables | downloads: 319
 v1.0.0-quarg.farm | downloads: 1
-v1.0.1-control.station | downloads: 349
+v1.0.1-control.station | downloads: 351
 v1.0.0-control.station | downloads: 1
 v1.0.0-additional.command.buttons.radial | downloads: 52
 v1.1.3-more.boarding.missions | downloads: 313
@@ -206,20 +206,20 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17485
+# TOTAL DOWNLOADS: 17493
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 737
 automata.destruction.0percent 447
-automata.in.human.space 375
+automata.in.human.space 377
 avgi.licenses 229
 better.starts 479
 bunrodea.missions 614
 captureable.person.ships 445
 coalition.shopping 502
-control.station 350
+control.station 352
 devil-run.unhidden 66
 disable.person.ships 210
 disable.spaceport.repeatables 320
@@ -237,7 +237,7 @@ kor.efret.shipyard 557
 landing.images 389
 landing.images.android 320
 landing.images.highres 271
-licenses 73
+licenses 75
 mission.helper 315
 more.arfectas 538
 more.boarding.missions 549
@@ -251,7 +251,7 @@ planet.map 244
 planet.pluto 145
 quarg.farm 562
 real.fluff 93
-show.reputation 464
+show.reputation 466
 snowfeather.robotics 418
 space.fauna 313
 too.many.asteroids 618
