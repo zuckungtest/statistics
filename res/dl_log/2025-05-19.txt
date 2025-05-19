@@ -2,7 +2,7 @@
 v1.0.1-licenses | downloads: 73
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 48
-v1.0.1-flare.play | downloads: 33
+v1.0.1-flare.play | downloads: 35
 v1.0.22-additional.command.buttons.radial | downloads: 54
 v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17493
+# TOTAL DOWNLOADS: 17495
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -224,7 +224,7 @@ devil-run.unhidden 66
 disable.person.ships 210
 disable.spaceport.repeatables 320
 expert.crew.members 612
-flare.play 41
+flare.play 43
 free.worlds.5.years.later 331
 galactic.capital.investment 723
 gegno.pirates 575
