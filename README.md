@@ -142,8 +142,8 @@
 		<td>35</td>
 		<td>39</td>
 		<td>39</td>
-		<td>41</td>
-		<td>+ 2</td>
+		<td>43</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16390</td>
-		<td>20</td>
+		<td>16392</td>
+		<td>22</td>
 	</tr>
 </table>
 </sub></sup>
@@ -938,8 +938,8 @@
 		<td>35</td>
 		<td>39</td>
 		<td>39</td>
-		<td>41</td>
-		<td>+ 2</td>
+		<td>43</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16390</td>
-		<td>20</td>
+		<td>16392</td>
+		<td>22</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>27</td>
 		<td>67</td>
 		<td>48</td>
-		<td>66</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>8</td>
 		<td>14</td>
 		<td>14</td>
-		<td>12</td>
+		<td>13</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1253</td>
-		<td>320</td>
+		<td>1254</td>
+		<td>321</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>26</td>
-		<td>48.19</td>
-		<td>12.31</td>
+		<td>48.23</td>
+		<td>12.35</td>
 		<td></td>
 		<td></td>
 	</tr>
