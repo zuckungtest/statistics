@@ -142,8 +142,8 @@
 		<td>35</td>
 		<td>39</td>
 		<td>39</td>
-		<td>39</td>
-		<td></td>
+		<td>41</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16372</td>
-		<td>2</td>
+		<td>16374</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -938,8 +938,8 @@
 		<td>35</td>
 		<td>39</td>
 		<td>39</td>
-		<td>39</td>
-		<td></td>
+		<td>41</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16372</td>
-		<td>2</td>
+		<td>16374</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
