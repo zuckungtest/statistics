@@ -65,8 +65,8 @@
 		<td>604</td>
 		<td>614</td>
 		<td>614</td>
-		<td>614</td>
-		<td></td>
+		<td>616</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -131,8 +131,8 @@
 		<td>609</td>
 		<td>612</td>
 		<td>612</td>
-		<td>614</td>
-		<td>+ 2</td>
+		<td>616</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>570</td>
 		<td>575</td>
 		<td>575</td>
-		<td>575</td>
-		<td></td>
+		<td>577</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16443</td>
-		<td>51</td>
+		<td>16449</td>
+		<td>57</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>609</td>
 		<td>612</td>
 		<td>612</td>
-		<td>614</td>
-		<td>+ 2</td>
+		<td>616</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>604</td>
 		<td>614</td>
 		<td>614</td>
-		<td>614</td>
-		<td></td>
+		<td>616</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>570</td>
 		<td>575</td>
 		<td>575</td>
-		<td>575</td>
-		<td></td>
+		<td>577</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16443</td>
-		<td>51</td>
+		<td>16449</td>
+		<td>57</td>
 	</tr>
 </table>
 </sub></sup>
