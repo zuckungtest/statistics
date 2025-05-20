@@ -21,8 +21,8 @@
 		<td>727</td>
 		<td>737</td>
 		<td>737</td>
-		<td>737</td>
-		<td></td>
+		<td>739</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -142,8 +142,8 @@
 		<td>39</td>
 		<td>39</td>
 		<td>43</td>
-		<td>43</td>
-		<td></td>
+		<td>45</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -263,8 +263,8 @@
 		<td>316</td>
 		<td>320</td>
 		<td>320</td>
-		<td>320</td>
-		<td></td>
+		<td>322</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -439,8 +439,8 @@
 		<td>616</td>
 		<td>618</td>
 		<td>618</td>
-		<td>618</td>
-		<td></td>
+		<td>620</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16396</td>
-		<td>4</td>
+		<td>16404</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>727</td>
 		<td>737</td>
 		<td>737</td>
-		<td>737</td>
-		<td></td>
+		<td>739</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -520,8 +520,8 @@
 		<td>616</td>
 		<td>618</td>
 		<td>618</td>
-		<td>618</td>
-		<td></td>
+		<td>620</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -810,6 +810,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images.android</td>
+		<td>316</td>
+		<td>316</td>
+		<td>316</td>
+		<td>316</td>
+		<td>320</td>
+		<td>320</td>
+		<td>322</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>314</td>
 		<td>314</td>
@@ -819,17 +830,6 @@
 		<td>320</td>
 		<td>322</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>landing.images.android</td>
-		<td>316</td>
-		<td>316</td>
-		<td>316</td>
-		<td>316</td>
-		<td>320</td>
-		<td>320</td>
-		<td>320</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -938,8 +938,8 @@
 		<td>39</td>
 		<td>39</td>
 		<td>43</td>
-		<td>43</td>
-		<td></td>
+		<td>45</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16396</td>
-		<td>4</td>
+		<td>16404</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
