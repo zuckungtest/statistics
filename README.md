@@ -285,8 +285,8 @@
 		<td>66</td>
 		<td>71</td>
 		<td>75</td>
-		<td>78</td>
-		<td>+ 3</td>
+		<td>80</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -384,8 +384,8 @@
 		<td>143</td>
 		<td>145</td>
 		<td>145</td>
-		<td>145</td>
-		<td></td>
+		<td>147</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -406,8 +406,8 @@
 		<td>460</td>
 		<td>464</td>
 		<td>466</td>
-		<td>468</td>
-		<td>+ 2</td>
+		<td>470</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td>422</td>
 		<td>422</td>
 		<td>422</td>
-		<td>422</td>
-		<td></td>
+		<td>424</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16429</td>
-		<td>37</td>
+		<td>16437</td>
+		<td>45</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>460</td>
 		<td>464</td>
 		<td>466</td>
-		<td>468</td>
-		<td>+ 2</td>
+		<td>470</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -674,8 +674,8 @@
 		<td>422</td>
 		<td>422</td>
 		<td>422</td>
-		<td>422</td>
-		<td></td>
+		<td>424</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -905,8 +905,8 @@
 		<td>143</td>
 		<td>145</td>
 		<td>145</td>
-		<td>145</td>
-		<td></td>
+		<td>147</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -927,8 +927,8 @@
 		<td>66</td>
 		<td>71</td>
 		<td>75</td>
-		<td>78</td>
-		<td>+ 3</td>
+		<td>80</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16429</td>
-		<td>37</td>
+		<td>16437</td>
+		<td>45</td>
 	</tr>
 </table>
 </sub></sup>
