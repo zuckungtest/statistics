@@ -21,8 +21,8 @@
 		<td>727</td>
 		<td>737</td>
 		<td>737</td>
-		<td>741</td>
-		<td>+ 4</td>
+		<td>743</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -296,8 +296,8 @@
 		<td>313</td>
 		<td>315</td>
 		<td>315</td>
-		<td>317</td>
-		<td>+ 2</td>
+		<td>319</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16439</td>
-		<td>47</td>
+		<td>16443</td>
+		<td>51</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>727</td>
 		<td>737</td>
 		<td>737</td>
-		<td>741</td>
-		<td>+ 4</td>
+		<td>743</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -839,8 +839,8 @@
 		<td>313</td>
 		<td>315</td>
 		<td>315</td>
-		<td>317</td>
-		<td>+ 2</td>
+		<td>319</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16439</td>
-		<td>47</td>
+		<td>16443</td>
+		<td>51</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>67</td>
 		<td>48</td>
 		<td>69</td>
-		<td>65</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>14</td>
 		<td>14</td>
 		<td>15</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1321</td>
-		<td>331</td>
+		<td>1323</td>
+		<td>332</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>27</td>
-		<td>48.93</td>
-		<td>12.26</td>
+		<td>49.00</td>
+		<td>12.30</td>
 		<td></td>
 		<td></td>
 	</tr>
