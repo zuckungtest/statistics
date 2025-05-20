@@ -76,8 +76,8 @@
 		<td>438</td>
 		<td>445</td>
 		<td>445</td>
-		<td>445</td>
-		<td></td>
+		<td>447</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -120,8 +120,8 @@
 		<td>316</td>
 		<td>320</td>
 		<td>320</td>
-		<td>320</td>
-		<td></td>
+		<td>322</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16392</td>
-		<td>0</td>
+		<td>16396</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -645,6 +645,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>432</td>
+		<td>436</td>
+		<td>436</td>
+		<td>438</td>
+		<td>445</td>
+		<td>445</td>
+		<td>447</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>444</td>
 		<td>444</td>
@@ -653,17 +664,6 @@
 		<td>447</td>
 		<td>447</td>
 		<td>447</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>432</td>
-		<td>436</td>
-		<td>436</td>
-		<td>438</td>
-		<td>445</td>
-		<td>445</td>
-		<td>445</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -810,21 +810,21 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>landing.images.android</td>
-		<td>316</td>
-		<td>316</td>
-		<td>316</td>
-		<td>316</td>
-		<td>320</td>
-		<td>320</td>
-		<td>320</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>314</td>
 		<td>314</td>
 		<td>314</td>
+		<td>316</td>
+		<td>320</td>
+		<td>320</td>
+		<td>322</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>landing.images.android</td>
+		<td>316</td>
+		<td>316</td>
+		<td>316</td>
 		<td>316</td>
 		<td>320</td>
 		<td>320</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16392</td>
-		<td>0</td>
+		<td>16396</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
