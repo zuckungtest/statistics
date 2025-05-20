@@ -2,8 +2,8 @@
 v1.0.1-licenses | downloads: 73
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 48
-v1.0.1-flare.play | downloads: 35
-v1.0.22-additional.command.buttons.radial | downloads: 54
+v1.0.1-flare.play | downloads: 37
+v1.0.22-additional.command.buttons.radial | downloads: 56
 v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
@@ -38,7 +38,7 @@ v1.1.7-captureable.person.ships | downloads: 201
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 287
+v1.0.4-too.many.asteroids | downloads: 289
 v1.0.3-show.reputation | downloads: 217
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 264
@@ -103,7 +103,7 @@ v1.0.2-tribute.republic | downloads: 251
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
-v1.0.3-landing.images.android | downloads: 292
+v1.0.3-landing.images.android | downloads: 294
 v1.0.2-landing.images.android | downloads: 2
 v1.0.1-landing.images.android | downloads: 21
 v1.0.2-no.more.mereti.mines | downloads: 54
@@ -206,12 +206,12 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17499
+# TOTAL DOWNLOADS: 17507
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 737
+additional.command.buttons.radial 739
 automata.destruction.0percent 447
 automata.in.human.space 377
 avgi.licenses 229
@@ -224,7 +224,7 @@ devil-run.unhidden 66
 disable.person.ships 210
 disable.spaceport.repeatables 322
 expert.crew.members 612
-flare.play 43
+flare.play 45
 free.worlds.5.years.later 331
 galactic.capital.investment 723
 gegno.pirates 575
@@ -235,7 +235,7 @@ jump.gates 462
 kestrel.unlocks 382
 kor.efret.shipyard 557
 landing.images 389
-landing.images.android 320
+landing.images.android 322
 landing.images.highres 271
 licenses 75
 mission.helper 315
@@ -254,7 +254,7 @@ real.fluff 93
 show.reputation 466
 snowfeather.robotics 418
 space.fauna 313
-too.many.asteroids 618
+too.many.asteroids 620
 tribute.republic 269
 unique.fix 44
 uniques 422
