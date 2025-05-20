@@ -208,8 +208,8 @@
 		<td>339</td>
 		<td>341</td>
 		<td>341</td>
-		<td>341</td>
-		<td></td>
+		<td>343</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16437</td>
-		<td>45</td>
+		<td>16439</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
@@ -784,8 +784,8 @@
 		<td>339</td>
 		<td>341</td>
 		<td>341</td>
-		<td>341</td>
-		<td></td>
+		<td>343</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16437</td>
-		<td>45</td>
+		<td>16439</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>67</td>
 		<td>48</td>
 		<td>69</td>
-		<td>64</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>14</td>
 		<td>14</td>
 		<td>15</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1320</td>
-		<td>330</td>
+		<td>1321</td>
+		<td>331</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>27</td>
-		<td>48.89</td>
-		<td>12.22</td>
+		<td>48.93</td>
+		<td>12.26</td>
 		<td></td>
 		<td></td>
 	</tr>
