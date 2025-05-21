@@ -186,8 +186,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16471</td>
-		<td>22</td>
+		<td>16473</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
@@ -696,8 +696,8 @@
 		<td>414</td>
 		<td>414</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16471</td>
-		<td>22</td>
+		<td>16473</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
