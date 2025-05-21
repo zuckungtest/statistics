@@ -1,8 +1,8 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-licenses | downloads: 78
+v1.0.1-licenses | downloads: 80
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 54
-v1.0.1-flare.play | downloads: 39
+v1.0.1-flare.play | downloads: 41
 v1.0.22-additional.command.buttons.radial | downloads: 60
 v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
@@ -10,8 +10,8 @@ v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 54
 v1.0.9-uniques | downloads: 72
 v1.0.3-planet.map | downloads: 31
-v1.0.8-bunrodea.missions | downloads: 96
-v1.0.7-expert.crew.members | downloads: 107
+v1.0.8-bunrodea.missions | downloads: 98
+v1.0.7-expert.crew.members | downloads: 109
 v1.1.6-galactic.capital.investment | downloads: 162
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 89
@@ -34,7 +34,7 @@ v1.0.6-expert.crew.members | downloads: 156
 v1.0.0-avgi.licenses | downloads: 229
 v1.0.14-additional.command.buttons.radial | downloads: 11
 v1.0.5-expert.crew.members | downloads: 25
-v1.1.7-captureable.person.ships | downloads: 201
+v1.1.7-captureable.person.ships | downloads: 203
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17564
+# TOTAL DOWNLOADS: 17574
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -216,15 +216,15 @@ automata.destruction.0percent 447
 automata.in.human.space 379
 avgi.licenses 229
 better.starts 479
-bunrodea.missions 616
-captureable.person.ships 447
+bunrodea.missions 618
+captureable.person.ships 449
 coalition.shopping 502
 control.station 354
 devil-run.unhidden 66
 disable.person.ships 210
 disable.spaceport.repeatables 322
-expert.crew.members 616
-flare.play 47
+expert.crew.members 618
+flare.play 49
 free.worlds.5.years.later 331
 galactic.capital.investment 725
 gegno.pirates 577
@@ -237,7 +237,7 @@ kor.efret.shipyard 559
 landing.images 391
 landing.images.android 322
 landing.images.highres 273
-licenses 80
+licenses 82
 mission.helper 321
 more.arfectas 538
 more.boarding.missions 549
