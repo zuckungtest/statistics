@@ -241,8 +241,8 @@
 		<td>555</td>
 		<td>557</td>
 		<td>557</td>
-		<td>557</td>
-		<td></td>
+		<td>559</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16457</td>
-		<td>8</td>
+		<td>16459</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>555</td>
 		<td>557</td>
 		<td>557</td>
-		<td>557</td>
-		<td></td>
+		<td>559</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16457</td>
-		<td>8</td>
+		<td>16459</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
