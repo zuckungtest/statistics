@@ -21,8 +21,8 @@
 		<td>737</td>
 		<td>743</td>
 		<td>743</td>
-		<td>751</td>
-		<td>+ 8</td>
+		<td>753</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16657</td>
-		<td>184</td>
+		<td>16661</td>
+		<td>188</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>737</td>
 		<td>743</td>
 		<td>743</td>
-		<td>751</td>
-		<td>+ 8</td>
+		<td>753</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -894,8 +894,8 @@
 		<td>210</td>
 		<td>210</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16657</td>
-		<td>184</td>
+		<td>16661</td>
+		<td>188</td>
 	</tr>
 </table>
 </sub></sup>
