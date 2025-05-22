@@ -54,8 +54,8 @@
 		<td>479</td>
 		<td>479</td>
 		<td>479</td>
-		<td>481</td>
-		<td>+ 2</td>
+		<td>483</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -142,8 +142,8 @@
 		<td>43</td>
 		<td>45</td>
 		<td>49</td>
-		<td>49</td>
-		<td></td>
+		<td>51</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -241,8 +241,8 @@
 		<td>557</td>
 		<td>557</td>
 		<td>559</td>
-		<td>565</td>
-		<td>+ 6</td>
+		<td>567</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>75</td>
 		<td>80</td>
 		<td>82</td>
-		<td>88</td>
-		<td>+ 6</td>
+		<td>90</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -351,8 +351,8 @@
 		<td>341</td>
 		<td>343</td>
 		<td>343</td>
-		<td>347</td>
-		<td>+ 4</td>
+		<td>349</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -362,8 +362,8 @@
 		<td>387</td>
 		<td>387</td>
 		<td>387</td>
-		<td>389</td>
-		<td>+ 2</td>
+		<td>391</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -384,8 +384,8 @@
 		<td>145</td>
 		<td>147</td>
 		<td>149</td>
-		<td>155</td>
-		<td>+ 6</td>
+		<td>157</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16643</td>
-		<td>170</td>
+		<td>16657</td>
+		<td>184</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>557</td>
 		<td>557</td>
 		<td>559</td>
-		<td>565</td>
-		<td>+ 6</td>
+		<td>567</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -619,8 +619,8 @@
 		<td>479</td>
 		<td>479</td>
 		<td>479</td>
-		<td>481</td>
-		<td>+ 2</td>
+		<td>483</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -729,8 +729,8 @@
 		<td>387</td>
 		<td>387</td>
 		<td>387</td>
-		<td>389</td>
-		<td>+ 2</td>
+		<td>391</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -773,8 +773,8 @@
 		<td>341</td>
 		<td>343</td>
 		<td>343</td>
-		<td>347</td>
-		<td>+ 4</td>
+		<td>349</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -905,8 +905,8 @@
 		<td>145</td>
 		<td>147</td>
 		<td>149</td>
-		<td>155</td>
-		<td>+ 6</td>
+		<td>157</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -927,8 +927,8 @@
 		<td>75</td>
 		<td>80</td>
 		<td>82</td>
-		<td>88</td>
-		<td>+ 6</td>
+		<td>90</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -938,8 +938,8 @@
 		<td>43</td>
 		<td>45</td>
 		<td>49</td>
-		<td>49</td>
-		<td></td>
+		<td>51</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16643</td>
-		<td>170</td>
+		<td>16657</td>
+		<td>184</td>
 	</tr>
 </table>
 </sub></sup>
