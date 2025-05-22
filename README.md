@@ -32,8 +32,8 @@
 		<td>447</td>
 		<td>447</td>
 		<td>447</td>
-		<td>449</td>
-		<td>+ 2</td>
+		<td>451</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>377</td>
 		<td>377</td>
 		<td>379</td>
-		<td>381</td>
-		<td>+ 2</td>
+		<td>383</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>614</td>
 		<td>616</td>
 		<td>618</td>
-		<td>620</td>
-		<td>+ 2</td>
+		<td>622</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16539</td>
-		<td>66</td>
+		<td>16545</td>
+		<td>72</td>
 	</tr>
 </table>
 </sub></sup>
@@ -524,22 +524,22 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>expert.crew.members</td>
-		<td>607</td>
-		<td>609</td>
-		<td>612</td>
-		<td>612</td>
-		<td>616</td>
-		<td>618</td>
-		<td>620</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>bunrodea.missions</td>
 		<td>599</td>
 		<td>604</td>
 		<td>614</td>
 		<td>614</td>
+		<td>616</td>
+		<td>618</td>
+		<td>622</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>expert.crew.members</td>
+		<td>607</td>
+		<td>609</td>
+		<td>612</td>
+		<td>612</td>
 		<td>616</td>
 		<td>618</td>
 		<td>620</td>
@@ -663,8 +663,8 @@
 		<td>447</td>
 		<td>447</td>
 		<td>447</td>
-		<td>449</td>
-		<td>+ 2</td>
+		<td>451</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -733,6 +733,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>automata.in.human.space</td>
+		<td>373</td>
+		<td>375</td>
+		<td>375</td>
+		<td>377</td>
+		<td>377</td>
+		<td>379</td>
+		<td>383</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>374</td>
 		<td>377</td>
@@ -742,17 +753,6 @@
 		<td>382</td>
 		<td>382</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>automata.in.human.space</td>
-		<td>373</td>
-		<td>375</td>
-		<td>375</td>
-		<td>377</td>
-		<td>377</td>
-		<td>379</td>
-		<td>381</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16539</td>
-		<td>66</td>
+		<td>16545</td>
+		<td>72</td>
 	</tr>
 </table>
 </sub></sup>
