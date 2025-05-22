@@ -12,7 +12,7 @@ v1.0.9-uniques | downloads: 74
 v1.0.3-planet.map | downloads: 33
 v1.0.8-bunrodea.missions | downloads: 100
 v1.0.7-expert.crew.members | downloads: 111
-v1.1.6-galactic.capital.investment | downloads: 164
+v1.1.6-galactic.capital.investment | downloads: 167
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 91
 v1.0.3-gegno.pirates | downloads: 154
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17639
+# TOTAL DOWNLOADS: 17642
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -226,7 +226,7 @@ disable.spaceport.repeatables 322
 expert.crew.members 620
 flare.play 49
 free.worlds.5.years.later 331
-galactic.capital.investment 727
+galactic.capital.investment 730
 gegno.pirates 579
 hai.side.mission.unlocker 416
 highrollers.ltd 102
