@@ -263,8 +263,8 @@
 		<td>320</td>
 		<td>322</td>
 		<td>322</td>
-		<td>324</td>
-		<td>+ 2</td>
+		<td>326</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16530</td>
-		<td>57</td>
+		<td>16532</td>
+		<td>59</td>
 	</tr>
 </table>
 </sub></sup>
@@ -817,8 +817,8 @@
 		<td>320</td>
 		<td>322</td>
 		<td>322</td>
-		<td>324</td>
-		<td>+ 2</td>
+		<td>326</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16530</td>
-		<td>57</td>
+		<td>16532</td>
+		<td>59</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>69</td>
 		<td>75</td>
 		<td>16</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>15</td>
 		<td>11</td>
 		<td>9</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1349</td>
-		<td>344</td>
+		<td>1350</td>
+		<td>345</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>29</td>
-		<td>46.52</td>
-		<td>11.86</td>
+		<td>46.55</td>
+		<td>11.90</td>
 		<td></td>
 		<td></td>
 	</tr>
