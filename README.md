@@ -87,8 +87,8 @@
 		<td>502</td>
 		<td>502</td>
 		<td>506</td>
-		<td>506</td>
-		<td></td>
+		<td>508</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16663</td>
-		<td>2</td>
+		<td>16665</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>502</td>
 		<td>502</td>
 		<td>506</td>
-		<td>506</td>
-		<td></td>
+		<td>508</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16663</td>
-		<td>2</td>
+		<td>16665</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
