@@ -263,8 +263,8 @@
 		<td>322</td>
 		<td>322</td>
 		<td>326</td>
-		<td>326</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -285,8 +285,8 @@
 		<td>80</td>
 		<td>82</td>
 		<td>90</td>
-		<td>90</td>
-		<td></td>
+		<td>92</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -307,8 +307,8 @@
 		<td>538</td>
 		<td>538</td>
 		<td>542</td>
-		<td>542</td>
-		<td></td>
+		<td>545</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -373,8 +373,8 @@
 		<td>244</td>
 		<td>244</td>
 		<td>246</td>
-		<td>246</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -395,8 +395,8 @@
 		<td>562</td>
 		<td>562</td>
 		<td>568</td>
-		<td>568</td>
-		<td></td>
+		<td>570</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -406,8 +406,8 @@
 		<td>470</td>
 		<td>470</td>
 		<td>476</td>
-		<td>476</td>
-		<td></td>
+		<td>478</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16665</td>
-		<td>4</td>
+		<td>16678</td>
+		<td>17</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>562</td>
 		<td>562</td>
 		<td>568</td>
-		<td>568</td>
-		<td></td>
+		<td>570</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -597,8 +597,8 @@
 		<td>538</td>
 		<td>538</td>
 		<td>542</td>
-		<td>542</td>
-		<td></td>
+		<td>545</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -630,8 +630,8 @@
 		<td>470</td>
 		<td>470</td>
 		<td>476</td>
-		<td>476</td>
-		<td></td>
+		<td>478</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -817,8 +817,8 @@
 		<td>322</td>
 		<td>322</td>
 		<td>326</td>
-		<td>326</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -883,8 +883,8 @@
 		<td>244</td>
 		<td>244</td>
 		<td>246</td>
-		<td>246</td>
-		<td></td>
+		<td>248</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td>80</td>
 		<td>82</td>
 		<td>90</td>
-		<td>90</td>
-		<td></td>
+		<td>92</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16665</td>
-		<td>4</td>
+		<td>16678</td>
+		<td>17</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>75</td>
 		<td>16</td>
 		<td>32</td>
-		<td>5</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>11</td>
 		<td>9</td>
 		<td>13</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1384</td>
-		<td>360</td>
+		<td>1386</td>
+		<td>361</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>30</td>
-		<td>46.13</td>
-		<td>12.00</td>
+		<td>46.20</td>
+		<td>12.03</td>
 		<td></td>
 		<td></td>
 	</tr>
