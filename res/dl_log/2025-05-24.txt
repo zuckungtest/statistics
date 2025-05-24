@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-licenses | downloads: 92
+v1.0.1-licenses | downloads: 94
 v1.0.0-licenses | downloads: 2
-v1.0.3-mission.helper | downloads: 63
+v1.0.3-mission.helper | downloads: 65
 v1.0.1-flare.play | downloads: 45
 v1.0.22-additional.command.buttons.radial | downloads: 70
 v1.0.0-flare.play | downloads: 8
@@ -10,7 +10,7 @@ v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 62
 v1.0.9-uniques | downloads: 76
 v1.0.3-planet.map | downloads: 35
-v1.0.8-bunrodea.missions | downloads: 106
+v1.0.8-bunrodea.missions | downloads: 108
 v1.0.7-expert.crew.members | downloads: 117
 v1.1.6-galactic.capital.investment | downloads: 173
 v1.0.19-additional.command.buttons.radial | downloads: 120
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17814
+# TOTAL DOWNLOADS: 17820
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -216,7 +216,7 @@ automata.destruction.0percent 453
 automata.in.human.space 385
 avgi.licenses 229
 better.starts 485
-bunrodea.missions 626
+bunrodea.missions 628
 captureable.person.ships 455
 coalition.shopping 508
 control.station 358
@@ -237,8 +237,8 @@ kor.efret.shipyard 567
 landing.images 397
 landing.images.android 328
 landing.images.highres 273
-licenses 94
-mission.helper 330
+licenses 96
+mission.helper 332
 more.arfectas 545
 more.boarding.missions 555
 more.person.ships 396
