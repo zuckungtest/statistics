@@ -208,8 +208,8 @@
 		<td>343</td>
 		<td>347</td>
 		<td>347</td>
-		<td>347</td>
-		<td></td>
+		<td>349</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -296,8 +296,8 @@
 		<td>321</td>
 		<td>325</td>
 		<td>325</td>
-		<td>329</td>
-		<td>+ 4</td>
+		<td>330</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16708</td>
-		<td>10</td>
+		<td>16711</td>
+		<td>13</td>
 	</tr>
 </table>
 </sub></sup>
@@ -784,8 +784,8 @@
 		<td>343</td>
 		<td>347</td>
 		<td>347</td>
-		<td>347</td>
-		<td></td>
+		<td>349</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -817,8 +817,8 @@
 		<td>321</td>
 		<td>325</td>
 		<td>325</td>
-		<td>329</td>
-		<td>+ 4</td>
+		<td>330</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16708</td>
-		<td>10</td>
+		<td>16711</td>
+		<td>13</td>
 	</tr>
 </table>
 </sub></sup>
