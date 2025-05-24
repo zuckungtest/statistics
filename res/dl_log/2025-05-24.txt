@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.1-licenses | downloads: 92
 v1.0.0-licenses | downloads: 2
-v1.0.3-mission.helper | downloads: 62
+v1.0.3-mission.helper | downloads: 63
 v1.0.1-flare.play | downloads: 45
 v1.0.22-additional.command.buttons.radial | downloads: 70
 v1.0.0-flare.play | downloads: 8
@@ -25,7 +25,7 @@ v1.0.1-mission.helper | downloads: 26
 v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 135
 v1.0.7-bunrodea.missions | downloads: 141
-v1.0.5-human.labels | downloads: 133
+v1.0.5-human.labels | downloads: 135
 v1.1.4-more.boarding.missions | downloads: 235
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 194
@@ -206,7 +206,7 @@ v1.1-galactic.capital.investment | downloads: 28
 
 
 # NUMBER OF RELEASES: 205
-# TOTAL DOWNLOADS: 17811
+# TOTAL DOWNLOADS: 17814
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -230,7 +230,7 @@ galactic.capital.investment 736
 gegno.pirates 585
 hai.side.mission.unlocker 420
 highrollers.ltd 106
-human.labels 347
+human.labels 349
 jump.gates 466
 kestrel.unlocks 386
 kor.efret.shipyard 567
@@ -238,7 +238,7 @@ landing.images 397
 landing.images.android 328
 landing.images.highres 273
 licenses 94
-mission.helper 329
+mission.helper 330
 more.arfectas 545
 more.boarding.missions 555
 more.person.ships 396
