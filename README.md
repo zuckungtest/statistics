@@ -120,8 +120,8 @@
 		<td>322</td>
 		<td>324</td>
 		<td>324</td>
-		<td>324</td>
-		<td></td>
+		<td>326</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -296,8 +296,8 @@
 		<td>321</td>
 		<td>325</td>
 		<td>325</td>
-		<td>327</td>
-		<td>+ 2</td>
+		<td>329</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16700</td>
-		<td>2</td>
+		<td>16704</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -810,6 +810,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>315</td>
+		<td>315</td>
+		<td>319</td>
+		<td>321</td>
+		<td>325</td>
+		<td>325</td>
+		<td>329</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>landing.images.android</td>
 		<td>320</td>
 		<td>320</td>
@@ -821,17 +832,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>mission.helper</td>
-		<td>315</td>
-		<td>315</td>
-		<td>319</td>
-		<td>321</td>
-		<td>325</td>
-		<td>325</td>
-		<td>327</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>320</td>
 		<td>320</td>
@@ -839,8 +839,8 @@
 		<td>322</td>
 		<td>324</td>
 		<td>324</td>
-		<td>324</td>
-		<td></td>
+		<td>326</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16700</td>
-		<td>2</td>
+		<td>16704</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
