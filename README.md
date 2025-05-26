@@ -98,8 +98,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>15</td>
-		<td>+ 10</td>
+		<td>19</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>358</td>
 		<td>358</td>
 		<td>359</td>
-		<td>361</td>
-		<td>+ 2</td>
+		<td>363</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -197,8 +197,8 @@
 		<td>420</td>
 		<td>420</td>
 		<td>421</td>
-		<td>421</td>
-		<td></td>
+		<td>423</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -307,8 +307,8 @@
 		<td>325</td>
 		<td>332</td>
 		<td>333</td>
-		<td>334</td>
-		<td>+ 1</td>
+		<td>336</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16800</td>
-		<td>36</td>
+		<td>16810</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
@@ -707,8 +707,8 @@
 		<td>420</td>
 		<td>420</td>
 		<td>421</td>
-		<td>421</td>
-		<td></td>
+		<td>423</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -773,8 +773,8 @@
 		<td>358</td>
 		<td>358</td>
 		<td>359</td>
-		<td>361</td>
-		<td>+ 2</td>
+		<td>363</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -817,8 +817,8 @@
 		<td>325</td>
 		<td>332</td>
 		<td>333</td>
-		<td>334</td>
-		<td>+ 1</td>
+		<td>336</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -960,8 +960,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>15</td>
-		<td>+ 10</td>
+		<td>19</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16800</td>
-		<td>36</td>
+		<td>16810</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>13</td>
 		<td>18</td>
 		<td>18</td>
-		<td>15</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1026,7 +1026,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1443</td>
+		<td>1444</td>
 		<td>385</td>
 		<td>165</td>
 		<td>21</td>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>33</td>
-		<td>43.73</td>
+		<td>43.76</td>
 		<td>11.67</td>
 		<td></td>
 		<td></td>
