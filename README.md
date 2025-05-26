@@ -65,8 +65,8 @@
 		<td>626</td>
 		<td>628</td>
 		<td>629</td>
-		<td>631</td>
-		<td>+ 2</td>
+		<td>633</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>23</td>
-		<td>+ 18</td>
+		<td>25</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>358</td>
 		<td>358</td>
 		<td>359</td>
-		<td>363</td>
-		<td>+ 4</td>
+		<td>365</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>626</td>
 		<td>626</td>
 		<td>627</td>
-		<td>628</td>
-		<td>+ 1</td>
+		<td>630</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -208,8 +208,8 @@
 		<td>106</td>
 		<td>106</td>
 		<td>107</td>
-		<td>107</td>
-		<td></td>
+		<td>109</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -296,8 +296,8 @@
 		<td>94</td>
 		<td>96</td>
 		<td>97</td>
-		<td>99</td>
-		<td>+ 2</td>
+		<td>101</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16829</td>
-		<td>65</td>
+		<td>16841</td>
+		<td>77</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>626</td>
 		<td>628</td>
 		<td>629</td>
-		<td>631</td>
-		<td>+ 2</td>
+		<td>633</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -553,8 +553,8 @@
 		<td>626</td>
 		<td>626</td>
 		<td>627</td>
-		<td>628</td>
-		<td>+ 1</td>
+		<td>630</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -773,8 +773,8 @@
 		<td>358</td>
 		<td>358</td>
 		<td>359</td>
-		<td>363</td>
-		<td>+ 4</td>
+		<td>365</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -927,8 +927,8 @@
 		<td>106</td>
 		<td>106</td>
 		<td>107</td>
-		<td>107</td>
-		<td></td>
+		<td>109</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -938,8 +938,8 @@
 		<td>94</td>
 		<td>96</td>
 		<td>97</td>
-		<td>99</td>
-		<td>+ 2</td>
+		<td>101</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -960,8 +960,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>23</td>
-		<td>+ 18</td>
+		<td>25</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16829</td>
-		<td>65</td>
+		<td>16841</td>
+		<td>77</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>13</td>
 		<td>18</td>
 		<td>18</td>
-		<td>21</td>
+		<td>22</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>7</td>
 		<td>9</td>
 		<td>6</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1449</td>
-		<td>388</td>
+		<td>1450</td>
+		<td>389</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>33</td>
-		<td>43.91</td>
-		<td>11.76</td>
+		<td>43.94</td>
+		<td>11.79</td>
 		<td></td>
 		<td></td>
 	</tr>
