@@ -131,8 +131,8 @@
 		<td>324</td>
 		<td>326</td>
 		<td>327</td>
-		<td>329</td>
-		<td>+ 2</td>
+		<td>331</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -307,8 +307,8 @@
 		<td>325</td>
 		<td>332</td>
 		<td>333</td>
-		<td>336</td>
-		<td>+ 3</td>
+		<td>338</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16851</td>
-		<td>87</td>
+		<td>16855</td>
+		<td>91</td>
 	</tr>
 </table>
 </sub></sup>
@@ -817,8 +817,8 @@
 		<td>325</td>
 		<td>332</td>
 		<td>333</td>
-		<td>336</td>
-		<td>+ 3</td>
+		<td>338</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -850,8 +850,8 @@
 		<td>324</td>
 		<td>326</td>
 		<td>327</td>
-		<td>329</td>
-		<td>+ 2</td>
+		<td>331</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16851</td>
-		<td>87</td>
+		<td>16855</td>
+		<td>91</td>
 	</tr>
 </table>
 </sub></sup>
