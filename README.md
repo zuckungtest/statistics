@@ -98,8 +98,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>25</td>
-		<td>+ 20</td>
+		<td>27</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16849</td>
-		<td>85</td>
+		<td>16851</td>
+		<td>87</td>
 	</tr>
 </table>
 </sub></sup>
@@ -960,8 +960,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>25</td>
-		<td>+ 20</td>
+		<td>27</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16849</td>
-		<td>85</td>
+		<td>16851</td>
+		<td>87</td>
 	</tr>
 </table>
 </sub></sup>
