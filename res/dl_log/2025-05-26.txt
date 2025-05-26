@@ -9,8 +9,8 @@ v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 65
-v1.0.9-uniques | downloads: 80
-v1.0.3-planet.map | downloads: 36
+v1.0.9-uniques | downloads: 82
+v1.0.3-planet.map | downloads: 38
 v1.0.8-bunrodea.missions | downloads: 113
 v1.0.7-expert.crew.members | downloads: 121
 v1.1.6-galactic.capital.investment | downloads: 178
@@ -67,7 +67,7 @@ v1.1.4-galactic.capital.investment | downloads: 230
 v1.0.9-additional.command.buttons.radial | downloads: 29
 v1.0.2-gegno.pirates | downloads: 253
 v1.0.1-kor.efret.shipyard | downloads: 16
-v1.0.2-more.person.ships | downloads: 262
+v1.0.2-more.person.ships | downloads: 264
 v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
@@ -88,7 +88,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 348
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 282
-v1.0.1-paint.your.ships | downloads: 390
+v1.0.1-paint.your.ships | downloads: 392
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 17944
+# TOTAL DOWNLOADS: 17952
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -243,13 +243,13 @@ licenses 101
 mission.helper 336
 more.arfectas 546
 more.boarding.missions 556
-more.person.ships 397
+more.person.ships 399
 navy.licenses 575
 no.more.mereti.mines 338
 outfits.weapon.slot 353
-paint.your.ships 394
+paint.your.ships 396
 pirate.warlords 3
-planet.map 249
+planet.map 251
 planet.pluto 158
 quarg.farm 573
 real.fluff 93
@@ -259,4 +259,4 @@ space.fauna 318
 too.many.asteroids 633
 tribute.republic 272
 unique.fix 44
-uniques 432
+uniques 434
