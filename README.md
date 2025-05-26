@@ -98,8 +98,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>7</td>
-		<td>+ 2</td>
+		<td>9</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -142,8 +142,8 @@
 		<td>626</td>
 		<td>626</td>
 		<td>627</td>
-		<td>627</td>
-		<td></td>
+		<td>628</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -307,8 +307,8 @@
 		<td>325</td>
 		<td>332</td>
 		<td>333</td>
-		<td>333</td>
-		<td></td>
+		<td>334</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -362,8 +362,8 @@
 		<td>349</td>
 		<td>349</td>
 		<td>350</td>
-		<td>350</td>
-		<td></td>
+		<td>351</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -417,8 +417,8 @@
 		<td>478</td>
 		<td>480</td>
 		<td>481</td>
-		<td>481</td>
-		<td></td>
+		<td>483</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16767</td>
-		<td>3</td>
+		<td>16774</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>626</td>
 		<td>626</td>
 		<td>627</td>
-		<td>627</td>
-		<td></td>
+		<td>628</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -641,8 +641,8 @@
 		<td>478</td>
 		<td>480</td>
 		<td>481</td>
-		<td>481</td>
-		<td></td>
+		<td>483</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -784,8 +784,8 @@
 		<td>349</td>
 		<td>349</td>
 		<td>350</td>
-		<td>350</td>
-		<td></td>
+		<td>351</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -817,8 +817,8 @@
 		<td>325</td>
 		<td>332</td>
 		<td>333</td>
-		<td>333</td>
-		<td></td>
+		<td>334</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -960,8 +960,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>5</td>
-		<td>7</td>
-		<td>+ 2</td>
+		<td>9</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16767</td>
-		<td>3</td>
+		<td>16774</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>13</td>
 		<td>18</td>
 		<td>18</td>
-		<td>3</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>7</td>
 		<td>9</td>
 		<td>6</td>
-		<td>2</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1431</td>
-		<td>380</td>
+		<td>1436</td>
+		<td>382</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>33</td>
-		<td>43.36</td>
-		<td>11.52</td>
+		<td>43.52</td>
+		<td>11.58</td>
 		<td></td>
 		<td></td>
 	</tr>
