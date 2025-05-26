@@ -340,8 +340,8 @@
 		<td>396</td>
 		<td>396</td>
 		<td>397</td>
-		<td>397</td>
-		<td></td>
+		<td>399</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -373,8 +373,8 @@
 		<td>391</td>
 		<td>393</td>
 		<td>394</td>
-		<td>394</td>
-		<td></td>
+		<td>396</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -384,8 +384,8 @@
 		<td>248</td>
 		<td>248</td>
 		<td>249</td>
-		<td>249</td>
-		<td></td>
+		<td>251</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -472,8 +472,8 @@
 		<td>428</td>
 		<td>428</td>
 		<td>430</td>
-		<td>432</td>
-		<td>+ 2</td>
+		<td>434</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16841</td>
-		<td>77</td>
+		<td>16849</td>
+		<td>85</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>428</td>
 		<td>428</td>
 		<td>430</td>
-		<td>432</td>
-		<td>+ 2</td>
+		<td>434</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -711,6 +711,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>more.person.ships</td>
+		<td>392</td>
+		<td>392</td>
+		<td>396</td>
+		<td>396</td>
+		<td>396</td>
+		<td>397</td>
+		<td>399</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images</td>
 		<td>391</td>
 		<td>391</td>
@@ -722,17 +733,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>more.person.ships</td>
-		<td>392</td>
-		<td>392</td>
-		<td>396</td>
-		<td>396</td>
-		<td>396</td>
-		<td>397</td>
-		<td>397</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>paint.your.ships</td>
 		<td>387</td>
 		<td>387</td>
@@ -740,8 +740,8 @@
 		<td>391</td>
 		<td>393</td>
 		<td>394</td>
-		<td>394</td>
-		<td></td>
+		<td>396</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -894,8 +894,8 @@
 		<td>248</td>
 		<td>248</td>
 		<td>249</td>
-		<td>249</td>
-		<td></td>
+		<td>251</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16841</td>
-		<td>77</td>
+		<td>16849</td>
+		<td>85</td>
 	</tr>
 </table>
 </sub></sup>
