@@ -98,8 +98,8 @@
 		<td>0</td>
 		<td>5</td>
 		<td>32</td>
-		<td>34</td>
-		<td>+ 2</td>
+		<td>36</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>736</td>
 		<td>737</td>
 		<td>742</td>
-		<td>746</td>
-		<td>+ 4</td>
+		<td>748</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -406,8 +406,8 @@
 		<td>570</td>
 		<td>571</td>
 		<td>573</td>
-		<td>575</td>
-		<td>+ 2</td>
+		<td>577</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -428,8 +428,8 @@
 		<td>427</td>
 		<td>428</td>
 		<td>429</td>
-		<td>433</td>
-		<td>+ 4</td>
+		<td>435</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td>428</td>
 		<td>430</td>
 		<td>434</td>
-		<td>434</td>
-		<td></td>
+		<td>436</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16922</td>
-		<td>62</td>
+		<td>16932</td>
+		<td>72</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>736</td>
 		<td>737</td>
 		<td>742</td>
-		<td>746</td>
-		<td>+ 4</td>
+		<td>748</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -568,6 +568,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>562</td>
+		<td>568</td>
+		<td>570</td>
+		<td>570</td>
+		<td>571</td>
+		<td>573</td>
+		<td>577</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>kor.efret.shipyard</td>
 		<td>559</td>
 		<td>567</td>
@@ -577,17 +588,6 @@
 		<td>570</td>
 		<td>576</td>
 		<td>+ 6</td>
-	</tr>
-	<tr>
-		<td>quarg.farm</td>
-		<td>562</td>
-		<td>568</td>
-		<td>570</td>
-		<td>570</td>
-		<td>571</td>
-		<td>573</td>
-		<td>575</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -685,8 +685,8 @@
 		<td>428</td>
 		<td>430</td>
 		<td>434</td>
-		<td>434</td>
-		<td></td>
+		<td>436</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -696,8 +696,8 @@
 		<td>427</td>
 		<td>428</td>
 		<td>429</td>
-		<td>433</td>
-		<td>+ 4</td>
+		<td>435</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -960,8 +960,8 @@
 		<td>0</td>
 		<td>5</td>
 		<td>32</td>
-		<td>34</td>
-		<td>+ 2</td>
+		<td>36</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16922</td>
-		<td>62</td>
+		<td>16932</td>
+		<td>72</td>
 	</tr>
 </table>
 </sub></sup>
