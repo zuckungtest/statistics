@@ -39,10 +39,10 @@ v1.1.7-captureable.person.ships | downloads: 212
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 306
+v1.0.4-too.many.asteroids | downloads: 308
 v1.0.3-show.reputation | downloads: 236
 v1.0.13-additional.command.buttons.radial | downloads: 93
-v1.0.4-better.starts | downloads: 271
+v1.0.4-better.starts | downloads: 273
 v1.0.5-bunrodea.missions | downloads: 120
 v1.0.2-planet.pluto | downloads: 135
 v1.0.2-planet.map | downloads: 80
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18035
+# TOTAL DOWNLOADS: 18039
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -216,7 +216,7 @@ additional.command.buttons.radial 756
 automata.destruction.0percent 454
 automata.in.human.space 388
 avgi.licenses 229
-better.starts 486
+better.starts 488
 bunrodea.missions 637
 captureable.person.ships 458
 coalition.shopping 511
@@ -256,7 +256,7 @@ real.fluff 93
 show.reputation 485
 snowfeather.robotics 435
 space.fauna 318
-too.many.asteroids 637
+too.many.asteroids 639
 tribute.republic 272
 unique.fix 44
 uniques 436
