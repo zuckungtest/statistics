@@ -54,8 +54,8 @@
 		<td>485</td>
 		<td>486</td>
 		<td>486</td>
-		<td>486</td>
-		<td></td>
+		<td>488</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -450,8 +450,8 @@
 		<td>630</td>
 		<td>631</td>
 		<td>633</td>
-		<td>637</td>
-		<td>+ 4</td>
+		<td>639</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16932</td>
-		<td>72</td>
+		<td>16936</td>
+		<td>76</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>630</td>
 		<td>631</td>
 		<td>633</td>
-		<td>637</td>
-		<td>+ 4</td>
+		<td>639</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -630,8 +630,8 @@
 		<td>485</td>
 		<td>486</td>
 		<td>486</td>
-		<td>486</td>
-		<td></td>
+		<td>488</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16932</td>
-		<td>72</td>
+		<td>16936</td>
+		<td>76</td>
 	</tr>
 </table>
 </sub></sup>
