@@ -21,8 +21,8 @@
 		<td>753</td>
 		<td>754</td>
 		<td>756</td>
-		<td>756</td>
-		<td></td>
+		<td>758</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -98,8 +98,8 @@
 		<td>0</td>
 		<td>5</td>
 		<td>32</td>
-		<td>36</td>
-		<td>+ 4</td>
+		<td>38</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -296,8 +296,8 @@
 		<td>96</td>
 		<td>97</td>
 		<td>101</td>
-		<td>105</td>
-		<td>+ 4</td>
+		<td>107</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16938</td>
-		<td>78</td>
+		<td>16944</td>
+		<td>84</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>753</td>
 		<td>754</td>
 		<td>756</td>
-		<td>756</td>
-		<td></td>
+		<td>758</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -938,8 +938,8 @@
 		<td>96</td>
 		<td>97</td>
 		<td>101</td>
-		<td>105</td>
-		<td>+ 4</td>
+		<td>107</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -960,8 +960,8 @@
 		<td>0</td>
 		<td>5</td>
 		<td>32</td>
-		<td>36</td>
-		<td>+ 4</td>
+		<td>38</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16938</td>
-		<td>78</td>
+		<td>16944</td>
+		<td>84</td>
 	</tr>
 </table>
 </sub></sup>
