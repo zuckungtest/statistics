@@ -164,8 +164,8 @@
 		<td>331</td>
 		<td>332</td>
 		<td>332</td>
-		<td>332</td>
-		<td></td>
+		<td>334</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -175,8 +175,8 @@
 		<td>736</td>
 		<td>737</td>
 		<td>742</td>
-		<td>744</td>
-		<td>+ 2</td>
+		<td>746</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>466</td>
 		<td>467</td>
 		<td>467</td>
-		<td>467</td>
-		<td></td>
+		<td>469</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -241,8 +241,8 @@
 		<td>386</td>
 		<td>387</td>
 		<td>389</td>
-		<td>389</td>
-		<td></td>
+		<td>391</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -252,8 +252,8 @@
 		<td>567</td>
 		<td>568</td>
 		<td>570</td>
-		<td>574</td>
-		<td>+ 4</td>
+		<td>576</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -318,8 +318,8 @@
 		<td>545</td>
 		<td>546</td>
 		<td>546</td>
-		<td>546</td>
-		<td></td>
+		<td>548</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -373,8 +373,8 @@
 		<td>393</td>
 		<td>394</td>
 		<td>396</td>
-		<td>398</td>
-		<td>+ 2</td>
+		<td>400</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -406,8 +406,8 @@
 		<td>570</td>
 		<td>571</td>
 		<td>573</td>
-		<td>573</td>
-		<td></td>
+		<td>575</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td>630</td>
 		<td>631</td>
 		<td>633</td>
-		<td>635</td>
-		<td>+ 2</td>
+		<td>637</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16904</td>
-		<td>44</td>
+		<td>16922</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,19 @@
 		<td>736</td>
 		<td>737</td>
 		<td>742</td>
-		<td>744</td>
-		<td>+ 2</td>
+		<td>746</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>too.many.asteroids</td>
+		<td>622</td>
+		<td>628</td>
+		<td>630</td>
+		<td>630</td>
+		<td>631</td>
+		<td>633</td>
+		<td>637</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -533,17 +544,6 @@
 		<td>633</td>
 		<td>637</td>
 		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>622</td>
-		<td>628</td>
-		<td>630</td>
-		<td>630</td>
-		<td>631</td>
-		<td>633</td>
-		<td>635</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -575,8 +575,8 @@
 		<td>567</td>
 		<td>568</td>
 		<td>570</td>
-		<td>574</td>
-		<td>+ 4</td>
+		<td>576</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -586,8 +586,8 @@
 		<td>570</td>
 		<td>571</td>
 		<td>573</td>
-		<td>573</td>
-		<td></td>
+		<td>575</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -608,8 +608,8 @@
 		<td>545</td>
 		<td>546</td>
 		<td>546</td>
-		<td>546</td>
-		<td></td>
+		<td>548</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -652,8 +652,8 @@
 		<td>466</td>
 		<td>467</td>
 		<td>467</td>
-		<td>467</td>
-		<td></td>
+		<td>469</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>387</td>
+		<td>391</td>
+		<td>391</td>
+		<td>393</td>
+		<td>394</td>
+		<td>396</td>
+		<td>400</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>more.person.ships</td>
 		<td>392</td>
 		<td>396</td>
@@ -720,17 +731,6 @@
 		<td>399</td>
 		<td>399</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>387</td>
-		<td>391</td>
-		<td>391</td>
-		<td>393</td>
-		<td>394</td>
-		<td>396</td>
-		<td>398</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -751,8 +751,8 @@
 		<td>386</td>
 		<td>387</td>
 		<td>389</td>
-		<td>389</td>
-		<td></td>
+		<td>391</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -828,8 +828,8 @@
 		<td>331</td>
 		<td>332</td>
 		<td>332</td>
-		<td>332</td>
-		<td></td>
+		<td>334</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16904</td>
-		<td>44</td>
+		<td>16922</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
