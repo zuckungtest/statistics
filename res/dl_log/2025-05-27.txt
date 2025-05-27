@@ -9,7 +9,7 @@ v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 69
-v1.0.9-uniques | downloads: 84
+v1.0.9-uniques | downloads: 85
 v1.0.3-planet.map | downloads: 38
 v1.0.8-bunrodea.missions | downloads: 117
 v1.0.7-expert.crew.members | downloads: 125
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18051
+# TOTAL DOWNLOADS: 18052
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -259,4 +259,4 @@ space.fauna 318
 too.many.asteroids 639
 tribute.republic 272
 unique.fix 44
-uniques 436
+uniques 437
