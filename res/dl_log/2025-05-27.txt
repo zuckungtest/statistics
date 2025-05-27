@@ -4,7 +4,7 @@ v1.0.1-licenses | downloads: 105
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 71
 v1.0.1-flare.play | downloads: 46
-v1.0.22-additional.command.buttons.radial | downloads: 75
+v1.0.22-additional.command.buttons.radial | downloads: 77
 v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
@@ -207,12 +207,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18049
+# TOTAL DOWNLOADS: 18051
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 758
+additional.command.buttons.radial 760
 automata.destruction.0percent 456
 automata.in.human.space 388
 avgi.licenses 229
