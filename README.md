@@ -351,8 +351,8 @@
 		<td>337</td>
 		<td>338</td>
 		<td>338</td>
-		<td>340</td>
-		<td>+ 2</td>
+		<td>342</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -362,8 +362,8 @@
 		<td>349</td>
 		<td>350</td>
 		<td>353</td>
-		<td>357</td>
-		<td>+ 4</td>
+		<td>359</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16949</td>
-		<td>89</td>
+		<td>16953</td>
+		<td>93</td>
 	</tr>
 </table>
 </sub></sup>
@@ -784,8 +784,8 @@
 		<td>349</td>
 		<td>350</td>
 		<td>353</td>
-		<td>357</td>
-		<td>+ 4</td>
+		<td>359</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -806,8 +806,8 @@
 		<td>337</td>
 		<td>338</td>
 		<td>338</td>
-		<td>340</td>
-		<td>+ 2</td>
+		<td>342</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16949</td>
-		<td>89</td>
+		<td>16953</td>
+		<td>93</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>18</td>
 		<td>18</td>
 		<td>28</td>
-		<td>17</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1026,7 +1026,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1473</td>
+		<td>1475</td>
 		<td>404</td>
 		<td>165</td>
 		<td>21</td>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>34</td>
-		<td>43.32</td>
+		<td>43.38</td>
 		<td>11.88</td>
 		<td></td>
 		<td></td>
