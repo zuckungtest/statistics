@@ -1,10 +1,10 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-combat.ai | downloads: 36
-v1.0.1-licenses | downloads: 103
+v1.0.0-combat.ai | downloads: 38
+v1.0.1-licenses | downloads: 105
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 71
 v1.0.1-flare.play | downloads: 46
-v1.0.22-additional.command.buttons.radial | downloads: 73
+v1.0.22-additional.command.buttons.radial | downloads: 75
 v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
@@ -207,12 +207,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18041
+# TOTAL DOWNLOADS: 18047
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 756
+additional.command.buttons.radial 758
 automata.destruction.0percent 456
 automata.in.human.space 388
 avgi.licenses 229
@@ -220,7 +220,7 @@ better.starts 488
 bunrodea.missions 637
 captureable.person.ships 458
 coalition.shopping 511
-combat.ai 36
+combat.ai 38
 control.station 365
 devil-run.unhidden 66
 disable.person.ships 213
@@ -239,7 +239,7 @@ kor.efret.shipyard 576
 landing.images 398
 landing.images.android 331
 landing.images.highres 274
-licenses 105
+licenses 107
 mission.helper 338
 more.arfectas 548
 more.boarding.missions 560
