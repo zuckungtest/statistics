@@ -32,8 +32,8 @@
 		<td>454</td>
 		<td>454</td>
 		<td>456</td>
-		<td>456</td>
-		<td></td>
+		<td>458</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>386</td>
 		<td>386</td>
 		<td>388</td>
-		<td>388</td>
-		<td></td>
+		<td>390</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -54,8 +54,8 @@
 		<td>486</td>
 		<td>486</td>
 		<td>488</td>
-		<td>488</td>
-		<td></td>
+		<td>490</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>456</td>
 		<td>458</td>
 		<td>458</td>
-		<td>458</td>
-		<td></td>
+		<td>460</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -87,8 +87,8 @@
 		<td>509</td>
 		<td>511</td>
 		<td>511</td>
-		<td>511</td>
-		<td></td>
+		<td>513</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -98,8 +98,8 @@
 		<td>5</td>
 		<td>32</td>
 		<td>42</td>
-		<td>42</td>
-		<td></td>
+		<td>44</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>359</td>
 		<td>365</td>
 		<td>365</td>
-		<td>365</td>
-		<td></td>
+		<td>367</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -208,8 +208,8 @@
 		<td>107</td>
 		<td>109</td>
 		<td>109</td>
-		<td>109</td>
-		<td></td>
+		<td>111</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -296,8 +296,8 @@
 		<td>97</td>
 		<td>101</td>
 		<td>109</td>
-		<td>109</td>
-		<td></td>
+		<td>111</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16969</td>
-		<td>0</td>
+		<td>16987</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>509</td>
 		<td>511</td>
 		<td>511</td>
-		<td>511</td>
-		<td></td>
+		<td>513</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -630,8 +630,8 @@
 		<td>486</td>
 		<td>486</td>
 		<td>488</td>
-		<td>488</td>
-		<td></td>
+		<td>490</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -663,8 +663,8 @@
 		<td>456</td>
 		<td>458</td>
 		<td>458</td>
-		<td>458</td>
-		<td></td>
+		<td>460</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -674,8 +674,8 @@
 		<td>454</td>
 		<td>454</td>
 		<td>456</td>
-		<td>456</td>
-		<td></td>
+		<td>458</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -762,8 +762,8 @@
 		<td>386</td>
 		<td>386</td>
 		<td>388</td>
-		<td>388</td>
-		<td></td>
+		<td>390</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -773,8 +773,8 @@
 		<td>359</td>
 		<td>365</td>
 		<td>365</td>
-		<td>365</td>
-		<td></td>
+		<td>367</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -927,8 +927,8 @@
 		<td>97</td>
 		<td>101</td>
 		<td>109</td>
-		<td>109</td>
-		<td></td>
+		<td>111</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -938,8 +938,8 @@
 		<td>107</td>
 		<td>109</td>
 		<td>109</td>
-		<td>109</td>
-		<td></td>
+		<td>111</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -960,8 +960,8 @@
 		<td>5</td>
 		<td>32</td>
 		<td>42</td>
-		<td>42</td>
-		<td></td>
+		<td>44</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16969</td>
-		<td>0</td>
+		<td>16987</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
