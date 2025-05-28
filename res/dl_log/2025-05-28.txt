@@ -8,7 +8,7 @@ v1.0.22-additional.command.buttons.radial | downloads: 77
 v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
-v1.0.4-quarg.farm | downloads: 69
+v1.0.4-quarg.farm | downloads: 71
 v1.0.9-uniques | downloads: 85
 v1.0.3-planet.map | downloads: 38
 v1.0.8-bunrodea.missions | downloads: 119
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18090
+# TOTAL DOWNLOADS: 18092
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -251,7 +251,7 @@ paint.your.ships 400
 pirate.warlords 3
 planet.map 251
 planet.pluto 158
-quarg.farm 577
+quarg.farm 579
 real.fluff 93
 show.reputation 485
 snowfeather.robotics 437
