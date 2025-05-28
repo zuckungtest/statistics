@@ -406,8 +406,8 @@
 		<td>571</td>
 		<td>573</td>
 		<td>577</td>
-		<td>577</td>
-		<td></td>
+		<td>579</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16987</td>
-		<td>18</td>
+		<td>16989</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>571</td>
 		<td>573</td>
 		<td>577</td>
-		<td>577</td>
-		<td></td>
+		<td>579</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16987</td>
-		<td>18</td>
+		<td>16989</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
