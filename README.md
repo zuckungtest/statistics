@@ -65,8 +65,8 @@
 		<td>633</td>
 		<td>639</td>
 		<td>639</td>
-		<td>641</td>
-		<td>+ 2</td>
+		<td>643</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -197,8 +197,8 @@
 		<td>423</td>
 		<td>423</td>
 		<td>423</td>
-		<td>423</td>
-		<td></td>
+		<td>425</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -329,8 +329,8 @@
 		<td>556</td>
 		<td>562</td>
 		<td>562</td>
-		<td>564</td>
-		<td>+ 2</td>
+		<td>566</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -395,8 +395,8 @@
 		<td>158</td>
 		<td>158</td>
 		<td>158</td>
-		<td>158</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -428,8 +428,8 @@
 		<td>429</td>
 		<td>437</td>
 		<td>437</td>
-		<td>439</td>
-		<td>+ 2</td>
+		<td>441</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17021</td>
-		<td>28</td>
+		<td>17031</td>
+		<td>38</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>633</td>
 		<td>639</td>
 		<td>639</td>
-		<td>641</td>
-		<td>+ 2</td>
+		<td>643</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -597,8 +597,8 @@
 		<td>556</td>
 		<td>562</td>
 		<td>562</td>
-		<td>564</td>
-		<td>+ 2</td>
+		<td>566</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -678,22 +678,22 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>uniques</td>
-		<td>428</td>
-		<td>428</td>
-		<td>430</td>
-		<td>434</td>
-		<td>437</td>
-		<td>437</td>
-		<td>439</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>snowfeather.robotics</td>
 		<td>427</td>
 		<td>427</td>
 		<td>428</td>
 		<td>429</td>
+		<td>437</td>
+		<td>437</td>
+		<td>441</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>uniques</td>
+		<td>428</td>
+		<td>428</td>
+		<td>430</td>
+		<td>434</td>
 		<td>437</td>
 		<td>437</td>
 		<td>439</td>
@@ -707,8 +707,8 @@
 		<td>423</td>
 		<td>423</td>
 		<td>423</td>
-		<td>423</td>
-		<td></td>
+		<td>425</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -916,8 +916,8 @@
 		<td>158</td>
 		<td>158</td>
 		<td>158</td>
-		<td>158</td>
-		<td></td>
+		<td>160</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17021</td>
-		<td>28</td>
+		<td>17031</td>
+		<td>38</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>28</td>
 		<td>23</td>
 		<td>11</td>
-		<td>2</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>17</td>
 		<td>10</td>
 		<td>9</td>
-		<td>2</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1492</td>
-		<td>416</td>
+		<td>1515</td>
+		<td>418</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>36</td>
-		<td>41.44</td>
-		<td>11.56</td>
+		<td>42.08</td>
+		<td>11.61</td>
 		<td></td>
 		<td></td>
 	</tr>
