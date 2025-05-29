@@ -2,7 +2,7 @@
 v1.0.0-combat.ai | downloads: 46
 v1.0.1-licenses | downloads: 111
 v1.0.0-licenses | downloads: 2
-v1.0.3-mission.helper | downloads: 73
+v1.0.3-mission.helper | downloads: 75
 v1.0.1-flare.play | downloads: 46
 v1.0.22-additional.command.buttons.radial | downloads: 77
 v1.0.0-flare.play | downloads: 8
@@ -88,7 +88,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 348
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 286
-v1.0.1-paint.your.ships | downloads: 396
+v1.0.1-paint.your.ships | downloads: 398
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18102
+# TOTAL DOWNLOADS: 18106
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -240,14 +240,14 @@ landing.images 398
 landing.images.android 331
 landing.images.highres 274
 licenses 113
-mission.helper 340
+mission.helper 342
 more.arfectas 548
 more.boarding.missions 562
 more.person.ships 399
 navy.licenses 575
 no.more.mereti.mines 342
 outfits.weapon.slot 359
-paint.your.ships 400
+paint.your.ships 402
 pirate.warlords 3
 planet.map 251
 planet.pluto 158
