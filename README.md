@@ -296,8 +296,8 @@
 		<td>101</td>
 		<td>109</td>
 		<td>113</td>
-		<td>113</td>
-		<td></td>
+		<td>115</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17031</td>
-		<td>38</td>
+		<td>17033</td>
+		<td>40</td>
 	</tr>
 </table>
 </sub></sup>
@@ -927,8 +927,8 @@
 		<td>101</td>
 		<td>109</td>
 		<td>113</td>
-		<td>113</td>
-		<td></td>
+		<td>115</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17031</td>
-		<td>38</td>
+		<td>17033</td>
+		<td>40</td>
 	</tr>
 </table>
 </sub></sup>
