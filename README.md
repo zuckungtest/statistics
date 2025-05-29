@@ -307,8 +307,8 @@
 		<td>338</td>
 		<td>340</td>
 		<td>340</td>
-		<td>340</td>
-		<td></td>
+		<td>342</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -373,8 +373,8 @@
 		<td>396</td>
 		<td>400</td>
 		<td>400</td>
-		<td>400</td>
-		<td></td>
+		<td>402</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16999</td>
-		<td>6</td>
+		<td>17003</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>396</td>
 		<td>400</td>
 		<td>400</td>
-		<td>400</td>
-		<td></td>
+		<td>402</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -817,8 +817,8 @@
 		<td>338</td>
 		<td>340</td>
 		<td>340</td>
-		<td>340</td>
-		<td></td>
+		<td>342</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>16999</td>
-		<td>6</td>
+		<td>17003</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
