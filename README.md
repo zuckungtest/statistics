@@ -87,8 +87,8 @@
 		<td>511</td>
 		<td>513</td>
 		<td>513</td>
-		<td>513</td>
-		<td></td>
+		<td>515</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -98,8 +98,8 @@
 		<td>42</td>
 		<td>46</td>
 		<td>48</td>
-		<td>54</td>
-		<td>+ 6</td>
+		<td>56</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -263,8 +263,8 @@
 		<td>398</td>
 		<td>398</td>
 		<td>400</td>
-		<td>400</td>
-		<td></td>
+		<td>402</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -285,8 +285,8 @@
 		<td>274</td>
 		<td>274</td>
 		<td>274</td>
-		<td>274</td>
-		<td></td>
+		<td>276</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -296,8 +296,8 @@
 		<td>109</td>
 		<td>113</td>
 		<td>115</td>
-		<td>117</td>
-		<td>+ 2</td>
+		<td>119</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -329,8 +329,8 @@
 		<td>562</td>
 		<td>562</td>
 		<td>566</td>
-		<td>566</td>
-		<td></td>
+		<td>568</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17059</td>
-		<td>26</td>
+		<td>17071</td>
+		<td>38</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>562</td>
 		<td>562</td>
 		<td>566</td>
-		<td>566</td>
-		<td></td>
+		<td>568</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -619,8 +619,8 @@
 		<td>511</td>
 		<td>513</td>
 		<td>513</td>
-		<td>513</td>
-		<td></td>
+		<td>515</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -729,8 +729,8 @@
 		<td>398</td>
 		<td>398</td>
 		<td>400</td>
-		<td>400</td>
-		<td></td>
+		<td>402</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -865,21 +865,21 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>tribute.republic</td>
-		<td>271</td>
-		<td>272</td>
-		<td>272</td>
-		<td>274</td>
-		<td>274</td>
-		<td>274</td>
-		<td>274</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>landing.images.highres</td>
 		<td>273</td>
 		<td>274</td>
 		<td>274</td>
+		<td>274</td>
+		<td>274</td>
+		<td>274</td>
+		<td>276</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>tribute.republic</td>
+		<td>271</td>
+		<td>272</td>
+		<td>272</td>
 		<td>274</td>
 		<td>274</td>
 		<td>274</td>
@@ -927,8 +927,8 @@
 		<td>109</td>
 		<td>113</td>
 		<td>115</td>
-		<td>117</td>
-		<td>+ 2</td>
+		<td>119</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -960,8 +960,8 @@
 		<td>42</td>
 		<td>46</td>
 		<td>48</td>
-		<td>54</td>
-		<td>+ 6</td>
+		<td>56</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17059</td>
-		<td>26</td>
+		<td>17071</td>
+		<td>38</td>
 	</tr>
 </table>
 </sub></sup>
