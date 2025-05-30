@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-combat.ai | downloads: 52
+v1.0.0-combat.ai | downloads: 54
 v1.0.1-licenses | downloads: 115
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 77
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18160
+# TOTAL DOWNLOADS: 18162
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -220,7 +220,7 @@ better.starts 492
 bunrodea.missions 643
 captureable.person.ships 462
 coalition.shopping 513
-combat.ai 52
+combat.ai 54
 control.station 369
 devil-run.unhidden 66
 disable.person.ships 213
