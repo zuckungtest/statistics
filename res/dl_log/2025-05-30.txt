@@ -11,12 +11,12 @@ v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 73
 v1.0.9-uniques | downloads: 87
 v1.0.3-planet.map | downloads: 38
-v1.0.8-bunrodea.missions | downloads: 123
+v1.0.8-bunrodea.missions | downloads: 125
 v1.0.7-expert.crew.members | downloads: 127
 v1.1.6-galactic.capital.investment | downloads: 184
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 102
-v1.0.3-gegno.pirates | downloads: 171
+v1.0.3-gegno.pirates | downloads: 174
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 203
@@ -55,10 +55,10 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 321
+v1.0.6-coalition.shopping | downloads: 323
 v1.0.5-snowfeather.robotics | downloads: 281
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 405
+v1.0.2-kor.efret.shipyard | downloads: 407
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18174
+# TOTAL DOWNLOADS: 18183
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -217,9 +217,9 @@ automata.destruction.0percent 458
 automata.in.human.space 390
 avgi.licenses 229
 better.starts 492
-bunrodea.missions 643
+bunrodea.missions 645
 captureable.person.ships 462
-coalition.shopping 515
+coalition.shopping 517
 combat.ai 56
 control.station 369
 devil-run.unhidden 66
@@ -229,13 +229,13 @@ expert.crew.members 636
 flare.play 56
 free.worlds.5.years.later 334
 galactic.capital.investment 748
-gegno.pirates 596
+gegno.pirates 599
 hai.side.mission.unlocker 425
 highrollers.ltd 113
 human.labels 350
 jump.gates 469
 kestrel.unlocks 391
-kor.efret.shipyard 576
+kor.efret.shipyard 578
 landing.images 402
 landing.images.android 331
 landing.images.highres 276
