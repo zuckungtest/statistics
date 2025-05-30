@@ -65,8 +65,8 @@
 		<td>639</td>
 		<td>639</td>
 		<td>643</td>
-		<td>643</td>
-		<td></td>
+		<td>645</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>511</td>
 		<td>513</td>
 		<td>513</td>
-		<td>515</td>
-		<td>+ 2</td>
+		<td>517</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -186,8 +186,8 @@
 		<td>592</td>
 		<td>592</td>
 		<td>594</td>
-		<td>596</td>
-		<td>+ 2</td>
+		<td>599</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -252,8 +252,8 @@
 		<td>576</td>
 		<td>576</td>
 		<td>576</td>
-		<td>576</td>
-		<td></td>
+		<td>578</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17071</td>
-		<td>38</td>
+		<td>17080</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
@@ -524,6 +524,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>bunrodea.missions</td>
+		<td>628</td>
+		<td>629</td>
+		<td>633</td>
+		<td>639</td>
+		<td>639</td>
+		<td>643</td>
+		<td>645</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>630</td>
 		<td>631</td>
@@ -533,17 +544,6 @@
 		<td>639</td>
 		<td>643</td>
 		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>bunrodea.missions</td>
-		<td>628</td>
-		<td>629</td>
-		<td>633</td>
-		<td>639</td>
-		<td>639</td>
-		<td>643</td>
-		<td>643</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -564,8 +564,8 @@
 		<td>592</td>
 		<td>592</td>
 		<td>594</td>
-		<td>596</td>
-		<td>+ 2</td>
+		<td>599</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -586,8 +586,8 @@
 		<td>576</td>
 		<td>576</td>
 		<td>576</td>
-		<td>576</td>
-		<td></td>
+		<td>578</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -619,8 +619,8 @@
 		<td>511</td>
 		<td>513</td>
 		<td>513</td>
-		<td>515</td>
-		<td>+ 2</td>
+		<td>517</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17071</td>
-		<td>38</td>
+		<td>17080</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>23</td>
 		<td>11</td>
 		<td>36</td>
-		<td>20</td>
+		<td>24</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>10</td>
 		<td>9</td>
 		<td>7</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1546</td>
-		<td>429</td>
+		<td>1550</td>
+		<td>430</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>37</td>
-		<td>41.78</td>
-		<td>11.59</td>
+		<td>41.89</td>
+		<td>11.62</td>
 		<td></td>
 		<td></td>
 	</tr>
