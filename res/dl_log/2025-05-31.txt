@@ -2,7 +2,7 @@
 v1.0.0-combat.ai | downloads: 56
 v1.0.1-licenses | downloads: 119
 v1.0.0-licenses | downloads: 2
-v1.0.3-mission.helper | downloads: 79
+v1.0.3-mission.helper | downloads: 81
 v1.0.1-flare.play | downloads: 48
 v1.0.22-additional.command.buttons.radial | downloads: 77
 v1.0.0-flare.play | downloads: 8
@@ -39,7 +39,7 @@ v1.1.7-captureable.person.ships | downloads: 216
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 312
+v1.0.4-too.many.asteroids | downloads: 314
 v1.0.3-show.reputation | downloads: 240
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 277
@@ -58,7 +58,7 @@ v1.0.3-navy.licenses | downloads: 362
 v1.0.6-coalition.shopping | downloads: 323
 v1.0.5-snowfeather.robotics | downloads: 281
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 407
+v1.0.2-kor.efret.shipyard | downloads: 409
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -87,7 +87,7 @@ v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 350
 v1.0.6-additional.command.buttons.radial | downloads: 48
-v1.0.3-no.more.mereti.mines | downloads: 286
+v1.0.3-no.more.mereti.mines | downloads: 288
 v1.0.1-paint.your.ships | downloads: 398
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18187
+# TOTAL DOWNLOADS: 18195
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -235,17 +235,17 @@ highrollers.ltd 113
 human.labels 350
 jump.gates 469
 kestrel.unlocks 391
-kor.efret.shipyard 578
+kor.efret.shipyard 580
 landing.images 402
 landing.images.android 331
 landing.images.highres 276
 licenses 121
-mission.helper 346
+mission.helper 348
 more.arfectas 550
 more.boarding.missions 568
 more.person.ships 399
 navy.licenses 575
-no.more.mereti.mines 342
+no.more.mereti.mines 344
 outfits.weapon.slot 359
 paint.your.ships 402
 pirate.warlords 3
@@ -256,7 +256,7 @@ real.fluff 93
 show.reputation 489
 snowfeather.robotics 441
 space.fauna 318
-too.many.asteroids 643
+too.many.asteroids 645
 tribute.republic 274
 unique.fix 44
 uniques 439
