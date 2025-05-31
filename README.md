@@ -252,8 +252,8 @@
 		<td>576</td>
 		<td>576</td>
 		<td>578</td>
-		<td>578</td>
-		<td></td>
+		<td>580</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -307,8 +307,8 @@
 		<td>340</td>
 		<td>342</td>
 		<td>344</td>
-		<td>346</td>
-		<td>+ 2</td>
+		<td>348</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -351,8 +351,8 @@
 		<td>342</td>
 		<td>342</td>
 		<td>342</td>
-		<td>342</td>
-		<td></td>
+		<td>344</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -450,8 +450,8 @@
 		<td>639</td>
 		<td>639</td>
 		<td>643</td>
-		<td>643</td>
-		<td></td>
+		<td>645</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17084</td>
-		<td>4</td>
+		<td>17092</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -524,6 +524,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>631</td>
+		<td>633</td>
+		<td>639</td>
+		<td>639</td>
+		<td>639</td>
+		<td>643</td>
+		<td>645</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>629</td>
 		<td>633</td>
@@ -532,17 +543,6 @@
 		<td>643</td>
 		<td>645</td>
 		<td>645</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>631</td>
-		<td>633</td>
-		<td>639</td>
-		<td>639</td>
-		<td>639</td>
-		<td>643</td>
-		<td>643</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -586,8 +586,8 @@
 		<td>576</td>
 		<td>576</td>
 		<td>578</td>
-		<td>578</td>
-		<td></td>
+		<td>580</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -806,8 +806,8 @@
 		<td>340</td>
 		<td>342</td>
 		<td>344</td>
-		<td>346</td>
-		<td>+ 2</td>
+		<td>348</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -817,8 +817,8 @@
 		<td>342</td>
 		<td>342</td>
 		<td>342</td>
-		<td>342</td>
-		<td></td>
+		<td>344</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17084</td>
-		<td>4</td>
+		<td>17092</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
