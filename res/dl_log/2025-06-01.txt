@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.0-combat.ai | downloads: 64
-v1.0.1-licenses | downloads: 123
+v1.0.1-licenses | downloads: 125
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 81
 v1.0.1-flare.play | downloads: 50
@@ -12,7 +12,7 @@ v1.0.4-quarg.farm | downloads: 73
 v1.0.9-uniques | downloads: 91
 v1.0.3-planet.map | downloads: 38
 v1.0.8-bunrodea.missions | downloads: 127
-v1.0.7-expert.crew.members | downloads: 131
+v1.0.7-expert.crew.members | downloads: 133
 v1.1.6-galactic.capital.investment | downloads: 190
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 102
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18263
+# TOTAL DOWNLOADS: 18267
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -225,7 +225,7 @@ control.station 373
 devil-run.unhidden 66
 disable.person.ships 213
 disable.spaceport.repeatables 331
-expert.crew.members 640
+expert.crew.members 642
 flare.play 58
 free.worlds.5.years.later 334
 galactic.capital.investment 754
@@ -239,7 +239,7 @@ kor.efret.shipyard 582
 landing.images 402
 landing.images.android 331
 landing.images.highres 276
-licenses 125
+licenses 127
 mission.helper 348
 more.arfectas 550
 more.boarding.missions 570
