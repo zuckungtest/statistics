@@ -12,7 +12,7 @@ v1.0.4-quarg.farm | downloads: 73
 v1.0.9-uniques | downloads: 89
 v1.0.3-planet.map | downloads: 38
 v1.0.8-bunrodea.missions | downloads: 127
-v1.0.7-expert.crew.members | downloads: 129
+v1.0.7-expert.crew.members | downloads: 131
 v1.1.6-galactic.capital.investment | downloads: 188
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 102
@@ -40,7 +40,7 @@ v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 316
-v1.0.3-show.reputation | downloads: 240
+v1.0.3-show.reputation | downloads: 242
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 279
 v1.0.5-bunrodea.missions | downloads: 120
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18237
+# TOTAL DOWNLOADS: 18241
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -225,7 +225,7 @@ control.station 371
 devil-run.unhidden 66
 disable.person.ships 213
 disable.spaceport.repeatables 331
-expert.crew.members 638
+expert.crew.members 640
 flare.play 56
 free.worlds.5.years.later 334
 galactic.capital.investment 752
@@ -253,7 +253,7 @@ planet.map 251
 planet.pluto 160
 quarg.farm 581
 real.fluff 93
-show.reputation 489
+show.reputation 491
 snowfeather.robotics 443
 space.fauna 318
 too.many.asteroids 647
