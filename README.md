@@ -21,8 +21,8 @@
 		<td>760</td>
 		<td>760</td>
 		<td>760</td>
-		<td>760</td>
-		<td></td>
+		<td>762</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17164</td>
-		<td>40</td>
+		<td>17166</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>760</td>
 		<td>760</td>
 		<td>760</td>
-		<td>760</td>
-		<td></td>
+		<td>762</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17164</td>
-		<td>40</td>
+		<td>17166</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>36</td>
 		<td>25</td>
 		<td>14</td>
-		<td>16</td>
+		<td>17</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>7</td>
 		<td>10</td>
 		<td>10</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1581</td>
-		<td>448</td>
+		<td>1582</td>
+		<td>449</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>39</td>
-		<td>40.54</td>
-		<td>11.49</td>
+		<td>40.56</td>
+		<td>11.51</td>
 		<td></td>
 		<td></td>
 	</tr>
