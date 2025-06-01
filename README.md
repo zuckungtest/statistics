@@ -142,8 +142,8 @@
 		<td>636</td>
 		<td>636</td>
 		<td>638</td>
-		<td>640</td>
-		<td>+ 2</td>
+		<td>642</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -296,8 +296,8 @@
 		<td>115</td>
 		<td>119</td>
 		<td>123</td>
-		<td>125</td>
-		<td>+ 2</td>
+		<td>127</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17160</td>
-		<td>36</td>
+		<td>17164</td>
+		<td>40</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>636</td>
 		<td>636</td>
 		<td>638</td>
-		<td>640</td>
-		<td>+ 2</td>
+		<td>642</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -927,8 +927,8 @@
 		<td>115</td>
 		<td>119</td>
 		<td>123</td>
-		<td>125</td>
-		<td>+ 2</td>
+		<td>127</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17160</td>
-		<td>36</td>
+		<td>17164</td>
+		<td>40</td>
 	</tr>
 </table>
 </sub></sup>
