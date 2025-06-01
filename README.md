@@ -142,8 +142,8 @@
 		<td>636</td>
 		<td>636</td>
 		<td>638</td>
-		<td>638</td>
-		<td></td>
+		<td>640</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -417,8 +417,8 @@
 		<td>489</td>
 		<td>489</td>
 		<td>489</td>
-		<td>489</td>
-		<td></td>
+		<td>491</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17134</td>
-		<td>10</td>
+		<td>17138</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>636</td>
 		<td>636</td>
 		<td>638</td>
-		<td>638</td>
-		<td></td>
+		<td>640</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -641,8 +641,8 @@
 		<td>489</td>
 		<td>489</td>
 		<td>489</td>
-		<td>489</td>
-		<td></td>
+		<td>491</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17134</td>
-		<td>10</td>
+		<td>17138</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
