@@ -307,8 +307,8 @@
 		<td>344</td>
 		<td>348</td>
 		<td>348</td>
-		<td>350</td>
-		<td>+ 2</td>
+		<td>352</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -329,8 +329,8 @@
 		<td>568</td>
 		<td>570</td>
 		<td>570</td>
-		<td>572</td>
-		<td>+ 2</td>
+		<td>574</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -428,8 +428,8 @@
 		<td>441</td>
 		<td>443</td>
 		<td>445</td>
-		<td>445</td>
-		<td></td>
+		<td>447</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -450,8 +450,8 @@
 		<td>643</td>
 		<td>647</td>
 		<td>647</td>
-		<td>647</td>
-		<td></td>
+		<td>650</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17201</td>
-		<td>35</td>
+		<td>17210</td>
+		<td>44</td>
 	</tr>
 </table>
 </sub></sup>
@@ -524,6 +524,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>639</td>
+		<td>639</td>
+		<td>639</td>
+		<td>643</td>
+		<td>647</td>
+		<td>647</td>
+		<td>650</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>639</td>
 		<td>639</td>
@@ -533,17 +544,6 @@
 		<td>647</td>
 		<td>649</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>639</td>
-		<td>639</td>
-		<td>639</td>
-		<td>643</td>
-		<td>647</td>
-		<td>647</td>
-		<td>647</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -597,8 +597,8 @@
 		<td>568</td>
 		<td>570</td>
 		<td>570</td>
-		<td>572</td>
-		<td>+ 2</td>
+		<td>574</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -678,6 +678,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>437</td>
+		<td>437</td>
+		<td>441</td>
+		<td>441</td>
+		<td>443</td>
+		<td>445</td>
+		<td>447</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>uniques</td>
 		<td>437</td>
 		<td>437</td>
@@ -687,17 +698,6 @@
 		<td>443</td>
 		<td>445</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>437</td>
-		<td>437</td>
-		<td>441</td>
-		<td>441</td>
-		<td>443</td>
-		<td>445</td>
-		<td>445</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -795,8 +795,8 @@
 		<td>344</td>
 		<td>348</td>
 		<td>348</td>
-		<td>350</td>
-		<td>+ 2</td>
+		<td>352</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17201</td>
-		<td>35</td>
+		<td>17210</td>
+		<td>44</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>25</td>
 		<td>14</td>
 		<td>25</td>
-		<td>20</td>
+		<td>28</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>10</td>
 		<td>10</td>
 		<td>11</td>
-		<td>7</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1610</td>
-		<td>459</td>
+		<td>1618</td>
+		<td>461</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>40</td>
-		<td>40.25</td>
-		<td>11.47</td>
+		<td>40.45</td>
+		<td>11.53</td>
 		<td></td>
 		<td></td>
 	</tr>
