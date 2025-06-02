@@ -142,8 +142,8 @@
 		<td>636</td>
 		<td>638</td>
 		<td>642</td>
-		<td>642</td>
-		<td></td>
+		<td>644</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -252,8 +252,8 @@
 		<td>578</td>
 		<td>580</td>
 		<td>582</td>
-		<td>582</td>
-		<td></td>
+		<td>584</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -373,8 +373,8 @@
 		<td>402</td>
 		<td>402</td>
 		<td>404</td>
-		<td>404</td>
-		<td></td>
+		<td>406</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -472,8 +472,8 @@
 		<td>439</td>
 		<td>441</td>
 		<td>443</td>
-		<td>443</td>
-		<td></td>
+		<td>445</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17170</td>
-		<td>4</td>
+		<td>17178</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>636</td>
 		<td>638</td>
 		<td>642</td>
-		<td>642</td>
-		<td></td>
+		<td>644</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>578</td>
 		<td>580</td>
 		<td>582</td>
-		<td>582</td>
-		<td></td>
+		<td>584</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>437</td>
+		<td>437</td>
+		<td>439</td>
+		<td>439</td>
+		<td>441</td>
+		<td>443</td>
+		<td>445</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>437</td>
 		<td>437</td>
@@ -686,17 +697,6 @@
 		<td>443</td>
 		<td>445</td>
 		<td>445</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>437</td>
-		<td>437</td>
-		<td>439</td>
-		<td>439</td>
-		<td>441</td>
-		<td>443</td>
-		<td>443</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -718,8 +718,8 @@
 		<td>402</td>
 		<td>402</td>
 		<td>404</td>
-		<td>404</td>
-		<td></td>
+		<td>406</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17170</td>
-		<td>4</td>
+		<td>17178</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>25</td>
 		<td>14</td>
 		<td>25</td>
-		<td>4</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1026,7 +1026,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1594</td>
+		<td>1596</td>
 		<td>454</td>
 		<td>165</td>
 		<td>21</td>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>40</td>
-		<td>39.85</td>
+		<td>39.90</td>
 		<td>11.35</td>
 		<td></td>
 		<td></td>
