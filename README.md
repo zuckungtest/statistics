@@ -274,8 +274,8 @@
 		<td>331</td>
 		<td>331</td>
 		<td>331</td>
-		<td>331</td>
-		<td></td>
+		<td>333</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17240</td>
-		<td>74</td>
+		<td>17242</td>
+		<td>76</td>
 	</tr>
 </table>
 </sub></sup>
@@ -839,8 +839,8 @@
 		<td>331</td>
 		<td>331</td>
 		<td>331</td>
-		<td>331</td>
-		<td></td>
+		<td>333</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17240</td>
-		<td>74</td>
+		<td>17242</td>
+		<td>76</td>
 	</tr>
 </table>
 </sub></sup>
