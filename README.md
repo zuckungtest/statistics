@@ -32,8 +32,8 @@
 		<td>458</td>
 		<td>460</td>
 		<td>460</td>
-		<td>460</td>
-		<td></td>
+		<td>463</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -65,8 +65,8 @@
 		<td>645</td>
 		<td>647</td>
 		<td>647</td>
-		<td>647</td>
-		<td></td>
+		<td>649</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>517</td>
 		<td>519</td>
 		<td>519</td>
-		<td>519</td>
-		<td></td>
+		<td>521</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -98,8 +98,8 @@
 		<td>56</td>
 		<td>58</td>
 		<td>64</td>
-		<td>64</td>
-		<td></td>
+		<td>66</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>369</td>
 		<td>371</td>
 		<td>373</td>
-		<td>375</td>
-		<td>+ 2</td>
+		<td>377</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>636</td>
 		<td>638</td>
 		<td>642</td>
-		<td>644</td>
-		<td>+ 2</td>
+		<td>646</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -153,8 +153,8 @@
 		<td>56</td>
 		<td>56</td>
 		<td>58</td>
-		<td>58</td>
-		<td></td>
+		<td>60</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>748</td>
 		<td>750</td>
 		<td>754</td>
-		<td>754</td>
-		<td></td>
+		<td>756</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>391</td>
 		<td>393</td>
 		<td>393</td>
-		<td>393</td>
-		<td></td>
+		<td>395</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -329,8 +329,8 @@
 		<td>568</td>
 		<td>570</td>
 		<td>570</td>
-		<td>570</td>
-		<td></td>
+		<td>572</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17180</td>
-		<td>14</td>
+		<td>17201</td>
+		<td>35</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,19 @@
 		<td>748</td>
 		<td>750</td>
 		<td>754</td>
-		<td>754</td>
-		<td></td>
+		<td>756</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>bunrodea.missions</td>
+		<td>639</td>
+		<td>639</td>
+		<td>643</td>
+		<td>645</td>
+		<td>647</td>
+		<td>647</td>
+		<td>649</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -535,17 +546,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>bunrodea.missions</td>
-		<td>639</td>
-		<td>639</td>
-		<td>643</td>
-		<td>645</td>
-		<td>647</td>
-		<td>647</td>
-		<td>647</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>expert.crew.members</td>
 		<td>634</td>
 		<td>634</td>
@@ -553,8 +553,8 @@
 		<td>636</td>
 		<td>638</td>
 		<td>642</td>
-		<td>644</td>
-		<td>+ 2</td>
+		<td>646</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -597,8 +597,8 @@
 		<td>568</td>
 		<td>570</td>
 		<td>570</td>
-		<td>570</td>
-		<td></td>
+		<td>572</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -619,8 +619,8 @@
 		<td>517</td>
 		<td>519</td>
 		<td>519</td>
-		<td>519</td>
-		<td></td>
+		<td>521</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -674,8 +674,8 @@
 		<td>458</td>
 		<td>460</td>
 		<td>460</td>
-		<td>460</td>
-		<td></td>
+		<td>463</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -751,8 +751,8 @@
 		<td>391</td>
 		<td>393</td>
 		<td>393</td>
-		<td>393</td>
-		<td></td>
+		<td>395</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -773,8 +773,8 @@
 		<td>369</td>
 		<td>371</td>
 		<td>373</td>
-		<td>375</td>
-		<td>+ 2</td>
+		<td>377</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -949,8 +949,8 @@
 		<td>56</td>
 		<td>58</td>
 		<td>64</td>
-		<td>64</td>
-		<td></td>
+		<td>66</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -960,8 +960,8 @@
 		<td>56</td>
 		<td>56</td>
 		<td>58</td>
-		<td>58</td>
-		<td></td>
+		<td>60</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17180</td>
-		<td>14</td>
+		<td>17201</td>
+		<td>35</td>
 	</tr>
 </table>
 </sub></sup>
