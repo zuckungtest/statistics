@@ -2,7 +2,7 @@
 v1.0.0-combat.ai | downloads: 66
 v1.0.1-licenses | downloads: 125
 v1.0.0-licenses | downloads: 2
-v1.0.3-mission.helper | downloads: 83
+v1.0.3-mission.helper | downloads: 85
 v1.0.1-flare.play | downloads: 52
 v1.0.22-additional.command.buttons.radial | downloads: 79
 v1.0.0-flare.play | downloads: 8
@@ -27,7 +27,7 @@ v1.0.0-mission.helper | downloads: 38
 v1.1.5-galactic.capital.investment | downloads: 135
 v1.0.7-bunrodea.missions | downloads: 141
 v1.0.5-human.labels | downloads: 136
-v1.1.4-more.boarding.missions | downloads: 252
+v1.1.4-more.boarding.missions | downloads: 254
 v1.0.6-bunrodea.missions | downloads: 6
 v1.0.3-jump.gates | downloads: 199
 v1.0.15-additional.command.buttons.radial | downloads: 69
@@ -39,7 +39,7 @@ v1.1.7-captureable.person.ships | downloads: 218
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 316
+v1.0.4-too.many.asteroids | downloads: 319
 v1.0.3-show.reputation | downloads: 244
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 279
@@ -56,7 +56,7 @@ v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
 v1.0.6-coalition.shopping | downloads: 327
-v1.0.5-snowfeather.robotics | downloads: 285
+v1.0.5-snowfeather.robotics | downloads: 287
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 413
 v1.0.10-additional.command.buttons.radial | downloads: 40
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18304
+# TOTAL DOWNLOADS: 18313
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -240,9 +240,9 @@ landing.images 402
 landing.images.android 331
 landing.images.highres 276
 licenses 127
-mission.helper 350
+mission.helper 352
 more.arfectas 550
-more.boarding.missions 572
+more.boarding.missions 574
 more.person.ships 401
 navy.licenses 575
 no.more.mereti.mines 344
@@ -254,9 +254,9 @@ planet.pluto 160
 quarg.farm 581
 real.fluff 93
 show.reputation 493
-snowfeather.robotics 445
+snowfeather.robotics 447
 space.fauna 318
-too.many.asteroids 647
+too.many.asteroids 650
 tribute.republic 276
 unique.fix 44
 uniques 445
