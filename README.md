@@ -21,8 +21,8 @@
 		<td>760</td>
 		<td>760</td>
 		<td>762</td>
-		<td>762</td>
-		<td></td>
+		<td>764</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -87,8 +87,8 @@
 		<td>517</td>
 		<td>519</td>
 		<td>519</td>
-		<td>521</td>
-		<td>+ 2</td>
+		<td>523</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -164,8 +164,8 @@
 		<td>334</td>
 		<td>334</td>
 		<td>334</td>
-		<td>334</td>
-		<td></td>
+		<td>336</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -186,8 +186,8 @@
 		<td>599</td>
 		<td>599</td>
 		<td>599</td>
-		<td>599</td>
-		<td></td>
+		<td>603</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -318,8 +318,8 @@
 		<td>550</td>
 		<td>550</td>
 		<td>550</td>
-		<td>550</td>
-		<td></td>
+		<td>552</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -395,8 +395,8 @@
 		<td>160</td>
 		<td>160</td>
 		<td>160</td>
-		<td>160</td>
-		<td></td>
+		<td>162</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -406,8 +406,8 @@
 		<td>581</td>
 		<td>581</td>
 		<td>581</td>
-		<td>581</td>
-		<td></td>
+		<td>583</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -461,8 +461,8 @@
 		<td>274</td>
 		<td>276</td>
 		<td>276</td>
-		<td>276</td>
-		<td></td>
+		<td>278</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17210</td>
-		<td>44</td>
+		<td>17228</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>760</td>
 		<td>760</td>
 		<td>762</td>
-		<td>762</td>
-		<td></td>
+		<td>764</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -564,8 +564,8 @@
 		<td>599</td>
 		<td>599</td>
 		<td>599</td>
-		<td>599</td>
-		<td></td>
+		<td>603</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -586,8 +586,8 @@
 		<td>581</td>
 		<td>581</td>
 		<td>581</td>
-		<td>581</td>
-		<td></td>
+		<td>583</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -608,8 +608,8 @@
 		<td>550</td>
 		<td>550</td>
 		<td>550</td>
-		<td>550</td>
-		<td></td>
+		<td>552</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>517</td>
 		<td>519</td>
 		<td>519</td>
-		<td>521</td>
-		<td>+ 2</td>
+		<td>523</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -828,8 +828,8 @@
 		<td>334</td>
 		<td>334</td>
 		<td>334</td>
-		<td>334</td>
-		<td></td>
+		<td>336</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -872,8 +872,8 @@
 		<td>274</td>
 		<td>276</td>
 		<td>276</td>
-		<td>276</td>
-		<td></td>
+		<td>278</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -916,8 +916,8 @@
 		<td>160</td>
 		<td>160</td>
 		<td>160</td>
-		<td>160</td>
-		<td></td>
+		<td>162</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17210</td>
-		<td>44</td>
+		<td>17228</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
