@@ -307,8 +307,8 @@
 		<td>344</td>
 		<td>348</td>
 		<td>348</td>
-		<td>348</td>
-		<td></td>
+		<td>350</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>489</td>
 		<td>489</td>
 		<td>491</td>
-		<td>491</td>
-		<td></td>
+		<td>493</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17166</td>
-		<td>0</td>
+		<td>17170</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>489</td>
 		<td>489</td>
 		<td>491</td>
-		<td>491</td>
-		<td></td>
+		<td>493</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -788,6 +788,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>340</td>
+		<td>340</td>
+		<td>342</td>
+		<td>344</td>
+		<td>348</td>
+		<td>348</td>
+		<td>350</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>350</td>
 		<td>350</td>
@@ -796,17 +807,6 @@
 		<td>350</td>
 		<td>350</td>
 		<td>350</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>340</td>
-		<td>340</td>
-		<td>342</td>
-		<td>344</td>
-		<td>348</td>
-		<td>348</td>
-		<td>348</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17166</td>
-		<td>0</td>
+		<td>17170</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>25</td>
 		<td>14</td>
 		<td>25</td>
-		<td>2</td>
+		<td>4</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>10</td>
 		<td>10</td>
 		<td>11</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1592</td>
-		<td>453</td>
+		<td>1594</td>
+		<td>454</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>40</td>
-		<td>39.80</td>
-		<td>11.32</td>
+		<td>39.85</td>
+		<td>11.35</td>
 		<td></td>
 		<td></td>
 	</tr>
