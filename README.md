@@ -21,8 +21,8 @@
 		<td>760</td>
 		<td>760</td>
 		<td>762</td>
-		<td>764</td>
-		<td>+ 2</td>
+		<td>766</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -76,8 +76,8 @@
 		<td>462</td>
 		<td>462</td>
 		<td>464</td>
-		<td>464</td>
-		<td></td>
+		<td>466</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -164,8 +164,8 @@
 		<td>334</td>
 		<td>334</td>
 		<td>334</td>
-		<td>336</td>
-		<td>+ 2</td>
+		<td>338</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -263,8 +263,8 @@
 		<td>402</td>
 		<td>402</td>
 		<td>402</td>
-		<td>402</td>
-		<td></td>
+		<td>404</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -296,8 +296,8 @@
 		<td>119</td>
 		<td>123</td>
 		<td>127</td>
-		<td>127</td>
-		<td></td>
+		<td>129</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -417,8 +417,8 @@
 		<td>489</td>
 		<td>489</td>
 		<td>491</td>
-		<td>493</td>
-		<td>+ 2</td>
+		<td>495</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17228</td>
-		<td>62</td>
+		<td>17240</td>
+		<td>74</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>760</td>
 		<td>760</td>
 		<td>762</td>
-		<td>764</td>
-		<td>+ 2</td>
+		<td>766</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -623,6 +623,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>show.reputation</td>
+		<td>485</td>
+		<td>485</td>
+		<td>489</td>
+		<td>489</td>
+		<td>489</td>
+		<td>491</td>
+		<td>495</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>better.starts</td>
 		<td>488</td>
 		<td>490</td>
@@ -632,17 +643,6 @@
 		<td>494</td>
 		<td>494</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>show.reputation</td>
-		<td>485</td>
-		<td>485</td>
-		<td>489</td>
-		<td>489</td>
-		<td>489</td>
-		<td>491</td>
-		<td>493</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -663,8 +663,8 @@
 		<td>462</td>
 		<td>462</td>
 		<td>464</td>
-		<td>464</td>
-		<td></td>
+		<td>466</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -729,8 +729,8 @@
 		<td>402</td>
 		<td>402</td>
 		<td>402</td>
-		<td>402</td>
-		<td></td>
+		<td>404</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -828,8 +828,8 @@
 		<td>334</td>
 		<td>334</td>
 		<td>334</td>
-		<td>336</td>
-		<td>+ 2</td>
+		<td>338</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -927,8 +927,8 @@
 		<td>119</td>
 		<td>123</td>
 		<td>127</td>
-		<td>127</td>
-		<td></td>
+		<td>129</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17228</td>
-		<td>62</td>
+		<td>17240</td>
+		<td>74</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>25</td>
 		<td>14</td>
 		<td>25</td>
-		<td>29</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>10</td>
 		<td>10</td>
 		<td>11</td>
-		<td>9</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1619</td>
-		<td>461</td>
+		<td>1632</td>
+		<td>464</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>40</td>
-		<td>40.48</td>
-		<td>11.53</td>
+		<td>40.80</td>
+		<td>11.60</td>
 		<td></td>
 		<td></td>
 	</tr>
