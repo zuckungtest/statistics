@@ -9,10 +9,10 @@ v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 73
-v1.0.9-uniques | downloads: 91
+v1.0.9-uniques | downloads: 93
 v1.0.3-planet.map | downloads: 38
 v1.0.8-bunrodea.missions | downloads: 127
-v1.0.7-expert.crew.members | downloads: 133
+v1.0.7-expert.crew.members | downloads: 135
 v1.1.6-galactic.capital.investment | downloads: 190
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 102
@@ -58,7 +58,7 @@ v1.0.3-navy.licenses | downloads: 362
 v1.0.6-coalition.shopping | downloads: 325
 v1.0.5-snowfeather.robotics | downloads: 285
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 411
+v1.0.2-kor.efret.shipyard | downloads: 413
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -88,7 +88,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 350
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 288
-v1.0.1-paint.your.ships | downloads: 400
+v1.0.1-paint.your.ships | downloads: 402
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18273
+# TOTAL DOWNLOADS: 18281
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -225,7 +225,7 @@ control.station 373
 devil-run.unhidden 66
 disable.person.ships 213
 disable.spaceport.repeatables 331
-expert.crew.members 642
+expert.crew.members 644
 flare.play 58
 free.worlds.5.years.later 334
 galactic.capital.investment 754
@@ -235,7 +235,7 @@ highrollers.ltd 113
 human.labels 350
 jump.gates 471
 kestrel.unlocks 393
-kor.efret.shipyard 582
+kor.efret.shipyard 584
 landing.images 402
 landing.images.android 331
 landing.images.highres 276
@@ -247,7 +247,7 @@ more.person.ships 401
 navy.licenses 575
 no.more.mereti.mines 344
 outfits.weapon.slot 363
-paint.your.ships 404
+paint.your.ships 406
 pirate.warlords 3
 planet.map 251
 planet.pluto 160
@@ -259,4 +259,4 @@ space.fauna 318
 too.many.asteroids 647
 tribute.republic 276
 unique.fix 44
-uniques 443
+uniques 445
