@@ -208,8 +208,8 @@
 		<td>113</td>
 		<td>113</td>
 		<td>113</td>
-		<td>113</td>
-		<td></td>
+		<td>115</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -450,8 +450,8 @@
 		<td>647</td>
 		<td>647</td>
 		<td>650</td>
-		<td>652</td>
-		<td>+ 2</td>
+		<td>654</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17273</td>
-		<td>31</td>
+		<td>17277</td>
+		<td>35</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>647</td>
 		<td>647</td>
 		<td>650</td>
-		<td>652</td>
-		<td>+ 2</td>
+		<td>654</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -938,8 +938,8 @@
 		<td>113</td>
 		<td>113</td>
 		<td>113</td>
-		<td>113</td>
-		<td></td>
+		<td>115</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17273</td>
-		<td>31</td>
+		<td>17277</td>
+		<td>35</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>14</td>
 		<td>25</td>
 		<td>52</td>
-		<td>16</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>10</td>
 		<td>11</td>
 		<td>13</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1658</td>
-		<td>470</td>
+		<td>1661</td>
+		<td>471</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>41</td>
-		<td>40.44</td>
-		<td>11.46</td>
+		<td>40.51</td>
+		<td>11.49</td>
 		<td></td>
 		<td></td>
 	</tr>
