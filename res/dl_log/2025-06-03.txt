@@ -56,7 +56,7 @@ v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
 v1.0.6-coalition.shopping | downloads: 330
-v1.0.5-snowfeather.robotics | downloads: 287
+v1.0.5-snowfeather.robotics | downloads: 288
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 414
 v1.0.10-additional.command.buttons.radial | downloads: 40
@@ -88,7 +88,7 @@ v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 350
 v1.0.6-additional.command.buttons.radial | downloads: 48
 v1.0.3-no.more.mereti.mines | downloads: 289
-v1.0.1-paint.your.ships | downloads: 403
+v1.0.1-paint.your.ships | downloads: 404
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
 v1.0.1-uniques | downloads: 14
@@ -195,7 +195,7 @@ v1.0-kor.efret.shipyard | downloads: 155
 v1.0-gegno.pirates | downloads: 1
 v1.0-free.worlds.5.years.later | downloads: 338
 v1.0-expert.crew.members | downloads: 4
-v1.0-disable.person.ships | downloads: 213
+v1.0-disable.person.ships | downloads: 214
 v1.0-devil-run.unhidden | downloads: 1
 v1.0-coalition.shopping | downloads: 1
 v1.0-bunrodea.missions | downloads: 4
@@ -207,7 +207,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 206
-# TOTAL DOWNLOADS: 18373
+# TOTAL DOWNLOADS: 18376
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -223,7 +223,7 @@ coalition.shopping 524
 combat.ai 66
 control.station 378
 devil-run.unhidden 66
-disable.person.ships 213
+disable.person.ships 214
 disable.spaceport.repeatables 331
 expert.crew.members 646
 flare.play 60
@@ -247,14 +247,14 @@ more.person.ships 401
 navy.licenses 575
 no.more.mereti.mines 345
 outfits.weapon.slot 363
-paint.your.ships 407
+paint.your.ships 408
 pirate.warlords 3
 planet.map 251
 planet.pluto 162
 quarg.farm 585
 real.fluff 93
 show.reputation 497
-snowfeather.robotics 447
+snowfeather.robotics 448
 space.fauna 320
 too.many.asteroids 652
 tribute.republic 278
