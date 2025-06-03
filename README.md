@@ -263,8 +263,8 @@
 		<td>402</td>
 		<td>402</td>
 		<td>404</td>
-		<td>408</td>
-		<td>+ 4</td>
+		<td>412</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -285,8 +285,8 @@
 		<td>276</td>
 		<td>276</td>
 		<td>276</td>
-		<td>278</td>
-		<td>+ 2</td>
+		<td>280</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -450,8 +450,8 @@
 		<td>647</td>
 		<td>647</td>
 		<td>650</td>
-		<td>656</td>
-		<td>+ 6</td>
+		<td>660</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17303</td>
-		<td>61</td>
+		<td>17313</td>
+		<td>71</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>647</td>
 		<td>647</td>
 		<td>650</td>
-		<td>656</td>
-		<td>+ 6</td>
+		<td>660</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>landing.images</td>
+		<td>398</td>
+		<td>400</td>
+		<td>402</td>
+		<td>402</td>
+		<td>402</td>
+		<td>404</td>
+		<td>412</td>
+		<td>+ 8</td>
+	</tr>
+	<tr>
 		<td>paint.your.ships</td>
 		<td>400</td>
 		<td>402</td>
@@ -720,17 +731,6 @@
 		<td>406</td>
 		<td>408</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>landing.images</td>
-		<td>398</td>
-		<td>400</td>
-		<td>402</td>
-		<td>402</td>
-		<td>402</td>
-		<td>404</td>
-		<td>408</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -865,6 +865,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>landing.images.highres</td>
+		<td>274</td>
+		<td>274</td>
+		<td>276</td>
+		<td>276</td>
+		<td>276</td>
+		<td>276</td>
+		<td>280</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>tribute.republic</td>
 		<td>274</td>
 		<td>274</td>
@@ -874,17 +885,6 @@
 		<td>278</td>
 		<td>278</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images.highres</td>
-		<td>274</td>
-		<td>274</td>
-		<td>276</td>
-		<td>276</td>
-		<td>276</td>
-		<td>276</td>
-		<td>278</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17303</td>
-		<td>61</td>
+		<td>17313</td>
+		<td>71</td>
 	</tr>
 </table>
 </sub></sup>
