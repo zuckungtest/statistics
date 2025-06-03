@@ -120,8 +120,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>213</td>
-		<td>214</td>
-		<td>+ 1</td>
+		<td>216</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -164,8 +164,8 @@
 		<td>334</td>
 		<td>334</td>
 		<td>338</td>
-		<td>338</td>
-		<td></td>
+		<td>339</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -219,8 +219,8 @@
 		<td>350</td>
 		<td>350</td>
 		<td>350</td>
-		<td>351</td>
-		<td>+ 1</td>
+		<td>353</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -307,8 +307,8 @@
 		<td>348</td>
 		<td>348</td>
 		<td>352</td>
-		<td>354</td>
-		<td>+ 2</td>
+		<td>356</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>489</td>
 		<td>491</td>
 		<td>495</td>
-		<td>499</td>
-		<td>+ 4</td>
+		<td>501</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td>647</td>
 		<td>647</td>
 		<td>650</td>
-		<td>660</td>
-		<td>+ 10</td>
+		<td>662</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17317</td>
-		<td>75</td>
+		<td>17328</td>
+		<td>86</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>647</td>
 		<td>647</td>
 		<td>650</td>
-		<td>660</td>
-		<td>+ 10</td>
+		<td>662</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -630,8 +630,8 @@
 		<td>489</td>
 		<td>491</td>
 		<td>495</td>
-		<td>499</td>
-		<td>+ 4</td>
+		<td>501</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -795,8 +795,8 @@
 		<td>348</td>
 		<td>348</td>
 		<td>352</td>
-		<td>354</td>
-		<td>+ 2</td>
+		<td>356</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -806,8 +806,8 @@
 		<td>350</td>
 		<td>350</td>
 		<td>350</td>
-		<td>351</td>
-		<td>+ 1</td>
+		<td>353</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -828,8 +828,8 @@
 		<td>334</td>
 		<td>334</td>
 		<td>338</td>
-		<td>338</td>
-		<td></td>
+		<td>339</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.android</td>
@@ -905,8 +905,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>213</td>
-		<td>214</td>
-		<td>+ 1</td>
+		<td>216</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17317</td>
-		<td>75</td>
+		<td>17328</td>
+		<td>86</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>14</td>
 		<td>25</td>
 		<td>52</td>
-		<td>59</td>
+		<td>63</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1026,7 +1026,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1701</td>
+		<td>1705</td>
 		<td>483</td>
 		<td>165</td>
 		<td>21</td>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>41</td>
-		<td>41.49</td>
+		<td>41.59</td>
 		<td>11.78</td>
 		<td></td>
 		<td></td>
