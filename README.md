@@ -120,8 +120,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>213</td>
-		<td>213</td>
-		<td></td>
+		<td>214</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -373,8 +373,8 @@
 		<td>402</td>
 		<td>404</td>
 		<td>406</td>
-		<td>407</td>
-		<td>+ 1</td>
+		<td>408</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -428,8 +428,8 @@
 		<td>443</td>
 		<td>445</td>
 		<td>447</td>
-		<td>447</td>
-		<td></td>
+		<td>448</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17270</td>
-		<td>28</td>
+		<td>17273</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>437</td>
+		<td>441</td>
+		<td>441</td>
+		<td>443</td>
+		<td>445</td>
+		<td>447</td>
+		<td>448</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>uniques</td>
 		<td>437</td>
 		<td>439</td>
@@ -687,17 +698,6 @@
 		<td>445</td>
 		<td>447</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>437</td>
-		<td>441</td>
-		<td>441</td>
-		<td>443</td>
-		<td>445</td>
-		<td>447</td>
-		<td>447</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -718,8 +718,8 @@
 		<td>402</td>
 		<td>404</td>
 		<td>406</td>
-		<td>407</td>
-		<td>+ 1</td>
+		<td>408</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -905,8 +905,8 @@
 		<td>213</td>
 		<td>213</td>
 		<td>213</td>
-		<td>213</td>
-		<td></td>
+		<td>214</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17270</td>
-		<td>28</td>
+		<td>17273</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
