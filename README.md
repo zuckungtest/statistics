@@ -142,8 +142,8 @@
 		<td>638</td>
 		<td>642</td>
 		<td>646</td>
-		<td>646</td>
-		<td></td>
+		<td>648</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17277</td>
-		<td>35</td>
+		<td>17279</td>
+		<td>37</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>638</td>
 		<td>642</td>
 		<td>646</td>
-		<td>646</td>
-		<td></td>
+		<td>648</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17277</td>
-		<td>35</td>
+		<td>17279</td>
+		<td>37</td>
 	</tr>
 </table>
 </sub></sup>
