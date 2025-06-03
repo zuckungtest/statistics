@@ -175,8 +175,8 @@
 		<td>750</td>
 		<td>754</td>
 		<td>756</td>
-		<td>757</td>
-		<td>+ 1</td>
+		<td>759</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -472,8 +472,8 @@
 		<td>441</td>
 		<td>443</td>
 		<td>445</td>
-		<td>447</td>
-		<td>+ 2</td>
+		<td>449</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17313</td>
-		<td>71</td>
+		<td>17317</td>
+		<td>75</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>750</td>
 		<td>754</td>
 		<td>756</td>
-		<td>757</td>
-		<td>+ 1</td>
+		<td>759</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>437</td>
+		<td>439</td>
+		<td>439</td>
+		<td>441</td>
+		<td>443</td>
+		<td>445</td>
+		<td>449</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>437</td>
 		<td>441</td>
@@ -687,17 +698,6 @@
 		<td>447</td>
 		<td>448</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>437</td>
-		<td>439</td>
-		<td>439</td>
-		<td>441</td>
-		<td>443</td>
-		<td>445</td>
-		<td>447</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17313</td>
-		<td>71</td>
+		<td>17317</td>
+		<td>75</td>
 	</tr>
 </table>
 </sub></sup>
