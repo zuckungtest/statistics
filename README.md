@@ -98,8 +98,8 @@
 		<td>64</td>
 		<td>66</td>
 		<td>66</td>
-		<td>66</td>
-		<td></td>
+		<td>68</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>58</td>
 		<td>60</td>
 		<td>62</td>
-		<td>62</td>
-		<td></td>
+		<td>64</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17332</td>
-		<td>4</td>
+		<td>17336</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
@@ -949,8 +949,8 @@
 		<td>64</td>
 		<td>66</td>
 		<td>66</td>
-		<td>66</td>
-		<td></td>
+		<td>68</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -960,8 +960,8 @@
 		<td>58</td>
 		<td>60</td>
 		<td>62</td>
-		<td>62</td>
-		<td></td>
+		<td>64</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17332</td>
-		<td>4</td>
+		<td>17336</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
