@@ -406,8 +406,8 @@
 		<td>581</td>
 		<td>583</td>
 		<td>585</td>
-		<td>587</td>
-		<td>+ 2</td>
+		<td>589</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17336</td>
-		<td>8</td>
+		<td>17338</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>581</td>
 		<td>583</td>
 		<td>585</td>
-		<td>587</td>
-		<td>+ 2</td>
+		<td>589</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17336</td>
-		<td>8</td>
+		<td>17338</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -980,7 +980,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-05-26</td>
 		<td>2025-05-27</td>
 		<td>2025-05-28</td>
 		<td>2025-05-29</td>
@@ -989,10 +988,10 @@
 		<td>2025-06-01</td>
 		<td>2025-06-02</td>
 		<td>2025-06-03</td>
+		<td>2025-06-04</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>28</td>
 		<td>23</td>
 		<td>11</td>
 		<td>36</td>
@@ -1001,10 +1000,10 @@
 		<td>25</td>
 		<td>52</td>
 		<td>63</td>
+		<td>1</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>17</td>
 		<td>10</td>
 		<td>9</td>
 		<td>7</td>
@@ -1013,6 +1012,7 @@
 		<td>11</td>
 		<td>13</td>
 		<td>18</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1705</td>
-		<td>483</td>
+		<td>1706</td>
+		<td>484</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>42</td>
-		<td>40.60</td>
-		<td>11.50</td>
+		<td>40.62</td>
+		<td>11.52</td>
 		<td></td>
 		<td></td>
 	</tr>
