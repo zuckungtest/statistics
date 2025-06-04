@@ -120,7 +120,7 @@ def write_readme():
 					difference = '+ ' + difference 
 				target.writelines('\t\t<td>' + difference + '</td>\n')
 				target.writelines('\t</tr>\n')
-		create_image('total', str(totaldownloads))
+		create_image(str(totaldownloads), 'total')
 		target.writelines('\t<tr>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n\t\t<td></td>\n')
 		target.writelines('\t\t<td>' + str(totaldownloads) + '</td>\n')
 		target.writelines('\t\t<td>' + str(totaldifference) + '</td>\n\t</tr>\n')
