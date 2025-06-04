@@ -197,8 +197,8 @@
 		<td>425</td>
 		<td>425</td>
 		<td>425</td>
-		<td>427</td>
-		<td>+ 2</td>
+		<td>429</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17476</td>
-		<td>148</td>
+		<td>17478</td>
+		<td>150</td>
 	</tr>
 </table>
 </sub></sup>
@@ -707,8 +707,8 @@
 		<td>425</td>
 		<td>425</td>
 		<td>425</td>
-		<td>427</td>
-		<td>+ 2</td>
+		<td>429</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17476</td>
-		<td>148</td>
+		<td>17478</td>
+		<td>150</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>25</td>
 		<td>52</td>
 		<td>63</td>
-		<td>52</td>
+		<td>53</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1026,7 +1026,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1757</td>
+		<td>1758</td>
 		<td>492</td>
 		<td>165</td>
 		<td>21</td>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>42</td>
-		<td>41.83</td>
+		<td>41.86</td>
 		<td>11.71</td>
 		<td></td>
 		<td></td>
