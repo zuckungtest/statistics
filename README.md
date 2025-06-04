@@ -307,8 +307,8 @@
 		<td>348</td>
 		<td>352</td>
 		<td>356</td>
-		<td>358</td>
-		<td>+ 2</td>
+		<td>360</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17472</td>
-		<td>144</td>
+		<td>17474</td>
+		<td>146</td>
 	</tr>
 </table>
 </sub></sup>
@@ -795,8 +795,8 @@
 		<td>348</td>
 		<td>352</td>
 		<td>356</td>
-		<td>358</td>
-		<td>+ 2</td>
+		<td>360</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17472</td>
-		<td>144</td>
+		<td>17474</td>
+		<td>146</td>
 	</tr>
 </table>
 </sub></sup>
