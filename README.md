@@ -32,8 +32,8 @@
 		<td>463</td>
 		<td>463</td>
 		<td>469</td>
-		<td>477</td>
-		<td>+ 8</td>
+		<td>479</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17852</td>
-		<td>374</td>
+		<td>17854</td>
+		<td>376</td>
 	</tr>
 </table>
 </sub></sup>
@@ -674,8 +674,8 @@
 		<td>463</td>
 		<td>463</td>
 		<td>469</td>
-		<td>477</td>
-		<td>+ 8</td>
+		<td>479</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>17852</td>
-		<td>374</td>
+		<td>17854</td>
+		<td>376</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>52</td>
 		<td>63</td>
 		<td>53</td>
-		<td>90</td>
+		<td>93</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1026,7 +1026,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1848</td>
+		<td>1851</td>
 		<td>496</td>
 		<td>165</td>
 		<td>21</td>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>43</td>
-		<td>42.98</td>
+		<td>43.05</td>
 		<td>11.53</td>
 		<td></td>
 		<td></td>
