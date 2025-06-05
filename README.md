@@ -329,8 +329,8 @@
 		<td>574</td>
 		<td>576</td>
 		<td>578</td>
-		<td>596</td>
-		<td>+ 18</td>
+		<td>598</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18112</td>
-		<td>634</td>
+		<td>18114</td>
+		<td>636</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>574</td>
 		<td>576</td>
 		<td>578</td>
-		<td>596</td>
-		<td>+ 18</td>
+		<td>598</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18112</td>
-		<td>634</td>
+		<td>18114</td>
+		<td>636</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>52</td>
 		<td>63</td>
 		<td>53</td>
-		<td>120</td>
+		<td>122</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>13</td>
 		<td>18</td>
 		<td>9</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1878</td>
-		<td>496</td>
+		<td>1880</td>
+		<td>497</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>43</td>
-		<td>43.67</td>
-		<td>11.53</td>
+		<td>43.72</td>
+		<td>11.56</td>
 		<td></td>
 		<td></td>
 	</tr>
