@@ -4,7 +4,7 @@ v1.1.7-galactic.capital.investment | downloads: 6
 v1.1.5-hai.side.mission.unlocker | downloads: 7
 v1.0.5-quarg.farm | downloads: 11
 v1.0.4-show.reputation | downloads: 5
-v1.0.4-mission.helper | downloads: 9
+v1.0.4-mission.helper | downloads: 11
 v1.0.2-paint.your.ships | downloads: 2
 v1.0.2-control.station | downloads: 3
 v1.0.2-combat.ai | downloads: 18
@@ -217,7 +217,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 216
-# TOTAL DOWNLOADS: 18953
+# TOTAL DOWNLOADS: 18955
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -250,7 +250,7 @@ landing.images 424
 landing.images.android 343
 landing.images.highres 292
 licenses 150
-mission.helper 370
+mission.helper 372
 more.arfectas 567
 more.boarding.missions 590
 more.person.ships 411
