@@ -175,8 +175,8 @@
 		<td>756</td>
 		<td>759</td>
 		<td>763</td>
-		<td>780</td>
-		<td>+ 17</td>
+		<td>782</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -296,8 +296,8 @@
 		<td>129</td>
 		<td>134</td>
 		<td>140</td>
-		<td>158</td>
-		<td>+ 18</td>
+		<td>160</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -329,8 +329,8 @@
 		<td>574</td>
 		<td>576</td>
 		<td>578</td>
-		<td>602</td>
-		<td>+ 24</td>
+		<td>604</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>251</td>
 		<td>251</td>
 		<td>253</td>
-		<td>267</td>
-		<td>+ 14</td>
+		<td>269</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18170</td>
-		<td>692</td>
+		<td>18178</td>
+		<td>700</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>756</td>
 		<td>759</td>
 		<td>763</td>
-		<td>780</td>
-		<td>+ 17</td>
+		<td>782</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -597,8 +597,8 @@
 		<td>574</td>
 		<td>576</td>
 		<td>578</td>
-		<td>602</td>
-		<td>+ 24</td>
+		<td>604</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -894,8 +894,8 @@
 		<td>251</td>
 		<td>251</td>
 		<td>253</td>
-		<td>267</td>
-		<td>+ 14</td>
+		<td>269</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td>129</td>
 		<td>134</td>
 		<td>140</td>
-		<td>158</td>
-		<td>+ 18</td>
+		<td>160</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18170</td>
-		<td>692</td>
+		<td>18178</td>
+		<td>700</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>52</td>
 		<td>63</td>
 		<td>53</td>
-		<td>132</td>
+		<td>139</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>13</td>
 		<td>18</td>
 		<td>9</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1890</td>
-		<td>500</td>
+		<td>1897</td>
+		<td>501</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>43</td>
-		<td>43.95</td>
-		<td>11.63</td>
+		<td>44.12</td>
+		<td>11.65</td>
 		<td></td>
 		<td></td>
 	</tr>
