@@ -21,8 +21,8 @@
 		<td>766</td>
 		<td>769</td>
 		<td>771</td>
-		<td>785</td>
-		<td>+ 14</td>
+		<td>786</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -153,8 +153,8 @@
 		<td>60</td>
 		<td>62</td>
 		<td>66</td>
-		<td>80</td>
-		<td>+ 14</td>
+		<td>82</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -186,8 +186,8 @@
 		<td>603</td>
 		<td>604</td>
 		<td>610</td>
-		<td>628</td>
-		<td>+ 18</td>
+		<td>630</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -417,8 +417,8 @@
 		<td>495</td>
 		<td>501</td>
 		<td>503</td>
-		<td>520</td>
-		<td>+ 17</td>
+		<td>521</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18114</td>
-		<td>636</td>
+		<td>18120</td>
+		<td>642</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>766</td>
 		<td>769</td>
 		<td>771</td>
-		<td>785</td>
-		<td>+ 14</td>
+		<td>786</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -564,8 +564,8 @@
 		<td>603</td>
 		<td>604</td>
 		<td>610</td>
-		<td>628</td>
-		<td>+ 18</td>
+		<td>630</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -630,8 +630,8 @@
 		<td>495</td>
 		<td>501</td>
 		<td>503</td>
-		<td>520</td>
-		<td>+ 17</td>
+		<td>521</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -960,8 +960,8 @@
 		<td>60</td>
 		<td>62</td>
 		<td>66</td>
-		<td>80</td>
-		<td>+ 14</td>
+		<td>82</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18114</td>
-		<td>636</td>
+		<td>18120</td>
+		<td>642</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>52</td>
 		<td>63</td>
 		<td>53</td>
-		<td>122</td>
+		<td>124</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>13</td>
 		<td>18</td>
 		<td>9</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1880</td>
-		<td>497</td>
+		<td>1882</td>
+		<td>498</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>43</td>
-		<td>43.72</td>
-		<td>11.56</td>
+		<td>43.77</td>
+		<td>11.58</td>
 		<td></td>
 		<td></td>
 	</tr>
