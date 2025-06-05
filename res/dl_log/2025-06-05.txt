@@ -1,12 +1,12 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.8-captureable.person.ships | downloads: 9
 v1.1.7-galactic.capital.investment | downloads: 12
-v1.1.5-more.boarding.missions | downloads: 5
+v1.1.5-more.boarding.missions | downloads: 7
 v1.1.5-hai.side.mission.unlocker | downloads: 13
 v1.0.6-snowfeather.robotics | downloads: 2
 v1.0.6-human.labels | downloads: 6
 v1.0.5-quarg.farm | downloads: 17
-v1.0.4-show.reputation | downloads: 14
+v1.0.4-show.reputation | downloads: 16
 v1.0.4-mission.helper | downloads: 17
 v1.0.3-more.person.ships | downloads: 5
 v1.0.3-control.station | downloads: 6
@@ -19,7 +19,7 @@ v1.0.0-combat.ai | downloads: 72
 v1.0.1-licenses | downloads: 154
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
-v1.0.1-flare.play | downloads: 74
+v1.0.1-flare.play | downloads: 76
 v1.0.22-additional.command.buttons.radial | downloads: 103
 v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
@@ -27,8 +27,8 @@ v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 117
 v1.0.3-planet.map | downloads: 54
-v1.0.8-bunrodea.missions | downloads: 148
-v1.0.7-expert.crew.members | downloads: 159
+v1.0.8-bunrodea.missions | downloads: 150
+v1.0.7-expert.crew.members | downloads: 161
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 120
@@ -55,7 +55,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 349
+v1.0.4-too.many.asteroids | downloads: 351
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 298
@@ -88,11 +88,11 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 357
+v1.0.4-landing.images | downloads: 359
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
-v1.0.2-landing.images.highres | downloads: 230
+v1.0.2-landing.images.highres | downloads: 232
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
 v1.0.1-automata.in.human.space | downloads: 347
@@ -173,7 +173,7 @@ v1.1.3-more.boarding.missions | downloads: 313
 v1.0.3-coalition.shopping | downloads: 97
 v1.0.2-coalition.shopping | downloads: 1
 v1.0.1-navy.licenses | downloads: 2
-v1.1.2-space.fauna | downloads: 336
+v1.1.2-space.fauna | downloads: 338
 v1.0.3-snowfeather.robotics | downloads: 150
 v1.0.2-snowfeather.robotics | downloads: 1
 v1.1.1-space.fauna | downloads: 1
@@ -223,7 +223,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 222
-# TOTAL DOWNLOADS: 19223
+# TOTAL DOWNLOADS: 19241
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -233,7 +233,7 @@ automata.destruction.0percent 485
 automata.in.human.space 408
 avgi.licenses 229
 better.starts 513
-bunrodea.missions 668
+bunrodea.missions 670
 captureable.person.ships 487
 coalition.shopping 542
 combat.ai 98
@@ -241,8 +241,8 @@ control.station 396
 devil-run.unhidden 66
 disable.person.ships 232
 disable.spaceport.repeatables 347
-expert.crew.members 668
-flare.play 82
+expert.crew.members 670
+flare.play 84
 free.worlds.5.years.later 357
 galactic.capital.investment 778
 gegno.pirates 630
@@ -252,13 +252,13 @@ human.labels 370
 jump.gates 492
 kestrel.unlocks 415
 kor.efret.shipyard 605
-landing.images 430
+landing.images 432
 landing.images.android 349
-landing.images.highres 298
+landing.images.highres 300
 licenses 156
 mission.helper 378
 more.arfectas 573
-more.boarding.missions 598
+more.boarding.missions 600
 more.person.ships 418
 navy.licenses 575
 no.more.mereti.mines 361
@@ -269,10 +269,10 @@ planet.map 267
 planet.pluto 178
 quarg.farm 608
 real.fluff 93
-show.reputation 521
+show.reputation 523
 snowfeather.robotics 466
-space.fauna 338
-too.many.asteroids 680
+space.fauna 340
+too.many.asteroids 682
 tribute.republic 294
 unique.fix 44
 uniques 469
