@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.8-captureable.person.ships | downloads: 9
 v1.1.7-galactic.capital.investment | downloads: 12
-v1.1.5-more.boarding.missions | downloads: 3
+v1.1.5-more.boarding.missions | downloads: 5
 v1.1.5-hai.side.mission.unlocker | downloads: 13
 v1.0.6-snowfeather.robotics | downloads: 2
 v1.0.6-human.labels | downloads: 6
@@ -223,7 +223,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 222
-# TOTAL DOWNLOADS: 19215
+# TOTAL DOWNLOADS: 19217
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -258,7 +258,7 @@ landing.images.highres 298
 licenses 156
 mission.helper 378
 more.arfectas 573
-more.boarding.missions 596
+more.boarding.missions 598
 more.person.ships 418
 navy.licenses 575
 no.more.mereti.mines 361
