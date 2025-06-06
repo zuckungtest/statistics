@@ -1,19 +1,19 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.8-captureable.person.ships | downloads: 11
-v1.1.7-galactic.capital.investment | downloads: 18
-v1.1.5-more.boarding.missions | downloads: 13
+v1.1.7-galactic.capital.investment | downloads: 20
+v1.1.5-more.boarding.missions | downloads: 15
 v1.1.5-hai.side.mission.unlocker | downloads: 13
-v1.0.6-snowfeather.robotics | downloads: 6
+v1.0.6-snowfeather.robotics | downloads: 8
 v1.0.6-human.labels | downloads: 6
-v1.0.5-quarg.farm | downloads: 19
-v1.0.4-show.reputation | downloads: 18
+v1.0.5-quarg.farm | downloads: 21
+v1.0.4-show.reputation | downloads: 20
 v1.0.4-mission.helper | downloads: 17
-v1.0.3-more.person.ships | downloads: 5
+v1.0.3-more.person.ships | downloads: 7
 v1.0.3-control.station | downloads: 6
 v1.0.2-paint.your.ships | downloads: 8
 v1.0.2-control.station | downloads: 3
 v1.0.1-outfits.weapon.slot | downloads: 3
-v1.0.2-combat.ai | downloads: 30
+v1.0.2-combat.ai | downloads: 32
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 72
 v1.0.1-licenses | downloads: 160
@@ -58,7 +58,7 @@ v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 351
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
-v1.0.4-better.starts | downloads: 300
+v1.0.4-better.starts | downloads: 302
 v1.0.5-bunrodea.missions | downloads: 120
 v1.0.2-planet.pluto | downloads: 155
 v1.0.2-planet.map | downloads: 80
@@ -223,7 +223,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 222
-# TOTAL DOWNLOADS: 19303
+# TOTAL DOWNLOADS: 19319
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -232,11 +232,11 @@ additional.command.buttons.radial 786
 automata.destruction.0percent 485
 automata.in.human.space 410
 avgi.licenses 229
-better.starts 515
+better.starts 517
 bunrodea.missions 672
 captureable.person.ships 489
 coalition.shopping 544
-combat.ai 104
+combat.ai 106
 control.station 396
 devil-run.unhidden 66
 disable.person.ships 232
@@ -244,7 +244,7 @@ disable.spaceport.repeatables 347
 expert.crew.members 670
 flare.play 84
 free.worlds.5.years.later 359
-galactic.capital.investment 784
+galactic.capital.investment 786
 gegno.pirates 632
 hai.side.mission.unlocker 444
 highrollers.ltd 131
@@ -258,8 +258,8 @@ landing.images.highres 302
 licenses 162
 mission.helper 378
 more.arfectas 573
-more.boarding.missions 606
-more.person.ships 418
+more.boarding.missions 608
+more.person.ships 420
 navy.licenses 575
 no.more.mereti.mines 361
 outfits.weapon.slot 381
@@ -267,10 +267,10 @@ paint.your.ships 425
 pirate.warlords 3
 planet.map 269
 planet.pluto 178
-quarg.farm 610
+quarg.farm 612
 real.fluff 93
-show.reputation 525
-snowfeather.robotics 470
+show.reputation 527
+snowfeather.robotics 472
 space.fauna 340
 too.many.asteroids 682
 tribute.republic 294
