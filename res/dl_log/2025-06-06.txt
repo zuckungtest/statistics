@@ -1,11 +1,11 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.8-captureable.person.ships | downloads: 11
+v1.1.8-captureable.person.ships | downloads: 13
 v1.1.7-galactic.capital.investment | downloads: 22
 v1.1.5-more.boarding.missions | downloads: 17
 v1.1.5-hai.side.mission.unlocker | downloads: 13
 v1.0.6-snowfeather.robotics | downloads: 10
 v1.0.6-human.labels | downloads: 6
-v1.0.5-quarg.farm | downloads: 25
+v1.0.5-quarg.farm | downloads: 27
 v1.0.4-show.reputation | downloads: 22
 v1.0.4-mission.helper | downloads: 17
 v1.0.3-more.person.ships | downloads: 7
@@ -16,7 +16,7 @@ v1.0.1-outfits.weapon.slot | downloads: 3
 v1.0.2-combat.ai | downloads: 34
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 72
-v1.0.1-licenses | downloads: 160
+v1.0.1-licenses | downloads: 162
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 76
@@ -95,7 +95,7 @@ v1.0.2-quarg.farm | downloads: 190
 v1.0.2-landing.images.highres | downloads: 234
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
-v1.0.1-automata.in.human.space | downloads: 349
+v1.0.1-automata.in.human.space | downloads: 351
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -223,18 +223,18 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 222
-# TOTAL DOWNLOADS: 19333
+# TOTAL DOWNLOADS: 19341
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 786
 automata.destruction.0percent 485
-automata.in.human.space 410
+automata.in.human.space 412
 avgi.licenses 229
 better.starts 517
 bunrodea.missions 672
-captureable.person.ships 489
+captureable.person.ships 491
 coalition.shopping 544
 combat.ai 108
 control.station 396
@@ -255,7 +255,7 @@ kor.efret.shipyard 605
 landing.images 434
 landing.images.android 349
 landing.images.highres 302
-licenses 162
+licenses 164
 mission.helper 378
 more.arfectas 573
 more.boarding.missions 610
@@ -267,7 +267,7 @@ paint.your.ships 425
 pirate.warlords 3
 planet.map 269
 planet.pluto 178
-quarg.farm 616
+quarg.farm 618
 real.fluff 93
 show.reputation 529
 snowfeather.robotics 474
