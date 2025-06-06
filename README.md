@@ -76,8 +76,8 @@
 		<td>466</td>
 		<td>472</td>
 		<td>487</td>
-		<td>487</td>
-		<td></td>
+		<td>489</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18198</td>
-		<td>20</td>
+		<td>18200</td>
+		<td>22</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>466</td>
 		<td>472</td>
 		<td>487</td>
-		<td>487</td>
-		<td></td>
+		<td>489</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18198</td>
-		<td>20</td>
+		<td>18200</td>
+		<td>22</td>
 	</tr>
 </table>
 </sub></sup>
