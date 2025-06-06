@@ -43,8 +43,8 @@
 		<td>390</td>
 		<td>392</td>
 		<td>410</td>
-		<td>410</td>
-		<td></td>
+		<td>412</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>466</td>
 		<td>472</td>
 		<td>487</td>
-		<td>489</td>
-		<td>+ 2</td>
+		<td>491</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -296,8 +296,8 @@
 		<td>134</td>
 		<td>140</td>
 		<td>160</td>
-		<td>162</td>
-		<td>+ 2</td>
+		<td>164</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -406,8 +406,8 @@
 		<td>585</td>
 		<td>591</td>
 		<td>610</td>
-		<td>616</td>
-		<td>+ 6</td>
+		<td>618</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18230</td>
-		<td>52</td>
+		<td>18238</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>585</td>
 		<td>591</td>
 		<td>610</td>
-		<td>616</td>
-		<td>+ 6</td>
+		<td>618</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -663,8 +663,8 @@
 		<td>466</td>
 		<td>472</td>
 		<td>487</td>
-		<td>489</td>
-		<td>+ 2</td>
+		<td>491</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -762,8 +762,8 @@
 		<td>390</td>
 		<td>392</td>
 		<td>410</td>
-		<td>410</td>
-		<td></td>
+		<td>412</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -927,8 +927,8 @@
 		<td>134</td>
 		<td>140</td>
 		<td>160</td>
-		<td>162</td>
-		<td>+ 2</td>
+		<td>164</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18230</td>
-		<td>52</td>
+		<td>18238</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
