@@ -98,8 +98,8 @@
 		<td>66</td>
 		<td>82</td>
 		<td>100</td>
-		<td>106</td>
-		<td>+ 6</td>
+		<td>108</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -406,8 +406,8 @@
 		<td>585</td>
 		<td>591</td>
 		<td>610</td>
-		<td>614</td>
-		<td>+ 4</td>
+		<td>616</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18218</td>
-		<td>40</td>
+		<td>18222</td>
+		<td>44</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>585</td>
 		<td>591</td>
 		<td>610</td>
-		<td>614</td>
-		<td>+ 4</td>
+		<td>616</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -949,8 +949,8 @@
 		<td>66</td>
 		<td>82</td>
 		<td>100</td>
-		<td>106</td>
-		<td>+ 6</td>
+		<td>108</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18218</td>
-		<td>40</td>
+		<td>18222</td>
+		<td>44</td>
 	</tr>
 </table>
 </sub></sup>
