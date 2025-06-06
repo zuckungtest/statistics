@@ -32,7 +32,8 @@ def write_readme():
 		logfiles.pop(0)
 	# get the relevant part of the sourcefiles
 	relevant = ['', '', '', '', '', '', '', ]
-	ignorelist = ['real.fluff', 'additional.command.buttons', 'devil-run.unhidden', 'unique.fix', 'pirate.warlords', 'navy.licenses', 'avgi.licenses']
+	ignorelist = ['real.fluff', 'additional.command.buttons', 'devil-run.unhidden', 'unique.fix', 'pirate.warlords', 'navy.licenses',\
+		      'avgi.licenses', 'landing.images.android']
 	for i in range(0,7):
 		relevant[i] += logfiles[i] + '\n'
 		with open('res/dl_log/' + logfiles[i], 'r') as sourcefile:
