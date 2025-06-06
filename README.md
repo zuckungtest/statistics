@@ -98,8 +98,8 @@
 		<td>66</td>
 		<td>82</td>
 		<td>100</td>
-		<td>111</td>
-		<td>+ 11</td>
+		<td>113</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18295</td>
-		<td>117</td>
+		<td>18297</td>
+		<td>119</td>
 	</tr>
 </table>
 </sub></sup>
@@ -949,8 +949,8 @@
 		<td>66</td>
 		<td>82</td>
 		<td>100</td>
-		<td>111</td>
-		<td>+ 11</td>
+		<td>113</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18295</td>
-		<td>117</td>
+		<td>18297</td>
+		<td>119</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>63</td>
 		<td>53</td>
 		<td>153</td>
-		<td>36</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>18</td>
 		<td>9</td>
 		<td>13</td>
-		<td>6</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1947</td>
-		<td>511</td>
+		<td>1954</td>
+		<td>512</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>44</td>
-		<td>44.25</td>
-		<td>11.61</td>
+		<td>44.41</td>
+		<td>11.64</td>
 		<td></td>
 		<td></td>
 	</tr>
