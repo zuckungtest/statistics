@@ -98,8 +98,8 @@
 		<td>66</td>
 		<td>82</td>
 		<td>100</td>
-		<td>102</td>
-		<td>+ 2</td>
+		<td>104</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -296,8 +296,8 @@
 		<td>134</td>
 		<td>140</td>
 		<td>160</td>
-		<td>160</td>
-		<td></td>
+		<td>162</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18194</td>
-		<td>16</td>
+		<td>18198</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
@@ -927,8 +927,8 @@
 		<td>134</td>
 		<td>140</td>
 		<td>160</td>
-		<td>160</td>
-		<td></td>
+		<td>162</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -949,8 +949,8 @@
 		<td>66</td>
 		<td>82</td>
 		<td>100</td>
-		<td>102</td>
-		<td>+ 2</td>
+		<td>104</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18194</td>
-		<td>16</td>
+		<td>18198</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
