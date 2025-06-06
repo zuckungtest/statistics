@@ -54,8 +54,8 @@
 		<td>495</td>
 		<td>497</td>
 		<td>515</td>
-		<td>515</td>
-		<td></td>
+		<td>517</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -98,8 +98,8 @@
 		<td>66</td>
 		<td>82</td>
 		<td>100</td>
-		<td>104</td>
-		<td>+ 4</td>
+		<td>106</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>759</td>
 		<td>763</td>
 		<td>782</td>
-		<td>784</td>
-		<td>+ 2</td>
+		<td>786</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -329,8 +329,8 @@
 		<td>576</td>
 		<td>578</td>
 		<td>604</td>
-		<td>606</td>
-		<td>+ 2</td>
+		<td>608</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -340,8 +340,8 @@
 		<td>401</td>
 		<td>403</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>420</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -406,8 +406,8 @@
 		<td>585</td>
 		<td>591</td>
 		<td>610</td>
-		<td>610</td>
-		<td></td>
+		<td>612</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -417,8 +417,8 @@
 		<td>501</td>
 		<td>503</td>
 		<td>523</td>
-		<td>525</td>
-		<td>+ 2</td>
+		<td>527</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -428,8 +428,8 @@
 		<td>448</td>
 		<td>450</td>
 		<td>468</td>
-		<td>470</td>
-		<td>+ 2</td>
+		<td>472</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18200</td>
-		<td>22</td>
+		<td>18216</td>
+		<td>38</td>
 	</tr>
 </table>
 </sub></sup>
@@ -502,6 +502,17 @@
 		<td>today +</td>
 	</tr>
 	<tr>
+		<td>galactic.capital.investment</td>
+		<td>750</td>
+		<td>754</td>
+		<td>756</td>
+		<td>759</td>
+		<td>763</td>
+		<td>782</td>
+		<td>786</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>additional.command.buttons.radial</td>
 		<td>760</td>
 		<td>762</td>
@@ -511,17 +522,6 @@
 		<td>786</td>
 		<td>786</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>galactic.capital.investment</td>
-		<td>750</td>
-		<td>754</td>
-		<td>756</td>
-		<td>759</td>
-		<td>763</td>
-		<td>782</td>
-		<td>784</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -575,8 +575,8 @@
 		<td>585</td>
 		<td>591</td>
 		<td>610</td>
-		<td>610</td>
-		<td></td>
+		<td>612</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -586,8 +586,8 @@
 		<td>576</td>
 		<td>578</td>
 		<td>604</td>
-		<td>606</td>
-		<td>+ 2</td>
+		<td>608</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -630,8 +630,8 @@
 		<td>501</td>
 		<td>503</td>
 		<td>523</td>
-		<td>525</td>
-		<td>+ 2</td>
+		<td>527</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -641,8 +641,8 @@
 		<td>495</td>
 		<td>497</td>
 		<td>515</td>
-		<td>515</td>
-		<td></td>
+		<td>517</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -696,8 +696,8 @@
 		<td>448</td>
 		<td>450</td>
 		<td>468</td>
-		<td>470</td>
-		<td>+ 2</td>
+		<td>472</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -740,8 +740,8 @@
 		<td>401</td>
 		<td>403</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>420</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -949,8 +949,8 @@
 		<td>66</td>
 		<td>82</td>
 		<td>100</td>
-		<td>104</td>
-		<td>+ 4</td>
+		<td>106</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18200</td>
-		<td>22</td>
+		<td>18216</td>
+		<td>38</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>63</td>
 		<td>53</td>
 		<td>153</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>18</td>
 		<td>9</td>
 		<td>13</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1915</td>
-		<td>507</td>
+		<td>1916</td>
+		<td>508</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>44</td>
-		<td>43.52</td>
-		<td>11.52</td>
+		<td>43.55</td>
+		<td>11.55</td>
 		<td></td>
 		<td></td>
 	</tr>
