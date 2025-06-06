@@ -267,17 +267,6 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>landing.images.android</td>
-		<td>331</td>
-		<td>331</td>
-		<td>333</td>
-		<td>333</td>
-		<td>335</td>
-		<td>349</td>
-		<td>349</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>landing.images.highres</td>
 		<td>276</td>
 		<td>276</td>
@@ -483,7 +472,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18297</td>
+		<td>17948</td>
 		<td>119</td>
 	</tr>
 </table>
@@ -832,17 +821,6 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>landing.images.android</td>
-		<td>331</td>
-		<td>331</td>
-		<td>333</td>
-		<td>333</td>
-		<td>335</td>
-		<td>349</td>
-		<td>349</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>331</td>
 		<td>331</td>
@@ -971,7 +949,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18297</td>
+		<td>17948</td>
 		<td>119</td>
 	</tr>
 </table>
