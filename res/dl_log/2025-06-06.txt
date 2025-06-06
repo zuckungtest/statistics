@@ -1,12 +1,12 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.8-captureable.person.ships | downloads: 11
-v1.1.7-galactic.capital.investment | downloads: 20
-v1.1.5-more.boarding.missions | downloads: 15
+v1.1.7-galactic.capital.investment | downloads: 22
+v1.1.5-more.boarding.missions | downloads: 17
 v1.1.5-hai.side.mission.unlocker | downloads: 13
-v1.0.6-snowfeather.robotics | downloads: 8
+v1.0.6-snowfeather.robotics | downloads: 10
 v1.0.6-human.labels | downloads: 6
 v1.0.5-quarg.farm | downloads: 25
-v1.0.4-show.reputation | downloads: 20
+v1.0.4-show.reputation | downloads: 22
 v1.0.4-mission.helper | downloads: 17
 v1.0.3-more.person.ships | downloads: 7
 v1.0.3-control.station | downloads: 6
@@ -223,7 +223,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 222
-# TOTAL DOWNLOADS: 19325
+# TOTAL DOWNLOADS: 19333
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -244,7 +244,7 @@ disable.spaceport.repeatables 347
 expert.crew.members 670
 flare.play 84
 free.worlds.5.years.later 359
-galactic.capital.investment 786
+galactic.capital.investment 788
 gegno.pirates 632
 hai.side.mission.unlocker 444
 highrollers.ltd 131
@@ -258,7 +258,7 @@ landing.images.highres 302
 licenses 162
 mission.helper 378
 more.arfectas 573
-more.boarding.missions 608
+more.boarding.missions 610
 more.person.ships 420
 navy.licenses 575
 no.more.mereti.mines 361
@@ -269,8 +269,8 @@ planet.map 269
 planet.pluto 178
 quarg.farm 616
 real.fluff 93
-show.reputation 527
-snowfeather.robotics 472
+show.reputation 529
+snowfeather.robotics 474
 space.fauna 340
 too.many.asteroids 682
 tribute.republic 294
