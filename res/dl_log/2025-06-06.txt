@@ -14,7 +14,7 @@ v1.0.3-control.station | downloads: 9
 v1.0.2-paint.your.ships | downloads: 9
 v1.0.2-control.station | downloads: 3
 v1.0.1-outfits.weapon.slot | downloads: 4
-v1.0.2-combat.ai | downloads: 37
+v1.0.2-combat.ai | downloads: 39
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 72
 v1.0.1-licenses | downloads: 163
@@ -224,7 +224,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 223
-# TOTAL DOWNLOADS: 19398
+# TOTAL DOWNLOADS: 19400
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -237,7 +237,7 @@ better.starts 518
 bunrodea.missions 673
 captureable.person.ships 492
 coalition.shopping 547
-combat.ai 111
+combat.ai 113
 control.station 399
 devil-run.unhidden 66
 disable.person.ships 233
