@@ -406,8 +406,8 @@
 		<td>585</td>
 		<td>591</td>
 		<td>610</td>
-		<td>612</td>
-		<td>+ 2</td>
+		<td>614</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18216</td>
-		<td>38</td>
+		<td>18218</td>
+		<td>40</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>585</td>
 		<td>591</td>
 		<td>610</td>
-		<td>612</td>
-		<td>+ 2</td>
+		<td>614</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18216</td>
-		<td>38</td>
+		<td>18218</td>
+		<td>40</td>
 	</tr>
 </table>
 </sub></sup>
