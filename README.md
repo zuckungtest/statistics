@@ -87,8 +87,8 @@
 		<td>526</td>
 		<td>528</td>
 		<td>544</td>
-		<td>544</td>
-		<td></td>
+		<td>546</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -98,8 +98,8 @@
 		<td>66</td>
 		<td>82</td>
 		<td>100</td>
-		<td>108</td>
-		<td>+ 8</td>
+		<td>110</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>378</td>
 		<td>382</td>
 		<td>396</td>
-		<td>396</td>
-		<td></td>
+		<td>398</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>650</td>
 		<td>654</td>
 		<td>670</td>
-		<td>670</td>
-		<td></td>
+		<td>672</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -153,8 +153,8 @@
 		<td>62</td>
 		<td>66</td>
 		<td>84</td>
-		<td>84</td>
-		<td></td>
+		<td>86</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -186,8 +186,8 @@
 		<td>604</td>
 		<td>610</td>
 		<td>632</td>
-		<td>632</td>
-		<td></td>
+		<td>634</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -318,8 +318,8 @@
 		<td>553</td>
 		<td>559</td>
 		<td>573</td>
-		<td>573</td>
-		<td></td>
+		<td>575</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>251</td>
 		<td>253</td>
 		<td>269</td>
-		<td>269</td>
-		<td></td>
+		<td>271</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18238</td>
-		<td>60</td>
+		<td>18254</td>
+		<td>76</td>
 	</tr>
 </table>
 </sub></sup>
@@ -535,6 +535,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>638</td>
+		<td>642</td>
+		<td>646</td>
+		<td>650</td>
+		<td>654</td>
+		<td>670</td>
+		<td>672</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>647</td>
 		<td>647</td>
@@ -546,17 +557,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>expert.crew.members</td>
-		<td>638</td>
-		<td>642</td>
-		<td>646</td>
-		<td>650</td>
-		<td>654</td>
-		<td>670</td>
-		<td>670</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>gegno.pirates</td>
 		<td>599</td>
 		<td>599</td>
@@ -564,8 +564,8 @@
 		<td>604</td>
 		<td>610</td>
 		<td>632</td>
-		<td>632</td>
-		<td></td>
+		<td>634</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -608,8 +608,8 @@
 		<td>553</td>
 		<td>559</td>
 		<td>573</td>
-		<td>573</td>
-		<td></td>
+		<td>575</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>526</td>
 		<td>528</td>
 		<td>544</td>
-		<td>544</td>
-		<td></td>
+		<td>546</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -773,8 +773,8 @@
 		<td>378</td>
 		<td>382</td>
 		<td>396</td>
-		<td>396</td>
-		<td></td>
+		<td>398</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -894,8 +894,8 @@
 		<td>251</td>
 		<td>253</td>
 		<td>269</td>
-		<td>269</td>
-		<td></td>
+		<td>271</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td>66</td>
 		<td>82</td>
 		<td>100</td>
-		<td>108</td>
-		<td>+ 8</td>
+		<td>110</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -960,8 +960,8 @@
 		<td>62</td>
 		<td>66</td>
 		<td>84</td>
-		<td>84</td>
-		<td></td>
+		<td>86</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18238</td>
-		<td>60</td>
+		<td>18254</td>
+		<td>76</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>63</td>
 		<td>53</td>
 		<td>153</td>
-		<td>5</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>18</td>
 		<td>9</td>
 		<td>13</td>
-		<td>3</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1916</td>
-		<td>508</td>
+		<td>1919</td>
+		<td>510</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>44</td>
-		<td>43.55</td>
-		<td>11.55</td>
+		<td>43.61</td>
+		<td>11.59</td>
 		<td></td>
 		<td></td>
 	</tr>
