@@ -241,8 +241,8 @@
 		<td>401</td>
 		<td>415</td>
 		<td>416</td>
-		<td>418</td>
-		<td>+ 2</td>
+		<td>420</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18008</td>
-		<td>60</td>
+		<td>18010</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
@@ -740,8 +740,8 @@
 		<td>401</td>
 		<td>415</td>
 		<td>416</td>
-		<td>418</td>
-		<td>+ 2</td>
+		<td>420</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18008</td>
-		<td>60</td>
+		<td>18010</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
