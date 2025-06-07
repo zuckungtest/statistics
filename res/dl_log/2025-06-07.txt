@@ -29,7 +29,7 @@ v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 124
 v1.0.3-planet.map | downloads: 59
 v1.0.8-bunrodea.missions | downloads: 155
-v1.0.7-expert.crew.members | downloads: 167
+v1.0.7-expert.crew.members | downloads: 169
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 123
@@ -224,7 +224,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 223
-# TOTAL DOWNLOADS: 19454
+# TOTAL DOWNLOADS: 19456
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -242,7 +242,7 @@ control.station 401
 devil-run.unhidden 66
 disable.person.ships 233
 disable.spaceport.repeatables 348
-expert.crew.members 676
+expert.crew.members 678
 flare.play 88
 free.worlds.5.years.later 360
 galactic.capital.investment 791
