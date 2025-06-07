@@ -65,8 +65,8 @@
 		<td>654</td>
 		<td>672</td>
 		<td>673</td>
-		<td>675</td>
-		<td>+ 2</td>
+		<td>677</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -263,8 +263,8 @@
 		<td>414</td>
 		<td>434</td>
 		<td>435</td>
-		<td>437</td>
-		<td>+ 2</td>
+		<td>439</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18004</td>
-		<td>56</td>
+		<td>18008</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>654</td>
 		<td>672</td>
 		<td>673</td>
-		<td>675</td>
-		<td>+ 2</td>
+		<td>677</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -707,8 +707,8 @@
 		<td>414</td>
 		<td>434</td>
 		<td>435</td>
-		<td>437</td>
-		<td>+ 2</td>
+		<td>439</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18004</td>
-		<td>56</td>
+		<td>18008</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>53</td>
 		<td>153</td>
 		<td>50</td>
-		<td>7</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>9</td>
 		<td>13</td>
 		<td>7</td>
-		<td>6</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>1968</td>
-		<td>518</td>
+		<td>1970</td>
+		<td>519</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>45</td>
-		<td>43.73</td>
-		<td>11.51</td>
+		<td>43.78</td>
+		<td>11.53</td>
 		<td></td>
 		<td></td>
 	</tr>
