@@ -98,8 +98,8 @@
 		<td>100</td>
 		<td>113</td>
 		<td>121</td>
-		<td>128</td>
-		<td>+ 7</td>
+		<td>130</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18284</td>
-		<td>147</td>
+		<td>18286</td>
+		<td>149</td>
 	</tr>
 </table>
 </sub></sup>
@@ -927,8 +927,8 @@
 		<td>100</td>
 		<td>113</td>
 		<td>121</td>
-		<td>128</td>
-		<td>+ 7</td>
+		<td>130</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18284</td>
-		<td>147</td>
+		<td>18286</td>
+		<td>149</td>
 	</tr>
 </table>
 </sub></sup>
