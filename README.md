@@ -32,8 +32,8 @@
 		<td>485</td>
 		<td>486</td>
 		<td>489</td>
-		<td>493</td>
-		<td>+ 4</td>
+		<td>495</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18288</td>
-		<td>151</td>
+		<td>18290</td>
+		<td>153</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>485</td>
 		<td>486</td>
 		<td>489</td>
-		<td>493</td>
-		<td>+ 4</td>
+		<td>495</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18288</td>
-		<td>151</td>
+		<td>18290</td>
+		<td>153</td>
 	</tr>
 </table>
 </sub></sup>
