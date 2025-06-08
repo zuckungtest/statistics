@@ -318,8 +318,8 @@
 		<td>604</td>
 		<td>611</td>
 		<td>616</td>
-		<td>621</td>
-		<td>+ 5</td>
+		<td>623</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -395,8 +395,8 @@
 		<td>610</td>
 		<td>619</td>
 		<td>624</td>
-		<td>627</td>
-		<td>+ 3</td>
+		<td>629</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18290</td>
-		<td>153</td>
+		<td>18294</td>
+		<td>157</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>610</td>
 		<td>619</td>
 		<td>624</td>
-		<td>627</td>
-		<td>+ 3</td>
+		<td>629</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -575,8 +575,8 @@
 		<td>604</td>
 		<td>611</td>
 		<td>616</td>
-		<td>621</td>
-		<td>+ 5</td>
+		<td>623</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18290</td>
-		<td>153</td>
+		<td>18294</td>
+		<td>157</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>153</td>
 		<td>50</td>
 		<td>51</td>
-		<td>12</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>13</td>
 		<td>7</td>
 		<td>20</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2024</td>
-		<td>536</td>
+		<td>2026</td>
+		<td>537</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>46</td>
-		<td>44.00</td>
-		<td>11.65</td>
+		<td>44.04</td>
+		<td>11.67</td>
 		<td></td>
 		<td></td>
 	</tr>
