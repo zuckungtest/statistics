@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.4-combat.ai | downloads: 5
-v1.1.8-galactic.capital.investment | downloads: 7
+v1.1.8-galactic.capital.investment | downloads: 9
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 5
 v1.0.23-additional.command.buttons.radial | downloads: 7
@@ -228,7 +228,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 227
-# TOTAL DOWNLOADS: 19738
+# TOTAL DOWNLOADS: 19740
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -249,7 +249,7 @@ disable.spaceport.repeatables 352
 expert.crew.members 688
 flare.play 92
 free.worlds.5.years.later 365
-galactic.capital.investment 799
+galactic.capital.investment 801
 gegno.pirates 644
 hai.side.mission.unlocker 453
 highrollers.ltd 142
