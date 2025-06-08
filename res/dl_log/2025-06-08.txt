@@ -6,11 +6,11 @@ v1.0.1-free.worlds.5.years.later | downloads: 5
 v1.0.23-additional.command.buttons.radial | downloads: 7
 v1.1.8-captureable.person.ships | downloads: 25
 v1.1.7-galactic.capital.investment | downloads: 26
-v1.1.5-more.boarding.missions | downloads: 28
+v1.1.5-more.boarding.missions | downloads: 30
 v1.1.5-hai.side.mission.unlocker | downloads: 22
 v1.0.6-snowfeather.robotics | downloads: 19
 v1.0.6-human.labels | downloads: 15
-v1.0.5-quarg.farm | downloads: 36
+v1.0.5-quarg.farm | downloads: 38
 v1.0.4-show.reputation | downloads: 29
 v1.0.4-mission.helper | downloads: 26
 v1.0.3-more.person.ships | downloads: 16
@@ -228,7 +228,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 227
-# TOTAL DOWNLOADS: 19742
+# TOTAL DOWNLOADS: 19746
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -263,7 +263,7 @@ landing.images.highres 307
 licenses 178
 mission.helper 387
 more.arfectas 585
-more.boarding.missions 621
+more.boarding.missions 623
 more.person.ships 429
 navy.licenses 575
 no.more.mereti.mines 368
@@ -272,7 +272,7 @@ paint.your.ships 432
 pirate.warlords 3
 planet.map 276
 planet.pluto 183
-quarg.farm 627
+quarg.farm 629
 real.fluff 93
 show.reputation 536
 snowfeather.robotics 483
