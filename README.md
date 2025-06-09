@@ -32,8 +32,8 @@
 		<td>486</td>
 		<td>489</td>
 		<td>495</td>
-		<td>495</td>
-		<td></td>
+		<td>496</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>413</td>
 		<td>416</td>
 		<td>421</td>
-		<td>421</td>
-		<td></td>
+		<td>422</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18301</td>
-		<td>2</td>
+		<td>18303</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>486</td>
 		<td>489</td>
 		<td>495</td>
-		<td>495</td>
-		<td></td>
+		<td>496</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -751,8 +751,8 @@
 		<td>413</td>
 		<td>416</td>
 		<td>421</td>
-		<td>421</td>
-		<td></td>
+		<td>422</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18301</td>
-		<td>2</td>
+		<td>18303</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -958,7 +958,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-05-31</td>
 		<td>2025-06-01</td>
 		<td>2025-06-02</td>
 		<td>2025-06-03</td>
@@ -967,10 +966,10 @@
 		<td>2025-06-06</td>
 		<td>2025-06-07</td>
 		<td>2025-06-08</td>
+		<td>2025-06-09</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>14</td>
 		<td>25</td>
 		<td>52</td>
 		<td>63</td>
@@ -979,10 +978,10 @@
 		<td>50</td>
 		<td>51</td>
 		<td>37</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>10</td>
 		<td>11</td>
 		<td>13</td>
 		<td>18</td>
@@ -991,6 +990,7 @@
 		<td>7</td>
 		<td>20</td>
 		<td>10</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2049</td>
-		<td>542</td>
+		<td>2051</td>
+		<td>543</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>47</td>
-		<td>43.60</td>
-		<td>11.53</td>
+		<td>43.64</td>
+		<td>11.55</td>
 		<td></td>
 		<td></td>
 	</tr>
