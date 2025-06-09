@@ -21,8 +21,8 @@
 		<td>787</td>
 		<td>790</td>
 		<td>793</td>
-		<td>793</td>
-		<td></td>
+		<td>795</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>486</td>
 		<td>489</td>
 		<td>495</td>
-		<td>496</td>
-		<td>+ 1</td>
+		<td>498</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -65,8 +65,8 @@
 		<td>673</td>
 		<td>680</td>
 		<td>685</td>
-		<td>685</td>
-		<td></td>
+		<td>687</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -76,8 +76,8 @@
 		<td>492</td>
 		<td>497</td>
 		<td>503</td>
-		<td>503</td>
-		<td></td>
+		<td>505</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -285,8 +285,8 @@
 		<td>165</td>
 		<td>172</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>379</td>
 		<td>384</td>
 		<td>387</td>
-		<td>387</td>
-		<td></td>
+		<td>389</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -395,8 +395,8 @@
 		<td>619</td>
 		<td>624</td>
 		<td>629</td>
-		<td>629</td>
-		<td></td>
+		<td>631</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td>295</td>
 		<td>298</td>
 		<td>303</td>
-		<td>303</td>
-		<td></td>
+		<td>305</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18303</td>
-		<td>4</td>
+		<td>18319</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>787</td>
 		<td>790</td>
 		<td>793</td>
-		<td>793</td>
-		<td></td>
+		<td>795</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -542,8 +542,8 @@
 		<td>673</td>
 		<td>680</td>
 		<td>685</td>
-		<td>685</td>
-		<td></td>
+		<td>687</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -564,8 +564,8 @@
 		<td>619</td>
 		<td>624</td>
 		<td>629</td>
-		<td>629</td>
-		<td></td>
+		<td>631</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -652,8 +652,8 @@
 		<td>492</td>
 		<td>497</td>
 		<td>503</td>
-		<td>503</td>
-		<td></td>
+		<td>505</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -663,8 +663,8 @@
 		<td>486</td>
 		<td>489</td>
 		<td>495</td>
-		<td>496</td>
-		<td>+ 1</td>
+		<td>498</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -766,6 +766,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>356</td>
+		<td>360</td>
+		<td>378</td>
+		<td>379</td>
+		<td>384</td>
+		<td>387</td>
+		<td>389</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>363</td>
 		<td>365</td>
@@ -774,17 +785,6 @@
 		<td>385</td>
 		<td>388</td>
 		<td>388</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>356</td>
-		<td>360</td>
-		<td>378</td>
-		<td>379</td>
-		<td>384</td>
-		<td>387</td>
-		<td>387</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -861,8 +861,8 @@
 		<td>295</td>
 		<td>298</td>
 		<td>303</td>
-		<td>303</td>
-		<td></td>
+		<td>305</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -905,8 +905,8 @@
 		<td>165</td>
 		<td>172</td>
 		<td>178</td>
-		<td>178</td>
-		<td></td>
+		<td>180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18303</td>
-		<td>4</td>
+		<td>18319</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>50</td>
 		<td>51</td>
 		<td>37</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2051</td>
+		<td>2052</td>
 		<td>543</td>
 		<td>165</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>47</td>
-		<td>43.64</td>
+		<td>43.66</td>
 		<td>11.55</td>
 		<td></td>
 		<td></td>
