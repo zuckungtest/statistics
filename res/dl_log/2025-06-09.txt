@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-combat.ai | downloads: 9
+v1.0.4-combat.ai | downloads: 11
 v1.1.8-galactic.capital.investment | downloads: 11
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 5
@@ -32,7 +32,7 @@ v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 134
 v1.0.3-planet.map | downloads: 65
-v1.0.8-bunrodea.missions | downloads: 172
+v1.0.8-bunrodea.missions | downloads: 174
 v1.0.7-expert.crew.members | downloads: 184
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
@@ -63,7 +63,7 @@ v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 364
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
-v1.0.4-better.starts | downloads: 317
+v1.0.4-better.starts | downloads: 319
 v1.0.5-bunrodea.missions | downloads: 120
 v1.0.2-planet.pluto | downloads: 163
 v1.0.2-planet.map | downloads: 80
@@ -76,7 +76,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 370
+v1.0.6-coalition.shopping | downloads: 372
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 448
@@ -228,7 +228,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 227
-# TOTAL DOWNLOADS: 19877
+# TOTAL DOWNLOADS: 19885
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -237,11 +237,11 @@ additional.command.buttons.radial 795
 automata.destruction.0percent 500
 automata.in.human.space 426
 avgi.licenses 229
-better.starts 532
-bunrodea.missions 692
+better.starts 534
+bunrodea.missions 694
 captureable.person.ships 505
-coalition.shopping 564
-combat.ai 134
+coalition.shopping 566
+combat.ai 136
 control.station 409
 devil-run.unhidden 66
 disable.person.ships 239
