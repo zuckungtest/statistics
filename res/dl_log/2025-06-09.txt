@@ -11,11 +11,11 @@ v1.1.5-hai.side.mission.unlocker | downloads: 24
 v1.0.6-snowfeather.robotics | downloads: 21
 v1.0.6-human.labels | downloads: 19
 v1.0.5-quarg.farm | downloads: 42
-v1.0.4-show.reputation | downloads: 30
-v1.0.4-mission.helper | downloads: 30
+v1.0.4-show.reputation | downloads: 32
+v1.0.4-mission.helper | downloads: 32
 v1.0.3-more.person.ships | downloads: 18
 v1.0.3-control.station | downloads: 19
-v1.0.2-paint.your.ships | downloads: 17
+v1.0.2-paint.your.ships | downloads: 19
 v1.0.2-control.station | downloads: 3
 v1.0.1-outfits.weapon.slot | downloads: 15
 v1.0.2-combat.ai | downloads: 45
@@ -50,7 +50,7 @@ v1.0.7-bunrodea.missions | downloads: 141
 v1.0.5-human.labels | downloads: 150
 v1.1.4-more.boarding.missions | downloads: 273
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 235
+v1.0.3-jump.gates | downloads: 237
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
 v1.0.0-avgi.licenses | downloads: 229
@@ -216,7 +216,7 @@ v1.0-kor.efret.shipyard | downloads: 155
 v1.0-gegno.pirates | downloads: 1
 v1.0-free.worlds.5.years.later | downloads: 360
 v1.0-expert.crew.members | downloads: 4
-v1.0-disable.person.ships | downloads: 237
+v1.0-disable.person.ships | downloads: 239
 v1.0-devil-run.unhidden | downloads: 1
 v1.0-coalition.shopping | downloads: 1
 v1.0-bunrodea.missions | downloads: 4
@@ -228,7 +228,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 227
-# TOTAL DOWNLOADS: 19867
+# TOTAL DOWNLOADS: 19877
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -244,7 +244,7 @@ coalition.shopping 564
 combat.ai 134
 control.station 409
 devil-run.unhidden 66
-disable.person.ships 237
+disable.person.ships 239
 disable.spaceport.repeatables 354
 expert.crew.members 693
 flare.play 97
@@ -254,27 +254,27 @@ gegno.pirates 648
 hai.side.mission.unlocker 455
 highrollers.ltd 144
 human.labels 383
-jump.gates 507
+jump.gates 509
 kestrel.unlocks 430
 kor.efret.shipyard 619
 landing.images 445
 landing.images.android 349
 landing.images.highres 307
 licenses 185
-mission.helper 391
+mission.helper 393
 more.arfectas 587
 more.boarding.missions 626
 more.person.ships 431
 navy.licenses 575
 no.more.mereti.mines 368
 outfits.weapon.slot 393
-paint.your.ships 434
+paint.your.ships 436
 pirate.warlords 3
 planet.map 278
 planet.pluto 186
 quarg.farm 633
 real.fluff 93
-show.reputation 537
+show.reputation 539
 snowfeather.robotics 485
 space.fauna 351
 too.many.asteroids 695
