@@ -296,8 +296,8 @@
 		<td>384</td>
 		<td>387</td>
 		<td>393</td>
-		<td>393</td>
-		<td></td>
+		<td>395</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18459</td>
-		<td>26</td>
+		<td>18461</td>
+		<td>28</td>
 	</tr>
 </table>
 </sub></sup>
@@ -766,23 +766,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>365</td>
-		<td>379</td>
-		<td>382</td>
-		<td>385</td>
-		<td>388</td>
-		<td>393</td>
-		<td>393</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>mission.helper</td>
 		<td>360</td>
 		<td>378</td>
 		<td>379</td>
 		<td>384</td>
 		<td>387</td>
+		<td>393</td>
+		<td>395</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>outfits.weapon.slot</td>
+		<td>365</td>
+		<td>379</td>
+		<td>382</td>
+		<td>385</td>
+		<td>388</td>
 		<td>393</td>
 		<td>393</td>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18459</td>
-		<td>26</td>
+		<td>18461</td>
+		<td>28</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>51</td>
 		<td>37</td>
 		<td>21</td>
-		<td>20</td>
+		<td>22</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>20</td>
 		<td>10</td>
 		<td>12</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2090</td>
-		<td>565</td>
+		<td>2092</td>
+		<td>566</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>48</td>
-		<td>43.54</td>
-		<td>11.77</td>
+		<td>43.58</td>
+		<td>11.79</td>
 		<td></td>
 		<td></td>
 	</tr>
