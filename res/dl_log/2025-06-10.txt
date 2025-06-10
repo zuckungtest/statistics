@@ -10,8 +10,8 @@ v1.1.5-more.boarding.missions | downloads: 33
 v1.1.5-hai.side.mission.unlocker | downloads: 24
 v1.0.6-snowfeather.robotics | downloads: 21
 v1.0.6-human.labels | downloads: 19
-v1.0.5-quarg.farm | downloads: 42
-v1.0.4-show.reputation | downloads: 32
+v1.0.5-quarg.farm | downloads: 44
+v1.0.4-show.reputation | downloads: 34
 v1.0.4-mission.helper | downloads: 32
 v1.0.3-more.person.ships | downloads: 18
 v1.0.3-control.station | downloads: 19
@@ -32,7 +32,7 @@ v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 134
 v1.0.3-planet.map | downloads: 65
-v1.0.8-bunrodea.missions | downloads: 174
+v1.0.8-bunrodea.missions | downloads: 176
 v1.0.7-expert.crew.members | downloads: 184
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
@@ -228,7 +228,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 227
-# TOTAL DOWNLOADS: 19891
+# TOTAL DOWNLOADS: 19897
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -238,7 +238,7 @@ automata.destruction.0percent 500
 automata.in.human.space 426
 avgi.licenses 229
 better.starts 534
-bunrodea.missions 694
+bunrodea.missions 696
 captureable.person.ships 507
 coalition.shopping 566
 combat.ai 136
@@ -272,9 +272,9 @@ paint.your.ships 436
 pirate.warlords 3
 planet.map 278
 planet.pluto 186
-quarg.farm 633
+quarg.farm 635
 real.fluff 93
-show.reputation 539
+show.reputation 541
 snowfeather.robotics 485
 space.fauna 351
 too.many.asteroids 695
