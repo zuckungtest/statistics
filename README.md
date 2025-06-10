@@ -252,8 +252,8 @@
 		<td>611</td>
 		<td>615</td>
 		<td>619</td>
-		<td>619</td>
-		<td></td>
+		<td>621</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -439,8 +439,8 @@
 		<td>688</td>
 		<td>691</td>
 		<td>695</td>
-		<td>695</td>
-		<td></td>
+		<td>697</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18445</td>
-		<td>12</td>
+		<td>18449</td>
+		<td>16</td>
 	</tr>
 </table>
 </sub></sup>
@@ -513,6 +513,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>666</td>
+		<td>682</td>
+		<td>683</td>
+		<td>688</td>
+		<td>691</td>
+		<td>695</td>
+		<td>697</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>bunrodea.missions</td>
 		<td>654</td>
 		<td>672</td>
@@ -522,17 +533,6 @@
 		<td>694</td>
 		<td>696</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>666</td>
-		<td>682</td>
-		<td>683</td>
-		<td>688</td>
-		<td>691</td>
-		<td>695</td>
-		<td>695</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -586,8 +586,8 @@
 		<td>611</td>
 		<td>615</td>
 		<td>619</td>
-		<td>619</td>
-		<td></td>
+		<td>621</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18445</td>
-		<td>12</td>
+		<td>18449</td>
+		<td>16</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>51</td>
 		<td>37</td>
 		<td>21</td>
-		<td>5</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>20</td>
 		<td>10</td>
 		<td>12</td>
-		<td>5</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2075</td>
-		<td>559</td>
+		<td>2082</td>
+		<td>561</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>48</td>
-		<td>43.23</td>
-		<td>11.65</td>
+		<td>43.38</td>
+		<td>11.69</td>
 		<td></td>
 		<td></td>
 	</tr>
