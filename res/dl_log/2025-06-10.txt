@@ -169,7 +169,7 @@ v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
-v1.1.1-disable.spaceport.repeatables | downloads: 353
+v1.1.1-disable.spaceport.repeatables | downloads: 355
 v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 386
 v1.0.0-control.station | downloads: 1
@@ -228,7 +228,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 227
-# TOTAL DOWNLOADS: 19888
+# TOTAL DOWNLOADS: 19890
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -245,7 +245,7 @@ combat.ai 136
 control.station 409
 devil-run.unhidden 66
 disable.person.ships 239
-disable.spaceport.repeatables 354
+disable.spaceport.repeatables 356
 expert.crew.members 693
 flare.play 97
 free.worlds.5.years.later 365
