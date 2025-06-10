@@ -12,7 +12,7 @@ v1.0.6-snowfeather.robotics | downloads: 21
 v1.0.6-human.labels | downloads: 19
 v1.0.5-quarg.farm | downloads: 44
 v1.0.4-show.reputation | downloads: 34
-v1.0.4-mission.helper | downloads: 32
+v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 18
 v1.0.3-control.station | downloads: 19
 v1.0.2-paint.your.ships | downloads: 19
@@ -228,7 +228,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 227
-# TOTAL DOWNLOADS: 19911
+# TOTAL DOWNLOADS: 19913
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -261,7 +261,7 @@ landing.images 445
 landing.images.android 349
 landing.images.highres 307
 licenses 185
-mission.helper 393
+mission.helper 395
 more.arfectas 587
 more.boarding.missions 626
 more.person.ships 431
