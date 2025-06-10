@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-combat.ai | downloads: 11
-v1.1.8-galactic.capital.investment | downloads: 11
+v1.0.4-combat.ai | downloads: 13
+v1.1.8-galactic.capital.investment | downloads: 13
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 5
 v1.0.23-additional.command.buttons.radial | downloads: 11
@@ -228,7 +228,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 227
-# TOTAL DOWNLOADS: 19901
+# TOTAL DOWNLOADS: 19905
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -241,7 +241,7 @@ better.starts 534
 bunrodea.missions 696
 captureable.person.ships 507
 coalition.shopping 566
-combat.ai 136
+combat.ai 138
 control.station 409
 devil-run.unhidden 66
 disable.person.ships 239
@@ -249,7 +249,7 @@ disable.spaceport.repeatables 356
 expert.crew.members 693
 flare.play 97
 free.worlds.5.years.later 365
-galactic.capital.investment 803
+galactic.capital.investment 805
 gegno.pirates 648
 hai.side.mission.unlocker 455
 highrollers.ltd 144
