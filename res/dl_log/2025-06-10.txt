@@ -4,7 +4,7 @@ v1.1.8-galactic.capital.investment | downloads: 11
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 5
 v1.0.23-additional.command.buttons.radial | downloads: 11
-v1.1.8-captureable.person.ships | downloads: 28
+v1.1.8-captureable.person.ships | downloads: 29
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 33
 v1.1.5-hai.side.mission.unlocker | downloads: 24
@@ -228,7 +228,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 227
-# TOTAL DOWNLOADS: 19890
+# TOTAL DOWNLOADS: 19891
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -239,7 +239,7 @@ automata.in.human.space 426
 avgi.licenses 229
 better.starts 534
 bunrodea.missions 694
-captureable.person.ships 506
+captureable.person.ships 507
 coalition.shopping 566
 combat.ai 136
 control.station 409
