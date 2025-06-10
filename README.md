@@ -65,8 +65,8 @@
 		<td>680</td>
 		<td>685</td>
 		<td>694</td>
-		<td>694</td>
-		<td></td>
+		<td>696</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -395,8 +395,8 @@
 		<td>624</td>
 		<td>629</td>
 		<td>633</td>
-		<td>633</td>
-		<td></td>
+		<td>635</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -406,8 +406,8 @@
 		<td>533</td>
 		<td>536</td>
 		<td>539</td>
-		<td>539</td>
-		<td></td>
+		<td>541</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18439</td>
-		<td>6</td>
+		<td>18445</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -513,6 +513,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>bunrodea.missions</td>
+		<td>654</td>
+		<td>672</td>
+		<td>673</td>
+		<td>680</td>
+		<td>685</td>
+		<td>694</td>
+		<td>696</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>666</td>
 		<td>682</td>
@@ -521,17 +532,6 @@
 		<td>691</td>
 		<td>695</td>
 		<td>695</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>bunrodea.missions</td>
-		<td>654</td>
-		<td>672</td>
-		<td>673</td>
-		<td>680</td>
-		<td>685</td>
-		<td>694</td>
-		<td>694</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -564,8 +564,8 @@
 		<td>624</td>
 		<td>629</td>
 		<td>633</td>
-		<td>633</td>
-		<td></td>
+		<td>635</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -619,8 +619,8 @@
 		<td>533</td>
 		<td>536</td>
 		<td>539</td>
-		<td>539</td>
-		<td></td>
+		<td>541</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18439</td>
-		<td>6</td>
+		<td>18445</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
