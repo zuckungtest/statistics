@@ -32,8 +32,8 @@
 		<td>495</td>
 		<td>500</td>
 		<td>501</td>
-		<td>501</td>
-		<td></td>
+		<td>502</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>421</td>
 		<td>426</td>
 		<td>427</td>
-		<td>427</td>
-		<td></td>
+		<td>428</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -54,8 +54,8 @@
 		<td>528</td>
 		<td>534</td>
 		<td>535</td>
-		<td>535</td>
-		<td></td>
+		<td>536</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -87,8 +87,8 @@
 		<td>562</td>
 		<td>566</td>
 		<td>567</td>
-		<td>567</td>
-		<td></td>
+		<td>569</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18514</td>
-		<td>6</td>
+		<td>18519</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>562</td>
 		<td>566</td>
 		<td>567</td>
-		<td>567</td>
-		<td></td>
+		<td>569</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -630,8 +630,8 @@
 		<td>528</td>
 		<td>534</td>
 		<td>535</td>
-		<td>535</td>
-		<td></td>
+		<td>536</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -663,8 +663,8 @@
 		<td>495</td>
 		<td>500</td>
 		<td>501</td>
-		<td>501</td>
-		<td></td>
+		<td>502</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -751,8 +751,8 @@
 		<td>421</td>
 		<td>426</td>
 		<td>427</td>
-		<td>427</td>
-		<td></td>
+		<td>428</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18514</td>
-		<td>6</td>
+		<td>18519</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>37</td>
 		<td>21</td>
 		<td>42</td>
-		<td>9</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>10</td>
 		<td>12</td>
 		<td>16</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2121</td>
-		<td>574</td>
+		<td>2124</td>
+		<td>575</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>49</td>
-		<td>43.29</td>
-		<td>11.71</td>
+		<td>43.35</td>
+		<td>11.73</td>
 		<td></td>
 		<td></td>
 	</tr>
