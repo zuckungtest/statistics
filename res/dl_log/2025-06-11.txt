@@ -64,7 +64,7 @@ v1.0.7-uniques | downloads: 5
 v1.0.4-too.many.asteroids | downloads: 369
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
-v1.0.4-better.starts | downloads: 320
+v1.0.4-better.starts | downloads: 321
 v1.0.5-bunrodea.missions | downloads: 120
 v1.0.2-planet.pluto | downloads: 164
 v1.0.2-planet.map | downloads: 80
@@ -77,7 +77,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 373
+v1.0.6-coalition.shopping | downloads: 375
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 451
@@ -101,7 +101,7 @@ v1.0.2-quarg.farm | downloads: 190
 v1.0.2-landing.images.highres | downloads: 241
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
-v1.0.1-automata.in.human.space | downloads: 366
+v1.0.1-automata.in.human.space | downloads: 367
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -165,7 +165,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 500
+v1.0.1-automata.destruction.0percent | downloads: 501
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -229,19 +229,19 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 228
-# TOTAL DOWNLOADS: 19966
+# TOTAL DOWNLOADS: 19971
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 800
-automata.destruction.0percent 501
-automata.in.human.space 427
+automata.destruction.0percent 502
+automata.in.human.space 428
 avgi.licenses 229
-better.starts 535
+better.starts 536
 bunrodea.missions 699
 captureable.person.ships 508
-coalition.shopping 567
+coalition.shopping 569
 combat.ai 139
 control.station 410
 devil-run.unhidden 66
