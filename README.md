@@ -32,8 +32,8 @@
 		<td>495</td>
 		<td>500</td>
 		<td>501</td>
-		<td>502</td>
-		<td>+ 1</td>
+		<td>504</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -98,8 +98,8 @@
 		<td>130</td>
 		<td>136</td>
 		<td>139</td>
-		<td>143</td>
-		<td>+ 4</td>
+		<td>145</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18523</td>
-		<td>15</td>
+		<td>18527</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>495</td>
 		<td>500</td>
 		<td>501</td>
-		<td>502</td>
-		<td>+ 1</td>
+		<td>504</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -927,8 +927,8 @@
 		<td>130</td>
 		<td>136</td>
 		<td>139</td>
-		<td>143</td>
-		<td>+ 4</td>
+		<td>145</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18523</td>
-		<td>15</td>
+		<td>18527</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>37</td>
 		<td>21</td>
 		<td>42</td>
-		<td>28</td>
+		<td>29</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2140</td>
+		<td>2141</td>
 		<td>580</td>
 		<td>165</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>49</td>
-		<td>43.67</td>
+		<td>43.69</td>
 		<td>11.84</td>
 		<td></td>
 		<td></td>
