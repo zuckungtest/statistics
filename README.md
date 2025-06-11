@@ -153,8 +153,8 @@
 		<td>92</td>
 		<td>97</td>
 		<td>98</td>
-		<td>98</td>
-		<td></td>
+		<td>99</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>free.worlds.5.years.later</td>
@@ -175,8 +175,8 @@
 		<td>801</td>
 		<td>803</td>
 		<td>806</td>
-		<td>806</td>
-		<td></td>
+		<td>808</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -263,8 +263,8 @@
 		<td>445</td>
 		<td>445</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>447</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>307</td>
 		<td>307</td>
 		<td>308</td>
-		<td>308</td>
-		<td></td>
+		<td>309</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -362,8 +362,8 @@
 		<td>432</td>
 		<td>436</td>
 		<td>437</td>
-		<td>437</td>
-		<td></td>
+		<td>438</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18508</td>
-		<td>0</td>
+		<td>18514</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>801</td>
 		<td>803</td>
 		<td>806</td>
-		<td>806</td>
-		<td></td>
+		<td>808</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -707,8 +707,8 @@
 		<td>445</td>
 		<td>445</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>447</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -718,8 +718,8 @@
 		<td>432</td>
 		<td>436</td>
 		<td>437</td>
-		<td>437</td>
-		<td></td>
+		<td>438</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -850,8 +850,8 @@
 		<td>307</td>
 		<td>307</td>
 		<td>308</td>
-		<td>308</td>
-		<td></td>
+		<td>309</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -938,8 +938,8 @@
 		<td>92</td>
 		<td>97</td>
 		<td>98</td>
-		<td>98</td>
-		<td></td>
+		<td>99</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18508</td>
-		<td>0</td>
+		<td>18514</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -958,7 +958,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-06-02</td>
 		<td>2025-06-03</td>
 		<td>2025-06-04</td>
 		<td>2025-06-05</td>
@@ -967,10 +966,10 @@
 		<td>2025-06-08</td>
 		<td>2025-06-09</td>
 		<td>2025-06-10</td>
+		<td>2025-06-11</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>52</td>
 		<td>63</td>
 		<td>53</td>
 		<td>153</td>
@@ -979,10 +978,10 @@
 		<td>37</td>
 		<td>21</td>
 		<td>42</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>13</td>
 		<td>18</td>
 		<td>9</td>
 		<td>13</td>
@@ -991,6 +990,7 @@
 		<td>10</td>
 		<td>12</td>
 		<td>16</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2112</td>
-		<td>570</td>
+		<td>2121</td>
+		<td>574</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>49</td>
-		<td>43.10</td>
-		<td>11.63</td>
+		<td>43.29</td>
+		<td>11.71</td>
 		<td></td>
 		<td></td>
 	</tr>
