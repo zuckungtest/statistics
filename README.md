@@ -21,8 +21,8 @@
 		<td>795</td>
 		<td>800</td>
 		<td>800</td>
-		<td>800</td>
-		<td></td>
+		<td>802</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18529</td>
-		<td>2</td>
+		<td>18531</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>795</td>
 		<td>800</td>
 		<td>800</td>
-		<td>800</td>
-		<td></td>
+		<td>802</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18529</td>
-		<td>2</td>
+		<td>18531</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
