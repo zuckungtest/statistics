@@ -362,8 +362,8 @@
 		<td>436</td>
 		<td>437</td>
 		<td>438</td>
-		<td>438</td>
-		<td></td>
+		<td>440</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18527</td>
-		<td>0</td>
+		<td>18529</td>
+		<td>2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>436</td>
 		<td>437</td>
 		<td>438</td>
-		<td>438</td>
-		<td></td>
+		<td>440</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18527</td>
-		<td>0</td>
+		<td>18529</td>
+		<td>2</td>
 	</tr>
 </table>
 </sub></sup>
