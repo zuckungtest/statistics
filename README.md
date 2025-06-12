@@ -32,8 +32,8 @@
 		<td>500</td>
 		<td>501</td>
 		<td>504</td>
-		<td>505</td>
-		<td>+ 1</td>
+		<td>506</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18615</td>
-		<td>88</td>
+		<td>18616</td>
+		<td>89</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>500</td>
 		<td>501</td>
 		<td>504</td>
-		<td>505</td>
-		<td>+ 1</td>
+		<td>506</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18615</td>
-		<td>88</td>
+		<td>18616</td>
+		<td>89</td>
 	</tr>
 </table>
 </sub></sup>
