@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.6-mission.helper | downloads: 1
+v1.0.6-mission.helper | downloads: 3
 v1.0.5-mission.helper | downloads: 7
 v1.0.4-combat.ai | downloads: 25
 v1.1.8-galactic.capital.investment | downloads: 21
@@ -13,7 +13,7 @@ v1.1.5-hai.side.mission.unlocker | downloads: 26
 v1.0.6-snowfeather.robotics | downloads: 23
 v1.0.6-human.labels | downloads: 21
 v1.0.5-quarg.farm | downloads: 46
-v1.0.4-show.reputation | downloads: 38
+v1.0.4-show.reputation | downloads: 40
 v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 20
 v1.0.3-control.station | downloads: 24
@@ -95,11 +95,11 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 375
+v1.0.4-landing.images | downloads: 377
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
-v1.0.2-landing.images.highres | downloads: 242
+v1.0.2-landing.images.highres | downloads: 244
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
 v1.0.1-automata.in.human.space | downloads: 368
@@ -230,7 +230,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 229
-# TOTAL DOWNLOADS: 20072
+# TOTAL DOWNLOADS: 20080
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -259,11 +259,11 @@ human.labels 385
 jump.gates 513
 kestrel.unlocks 432
 kor.efret.shipyard 623
-landing.images 448
+landing.images 450
 landing.images.android 349
-landing.images.highres 310
+landing.images.highres 312
 licenses 187
-mission.helper 403
+mission.helper 405
 more.arfectas 589
 more.boarding.missions 632
 more.person.ships 433
@@ -276,7 +276,7 @@ planet.map 280
 planet.pluto 188
 quarg.farm 637
 real.fluff 93
-show.reputation 545
+show.reputation 547
 snowfeather.robotics 487
 space.fauna 353
 too.many.asteroids 701
