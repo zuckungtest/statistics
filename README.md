@@ -21,8 +21,8 @@
 		<td>800</td>
 		<td>800</td>
 		<td>811</td>
-		<td>811</td>
-		<td></td>
+		<td>813</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18650</td>
-		<td>22</td>
+		<td>18652</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>800</td>
 		<td>800</td>
 		<td>811</td>
-		<td>811</td>
-		<td></td>
+		<td>813</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18650</td>
-		<td>22</td>
+		<td>18652</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
