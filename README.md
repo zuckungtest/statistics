@@ -21,8 +21,8 @@
 		<td>800</td>
 		<td>800</td>
 		<td>811</td>
-		<td>813</td>
-		<td>+ 2</td>
+		<td>815</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -296,8 +296,8 @@
 		<td>398</td>
 		<td>398</td>
 		<td>405</td>
-		<td>409</td>
-		<td>+ 4</td>
+		<td>411</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18652</td>
-		<td>24</td>
+		<td>18656</td>
+		<td>28</td>
 	</tr>
 </table>
 </sub></sup>
@@ -491,6 +491,17 @@
 		<td>today +</td>
 	</tr>
 	<tr>
+		<td>additional.command.buttons.radial</td>
+		<td>790</td>
+		<td>793</td>
+		<td>795</td>
+		<td>800</td>
+		<td>800</td>
+		<td>811</td>
+		<td>815</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>galactic.capital.investment</td>
 		<td>794</td>
 		<td>801</td>
@@ -500,17 +511,6 @@
 		<td>813</td>
 		<td>813</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>additional.command.buttons.radial</td>
-		<td>790</td>
-		<td>793</td>
-		<td>795</td>
-		<td>800</td>
-		<td>800</td>
-		<td>811</td>
-		<td>813</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -773,8 +773,8 @@
 		<td>398</td>
 		<td>398</td>
 		<td>405</td>
-		<td>409</td>
-		<td>+ 4</td>
+		<td>411</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18652</td>
-		<td>24</td>
+		<td>18656</td>
+		<td>28</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>42</td>
 		<td>36</td>
 		<td>14</td>
-		<td>16</td>
+		<td>17</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>16</td>
 		<td>15</td>
 		<td>4</td>
-		<td>9</td>
+		<td>10</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2178</td>
-		<td>598</td>
+		<td>2179</td>
+		<td>599</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>51</td>
-		<td>42.71</td>
-		<td>11.73</td>
+		<td>42.73</td>
+		<td>11.75</td>
 		<td></td>
 		<td></td>
 	</tr>
