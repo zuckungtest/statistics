@@ -296,8 +296,8 @@
 		<td>398</td>
 		<td>398</td>
 		<td>405</td>
-		<td>413</td>
-		<td>+ 8</td>
+		<td>415</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18708</td>
-		<td>80</td>
+		<td>18710</td>
+		<td>82</td>
 	</tr>
 </table>
 </sub></sup>
@@ -773,8 +773,8 @@
 		<td>398</td>
 		<td>398</td>
 		<td>405</td>
-		<td>413</td>
-		<td>+ 8</td>
+		<td>415</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18708</td>
-		<td>80</td>
+		<td>18710</td>
+		<td>82</td>
 	</tr>
 </table>
 </sub></sup>
