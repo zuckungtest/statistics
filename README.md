@@ -32,8 +32,8 @@
 		<td>501</td>
 		<td>504</td>
 		<td>508</td>
-		<td>508</td>
-		<td></td>
+		<td>510</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18644</td>
-		<td>16</td>
+		<td>18646</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
@@ -645,6 +645,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>489</td>
+		<td>495</td>
+		<td>500</td>
+		<td>501</td>
+		<td>504</td>
+		<td>508</td>
+		<td>510</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>497</td>
 		<td>503</td>
@@ -653,17 +664,6 @@
 		<td>508</td>
 		<td>509</td>
 		<td>509</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>489</td>
-		<td>495</td>
-		<td>500</td>
-		<td>501</td>
-		<td>504</td>
-		<td>508</td>
-		<td>508</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18644</td>
-		<td>16</td>
+		<td>18646</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
