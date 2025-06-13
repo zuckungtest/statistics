@@ -87,8 +87,8 @@
 		<td>567</td>
 		<td>569</td>
 		<td>570</td>
-		<td>572</td>
-		<td>+ 2</td>
+		<td>574</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -109,8 +109,8 @@
 		<td>410</td>
 		<td>410</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -296,8 +296,8 @@
 		<td>398</td>
 		<td>398</td>
 		<td>405</td>
-		<td>411</td>
-		<td>+ 6</td>
+		<td>413</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18702</td>
-		<td>74</td>
+		<td>18708</td>
+		<td>80</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>567</td>
 		<td>569</td>
 		<td>570</td>
-		<td>572</td>
-		<td>+ 2</td>
+		<td>574</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -762,8 +762,8 @@
 		<td>410</td>
 		<td>410</td>
 		<td>414</td>
-		<td>414</td>
-		<td></td>
+		<td>416</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -773,8 +773,8 @@
 		<td>398</td>
 		<td>398</td>
 		<td>405</td>
-		<td>411</td>
-		<td>+ 6</td>
+		<td>413</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18702</td>
-		<td>74</td>
+		<td>18708</td>
+		<td>80</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>42</td>
 		<td>36</td>
 		<td>14</td>
-		<td>25</td>
+		<td>33</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2187</td>
+		<td>2195</td>
 		<td>602</td>
 		<td>165</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>51</td>
-		<td>42.88</td>
+		<td>43.04</td>
 		<td>11.80</td>
 		<td></td>
 		<td></td>
