@@ -21,8 +21,8 @@
 		<td>800</td>
 		<td>800</td>
 		<td>811</td>
-		<td>815</td>
-		<td>+ 4</td>
+		<td>817</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -219,8 +219,8 @@
 		<td>384</td>
 		<td>384</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18656</td>
-		<td>28</td>
+		<td>18659</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>800</td>
 		<td>800</td>
 		<td>811</td>
-		<td>815</td>
-		<td>+ 4</td>
+		<td>817</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -795,8 +795,8 @@
 		<td>384</td>
 		<td>384</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>386</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18656</td>
-		<td>28</td>
+		<td>18659</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
