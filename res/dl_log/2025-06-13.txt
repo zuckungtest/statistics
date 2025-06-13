@@ -5,13 +5,13 @@ v1.0.4-combat.ai | downloads: 29
 v1.1.8-galactic.capital.investment | downloads: 21
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
-v1.0.23-additional.command.buttons.radial | downloads: 29
+v1.0.23-additional.command.buttons.radial | downloads: 31
 v1.1.8-captureable.person.ships | downloads: 31
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 41
 v1.1.5-hai.side.mission.unlocker | downloads: 26
 v1.0.6-snowfeather.robotics | downloads: 23
-v1.0.6-human.labels | downloads: 21
+v1.0.6-human.labels | downloads: 22
 v1.0.5-quarg.farm | downloads: 46
 v1.0.4-show.reputation | downloads: 40
 v1.0.4-mission.helper | downloads: 34
@@ -230,12 +230,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 229
-# TOTAL DOWNLOADS: 20108
+# TOTAL DOWNLOADS: 20111
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 815
+additional.command.buttons.radial 817
 automata.destruction.0percent 510
 automata.in.human.space 429
 avgi.licenses 229
@@ -255,7 +255,7 @@ galactic.capital.investment 813
 gegno.pirates 654
 hai.side.mission.unlocker 457
 highrollers.ltd 146
-human.labels 385
+human.labels 386
 jump.gates 513
 kestrel.unlocks 432
 kor.efret.shipyard 623
