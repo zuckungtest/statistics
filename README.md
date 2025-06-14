@@ -98,8 +98,8 @@
 		<td>145</td>
 		<td>150</td>
 		<td>156</td>
-		<td>156</td>
-		<td></td>
+		<td>158</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -285,8 +285,8 @@
 		<td>186</td>
 		<td>187</td>
 		<td>188</td>
-		<td>188</td>
-		<td></td>
+		<td>190</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18710</td>
-		<td>0</td>
+		<td>18714</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -887,23 +887,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>planet.pluto</td>
-		<td>183</td>
-		<td>186</td>
-		<td>187</td>
-		<td>187</td>
-		<td>188</td>
-		<td>188</td>
-		<td>188</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>licenses</td>
 		<td>178</td>
 		<td>185</td>
 		<td>186</td>
 		<td>186</td>
 		<td>187</td>
+		<td>188</td>
+		<td>190</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>planet.pluto</td>
+		<td>183</td>
+		<td>186</td>
+		<td>187</td>
+		<td>187</td>
+		<td>188</td>
 		<td>188</td>
 		<td>188</td>
 		<td></td>
@@ -916,8 +916,8 @@
 		<td>145</td>
 		<td>150</td>
 		<td>156</td>
-		<td>156</td>
-		<td></td>
+		<td>158</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18710</td>
-		<td>0</td>
+		<td>18714</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>36</td>
 		<td>14</td>
 		<td>39</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>15</td>
 		<td>4</td>
 		<td>14</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2202</td>
-		<td>604</td>
+		<td>2203</td>
+		<td>605</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>52</td>
-		<td>42.35</td>
-		<td>11.62</td>
+		<td>42.37</td>
+		<td>11.63</td>
 		<td></td>
 		<td></td>
 	</tr>
