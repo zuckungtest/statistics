@@ -34,7 +34,7 @@ v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 142
 v1.0.3-planet.map | downloads: 67
-v1.0.8-bunrodea.missions | downloads: 190
+v1.0.8-bunrodea.missions | downloads: 194
 v1.0.7-expert.crew.members | downloads: 190
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
@@ -230,7 +230,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 229
-# TOTAL DOWNLOADS: 20216
+# TOTAL DOWNLOADS: 20220
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -240,7 +240,7 @@ automata.destruction.0percent 510
 automata.in.human.space 431
 avgi.licenses 229
 better.starts 539
-bunrodea.missions 710
+bunrodea.missions 714
 captureable.person.ships 511
 coalition.shopping 576
 combat.ai 160
