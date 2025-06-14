@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.6-mission.helper | downloads: 11
 v1.0.5-mission.helper | downloads: 9
-v1.0.4-combat.ai | downloads: 31
+v1.0.4-combat.ai | downloads: 33
 v1.1.8-galactic.capital.investment | downloads: 23
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
@@ -23,7 +23,7 @@ v1.0.1-outfits.weapon.slot | downloads: 21
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 72
-v1.0.1-licenses | downloads: 186
+v1.0.1-licenses | downloads: 188
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 94
@@ -230,7 +230,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 229
-# TOTAL DOWNLOADS: 20162
+# TOTAL DOWNLOADS: 20166
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -243,7 +243,7 @@ better.starts 539
 bunrodea.missions 706
 captureable.person.ships 511
 coalition.shopping 574
-combat.ai 156
+combat.ai 158
 control.station 416
 devil-run.unhidden 66
 disable.person.ships 241
@@ -262,7 +262,7 @@ kor.efret.shipyard 623
 landing.images 450
 landing.images.android 349
 landing.images.highres 314
-licenses 188
+licenses 190
 mission.helper 415
 more.arfectas 589
 more.boarding.missions 636
