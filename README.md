@@ -157,17 +157,6 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>free.worlds.5.years.later</td>
-		<td>365</td>
-		<td>368</td>
-		<td>368</td>
-		<td>369</td>
-		<td>369</td>
-		<td>369</td>
-		<td>369</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>galactic.capital.investment</td>
 		<td>803</td>
 		<td>806</td>
@@ -472,7 +461,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18848</td>
+		<td>18479</td>
 		<td>80</td>
 	</tr>
 </table>
@@ -810,17 +799,6 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>free.worlds.5.years.later</td>
-		<td>365</td>
-		<td>368</td>
-		<td>368</td>
-		<td>369</td>
-		<td>369</td>
-		<td>369</td>
-		<td>369</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>354</td>
 		<td>357</td>
@@ -949,7 +927,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18848</td>
+		<td>18479</td>
 		<td>80</td>
 	</tr>
 </table>
