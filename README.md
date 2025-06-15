@@ -65,8 +65,8 @@
 		<td>702</td>
 		<td>706</td>
 		<td>714</td>
-		<td>718</td>
-		<td>+ 4</td>
+		<td>719</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>150</td>
 		<td>156</td>
 		<td>160</td>
-		<td>162</td>
-		<td>+ 2</td>
+		<td>163</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -142,8 +142,8 @@
 		<td>697</td>
 		<td>699</td>
 		<td>699</td>
-		<td>701</td>
-		<td>+ 2</td>
+		<td>703</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -186,8 +186,8 @@
 		<td>457</td>
 		<td>459</td>
 		<td>461</td>
-		<td>463</td>
-		<td>+ 2</td>
+		<td>464</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -274,8 +274,8 @@
 		<td>187</td>
 		<td>188</td>
 		<td>194</td>
-		<td>196</td>
-		<td>+ 2</td>
+		<td>198</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18499</td>
-		<td>100</td>
+		<td>18506</td>
+		<td>107</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>702</td>
 		<td>706</td>
 		<td>714</td>
-		<td>718</td>
-		<td>+ 4</td>
+		<td>719</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>697</td>
 		<td>699</td>
 		<td>699</td>
-		<td>701</td>
-		<td>+ 2</td>
+		<td>703</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -685,8 +685,8 @@
 		<td>457</td>
 		<td>459</td>
 		<td>461</td>
-		<td>463</td>
-		<td>+ 2</td>
+		<td>464</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -872,8 +872,8 @@
 		<td>187</td>
 		<td>188</td>
 		<td>194</td>
-		<td>196</td>
-		<td>+ 2</td>
+		<td>198</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -894,8 +894,8 @@
 		<td>150</td>
 		<td>156</td>
 		<td>160</td>
-		<td>162</td>
-		<td>+ 2</td>
+		<td>163</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18499</td>
-		<td>100</td>
+		<td>18506</td>
+		<td>107</td>
 	</tr>
 </table>
 </sub></sup>
