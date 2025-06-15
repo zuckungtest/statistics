@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.6-mission.helper | downloads: 13
 v1.0.5-mission.helper | downloads: 9
-v1.0.4-combat.ai | downloads: 37
+v1.0.4-combat.ai | downloads: 38
 v1.1.8-galactic.capital.investment | downloads: 27
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
@@ -9,7 +9,7 @@ v1.0.23-additional.command.buttons.radial | downloads: 41
 v1.1.8-captureable.person.ships | downloads: 35
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 47
-v1.1.5-hai.side.mission.unlocker | downloads: 32
+v1.1.5-hai.side.mission.unlocker | downloads: 33
 v1.0.6-snowfeather.robotics | downloads: 29
 v1.0.6-human.labels | downloads: 28
 v1.0.5-quarg.farm | downloads: 50
@@ -23,7 +23,7 @@ v1.0.1-outfits.weapon.slot | downloads: 25
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 72
-v1.0.1-licenses | downloads: 194
+v1.0.1-licenses | downloads: 196
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 96
@@ -34,8 +34,8 @@ v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 146
 v1.0.3-planet.map | downloads: 69
-v1.0.8-bunrodea.missions | downloads: 198
-v1.0.7-expert.crew.members | downloads: 192
+v1.0.8-bunrodea.missions | downloads: 199
+v1.0.7-expert.crew.members | downloads: 194
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 141
@@ -230,7 +230,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 229
-# TOTAL DOWNLOADS: 20320
+# TOTAL DOWNLOADS: 20327
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -240,20 +240,20 @@ automata.destruction.0percent 514
 automata.in.human.space 433
 avgi.licenses 229
 better.starts 541
-bunrodea.missions 718
+bunrodea.missions 719
 captureable.person.ships 513
 coalition.shopping 580
-combat.ai 162
+combat.ai 163
 control.station 422
 devil-run.unhidden 66
 disable.person.ships 243
 disable.spaceport.repeatables 360
-expert.crew.members 701
+expert.crew.members 703
 flare.play 104
 free.worlds.5.years.later 369
 galactic.capital.investment 819
 gegno.pirates 664
-hai.side.mission.unlocker 463
+hai.side.mission.unlocker 464
 highrollers.ltd 152
 human.labels 392
 jump.gates 515
@@ -262,7 +262,7 @@ kor.efret.shipyard 627
 landing.images 454
 landing.images.android 349
 landing.images.highres 316
-licenses 196
+licenses 198
 mission.helper 417
 more.arfectas 593
 more.boarding.missions 640
