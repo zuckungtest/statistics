@@ -318,8 +318,8 @@
 		<td>435</td>
 		<td>435</td>
 		<td>437</td>
-		<td>437</td>
-		<td></td>
+		<td>439</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18574</td>
-		<td>68</td>
+		<td>18576</td>
+		<td>70</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>435</td>
 		<td>435</td>
 		<td>437</td>
-		<td>437</td>
-		<td></td>
+		<td>439</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18574</td>
-		<td>68</td>
+		<td>18576</td>
+		<td>70</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>39</td>
 		<td>17</td>
 		<td>49</td>
-		<td>15</td>
+		<td>17</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>14</td>
 		<td>8</td>
 		<td>12</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2282</td>
-		<td>630</td>
+		<td>2284</td>
+		<td>631</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>54</td>
-		<td>42.26</td>
-		<td>11.67</td>
+		<td>42.30</td>
+		<td>11.69</td>
 		<td></td>
 		<td></td>
 	</tr>
