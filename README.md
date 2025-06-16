@@ -54,8 +54,8 @@
 		<td>539</td>
 		<td>539</td>
 		<td>541</td>
-		<td>541</td>
-		<td></td>
+		<td>542</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -65,8 +65,8 @@
 		<td>706</td>
 		<td>714</td>
 		<td>719</td>
-		<td>719</td>
-		<td></td>
+		<td>720</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>416</td>
 		<td>418</td>
 		<td>422</td>
-		<td>424</td>
-		<td>+ 2</td>
+		<td>426</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>815</td>
 		<td>817</td>
 		<td>819</td>
-		<td>825</td>
-		<td>+ 6</td>
+		<td>827</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>148</td>
 		<td>148</td>
 		<td>152</td>
-		<td>152</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -208,8 +208,8 @@
 		<td>388</td>
 		<td>390</td>
 		<td>392</td>
-		<td>396</td>
-		<td>+ 4</td>
+		<td>397</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -252,8 +252,8 @@
 		<td>450</td>
 		<td>452</td>
 		<td>454</td>
-		<td>456</td>
-		<td>+ 2</td>
+		<td>458</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>188</td>
 		<td>194</td>
 		<td>198</td>
-		<td>202</td>
-		<td>+ 4</td>
+		<td>205</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -395,8 +395,8 @@
 		<td>547</td>
 		<td>547</td>
 		<td>551</td>
-		<td>553</td>
-		<td>+ 2</td>
+		<td>555</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -406,8 +406,8 @@
 		<td>489</td>
 		<td>491</td>
 		<td>493</td>
-		<td>493</td>
-		<td></td>
+		<td>495</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18576</td>
-		<td>70</td>
+		<td>18593</td>
+		<td>87</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>815</td>
 		<td>817</td>
 		<td>819</td>
-		<td>825</td>
-		<td>+ 6</td>
+		<td>827</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -509,8 +509,8 @@
 		<td>706</td>
 		<td>714</td>
 		<td>719</td>
-		<td>719</td>
-		<td></td>
+		<td>720</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -608,8 +608,8 @@
 		<td>547</td>
 		<td>547</td>
 		<td>551</td>
-		<td>553</td>
-		<td>+ 2</td>
+		<td>555</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -619,8 +619,8 @@
 		<td>539</td>
 		<td>539</td>
 		<td>541</td>
-		<td>541</td>
-		<td></td>
+		<td>542</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -674,8 +674,8 @@
 		<td>489</td>
 		<td>491</td>
 		<td>493</td>
-		<td>493</td>
-		<td></td>
+		<td>495</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -696,8 +696,8 @@
 		<td>450</td>
 		<td>452</td>
 		<td>454</td>
-		<td>456</td>
-		<td>+ 2</td>
+		<td>458</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -751,8 +751,8 @@
 		<td>416</td>
 		<td>418</td>
 		<td>422</td>
-		<td>424</td>
-		<td>+ 2</td>
+		<td>426</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -784,8 +784,8 @@
 		<td>388</td>
 		<td>390</td>
 		<td>392</td>
-		<td>396</td>
-		<td>+ 4</td>
+		<td>397</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -872,8 +872,8 @@
 		<td>188</td>
 		<td>194</td>
 		<td>198</td>
-		<td>202</td>
-		<td>+ 4</td>
+		<td>205</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -905,8 +905,8 @@
 		<td>148</td>
 		<td>148</td>
 		<td>152</td>
-		<td>152</td>
-		<td></td>
+		<td>153</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18576</td>
-		<td>70</td>
+		<td>18593</td>
+		<td>87</td>
 	</tr>
 </table>
 </sub></sup>
