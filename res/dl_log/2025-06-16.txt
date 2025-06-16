@@ -15,7 +15,7 @@ v1.0.6-human.labels | downloads: 32
 v1.0.5-quarg.farm | downloads: 50
 v1.0.4-show.reputation | downloads: 46
 v1.0.4-mission.helper | downloads: 34
-v1.0.3-more.person.ships | downloads: 24
+v1.0.3-more.person.ships | downloads: 26
 v1.0.3-control.station | downloads: 34
 v1.0.2-paint.your.ships | downloads: 34
 v1.0.2-control.station | downloads: 3
@@ -230,7 +230,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 229
-# TOTAL DOWNLOADS: 20395
+# TOTAL DOWNLOADS: 20397
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -266,7 +266,7 @@ licenses 202
 mission.helper 423
 more.arfectas 593
 more.boarding.missions 644
-more.person.ships 437
+more.person.ships 439
 navy.licenses 575
 no.more.mereti.mines 374
 outfits.weapon.slot 405
