@@ -87,8 +87,8 @@
 		<td>574</td>
 		<td>576</td>
 		<td>580</td>
-		<td>580</td>
-		<td></td>
+		<td>582</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -175,8 +175,8 @@
 		<td>656</td>
 		<td>658</td>
 		<td>664</td>
-		<td>666</td>
-		<td>+ 2</td>
+		<td>670</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18568</td>
-		<td>62</td>
+		<td>18574</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>656</td>
 		<td>658</td>
 		<td>664</td>
-		<td>666</td>
-		<td>+ 2</td>
+		<td>670</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>574</td>
 		<td>576</td>
 		<td>580</td>
-		<td>580</td>
-		<td></td>
+		<td>582</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18568</td>
-		<td>62</td>
+		<td>18574</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
