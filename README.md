@@ -109,8 +109,8 @@
 		<td>416</td>
 		<td>418</td>
 		<td>422</td>
-		<td>422</td>
-		<td></td>
+		<td>424</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>656</td>
 		<td>658</td>
 		<td>664</td>
-		<td>664</td>
-		<td></td>
+		<td>666</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18514</td>
-		<td>8</td>
+		<td>18518</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>656</td>
 		<td>658</td>
 		<td>664</td>
-		<td>664</td>
-		<td></td>
+		<td>666</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -751,8 +751,8 @@
 		<td>416</td>
 		<td>418</td>
 		<td>422</td>
-		<td>422</td>
-		<td></td>
+		<td>424</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18514</td>
-		<td>8</td>
+		<td>18518</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
