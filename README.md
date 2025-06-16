@@ -21,8 +21,8 @@
 		<td>819</td>
 		<td>825</td>
 		<td>827</td>
-		<td>829</td>
-		<td>+ 2</td>
+		<td>831</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -98,8 +98,8 @@
 		<td>156</td>
 		<td>160</td>
 		<td>163</td>
-		<td>165</td>
-		<td>+ 2</td>
+		<td>167</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -164,8 +164,8 @@
 		<td>815</td>
 		<td>817</td>
 		<td>819</td>
-		<td>823</td>
-		<td>+ 4</td>
+		<td>825</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -208,8 +208,8 @@
 		<td>388</td>
 		<td>390</td>
 		<td>392</td>
-		<td>394</td>
-		<td>+ 2</td>
+		<td>396</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -285,8 +285,8 @@
 		<td>415</td>
 		<td>415</td>
 		<td>417</td>
-		<td>421</td>
-		<td>+ 4</td>
+		<td>423</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>636</td>
 		<td>638</td>
 		<td>640</td>
-		<td>642</td>
-		<td>+ 2</td>
+		<td>644</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -340,8 +340,8 @@
 		<td>399</td>
 		<td>401</td>
 		<td>403</td>
-		<td>403</td>
-		<td></td>
+		<td>405</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18554</td>
-		<td>48</td>
+		<td>18568</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>819</td>
 		<td>825</td>
 		<td>827</td>
-		<td>829</td>
-		<td>+ 2</td>
+		<td>831</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -498,8 +498,8 @@
 		<td>815</td>
 		<td>817</td>
 		<td>819</td>
-		<td>823</td>
-		<td>+ 4</td>
+		<td>825</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>636</td>
 		<td>638</td>
 		<td>640</td>
-		<td>642</td>
-		<td>+ 2</td>
+		<td>644</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -762,8 +762,8 @@
 		<td>415</td>
 		<td>415</td>
 		<td>417</td>
-		<td>421</td>
-		<td>+ 4</td>
+		<td>423</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -773,8 +773,8 @@
 		<td>399</td>
 		<td>401</td>
 		<td>403</td>
-		<td>403</td>
-		<td></td>
+		<td>405</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -784,8 +784,8 @@
 		<td>388</td>
 		<td>390</td>
 		<td>392</td>
-		<td>394</td>
-		<td>+ 2</td>
+		<td>396</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -894,8 +894,8 @@
 		<td>156</td>
 		<td>160</td>
 		<td>163</td>
-		<td>165</td>
-		<td>+ 2</td>
+		<td>167</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18554</td>
-		<td>48</td>
+		<td>18568</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>39</td>
 		<td>17</td>
 		<td>49</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>14</td>
 		<td>8</td>
 		<td>12</td>
-		<td>3</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2274</td>
-		<td>626</td>
+		<td>2275</td>
+		<td>627</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>54</td>
-		<td>42.11</td>
-		<td>11.59</td>
+		<td>42.13</td>
+		<td>11.61</td>
 		<td></td>
 		<td></td>
 	</tr>
