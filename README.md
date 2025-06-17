@@ -98,8 +98,8 @@
 		<td>160</td>
 		<td>163</td>
 		<td>167</td>
-		<td>169</td>
-		<td>+ 2</td>
+		<td>170</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -296,8 +296,8 @@
 		<td>591</td>
 		<td>593</td>
 		<td>593</td>
-		<td>595</td>
-		<td>+ 2</td>
+		<td>596</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -307,8 +307,8 @@
 		<td>638</td>
 		<td>640</td>
 		<td>644</td>
-		<td>646</td>
-		<td>+ 2</td>
+		<td>647</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>639</td>
 		<td>641</td>
 		<td>641</td>
-		<td>643</td>
-		<td>+ 2</td>
+		<td>644</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18645</td>
-		<td>52</td>
+		<td>18649</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>638</td>
 		<td>640</td>
 		<td>644</td>
-		<td>646</td>
-		<td>+ 2</td>
+		<td>647</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>639</td>
 		<td>641</td>
 		<td>641</td>
-		<td>643</td>
-		<td>+ 2</td>
+		<td>644</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -586,8 +586,8 @@
 		<td>591</td>
 		<td>593</td>
 		<td>593</td>
-		<td>595</td>
-		<td>+ 2</td>
+		<td>596</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -894,8 +894,8 @@
 		<td>160</td>
 		<td>163</td>
 		<td>167</td>
-		<td>169</td>
-		<td>+ 2</td>
+		<td>170</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18645</td>
-		<td>52</td>
+		<td>18649</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
