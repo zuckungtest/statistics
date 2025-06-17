@@ -1,4 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
+v1.0.5-better.starts | downloads: 0
 v1.0.6-mission.helper | downloads: 23
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 47
@@ -229,7 +230,7 @@ v1.0-additional.command.buttons | downloads: 1
 v1.1-galactic.capital.investment | downloads: 29
 
 
-# NUMBER OF RELEASES: 229
+# NUMBER OF RELEASES: 230
 # TOTAL DOWNLOADS: 20510
 
 
