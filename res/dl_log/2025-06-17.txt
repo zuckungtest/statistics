@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.6-mission.helper | downloads: 21
 v1.0.5-mission.helper | downloads: 9
-v1.0.4-combat.ai | downloads: 44
+v1.0.4-combat.ai | downloads: 45
 v1.1.8-galactic.capital.investment | downloads: 37
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
 v1.0.23-additional.command.buttons.radial | downloads: 49
 v1.1.8-captureable.person.ships | downloads: 41
 v1.1.7-galactic.capital.investment | downloads: 26
-v1.1.5-more.boarding.missions | downloads: 53
+v1.1.5-more.boarding.missions | downloads: 54
 v1.1.5-hai.side.mission.unlocker | downloads: 35
 v1.0.6-snowfeather.robotics | downloads: 31
 v1.0.6-human.labels | downloads: 33
-v1.0.5-quarg.farm | downloads: 52
+v1.0.5-quarg.farm | downloads: 53
 v1.0.4-show.reputation | downloads: 48
 v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 28
@@ -195,7 +195,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 593
+v1.0.2-more.arfectas | downloads: 594
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -230,7 +230,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 229
-# TOTAL DOWNLOADS: 20466
+# TOTAL DOWNLOADS: 20470
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -243,7 +243,7 @@ better.starts 542
 bunrodea.missions 720
 captureable.person.ships 519
 coalition.shopping 584
-combat.ai 169
+combat.ai 170
 control.station 428
 devil-run.unhidden 66
 disable.person.ships 243
@@ -264,8 +264,8 @@ landing.images.android 349
 landing.images.highres 316
 licenses 207
 mission.helper 425
-more.arfectas 595
-more.boarding.missions 646
+more.arfectas 596
+more.boarding.missions 647
 more.person.ships 441
 navy.licenses 575
 no.more.mereti.mines 374
@@ -274,7 +274,7 @@ paint.your.ships 453
 pirate.warlords 3
 planet.map 282
 planet.pluto 190
-quarg.farm 643
+quarg.farm 644
 real.fluff 93
 show.reputation 555
 snowfeather.robotics 495
