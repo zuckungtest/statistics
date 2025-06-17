@@ -384,8 +384,8 @@
 		<td>639</td>
 		<td>641</td>
 		<td>641</td>
-		<td>644</td>
-		<td>+ 3</td>
+		<td>648</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -406,8 +406,8 @@
 		<td>491</td>
 		<td>493</td>
 		<td>495</td>
-		<td>495</td>
-		<td></td>
+		<td>497</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18651</td>
-		<td>58</td>
+		<td>18657</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
@@ -546,6 +546,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>quarg.farm</td>
+		<td>636</td>
+		<td>637</td>
+		<td>637</td>
+		<td>639</td>
+		<td>641</td>
+		<td>641</td>
+		<td>648</td>
+		<td>+ 7</td>
+	</tr>
+	<tr>
 		<td>more.boarding.missions</td>
 		<td>627</td>
 		<td>632</td>
@@ -554,17 +565,6 @@
 		<td>640</td>
 		<td>644</td>
 		<td>647</td>
-		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>quarg.farm</td>
-		<td>636</td>
-		<td>637</td>
-		<td>637</td>
-		<td>639</td>
-		<td>641</td>
-		<td>641</td>
-		<td>644</td>
 		<td>+ 3</td>
 	</tr>
 	<tr>
@@ -674,8 +674,8 @@
 		<td>491</td>
 		<td>493</td>
 		<td>495</td>
-		<td>495</td>
-		<td></td>
+		<td>497</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18651</td>
-		<td>58</td>
+		<td>18657</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
