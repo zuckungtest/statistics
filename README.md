@@ -241,8 +241,8 @@
 		<td>627</td>
 		<td>627</td>
 		<td>631</td>
-		<td>631</td>
-		<td></td>
+		<td>633</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -274,8 +274,8 @@
 		<td>198</td>
 		<td>205</td>
 		<td>209</td>
-		<td>211</td>
-		<td>+ 2</td>
+		<td>213</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18809</td>
-		<td>42</td>
+		<td>18813</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>627</td>
 		<td>627</td>
 		<td>631</td>
-		<td>631</td>
-		<td></td>
+		<td>633</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -872,8 +872,8 @@
 		<td>198</td>
 		<td>205</td>
 		<td>209</td>
-		<td>211</td>
-		<td>+ 2</td>
+		<td>213</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.pluto</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18809</td>
-		<td>42</td>
+		<td>18813</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>49</td>
 		<td>33</td>
 		<td>65</td>
-		<td>33</td>
+		<td>38</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>12</td>
 		<td>11</td>
 		<td>9</td>
-		<td>9</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2398</td>
-		<td>652</td>
+		<td>2403</td>
+		<td>655</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>56</td>
-		<td>42.82</td>
-		<td>11.64</td>
+		<td>42.91</td>
+		<td>11.70</td>
 		<td></td>
 		<td></td>
 	</tr>
