@@ -366,17 +366,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>planet.pluto</td>
-		<td>188</td>
-		<td>188</td>
-		<td>188</td>
-		<td>190</td>
-		<td>190</td>
-		<td>190</td>
-		<td>190</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>quarg.farm</td>
 		<td>637</td>
 		<td>637</td>
@@ -461,7 +450,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18813</td>
+		<td>18623</td>
 		<td>46</td>
 	</tr>
 </table>
@@ -876,17 +865,6 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
-		<td>planet.pluto</td>
-		<td>188</td>
-		<td>188</td>
-		<td>188</td>
-		<td>190</td>
-		<td>190</td>
-		<td>190</td>
-		<td>190</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>combat.ai</td>
 		<td>150</td>
 		<td>156</td>
@@ -927,7 +905,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18813</td>
+		<td>18623</td>
 		<td>46</td>
 	</tr>
 </table>
