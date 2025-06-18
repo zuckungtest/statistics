@@ -21,8 +21,8 @@
 		<td>827</td>
 		<td>831</td>
 		<td>839</td>
-		<td>839</td>
-		<td></td>
+		<td>841</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>514</td>
 		<td>516</td>
 		<td>520</td>
-		<td>520</td>
-		<td></td>
+		<td>522</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -98,8 +98,8 @@
 		<td>163</td>
 		<td>167</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>178</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>422</td>
 		<td>426</td>
 		<td>430</td>
-		<td>433</td>
-		<td>+ 3</td>
+		<td>435</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>819</td>
 		<td>827</td>
 		<td>833</td>
-		<td>833</td>
-		<td></td>
+		<td>835</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -428,8 +428,8 @@
 		<td>711</td>
 		<td>715</td>
 		<td>719</td>
-		<td>719</td>
-		<td></td>
+		<td>721</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18779</td>
-		<td>12</td>
+		<td>18791</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>827</td>
 		<td>831</td>
 		<td>839</td>
-		<td>839</td>
-		<td></td>
+		<td>841</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -498,8 +498,8 @@
 		<td>819</td>
 		<td>827</td>
 		<td>833</td>
-		<td>833</td>
-		<td></td>
+		<td>835</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>711</td>
 		<td>715</td>
 		<td>719</td>
-		<td>719</td>
-		<td></td>
+		<td>721</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -623,6 +623,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>508</td>
+		<td>510</td>
+		<td>510</td>
+		<td>514</td>
+		<td>516</td>
+		<td>520</td>
+		<td>522</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>513</td>
 		<td>513</td>
@@ -642,17 +653,6 @@
 		<td>515</td>
 		<td>521</td>
 		<td>521</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>508</td>
-		<td>510</td>
-		<td>510</td>
-		<td>514</td>
-		<td>516</td>
-		<td>520</td>
-		<td>520</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -751,8 +751,8 @@
 		<td>422</td>
 		<td>426</td>
 		<td>430</td>
-		<td>433</td>
-		<td>+ 3</td>
+		<td>435</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -894,8 +894,8 @@
 		<td>163</td>
 		<td>167</td>
 		<td>174</td>
-		<td>176</td>
-		<td>+ 2</td>
+		<td>178</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18779</td>
-		<td>12</td>
+		<td>18791</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
