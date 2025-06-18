@@ -1,13 +1,13 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.5-better.starts | downloads: 3
-v1.0.4-control.station | downloads: 4
+v1.0.4-control.station | downloads: 6
 v1.0.6-mission.helper | downloads: 27
 v1.0.5-mission.helper | downloads: 9
-v1.0.4-combat.ai | downloads: 51
-v1.1.8-galactic.capital.investment | downloads: 41
+v1.0.4-combat.ai | downloads: 53
+v1.1.8-galactic.capital.investment | downloads: 43
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
-v1.0.23-additional.command.buttons.radial | downloads: 53
+v1.0.23-additional.command.buttons.radial | downloads: 55
 v1.1.8-captureable.person.ships | downloads: 43
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 58
@@ -64,7 +64,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 388
+v1.0.4-too.many.asteroids | downloads: 390
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -168,7 +168,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 519
+v1.0.1-automata.destruction.0percent | downloads: 521
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -232,28 +232,28 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 231
-# TOTAL DOWNLOADS: 20600
+# TOTAL DOWNLOADS: 20612
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 839
-automata.destruction.0percent 520
+additional.command.buttons.radial 841
+automata.destruction.0percent 522
 automata.in.human.space 437
 avgi.licenses 229
 better.starts 547
 bunrodea.missions 722
 captureable.person.ships 521
 coalition.shopping 588
-combat.ai 176
-control.station 433
+combat.ai 178
+control.station 435
 devil-run.unhidden 66
 disable.person.ships 245
 disable.spaceport.repeatables 368
 expert.crew.members 711
 flare.play 110
 free.worlds.5.years.later 369
-galactic.capital.investment 833
+galactic.capital.investment 835
 gegno.pirates 674
 hai.side.mission.unlocker 468
 highrollers.ltd 157
@@ -281,7 +281,7 @@ real.fluff 93
 show.reputation 557
 snowfeather.robotics 499
 space.fauna 359
-too.many.asteroids 719
+too.many.asteroids 721
 tribute.republic 315
 unique.fix 44
 uniques 504
