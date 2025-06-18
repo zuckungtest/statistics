@@ -25,7 +25,7 @@ v1.0.1-outfits.weapon.slot | downloads: 31
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 72
-v1.0.1-licenses | downloads: 209
+v1.0.1-licenses | downloads: 211
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 102
@@ -83,7 +83,7 @@ v1.0.3-navy.licenses | downloads: 362
 v1.0.6-coalition.shopping | downloads: 394
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 460
+v1.0.2-kor.efret.shipyard | downloads: 462
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -232,7 +232,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 231
-# TOTAL DOWNLOADS: 20630
+# TOTAL DOWNLOADS: 20634
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -260,11 +260,11 @@ highrollers.ltd 157
 human.labels 401
 jump.gates 521
 kestrel.unlocks 442
-kor.efret.shipyard 631
+kor.efret.shipyard 633
 landing.images 462
 landing.images.android 349
 landing.images.highres 320
-licenses 211
+licenses 213
 mission.helper 433
 more.arfectas 600
 more.boarding.missions 653
