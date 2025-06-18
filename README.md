@@ -274,8 +274,8 @@
 		<td>198</td>
 		<td>205</td>
 		<td>209</td>
-		<td>215</td>
-		<td>+ 6</td>
+		<td>217</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18625</td>
-		<td>48</td>
+		<td>18627</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
@@ -861,8 +861,8 @@
 		<td>198</td>
 		<td>205</td>
 		<td>209</td>
-		<td>215</td>
-		<td>+ 6</td>
+		<td>217</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18625</td>
-		<td>48</td>
+		<td>18627</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>49</td>
 		<td>33</td>
 		<td>65</td>
-		<td>40</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -960,7 +960,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2405</td>
+		<td>2406</td>
 		<td>657</td>
 		<td>165</td>
 		<td>21</td>
@@ -974,7 +974,7 @@
 	</tr>
 	<tr>
 		<td>56</td>
-		<td>42.95</td>
+		<td>42.96</td>
 		<td>11.73</td>
 		<td></td>
 		<td></td>
