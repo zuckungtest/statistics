@@ -241,8 +241,8 @@
 		<td>627</td>
 		<td>631</td>
 		<td>633</td>
-		<td>633</td>
-		<td></td>
+		<td>635</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -373,8 +373,8 @@
 		<td>641</td>
 		<td>650</td>
 		<td>654</td>
-		<td>654</td>
-		<td></td>
+		<td>656</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18629</td>
-		<td>2</td>
+		<td>18633</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>641</td>
 		<td>650</td>
 		<td>654</td>
-		<td>654</td>
-		<td></td>
+		<td>656</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -564,8 +564,8 @@
 		<td>627</td>
 		<td>631</td>
 		<td>633</td>
-		<td>633</td>
-		<td></td>
+		<td>635</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18629</td>
-		<td>2</td>
+		<td>18633</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>33</td>
 		<td>65</td>
 		<td>46</td>
-		<td>3</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -946,7 +946,7 @@
 		<td>11</td>
 		<td>9</td>
 		<td>16</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -960,8 +960,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2414</td>
-		<td>661</td>
+		<td>2419</td>
+		<td>662</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -974,8 +974,8 @@
 	</tr>
 	<tr>
 		<td>57</td>
-		<td>42.35</td>
-		<td>11.60</td>
+		<td>42.44</td>
+		<td>11.61</td>
 		<td></td>
 		<td></td>
 	</tr>
