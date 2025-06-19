@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.5-better.starts | downloads: 5
 v1.0.4-control.station | downloads: 8
-v1.0.6-mission.helper | downloads: 31
+v1.0.6-mission.helper | downloads: 33
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 55
 v1.1.8-galactic.capital.investment | downloads: 45
@@ -14,7 +14,7 @@ v1.1.5-more.boarding.missions | downloads: 62
 v1.1.5-hai.side.mission.unlocker | downloads: 37
 v1.0.6-snowfeather.robotics | downloads: 35
 v1.0.6-human.labels | downloads: 37
-v1.0.5-quarg.farm | downloads: 65
+v1.0.5-quarg.farm | downloads: 67
 v1.0.4-show.reputation | downloads: 52
 v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 32
@@ -168,7 +168,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 523
+v1.0.1-automata.destruction.0percent | downloads: 525
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -232,13 +232,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 231
-# TOTAL DOWNLOADS: 20666
+# TOTAL DOWNLOADS: 20672
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 843
-automata.destruction.0percent 524
+automata.destruction.0percent 526
 automata.in.human.space 437
 avgi.licenses 229
 better.starts 549
@@ -265,7 +265,7 @@ landing.images 462
 landing.images.android 349
 landing.images.highres 320
 licenses 217
-mission.helper 435
+mission.helper 437
 more.arfectas 602
 more.boarding.missions 655
 more.person.ships 445
@@ -276,7 +276,7 @@ paint.your.ships 457
 pirate.warlords 3
 planet.map 284
 planet.pluto 190
-quarg.farm 656
+quarg.farm 658
 real.fluff 93
 show.reputation 559
 snowfeather.robotics 499
