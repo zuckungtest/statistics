@@ -21,8 +21,8 @@
 		<td>831</td>
 		<td>839</td>
 		<td>841</td>
-		<td>841</td>
-		<td></td>
+		<td>843</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -285,8 +285,8 @@
 		<td>423</td>
 		<td>429</td>
 		<td>433</td>
-		<td>433</td>
-		<td></td>
+		<td>435</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -296,8 +296,8 @@
 		<td>593</td>
 		<td>598</td>
 		<td>600</td>
-		<td>600</td>
-		<td></td>
+		<td>602</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18633</td>
-		<td>6</td>
+		<td>18639</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -476,8 +476,8 @@
 		<td>831</td>
 		<td>839</td>
 		<td>841</td>
-		<td>841</td>
-		<td></td>
+		<td>843</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -575,8 +575,8 @@
 		<td>593</td>
 		<td>598</td>
 		<td>600</td>
-		<td>600</td>
-		<td></td>
+		<td>602</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -733,6 +733,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>415</td>
+		<td>415</td>
+		<td>417</td>
+		<td>423</td>
+		<td>429</td>
+		<td>433</td>
+		<td>435</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>416</td>
 		<td>418</td>
@@ -741,17 +752,6 @@
 		<td>430</td>
 		<td>435</td>
 		<td>435</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>415</td>
-		<td>415</td>
-		<td>417</td>
-		<td>423</td>
-		<td>429</td>
-		<td>433</td>
-		<td>433</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18633</td>
-		<td>6</td>
+		<td>18639</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
