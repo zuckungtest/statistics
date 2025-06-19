@@ -241,8 +241,8 @@
 		<td>627</td>
 		<td>631</td>
 		<td>633</td>
-		<td>639</td>
-		<td>+ 6</td>
+		<td>641</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18749</td>
-		<td>122</td>
+		<td>18751</td>
+		<td>124</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>627</td>
 		<td>631</td>
 		<td>633</td>
-		<td>639</td>
-		<td>+ 6</td>
+		<td>641</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18749</td>
-		<td>122</td>
+		<td>18751</td>
+		<td>124</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>33</td>
 		<td>65</td>
 		<td>46</td>
-		<td>36</td>
+		<td>37</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -960,7 +960,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2447</td>
+		<td>2448</td>
 		<td>665</td>
 		<td>165</td>
 		<td>21</td>
@@ -974,7 +974,7 @@
 	</tr>
 	<tr>
 		<td>57</td>
-		<td>42.93</td>
+		<td>42.95</td>
 		<td>11.67</td>
 		<td></td>
 		<td></td>
