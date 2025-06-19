@@ -32,8 +32,8 @@
 		<td>516</td>
 		<td>520</td>
 		<td>522</td>
-		<td>524</td>
-		<td>+ 2</td>
+		<td>526</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -285,8 +285,8 @@
 		<td>423</td>
 		<td>429</td>
 		<td>433</td>
-		<td>435</td>
-		<td>+ 2</td>
+		<td>437</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -373,8 +373,8 @@
 		<td>641</td>
 		<td>650</td>
 		<td>654</td>
-		<td>656</td>
-		<td>+ 2</td>
+		<td>658</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18655</td>
-		<td>28</td>
+		<td>18661</td>
+		<td>34</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>641</td>
 		<td>650</td>
 		<td>654</td>
-		<td>656</td>
-		<td>+ 2</td>
+		<td>658</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -619,8 +619,8 @@
 		<td>516</td>
 		<td>520</td>
 		<td>522</td>
-		<td>524</td>
-		<td>+ 2</td>
+		<td>526</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -722,6 +722,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>415</td>
+		<td>415</td>
+		<td>417</td>
+		<td>423</td>
+		<td>429</td>
+		<td>433</td>
+		<td>437</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>416</td>
 		<td>418</td>
@@ -742,17 +753,6 @@
 		<td>437</td>
 		<td>437</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>415</td>
-		<td>415</td>
-		<td>417</td>
-		<td>423</td>
-		<td>429</td>
-		<td>433</td>
-		<td>435</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18655</td>
-		<td>28</td>
+		<td>18661</td>
+		<td>34</td>
 	</tr>
 </table>
 </sub></sup>
