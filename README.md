@@ -109,8 +109,8 @@
 		<td>426</td>
 		<td>430</td>
 		<td>435</td>
-		<td>435</td>
-		<td></td>
+		<td>437</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18653</td>
-		<td>26</td>
+		<td>18655</td>
+		<td>28</td>
 	</tr>
 </table>
 </sub></sup>
@@ -722,6 +722,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>control.station</td>
+		<td>416</td>
+		<td>418</td>
+		<td>422</td>
+		<td>426</td>
+		<td>430</td>
+		<td>435</td>
+		<td>437</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.in.human.space</td>
 		<td>429</td>
 		<td>431</td>
@@ -742,17 +753,6 @@
 		<td>433</td>
 		<td>435</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>control.station</td>
-		<td>416</td>
-		<td>418</td>
-		<td>422</td>
-		<td>426</td>
-		<td>430</td>
-		<td>435</td>
-		<td>435</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18653</td>
-		<td>26</td>
+		<td>18655</td>
+		<td>28</td>
 	</tr>
 </table>
 </sub></sup>
