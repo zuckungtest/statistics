@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.5-better.starts | downloads: 5
-v1.0.4-control.station | downloads: 8
-v1.0.6-mission.helper | downloads: 33
+v1.0.4-control.station | downloads: 10
+v1.0.6-mission.helper | downloads: 35
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 55
 v1.1.8-galactic.capital.investment | downloads: 45
@@ -19,7 +19,7 @@ v1.0.4-show.reputation | downloads: 52
 v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 32
 v1.0.3-control.station | downloads: 39
-v1.0.2-paint.your.ships | downloads: 40
+v1.0.2-paint.your.ships | downloads: 42
 v1.0.2-control.station | downloads: 3
 v1.0.1-outfits.weapon.slot | downloads: 31
 v1.0.2-combat.ai | downloads: 45
@@ -80,7 +80,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 394
+v1.0.6-coalition.shopping | downloads: 396
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 466
@@ -101,7 +101,7 @@ v1.0.4-landing.images | downloads: 389
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
-v1.0.2-landing.images.highres | downloads: 252
+v1.0.2-landing.images.highres | downloads: 254
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
 v1.0.1-automata.in.human.space | downloads: 376
@@ -232,7 +232,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 231
-# TOTAL DOWNLOADS: 20672
+# TOTAL DOWNLOADS: 20682
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -244,9 +244,9 @@ avgi.licenses 229
 better.starts 549
 bunrodea.missions 722
 captureable.person.ships 523
-coalition.shopping 588
+coalition.shopping 590
 combat.ai 180
-control.station 437
+control.station 439
 devil-run.unhidden 66
 disable.person.ships 245
 disable.spaceport.repeatables 368
@@ -263,16 +263,16 @@ kestrel.unlocks 444
 kor.efret.shipyard 637
 landing.images 462
 landing.images.android 349
-landing.images.highres 320
+landing.images.highres 322
 licenses 217
-mission.helper 437
+mission.helper 439
 more.arfectas 602
 more.boarding.missions 655
 more.person.ships 445
 navy.licenses 575
 no.more.mereti.mines 376
 outfits.weapon.slot 409
-paint.your.ships 457
+paint.your.ships 459
 pirate.warlords 3
 planet.map 284
 planet.pluto 190
