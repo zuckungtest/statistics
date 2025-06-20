@@ -98,8 +98,8 @@
 		<td>174</td>
 		<td>180</td>
 		<td>182</td>
-		<td>182</td>
-		<td></td>
+		<td>184</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -142,8 +142,8 @@
 		<td>711</td>
 		<td>711</td>
 		<td>715</td>
-		<td>715</td>
-		<td></td>
+		<td>717</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -252,8 +252,8 @@
 		<td>462</td>
 		<td>462</td>
 		<td>464</td>
-		<td>464</td>
-		<td></td>
+		<td>466</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -417,8 +417,8 @@
 		<td>719</td>
 		<td>721</td>
 		<td>725</td>
-		<td>725</td>
-		<td></td>
+		<td>727</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -439,8 +439,8 @@
 		<td>504</td>
 		<td>504</td>
 		<td>506</td>
-		<td>508</td>
-		<td>+ 2</td>
+		<td>510</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18760</td>
-		<td>9</td>
+		<td>18770</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>719</td>
 		<td>721</td>
 		<td>725</td>
-		<td>725</td>
-		<td></td>
+		<td>727</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>711</td>
 		<td>711</td>
 		<td>715</td>
-		<td>715</td>
-		<td></td>
+		<td>717</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -652,8 +652,8 @@
 		<td>504</td>
 		<td>504</td>
 		<td>506</td>
-		<td>508</td>
-		<td>+ 2</td>
+		<td>510</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -685,8 +685,8 @@
 		<td>462</td>
 		<td>462</td>
 		<td>464</td>
-		<td>464</td>
-		<td></td>
+		<td>466</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -872,8 +872,8 @@
 		<td>174</td>
 		<td>180</td>
 		<td>182</td>
-		<td>182</td>
-		<td></td>
+		<td>184</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18760</td>
-		<td>9</td>
+		<td>18770</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
