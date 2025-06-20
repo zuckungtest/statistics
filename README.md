@@ -87,8 +87,8 @@
 		<td>586</td>
 		<td>588</td>
 		<td>592</td>
-		<td>592</td>
-		<td></td>
+		<td>594</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -373,8 +373,8 @@
 		<td>650</td>
 		<td>654</td>
 		<td>660</td>
-		<td>660</td>
-		<td></td>
+		<td>662</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18751</td>
-		<td>0</td>
+		<td>18755</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>650</td>
 		<td>654</td>
 		<td>660</td>
-		<td>660</td>
-		<td></td>
+		<td>662</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -586,8 +586,8 @@
 		<td>586</td>
 		<td>588</td>
 		<td>592</td>
-		<td>592</td>
-		<td></td>
+		<td>594</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18751</td>
-		<td>0</td>
+		<td>18755</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
