@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.9-captureable.person.ships | downloads: 2
+v1.1.9-captureable.person.ships | downloads: 4
 v1.0.9-bunrodea.missions | downloads: 2
 v1.0.5-better.starts | downloads: 7
 v1.0.4-control.station | downloads: 12
@@ -82,7 +82,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 400
+v1.0.6-coalition.shopping | downloads: 402
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 470
@@ -170,7 +170,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 527
+v1.0.1-automata.destruction.0percent | downloads: 529
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -234,19 +234,19 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 233
-# TOTAL DOWNLOADS: 20781
+# TOTAL DOWNLOADS: 20787
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 847
-automata.destruction.0percent 528
+automata.destruction.0percent 530
 automata.in.human.space 439
 avgi.licenses 229
 better.starts 551
 bunrodea.missions 725
-captureable.person.ships 525
-coalition.shopping 594
+captureable.person.ships 527
+coalition.shopping 596
 combat.ai 184
 control.station 441
 devil-run.unhidden 66
