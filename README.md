@@ -32,8 +32,8 @@
 		<td>520</td>
 		<td>522</td>
 		<td>528</td>
-		<td>528</td>
-		<td></td>
+		<td>530</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -76,8 +76,8 @@
 		<td>521</td>
 		<td>523</td>
 		<td>525</td>
-		<td>525</td>
-		<td></td>
+		<td>527</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -87,8 +87,8 @@
 		<td>586</td>
 		<td>588</td>
 		<td>592</td>
-		<td>594</td>
-		<td>+ 2</td>
+		<td>596</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18770</td>
-		<td>19</td>
+		<td>18776</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>586</td>
 		<td>588</td>
 		<td>592</td>
-		<td>594</td>
-		<td>+ 2</td>
+		<td>596</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -619,8 +619,8 @@
 		<td>520</td>
 		<td>522</td>
 		<td>528</td>
-		<td>528</td>
-		<td></td>
+		<td>530</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -630,8 +630,8 @@
 		<td>521</td>
 		<td>523</td>
 		<td>525</td>
-		<td>525</td>
-		<td></td>
+		<td>527</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>18770</td>
-		<td>19</td>
+		<td>18776</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
