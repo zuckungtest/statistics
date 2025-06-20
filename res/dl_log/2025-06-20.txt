@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.9-captureable.person.ships | downloads: 2
-v1.0.9-bunrodea.missions | downloads: 1
+v1.0.9-bunrodea.missions | downloads: 2
 v1.0.5-better.starts | downloads: 7
 v1.0.4-control.station | downloads: 12
 v1.0.6-mission.helper | downloads: 37
@@ -234,7 +234,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 233
-# TOTAL DOWNLOADS: 20766
+# TOTAL DOWNLOADS: 20767
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -244,7 +244,7 @@ automata.destruction.0percent 528
 automata.in.human.space 439
 avgi.licenses 229
 better.starts 551
-bunrodea.missions 724
+bunrodea.missions 725
 captureable.person.ships 525
 coalition.shopping 594
 combat.ai 182
