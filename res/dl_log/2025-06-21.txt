@@ -6,13 +6,13 @@ v1.0.4-control.station | downloads: 14
 v1.0.6-mission.helper | downloads: 39
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 61
-v1.1.8-galactic.capital.investment | downloads: 47
+v1.1.8-galactic.capital.investment | downloads: 49
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
 v1.0.23-additional.command.buttons.radial | downloads: 69
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
-v1.1.5-more.boarding.missions | downloads: 64
+v1.1.5-more.boarding.missions | downloads: 66
 v1.1.5-hai.side.mission.unlocker | downloads: 41
 v1.0.6-snowfeather.robotics | downloads: 37
 v1.0.6-human.labels | downloads: 39
@@ -99,11 +99,11 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 393
+v1.0.4-landing.images | downloads: 395
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
-v1.0.2-landing.images.highres | downloads: 256
+v1.0.2-landing.images.highres | downloads: 258
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
 v1.0.1-automata.in.human.space | downloads: 378
@@ -234,7 +234,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 233
-# TOTAL DOWNLOADS: 20815
+# TOTAL DOWNLOADS: 20823
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -255,7 +255,7 @@ disable.spaceport.repeatables 370
 expert.crew.members 719
 flare.play 112
 free.worlds.5.years.later 369
-galactic.capital.investment 839
+galactic.capital.investment 841
 gegno.pirates 676
 hai.side.mission.unlocker 472
 highrollers.ltd 159
@@ -263,13 +263,13 @@ human.labels 403
 jump.gates 523
 kestrel.unlocks 446
 kor.efret.shipyard 641
-landing.images 466
+landing.images 468
 landing.images.android 349
-landing.images.highres 324
+landing.images.highres 326
 licenses 219
 mission.helper 443
 more.arfectas 606
-more.boarding.missions 657
+more.boarding.missions 659
 more.person.ships 447
 navy.licenses 575
 no.more.mereti.mines 378
