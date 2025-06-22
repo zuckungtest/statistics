@@ -76,8 +76,8 @@
 		<td>525</td>
 		<td>527</td>
 		<td>532</td>
-		<td>534</td>
-		<td>+ 2</td>
+		<td>536</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>182</td>
 		<td>184</td>
 		<td>193</td>
-		<td>198</td>
-		<td>+ 5</td>
+		<td>200</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -219,8 +219,8 @@
 		<td>523</td>
 		<td>523</td>
 		<td>528</td>
-		<td>531</td>
-		<td>+ 3</td>
+		<td>533</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -230,8 +230,8 @@
 		<td>446</td>
 		<td>446</td>
 		<td>451</td>
-		<td>455</td>
-		<td>+ 4</td>
+		<td>457</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -296,8 +296,8 @@
 		<td>604</td>
 		<td>604</td>
 		<td>611</td>
-		<td>615</td>
-		<td>+ 4</td>
+		<td>617</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19112</td>
-		<td>102</td>
+		<td>19122</td>
+		<td>112</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>604</td>
 		<td>604</td>
 		<td>611</td>
-		<td>615</td>
-		<td>+ 4</td>
+		<td>617</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -612,6 +612,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>515</td>
+		<td>521</td>
+		<td>523</td>
+		<td>525</td>
+		<td>527</td>
+		<td>532</td>
+		<td>536</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>516</td>
 		<td>520</td>
@@ -623,17 +634,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>captureable.person.ships</td>
-		<td>515</td>
-		<td>521</td>
-		<td>523</td>
-		<td>525</td>
-		<td>527</td>
-		<td>532</td>
-		<td>534</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>jump.gates</td>
 		<td>515</td>
 		<td>521</td>
@@ -641,8 +641,8 @@
 		<td>523</td>
 		<td>523</td>
 		<td>528</td>
-		<td>531</td>
-		<td>+ 3</td>
+		<td>533</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -707,8 +707,8 @@
 		<td>446</td>
 		<td>446</td>
 		<td>451</td>
-		<td>455</td>
-		<td>+ 4</td>
+		<td>457</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -872,8 +872,8 @@
 		<td>182</td>
 		<td>184</td>
 		<td>193</td>
-		<td>198</td>
-		<td>+ 5</td>
+		<td>200</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19112</td>
-		<td>102</td>
+		<td>19122</td>
+		<td>112</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>42</td>
 		<td>20</td>
 		<td>57</td>
-		<td>32</td>
+		<td>41</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -960,7 +960,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2562</td>
+		<td>2571</td>
 		<td>695</td>
 		<td>165</td>
 		<td>21</td>
@@ -974,7 +974,7 @@
 	</tr>
 	<tr>
 		<td>60</td>
-		<td>42.70</td>
+		<td>42.85</td>
 		<td>11.58</td>
 		<td></td>
 		<td></td>
