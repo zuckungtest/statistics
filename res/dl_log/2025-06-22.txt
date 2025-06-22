@@ -4,13 +4,13 @@ v1.0.8-expert.crew.members | downloads: 7
 v1.0.7-human.labels | downloads: 3
 v1.0.5-show.reputation | downloads: 5
 v1.0.3-paint.your.ships | downloads: 8
-v1.1.9-captureable.person.ships | downloads: 11
+v1.1.9-captureable.person.ships | downloads: 13
 v1.0.9-bunrodea.missions | downloads: 15
 v1.0.5-better.starts | downloads: 12
 v1.0.4-control.station | downloads: 21
 v1.0.6-mission.helper | downloads: 48
 v1.0.5-mission.helper | downloads: 9
-v1.0.4-combat.ai | downloads: 73
+v1.0.4-combat.ai | downloads: 75
 v1.1.8-galactic.capital.investment | downloads: 59
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
@@ -61,7 +61,7 @@ v1.0.7-bunrodea.missions | downloads: 141
 v1.0.5-human.labels | downloads: 150
 v1.1.4-more.boarding.missions | downloads: 273
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 259
+v1.0.3-jump.gates | downloads: 261
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
 v1.0.0-avgi.licenses | downloads: 229
@@ -131,7 +131,7 @@ v1.0.0-outfits.weapon.slot | downloads: 378
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
-v1.0.0-kestrel.unlocks | downloads: 455
+v1.0.0-kestrel.unlocks | downloads: 457
 v1.0.2-tribute.republic | downloads: 306
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -204,7 +204,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 613
+v1.0.2-more.arfectas | downloads: 615
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -239,7 +239,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 238
-# TOTAL DOWNLOADS: 21123
+# TOTAL DOWNLOADS: 21133
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -250,9 +250,9 @@ automata.in.human.space 444
 avgi.licenses 229
 better.starts 556
 bunrodea.missions 738
-captureable.person.ships 534
+captureable.person.ships 536
 coalition.shopping 607
-combat.ai 198
+combat.ai 200
 control.station 450
 devil-run.unhidden 66
 disable.person.ships 252
@@ -265,15 +265,15 @@ gegno.pirates 685
 hai.side.mission.unlocker 477
 highrollers.ltd 164
 human.labels 408
-jump.gates 531
-kestrel.unlocks 455
+jump.gates 533
+kestrel.unlocks 457
 kor.efret.shipyard 655
 landing.images 473
 landing.images.android 349
 landing.images.highres 331
 licenses 234
 mission.helper 452
-more.arfectas 615
+more.arfectas 617
 more.boarding.missions 664
 more.person.ships 454
 navy.licenses 575
