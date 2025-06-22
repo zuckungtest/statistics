@@ -17,18 +17,18 @@ v1.0.1-free.worlds.5.years.later | downloads: 9
 v1.0.23-additional.command.buttons.radial | downloads: 78
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
-v1.1.5-more.boarding.missions | downloads: 71
+v1.1.5-more.boarding.missions | downloads: 73
 v1.1.5-hai.side.mission.unlocker | downloads: 46
 v1.0.6-snowfeather.robotics | downloads: 46
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 80
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
-v1.0.3-more.person.ships | downloads: 41
+v1.0.3-more.person.ships | downloads: 43
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
-v1.0.1-outfits.weapon.slot | downloads: 42
+v1.0.1-outfits.weapon.slot | downloads: 44
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 72
@@ -104,7 +104,7 @@ v1.0.8-additional.command.buttons.radial | downloads: 20
 v1.0.2-better.starts | downloads: 35
 v1.1.5-captureable.person.ships | downloads: 54
 v1.0.7-additional.command.buttons.radial | downloads: 9
-v1.0.4-landing.images | downloads: 400
+v1.0.4-landing.images | downloads: 402
 v1.0.3-landing.images | downloads: 2
 v1.0.3-expert.crew.members | downloads: 120
 v1.0.2-quarg.farm | downloads: 190
@@ -239,7 +239,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 238
-# TOTAL DOWNLOADS: 21133
+# TOTAL DOWNLOADS: 21141
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -268,17 +268,17 @@ human.labels 408
 jump.gates 533
 kestrel.unlocks 457
 kor.efret.shipyard 655
-landing.images 473
+landing.images 475
 landing.images.android 349
 landing.images.highres 331
 licenses 234
 mission.helper 452
 more.arfectas 617
-more.boarding.missions 664
-more.person.ships 454
+more.boarding.missions 666
+more.person.ships 456
 navy.licenses 575
 no.more.mereti.mines 383
-outfits.weapon.slot 420
+outfits.weapon.slot 422
 paint.your.ships 472
 pirate.warlords 3
 planet.map 293
