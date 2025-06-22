@@ -230,8 +230,8 @@
 		<td>446</td>
 		<td>446</td>
 		<td>451</td>
-		<td>453</td>
-		<td>+ 2</td>
+		<td>454</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -241,8 +241,8 @@
 		<td>641</td>
 		<td>641</td>
 		<td>646</td>
-		<td>650</td>
-		<td>+ 4</td>
+		<td>652</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>441</td>
 		<td>441</td>
 		<td>448</td>
-		<td>448</td>
-		<td></td>
+		<td>450</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19063</td>
-		<td>53</td>
+		<td>19068</td>
+		<td>58</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>641</td>
 		<td>641</td>
 		<td>646</td>
-		<td>650</td>
-		<td>+ 4</td>
+		<td>652</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -718,7 +718,18 @@
 		<td>446</td>
 		<td>446</td>
 		<td>451</td>
-		<td>453</td>
+		<td>454</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
+		<td>mission.helper</td>
+		<td>423</td>
+		<td>429</td>
+		<td>433</td>
+		<td>441</td>
+		<td>441</td>
+		<td>448</td>
+		<td>450</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -731,17 +742,6 @@
 		<td>448</td>
 		<td>450</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>423</td>
-		<td>429</td>
-		<td>433</td>
-		<td>441</td>
-		<td>441</td>
-		<td>448</td>
-		<td>448</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19063</td>
-		<td>53</td>
+		<td>19068</td>
+		<td>58</td>
 	</tr>
 </table>
 </sub></sup>
