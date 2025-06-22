@@ -65,8 +65,8 @@
 		<td>724</td>
 		<td>725</td>
 		<td>730</td>
-		<td>734</td>
-		<td>+ 4</td>
+		<td>736</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>592</td>
 		<td>596</td>
 		<td>601</td>
-		<td>605</td>
-		<td>+ 4</td>
+		<td>607</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -241,8 +241,8 @@
 		<td>641</td>
 		<td>641</td>
 		<td>646</td>
-		<td>653</td>
-		<td>+ 7</td>
+		<td>655</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19092</td>
-		<td>82</td>
+		<td>19098</td>
+		<td>88</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>724</td>
 		<td>725</td>
 		<td>730</td>
-		<td>734</td>
-		<td>+ 4</td>
+		<td>736</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -564,8 +564,8 @@
 		<td>641</td>
 		<td>641</td>
 		<td>646</td>
-		<td>653</td>
-		<td>+ 7</td>
+		<td>655</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -586,8 +586,8 @@
 		<td>592</td>
 		<td>596</td>
 		<td>601</td>
-		<td>605</td>
-		<td>+ 4</td>
+		<td>607</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19092</td>
-		<td>82</td>
+		<td>19098</td>
+		<td>88</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>42</td>
 		<td>20</td>
 		<td>57</td>
-		<td>1</td>
+		<td>4</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -946,7 +946,7 @@
 		<td>8</td>
 		<td>9</td>
 		<td>12</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -960,8 +960,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2531</td>
-		<td>689</td>
+		<td>2534</td>
+		<td>690</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -974,8 +974,8 @@
 	</tr>
 	<tr>
 		<td>60</td>
-		<td>42.18</td>
-		<td>11.48</td>
+		<td>42.23</td>
+		<td>11.50</td>
 		<td></td>
 		<td></td>
 	</tr>
