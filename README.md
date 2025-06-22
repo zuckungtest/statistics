@@ -252,8 +252,8 @@
 		<td>464</td>
 		<td>466</td>
 		<td>473</td>
-		<td>473</td>
-		<td></td>
+		<td>475</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -307,8 +307,8 @@
 		<td>657</td>
 		<td>657</td>
 		<td>664</td>
-		<td>664</td>
-		<td></td>
+		<td>666</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>447</td>
 		<td>447</td>
 		<td>452</td>
-		<td>454</td>
-		<td>+ 2</td>
+		<td>456</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -340,8 +340,8 @@
 		<td>411</td>
 		<td>411</td>
 		<td>418</td>
-		<td>420</td>
-		<td>+ 2</td>
+		<td>422</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19122</td>
-		<td>112</td>
+		<td>19130</td>
+		<td>120</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>657</td>
 		<td>657</td>
 		<td>664</td>
-		<td>664</td>
-		<td></td>
+		<td>666</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -685,8 +685,8 @@
 		<td>464</td>
 		<td>466</td>
 		<td>473</td>
-		<td>473</td>
-		<td></td>
+		<td>475</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -718,8 +718,8 @@
 		<td>447</td>
 		<td>447</td>
 		<td>452</td>
-		<td>454</td>
-		<td>+ 2</td>
+		<td>456</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -762,8 +762,8 @@
 		<td>411</td>
 		<td>411</td>
 		<td>418</td>
-		<td>420</td>
-		<td>+ 2</td>
+		<td>422</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19122</td>
-		<td>112</td>
+		<td>19130</td>
+		<td>120</td>
 	</tr>
 </table>
 </sub></sup>
