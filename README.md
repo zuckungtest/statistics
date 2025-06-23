@@ -186,8 +186,8 @@
 		<td>470</td>
 		<td>477</td>
 		<td>477</td>
-		<td>479</td>
-		<td>+ 2</td>
+		<td>481</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19154</td>
-		<td>16</td>
+		<td>19156</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
@@ -674,8 +674,8 @@
 		<td>470</td>
 		<td>477</td>
 		<td>477</td>
-		<td>479</td>
-		<td>+ 2</td>
+		<td>481</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19154</td>
-		<td>16</td>
+		<td>19156</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
