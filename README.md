@@ -98,8 +98,8 @@
 		<td>184</td>
 		<td>193</td>
 		<td>200</td>
-		<td>200</td>
-		<td></td>
+		<td>202</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -142,8 +142,8 @@
 		<td>717</td>
 		<td>724</td>
 		<td>729</td>
-		<td>729</td>
-		<td></td>
+		<td>731</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -186,8 +186,8 @@
 		<td>470</td>
 		<td>477</td>
 		<td>477</td>
-		<td>477</td>
-		<td></td>
+		<td>479</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -230,8 +230,8 @@
 		<td>446</td>
 		<td>451</td>
 		<td>457</td>
-		<td>457</td>
-		<td></td>
+		<td>459</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -241,8 +241,8 @@
 		<td>641</td>
 		<td>646</td>
 		<td>655</td>
-		<td>655</td>
-		<td></td>
+		<td>657</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>441</td>
 		<td>448</td>
 		<td>452</td>
-		<td>452</td>
-		<td></td>
+		<td>454</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>657</td>
 		<td>664</td>
 		<td>666</td>
-		<td>666</td>
-		<td></td>
+		<td>668</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -318,8 +318,8 @@
 		<td>447</td>
 		<td>452</td>
 		<td>456</td>
-		<td>456</td>
-		<td></td>
+		<td>458</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19138</td>
-		<td>0</td>
+		<td>19154</td>
+		<td>16</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>717</td>
 		<td>724</td>
 		<td>729</td>
-		<td>729</td>
-		<td></td>
+		<td>731</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>657</td>
 		<td>664</td>
 		<td>666</td>
-		<td>666</td>
-		<td></td>
+		<td>668</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -564,8 +564,8 @@
 		<td>641</td>
 		<td>646</td>
 		<td>655</td>
-		<td>655</td>
-		<td></td>
+		<td>657</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -674,8 +674,8 @@
 		<td>470</td>
 		<td>477</td>
 		<td>477</td>
-		<td>477</td>
-		<td></td>
+		<td>479</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -707,8 +707,8 @@
 		<td>446</td>
 		<td>451</td>
 		<td>457</td>
-		<td>457</td>
-		<td></td>
+		<td>459</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -718,8 +718,8 @@
 		<td>447</td>
 		<td>452</td>
 		<td>456</td>
-		<td>456</td>
-		<td></td>
+		<td>458</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -729,8 +729,8 @@
 		<td>441</td>
 		<td>448</td>
 		<td>452</td>
-		<td>452</td>
-		<td></td>
+		<td>454</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -872,8 +872,8 @@
 		<td>184</td>
 		<td>193</td>
 		<td>200</td>
-		<td>200</td>
-		<td></td>
+		<td>202</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19138</td>
-		<td>0</td>
+		<td>19154</td>
+		<td>16</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>20</td>
 		<td>57</td>
 		<td>60</td>
-		<td>3</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -946,7 +946,7 @@
 		<td>9</td>
 		<td>12</td>
 		<td>11</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -960,8 +960,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2593</td>
-		<td>701</td>
+		<td>2597</td>
+		<td>702</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -974,8 +974,8 @@
 	</tr>
 	<tr>
 		<td>61</td>
-		<td>42.51</td>
-		<td>11.49</td>
+		<td>42.57</td>
+		<td>11.51</td>
 		<td></td>
 		<td></td>
 	</tr>
