@@ -21,8 +21,8 @@
 		<td>862</td>
 		<td>866</td>
 		<td>866</td>
-		<td>866</td>
-		<td></td>
+		<td>868</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -142,8 +142,8 @@
 		<td>724</td>
 		<td>729</td>
 		<td>731</td>
-		<td>732</td>
-		<td>+ 1</td>
+		<td>734</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -153,8 +153,8 @@
 		<td>117</td>
 		<td>118</td>
 		<td>118</td>
-		<td>118</td>
-		<td></td>
+		<td>120</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -164,8 +164,8 @@
 		<td>846</td>
 		<td>851</td>
 		<td>851</td>
-		<td>853</td>
-		<td>+ 2</td>
+		<td>856</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -351,8 +351,8 @@
 		<td>468</td>
 		<td>472</td>
 		<td>472</td>
-		<td>472</td>
-		<td></td>
+		<td>474</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19170</td>
-		<td>14</td>
+		<td>19181</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
@@ -476,8 +476,8 @@
 		<td>862</td>
 		<td>866</td>
 		<td>866</td>
-		<td>866</td>
-		<td></td>
+		<td>868</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -487,8 +487,8 @@
 		<td>846</td>
 		<td>851</td>
 		<td>851</td>
-		<td>853</td>
-		<td>+ 2</td>
+		<td>856</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>724</td>
 		<td>729</td>
 		<td>731</td>
-		<td>732</td>
-		<td>+ 1</td>
+		<td>734</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -696,8 +696,8 @@
 		<td>468</td>
 		<td>472</td>
 		<td>472</td>
-		<td>472</td>
-		<td></td>
+		<td>474</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -894,8 +894,8 @@
 		<td>117</td>
 		<td>118</td>
 		<td>118</td>
-		<td>118</td>
-		<td></td>
+		<td>120</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19170</td>
-		<td>14</td>
+		<td>19181</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
