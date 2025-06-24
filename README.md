@@ -76,8 +76,8 @@
 		<td>532</td>
 		<td>536</td>
 		<td>536</td>
-		<td>538</td>
-		<td>+ 2</td>
+		<td>540</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -109,8 +109,8 @@
 		<td>448</td>
 		<td>452</td>
 		<td>452</td>
-		<td>454</td>
-		<td>+ 2</td>
+		<td>456</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19187</td>
-		<td>31</td>
+		<td>19191</td>
+		<td>35</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>532</td>
 		<td>536</td>
 		<td>536</td>
-		<td>538</td>
-		<td>+ 2</td>
+		<td>540</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -722,6 +722,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>control.station</td>
+		<td>435</td>
+		<td>441</td>
+		<td>441</td>
+		<td>448</td>
+		<td>452</td>
+		<td>452</td>
+		<td>456</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>mission.helper</td>
 		<td>433</td>
 		<td>441</td>
@@ -731,17 +742,6 @@
 		<td>454</td>
 		<td>454</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>control.station</td>
-		<td>435</td>
-		<td>441</td>
-		<td>441</td>
-		<td>448</td>
-		<td>452</td>
-		<td>452</td>
-		<td>454</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19187</td>
-		<td>31</td>
+		<td>19191</td>
+		<td>35</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>57</td>
 		<td>60</td>
 		<td>36</td>
-		<td>33</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -960,7 +960,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2659</td>
+		<td>2660</td>
 		<td>719</td>
 		<td>165</td>
 		<td>21</td>
@@ -974,7 +974,7 @@
 	</tr>
 	<tr>
 		<td>62</td>
-		<td>42.89</td>
+		<td>42.90</td>
 		<td>11.60</td>
 		<td></td>
 		<td></td>
