@@ -21,8 +21,8 @@
 		<td>862</td>
 		<td>866</td>
 		<td>866</td>
-		<td>868</td>
-		<td>+ 2</td>
+		<td>870</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>448</td>
 		<td>452</td>
 		<td>452</td>
-		<td>452</td>
-		<td></td>
+		<td>454</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>724</td>
 		<td>729</td>
 		<td>731</td>
-		<td>734</td>
-		<td>+ 3</td>
+		<td>736</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19181</td>
-		<td>25</td>
+		<td>19187</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
@@ -476,8 +476,8 @@
 		<td>862</td>
 		<td>866</td>
 		<td>866</td>
-		<td>868</td>
-		<td>+ 2</td>
+		<td>870</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -520,8 +520,8 @@
 		<td>724</td>
 		<td>729</td>
 		<td>731</td>
-		<td>734</td>
-		<td>+ 3</td>
+		<td>736</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -740,8 +740,8 @@
 		<td>448</td>
 		<td>452</td>
 		<td>452</td>
-		<td>452</td>
-		<td></td>
+		<td>454</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19181</td>
-		<td>25</td>
+		<td>19187</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
