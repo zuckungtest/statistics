@@ -164,8 +164,8 @@
 		<td>846</td>
 		<td>851</td>
 		<td>851</td>
-		<td>851</td>
-		<td></td>
+		<td>853</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19165</td>
-		<td>9</td>
+		<td>19167</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>846</td>
 		<td>851</td>
 		<td>851</td>
-		<td>851</td>
-		<td></td>
+		<td>853</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19165</td>
-		<td>9</td>
+		<td>19167</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
