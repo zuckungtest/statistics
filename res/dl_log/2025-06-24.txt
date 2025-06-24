@@ -4,10 +4,10 @@ v1.0.8-expert.crew.members | downloads: 13
 v1.0.7-human.labels | downloads: 3
 v1.0.5-show.reputation | downloads: 5
 v1.0.3-paint.your.ships | downloads: 10
-v1.1.9-captureable.person.ships | downloads: 15
+v1.1.9-captureable.person.ships | downloads: 17
 v1.0.9-bunrodea.missions | downloads: 15
 v1.0.5-better.starts | downloads: 12
-v1.0.4-control.station | downloads: 25
+v1.0.4-control.station | downloads: 27
 v1.0.6-mission.helper | downloads: 50
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 79
@@ -239,7 +239,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 238
-# TOTAL DOWNLOADS: 21198
+# TOTAL DOWNLOADS: 21202
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -250,10 +250,10 @@ automata.in.human.space 444
 avgi.licenses 229
 better.starts 556
 bunrodea.missions 738
-captureable.person.ships 538
+captureable.person.ships 540
 coalition.shopping 609
 combat.ai 204
-control.station 454
+control.station 456
 devil-run.unhidden 66
 disable.person.ships 252
 disable.spaceport.repeatables 379
