@@ -98,8 +98,8 @@
 		<td>193</td>
 		<td>200</td>
 		<td>202</td>
-		<td>202</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -142,8 +142,8 @@
 		<td>724</td>
 		<td>729</td>
 		<td>731</td>
-		<td>731</td>
-		<td></td>
+		<td>732</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19167</td>
-		<td>11</td>
+		<td>19170</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>724</td>
 		<td>729</td>
 		<td>731</td>
-		<td>731</td>
-		<td></td>
+		<td>732</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -872,8 +872,8 @@
 		<td>193</td>
 		<td>200</td>
 		<td>202</td>
-		<td>202</td>
-		<td></td>
+		<td>204</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19167</td>
-		<td>11</td>
+		<td>19170</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>57</td>
 		<td>60</td>
 		<td>36</td>
-		<td>9</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -960,7 +960,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2635</td>
+		<td>2640</td>
 		<td>714</td>
 		<td>165</td>
 		<td>21</td>
@@ -974,7 +974,7 @@
 	</tr>
 	<tr>
 		<td>62</td>
-		<td>42.50</td>
+		<td>42.58</td>
 		<td>11.52</td>
 		<td></td>
 		<td></td>
