@@ -1,20 +1,20 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.10-uniques | downloads: 8
-v1.0.8-expert.crew.members | downloads: 11
+v1.0.8-expert.crew.members | downloads: 13
 v1.0.7-human.labels | downloads: 3
 v1.0.5-show.reputation | downloads: 5
 v1.0.3-paint.your.ships | downloads: 10
 v1.1.9-captureable.person.ships | downloads: 15
 v1.0.9-bunrodea.missions | downloads: 15
 v1.0.5-better.starts | downloads: 12
-v1.0.4-control.station | downloads: 23
+v1.0.4-control.station | downloads: 25
 v1.0.6-mission.helper | downloads: 50
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 79
 v1.1.8-galactic.capital.investment | downloads: 64
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
-v1.0.23-additional.command.buttons.radial | downloads: 80
+v1.0.23-additional.command.buttons.radial | downloads: 82
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 75
@@ -239,12 +239,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 238
-# TOTAL DOWNLOADS: 21192
+# TOTAL DOWNLOADS: 21198
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 868
+additional.command.buttons.radial 870
 automata.destruction.0percent 535
 automata.in.human.space 444
 avgi.licenses 229
@@ -253,11 +253,11 @@ bunrodea.missions 738
 captureable.person.ships 538
 coalition.shopping 609
 combat.ai 204
-control.station 452
+control.station 454
 devil-run.unhidden 66
 disable.person.ships 252
 disable.spaceport.repeatables 379
-expert.crew.members 734
+expert.crew.members 736
 flare.play 120
 free.worlds.5.years.later 369
 galactic.capital.investment 856
