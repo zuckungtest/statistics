@@ -1,9 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.10-uniques | downloads: 8
-v1.0.8-expert.crew.members | downloads: 9
+v1.0.8-expert.crew.members | downloads: 11
 v1.0.7-human.labels | downloads: 3
 v1.0.5-show.reputation | downloads: 5
-v1.0.3-paint.your.ships | downloads: 8
+v1.0.3-paint.your.ships | downloads: 10
 v1.1.9-captureable.person.ships | downloads: 15
 v1.0.9-bunrodea.missions | downloads: 15
 v1.0.5-better.starts | downloads: 12
@@ -11,10 +11,10 @@ v1.0.4-control.station | downloads: 23
 v1.0.6-mission.helper | downloads: 50
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 79
-v1.1.8-galactic.capital.investment | downloads: 61
+v1.1.8-galactic.capital.investment | downloads: 64
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
-v1.0.23-additional.command.buttons.radial | downloads: 78
+v1.0.23-additional.command.buttons.radial | downloads: 80
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 75
@@ -35,7 +35,7 @@ v1.0.0-combat.ai | downloads: 72
 v1.0.1-licenses | downloads: 232
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
-v1.0.1-flare.play | downloads: 110
+v1.0.1-flare.play | downloads: 112
 v1.0.22-additional.command.buttons.radial | downloads: 105
 v1.0.0-flare.play | downloads: 8
 v1.0.21-additional.command.buttons.radial | downloads: 27
@@ -239,12 +239,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 238
-# TOTAL DOWNLOADS: 21181
+# TOTAL DOWNLOADS: 21192
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 866
+additional.command.buttons.radial 868
 automata.destruction.0percent 535
 automata.in.human.space 444
 avgi.licenses 229
@@ -257,10 +257,10 @@ control.station 452
 devil-run.unhidden 66
 disable.person.ships 252
 disable.spaceport.repeatables 379
-expert.crew.members 732
-flare.play 118
+expert.crew.members 734
+flare.play 120
 free.worlds.5.years.later 369
-galactic.capital.investment 853
+galactic.capital.investment 856
 gegno.pirates 685
 hai.side.mission.unlocker 481
 highrollers.ltd 164
@@ -279,7 +279,7 @@ more.person.ships 458
 navy.licenses 575
 no.more.mereti.mines 383
 outfits.weapon.slot 422
-paint.your.ships 472
+paint.your.ships 474
 pirate.warlords 3
 planet.map 293
 planet.pluto 190
