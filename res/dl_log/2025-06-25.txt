@@ -10,7 +10,7 @@ v1.0.5-better.starts | downloads: 12
 v1.0.4-control.station | downloads: 27
 v1.0.6-mission.helper | downloads: 52
 v1.0.5-mission.helper | downloads: 9
-v1.0.4-combat.ai | downloads: 79
+v1.0.4-combat.ai | downloads: 81
 v1.1.8-galactic.capital.investment | downloads: 66
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
@@ -239,7 +239,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 238
-# TOTAL DOWNLOADS: 21227
+# TOTAL DOWNLOADS: 21229
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -252,7 +252,7 @@ better.starts 556
 bunrodea.missions 740
 captureable.person.ships 540
 coalition.shopping 609
-combat.ai 204
+combat.ai 206
 control.station 456
 devil-run.unhidden 66
 disable.person.ships 252
