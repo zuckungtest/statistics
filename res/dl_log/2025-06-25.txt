@@ -48,7 +48,7 @@ v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 154
-v1.0.3-gegno.pirates | downloads: 261
+v1.0.3-gegno.pirates | downloads: 263
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 203
@@ -71,7 +71,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 406
+v1.0.4-too.many.asteroids | downloads: 408
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -239,7 +239,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 238
-# TOTAL DOWNLOADS: 21282
+# TOTAL DOWNLOADS: 21286
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -261,7 +261,7 @@ expert.crew.members 741
 flare.play 121
 free.worlds.5.years.later 369
 galactic.capital.investment 861
-gegno.pirates 686
+gegno.pirates 688
 hai.side.mission.unlocker 482
 highrollers.ltd 165
 human.labels 410
@@ -288,7 +288,7 @@ real.fluff 93
 show.reputation 567
 snowfeather.robotics 517
 space.fauna 367
-too.many.asteroids 737
+too.many.asteroids 739
 tribute.republic 325
 unique.fix 44
 uniques 525
