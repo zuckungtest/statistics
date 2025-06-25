@@ -175,8 +175,8 @@
 		<td>685</td>
 		<td>685</td>
 		<td>685</td>
-		<td>686</td>
-		<td>+ 1</td>
+		<td>688</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -417,8 +417,8 @@
 		<td>734</td>
 		<td>734</td>
 		<td>736</td>
-		<td>737</td>
-		<td>+ 1</td>
+		<td>739</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19271</td>
-		<td>65</td>
+		<td>19275</td>
+		<td>69</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>734</td>
 		<td>734</td>
 		<td>736</td>
-		<td>737</td>
-		<td>+ 1</td>
+		<td>739</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -531,8 +531,8 @@
 		<td>685</td>
 		<td>685</td>
 		<td>685</td>
-		<td>686</td>
-		<td>+ 1</td>
+		<td>688</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19271</td>
-		<td>65</td>
+		<td>19275</td>
+		<td>69</td>
 	</tr>
 </table>
 </sub></sup>
