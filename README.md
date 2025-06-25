@@ -98,8 +98,8 @@
 		<td>200</td>
 		<td>202</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19216</td>
-		<td>10</td>
+		<td>19218</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -872,8 +872,8 @@
 		<td>200</td>
 		<td>202</td>
 		<td>204</td>
-		<td>204</td>
-		<td></td>
+		<td>206</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19216</td>
-		<td>10</td>
+		<td>19218</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
