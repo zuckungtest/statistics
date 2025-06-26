@@ -142,8 +142,8 @@
 		<td>731</td>
 		<td>738</td>
 		<td>742</td>
-		<td>744</td>
-		<td>+ 2</td>
+		<td>745</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -241,8 +241,8 @@
 		<td>657</td>
 		<td>657</td>
 		<td>658</td>
-		<td>658</td>
-		<td></td>
+		<td>659</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19357</td>
-		<td>43</td>
+		<td>19359</td>
+		<td>45</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>731</td>
 		<td>738</td>
 		<td>742</td>
-		<td>744</td>
-		<td>+ 2</td>
+		<td>745</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -564,8 +564,8 @@
 		<td>657</td>
 		<td>657</td>
 		<td>658</td>
-		<td>658</td>
-		<td></td>
+		<td>659</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19357</td>
-		<td>43</td>
+		<td>19359</td>
+		<td>45</td>
 	</tr>
 </table>
 </sub></sup>
