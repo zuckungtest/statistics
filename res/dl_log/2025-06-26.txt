@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.9-expert.crew.members | downloads: 1
+v1.0.9-expert.crew.members | downloads: 3
 v1.0.10-uniques | downloads: 12
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 8
@@ -240,7 +240,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 239
-# TOTAL DOWNLOADS: 21347
+# TOTAL DOWNLOADS: 21349
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -258,7 +258,7 @@ control.station 458
 devil-run.unhidden 66
 disable.person.ships 253
 disable.spaceport.repeatables 380
-expert.crew.members 742
+expert.crew.members 744
 flare.play 122
 free.worlds.5.years.later 369
 galactic.capital.investment 862
