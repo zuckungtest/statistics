@@ -65,8 +65,8 @@
 		<td>738</td>
 		<td>740</td>
 		<td>744</td>
-		<td>744</td>
-		<td></td>
+		<td>746</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>685</td>
 		<td>685</td>
 		<td>689</td>
-		<td>689</td>
-		<td></td>
+		<td>691</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -208,8 +208,8 @@
 		<td>408</td>
 		<td>408</td>
 		<td>411</td>
-		<td>411</td>
-		<td></td>
+		<td>413</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -274,8 +274,8 @@
 		<td>234</td>
 		<td>236</td>
 		<td>237</td>
-		<td>237</td>
-		<td></td>
+		<td>239</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -417,8 +417,8 @@
 		<td>734</td>
 		<td>736</td>
 		<td>740</td>
-		<td>740</td>
-		<td></td>
+		<td>742</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19314</td>
-		<td>0</td>
+		<td>19324</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,19 @@
 		<td>738</td>
 		<td>740</td>
 		<td>744</td>
-		<td>744</td>
-		<td></td>
+		<td>746</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>too.many.asteroids</td>
+		<td>727</td>
+		<td>732</td>
+		<td>734</td>
+		<td>734</td>
+		<td>736</td>
+		<td>740</td>
+		<td>742</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -513,17 +524,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>too.many.asteroids</td>
-		<td>727</td>
-		<td>732</td>
-		<td>734</td>
-		<td>734</td>
-		<td>736</td>
-		<td>740</td>
-		<td>740</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>gegno.pirates</td>
 		<td>676</td>
 		<td>681</td>
@@ -531,8 +531,8 @@
 		<td>685</td>
 		<td>685</td>
 		<td>689</td>
-		<td>689</td>
-		<td></td>
+		<td>691</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -773,8 +773,8 @@
 		<td>408</td>
 		<td>408</td>
 		<td>411</td>
-		<td>411</td>
-		<td></td>
+		<td>413</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -861,8 +861,8 @@
 		<td>234</td>
 		<td>236</td>
 		<td>237</td>
-		<td>237</td>
-		<td></td>
+		<td>239</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19314</td>
-		<td>0</td>
+		<td>19324</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
