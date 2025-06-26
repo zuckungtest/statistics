@@ -142,8 +142,8 @@
 		<td>731</td>
 		<td>738</td>
 		<td>742</td>
-		<td>742</td>
-		<td></td>
+		<td>744</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19336</td>
-		<td>22</td>
+		<td>19338</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
@@ -502,6 +502,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>expert.crew.members</td>
+		<td>717</td>
+		<td>724</td>
+		<td>729</td>
+		<td>731</td>
+		<td>738</td>
+		<td>742</td>
+		<td>744</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>727</td>
 		<td>732</td>
@@ -511,17 +522,6 @@
 		<td>740</td>
 		<td>742</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>expert.crew.members</td>
-		<td>717</td>
-		<td>724</td>
-		<td>729</td>
-		<td>731</td>
-		<td>738</td>
-		<td>742</td>
-		<td>742</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19336</td>
-		<td>22</td>
+		<td>19338</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
