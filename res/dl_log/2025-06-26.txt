@@ -43,7 +43,7 @@ v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 162
-v1.0.3-planet.map | downloads: 82
+v1.0.3-planet.map | downloads: 84
 v1.0.8-bunrodea.missions | downloads: 203
 v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
@@ -240,7 +240,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 239
-# TOTAL DOWNLOADS: 21374
+# TOTAL DOWNLOADS: 21376
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -282,7 +282,7 @@ no.more.mereti.mines 388
 outfits.weapon.slot 428
 paint.your.ships 478
 pirate.warlords 3
-planet.map 295
+planet.map 297
 planet.pluto 190
 quarg.farm 678
 real.fluff 93
