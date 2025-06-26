@@ -65,8 +65,8 @@
 		<td>738</td>
 		<td>740</td>
 		<td>744</td>
-		<td>747</td>
-		<td>+ 3</td>
+		<td>748</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>202</td>
 		<td>204</td>
 		<td>208</td>
-		<td>209</td>
-		<td>+ 1</td>
+		<td>210</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -241,8 +241,8 @@
 		<td>657</td>
 		<td>657</td>
 		<td>658</td>
-		<td>659</td>
-		<td>+ 1</td>
+		<td>661</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19359</td>
-		<td>45</td>
+		<td>19363</td>
+		<td>49</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>738</td>
 		<td>740</td>
 		<td>744</td>
-		<td>747</td>
-		<td>+ 3</td>
+		<td>748</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -564,8 +564,8 @@
 		<td>657</td>
 		<td>657</td>
 		<td>658</td>
-		<td>659</td>
-		<td>+ 1</td>
+		<td>661</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -872,8 +872,8 @@
 		<td>202</td>
 		<td>204</td>
 		<td>208</td>
-		<td>209</td>
-		<td>+ 1</td>
+		<td>210</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19359</td>
-		<td>45</td>
+		<td>19363</td>
+		<td>49</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>36</td>
 		<td>40</td>
 		<td>26</td>
-		<td>11</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -946,7 +946,7 @@
 		<td>12</td>
 		<td>11</td>
 		<td>5</td>
-		<td>5</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -960,8 +960,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2703</td>
-		<td>732</td>
+		<td>2708</td>
+		<td>736</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -974,8 +974,8 @@
 	</tr>
 	<tr>
 		<td>64</td>
-		<td>42.23</td>
-		<td>11.44</td>
+		<td>42.31</td>
+		<td>11.50</td>
 		<td></td>
 		<td></td>
 	</tr>
