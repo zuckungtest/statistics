@@ -186,8 +186,8 @@
 		<td>481</td>
 		<td>481</td>
 		<td>483</td>
-		<td>483</td>
-		<td></td>
+		<td>485</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -285,8 +285,8 @@
 		<td>454</td>
 		<td>454</td>
 		<td>460</td>
-		<td>460</td>
-		<td></td>
+		<td>462</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -296,8 +296,8 @@
 		<td>617</td>
 		<td>618</td>
 		<td>622</td>
-		<td>622</td>
-		<td></td>
+		<td>624</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -329,8 +329,8 @@
 		<td>383</td>
 		<td>383</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>387</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -373,8 +373,8 @@
 		<td>671</td>
 		<td>673</td>
 		<td>676</td>
-		<td>676</td>
-		<td></td>
+		<td>678</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -384,8 +384,8 @@
 		<td>566</td>
 		<td>566</td>
 		<td>568</td>
-		<td>568</td>
-		<td></td>
+		<td>570</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19324</td>
-		<td>10</td>
+		<td>19336</td>
+		<td>22</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>671</td>
 		<td>673</td>
 		<td>676</td>
-		<td>676</td>
-		<td></td>
+		<td>678</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -575,8 +575,8 @@
 		<td>617</td>
 		<td>618</td>
 		<td>622</td>
-		<td>622</td>
-		<td></td>
+		<td>624</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -597,8 +597,8 @@
 		<td>566</td>
 		<td>566</td>
 		<td>568</td>
-		<td>568</td>
-		<td></td>
+		<td>570</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -674,8 +674,8 @@
 		<td>481</td>
 		<td>481</td>
 		<td>483</td>
-		<td>483</td>
-		<td></td>
+		<td>485</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -711,23 +711,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>more.person.ships</td>
-		<td>447</td>
-		<td>452</td>
-		<td>456</td>
-		<td>458</td>
-		<td>458</td>
-		<td>460</td>
-		<td>460</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>mission.helper</td>
 		<td>441</td>
 		<td>448</td>
 		<td>452</td>
 		<td>454</td>
 		<td>454</td>
+		<td>460</td>
+		<td>462</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>more.person.ships</td>
+		<td>447</td>
+		<td>452</td>
+		<td>456</td>
+		<td>458</td>
+		<td>458</td>
 		<td>460</td>
 		<td>460</td>
 		<td></td>
@@ -784,8 +784,8 @@
 		<td>383</td>
 		<td>383</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>387</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19324</td>
-		<td>10</td>
+		<td>19336</td>
+		<td>22</td>
 	</tr>
 </table>
 </sub></sup>
