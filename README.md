@@ -362,8 +362,8 @@
 		<td>293</td>
 		<td>293</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19363</td>
-		<td>49</td>
+		<td>19365</td>
+		<td>51</td>
 	</tr>
 </table>
 </sub></sup>
@@ -839,8 +839,8 @@
 		<td>293</td>
 		<td>293</td>
 		<td>295</td>
-		<td>295</td>
-		<td></td>
+		<td>297</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19363</td>
-		<td>49</td>
+		<td>19365</td>
+		<td>51</td>
 	</tr>
 </table>
 </sub></sup>
