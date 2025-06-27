@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.9-expert.crew.members | downloads: 6
-v1.0.10-uniques | downloads: 15
+v1.0.10-uniques | downloads: 17
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 12
 v1.0.5-show.reputation | downloads: 11
@@ -240,7 +240,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 239
-# TOTAL DOWNLOADS: 21422
+# TOTAL DOWNLOADS: 21424
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -292,4 +292,4 @@ space.fauna 371
 too.many.asteroids 743
 tribute.republic 326
 unique.fix 44
-uniques 529
+uniques 531
