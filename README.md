@@ -406,8 +406,8 @@
 		<td>366</td>
 		<td>368</td>
 		<td>369</td>
-		<td>369</td>
-		<td></td>
+		<td>371</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19409</td>
-		<td>44</td>
+		<td>19411</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
@@ -806,8 +806,8 @@
 		<td>366</td>
 		<td>368</td>
 		<td>369</td>
-		<td>369</td>
-		<td></td>
+		<td>371</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19409</td>
-		<td>44</td>
+		<td>19411</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
