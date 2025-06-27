@@ -1,14 +1,14 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.9-expert.crew.members | downloads: 4
-v1.0.10-uniques | downloads: 13
+v1.0.9-expert.crew.members | downloads: 6
+v1.0.10-uniques | downloads: 15
 v1.0.8-expert.crew.members | downloads: 18
-v1.0.7-human.labels | downloads: 10
-v1.0.5-show.reputation | downloads: 9
+v1.0.7-human.labels | downloads: 12
+v1.0.5-show.reputation | downloads: 11
 v1.0.3-paint.your.ships | downloads: 16
-v1.1.9-captureable.person.ships | downloads: 21
-v1.0.9-bunrodea.missions | downloads: 25
-v1.0.5-better.starts | downloads: 16
-v1.0.4-control.station | downloads: 30
+v1.1.9-captureable.person.ships | downloads: 23
+v1.0.9-bunrodea.missions | downloads: 27
+v1.0.5-better.starts | downloads: 18
+v1.0.4-control.station | downloads: 34
 v1.0.6-mission.helper | downloads: 58
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 85
@@ -19,7 +19,7 @@ v1.0.23-additional.command.buttons.radial | downloads: 85
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 84
-v1.1.5-hai.side.mission.unlocker | downloads: 54
+v1.1.5-hai.side.mission.unlocker | downloads: 56
 v1.0.6-snowfeather.robotics | downloads: 55
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 91
@@ -181,7 +181,7 @@ v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
-v1.1.1-disable.spaceport.repeatables | downloads: 379
+v1.1.1-disable.spaceport.repeatables | downloads: 381
 v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 386
 v1.0.0-control.station | downloads: 1
@@ -240,7 +240,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 239
-# TOTAL DOWNLOADS: 21386
+# TOTAL DOWNLOADS: 21408
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -249,23 +249,23 @@ additional.command.buttons.radial 873
 automata.destruction.0percent 536
 automata.in.human.space 446
 avgi.licenses 229
-better.starts 560
-bunrodea.missions 748
-captureable.person.ships 544
+better.starts 562
+bunrodea.missions 750
+captureable.person.ships 546
 coalition.shopping 612
 combat.ai 210
-control.station 459
+control.station 463
 devil-run.unhidden 66
 disable.person.ships 253
-disable.spaceport.repeatables 380
-expert.crew.members 745
+disable.spaceport.repeatables 382
+expert.crew.members 747
 flare.play 122
 free.worlds.5.years.later 369
 galactic.capital.investment 862
 gegno.pirates 691
-hai.side.mission.unlocker 485
+hai.side.mission.unlocker 487
 highrollers.ltd 166
-human.labels 415
+human.labels 417
 jump.gates 537
 kestrel.unlocks 463
 kor.efret.shipyard 661
@@ -286,10 +286,10 @@ planet.map 297
 planet.pluto 190
 quarg.farm 682
 real.fluff 93
-show.reputation 570
+show.reputation 572
 snowfeather.robotics 519
 space.fauna 369
 too.many.asteroids 743
 tribute.republic 326
 unique.fix 44
-uniques 527
+uniques 529
