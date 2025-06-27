@@ -21,8 +21,8 @@
 		<td>870</td>
 		<td>873</td>
 		<td>873</td>
-		<td>873</td>
-		<td></td>
+		<td>874</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>535</td>
 		<td>536</td>
 		<td>536</td>
-		<td>536</td>
-		<td></td>
+		<td>538</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -153,8 +153,8 @@
 		<td>120</td>
 		<td>122</td>
 		<td>122</td>
-		<td>122</td>
-		<td></td>
+		<td>123</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -351,8 +351,8 @@
 		<td>474</td>
 		<td>478</td>
 		<td>478</td>
-		<td>480</td>
-		<td>+ 2</td>
+		<td>482</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19403</td>
-		<td>38</td>
+		<td>19409</td>
+		<td>44</td>
 	</tr>
 </table>
 </sub></sup>
@@ -476,8 +476,8 @@
 		<td>870</td>
 		<td>873</td>
 		<td>873</td>
-		<td>873</td>
-		<td></td>
+		<td>874</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -623,6 +623,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>535</td>
+		<td>535</td>
+		<td>535</td>
+		<td>535</td>
+		<td>536</td>
+		<td>536</td>
+		<td>538</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>528</td>
 		<td>533</td>
@@ -631,17 +642,6 @@
 		<td>537</td>
 		<td>537</td>
 		<td>537</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>535</td>
-		<td>535</td>
-		<td>535</td>
-		<td>535</td>
-		<td>536</td>
-		<td>536</td>
-		<td>536</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -685,8 +685,8 @@
 		<td>474</td>
 		<td>478</td>
 		<td>478</td>
-		<td>480</td>
-		<td>+ 2</td>
+		<td>482</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -894,8 +894,8 @@
 		<td>120</td>
 		<td>122</td>
 		<td>122</td>
-		<td>122</td>
-		<td></td>
+		<td>123</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19403</td>
-		<td>38</td>
+		<td>19409</td>
+		<td>44</td>
 	</tr>
 </table>
 </sub></sup>
