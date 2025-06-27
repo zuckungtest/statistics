@@ -98,8 +98,8 @@
 		<td>204</td>
 		<td>208</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -164,8 +164,8 @@
 		<td>858</td>
 		<td>862</td>
 		<td>862</td>
-		<td>862</td>
-		<td></td>
+		<td>864</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -373,8 +373,8 @@
 		<td>673</td>
 		<td>676</td>
 		<td>678</td>
-		<td>682</td>
-		<td>+ 4</td>
+		<td>684</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19397</td>
-		<td>32</td>
+		<td>19403</td>
+		<td>38</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>858</td>
 		<td>862</td>
 		<td>862</td>
-		<td>862</td>
-		<td></td>
+		<td>864</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>673</td>
 		<td>676</td>
 		<td>678</td>
-		<td>682</td>
-		<td>+ 4</td>
+		<td>684</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -872,8 +872,8 @@
 		<td>204</td>
 		<td>208</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19397</td>
-		<td>32</td>
+		<td>19403</td>
+		<td>38</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>40</td>
 		<td>26</td>
 		<td>17</td>
-		<td>25</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -946,7 +946,7 @@
 		<td>11</td>
 		<td>5</td>
 		<td>10</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -960,8 +960,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2734</td>
-		<td>748</td>
+		<td>2735</td>
+		<td>749</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -974,8 +974,8 @@
 	</tr>
 	<tr>
 		<td>65</td>
-		<td>42.06</td>
-		<td>11.51</td>
+		<td>42.08</td>
+		<td>11.52</td>
 		<td></td>
 		<td></td>
 	</tr>
