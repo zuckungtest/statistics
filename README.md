@@ -43,8 +43,8 @@
 		<td>446</td>
 		<td>446</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>448</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>744</td>
 		<td>748</td>
 		<td>750</td>
-		<td>754</td>
-		<td>+ 4</td>
+		<td>756</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>208</td>
 		<td>210</td>
 		<td>212</td>
-		<td>214</td>
-		<td>+ 2</td>
+		<td>216</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>689</td>
 		<td>691</td>
 		<td>691</td>
-		<td>691</td>
-		<td></td>
+		<td>693</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -186,8 +186,8 @@
 		<td>483</td>
 		<td>485</td>
 		<td>487</td>
-		<td>489</td>
-		<td>+ 2</td>
+		<td>491</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -274,8 +274,8 @@
 		<td>237</td>
 		<td>239</td>
 		<td>241</td>
-		<td>242</td>
-		<td>+ 1</td>
+		<td>244</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -285,8 +285,8 @@
 		<td>460</td>
 		<td>462</td>
 		<td>462</td>
-		<td>465</td>
-		<td>+ 3</td>
+		<td>467</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>674</td>
 		<td>675</td>
 		<td>677</td>
-		<td>678</td>
-		<td>+ 1</td>
+		<td>680</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -395,8 +395,8 @@
 		<td>518</td>
 		<td>519</td>
 		<td>519</td>
-		<td>519</td>
-		<td></td>
+		<td>521</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19472</td>
-		<td>57</td>
+		<td>19490</td>
+		<td>75</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>744</td>
 		<td>748</td>
 		<td>750</td>
-		<td>754</td>
-		<td>+ 4</td>
+		<td>756</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -531,8 +531,8 @@
 		<td>689</td>
 		<td>691</td>
 		<td>691</td>
-		<td>691</td>
-		<td></td>
+		<td>693</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -553,8 +553,8 @@
 		<td>674</td>
 		<td>675</td>
 		<td>677</td>
-		<td>678</td>
-		<td>+ 1</td>
+		<td>680</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -663,8 +663,8 @@
 		<td>518</td>
 		<td>519</td>
 		<td>519</td>
-		<td>519</td>
-		<td></td>
+		<td>521</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -674,8 +674,8 @@
 		<td>483</td>
 		<td>485</td>
 		<td>487</td>
-		<td>489</td>
-		<td>+ 2</td>
+		<td>491</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -707,8 +707,8 @@
 		<td>460</td>
 		<td>462</td>
 		<td>462</td>
-		<td>465</td>
-		<td>+ 3</td>
+		<td>467</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -751,8 +751,8 @@
 		<td>446</td>
 		<td>446</td>
 		<td>446</td>
-		<td>446</td>
-		<td></td>
+		<td>448</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -861,8 +861,8 @@
 		<td>237</td>
 		<td>239</td>
 		<td>241</td>
-		<td>242</td>
-		<td>+ 1</td>
+		<td>244</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -872,8 +872,8 @@
 		<td>208</td>
 		<td>210</td>
 		<td>212</td>
-		<td>214</td>
-		<td>+ 2</td>
+		<td>216</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19472</td>
-		<td>57</td>
+		<td>19490</td>
+		<td>75</td>
 	</tr>
 </table>
 </sub></sup>
