@@ -33,7 +33,7 @@ v1.0.1-outfits.weapon.slot | downloads: 50
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 72
-v1.0.1-licenses | downloads: 239
+v1.0.1-licenses | downloads: 240
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 115
@@ -88,7 +88,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 420
+v1.0.6-coalition.shopping | downloads: 421
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 490
@@ -132,7 +132,7 @@ v1.0.0-outfits.weapon.slot | downloads: 378
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
-v1.0.0-kestrel.unlocks | downloads: 463
+v1.0.0-kestrel.unlocks | downloads: 464
 v1.0.2-tribute.republic | downloads: 308
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -240,7 +240,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 239
-# TOTAL DOWNLOADS: 21480
+# TOTAL DOWNLOADS: 21483
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -252,7 +252,7 @@ avgi.licenses 229
 better.starts 562
 bunrodea.missions 754
 captureable.person.ships 548
-coalition.shopping 614
+coalition.shopping 615
 combat.ai 214
 control.station 465
 devil-run.unhidden 66
@@ -267,12 +267,12 @@ hai.side.mission.unlocker 489
 highrollers.ltd 168
 human.labels 419
 jump.gates 539
-kestrel.unlocks 463
+kestrel.unlocks 464
 kor.efret.shipyard 661
 landing.images 481
 landing.images.android 349
 landing.images.highres 337
-licenses 241
+licenses 242
 mission.helper 465
 more.arfectas 626
 more.boarding.missions 678
