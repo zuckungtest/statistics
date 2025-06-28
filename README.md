@@ -87,8 +87,8 @@
 		<td>611</td>
 		<td>612</td>
 		<td>612</td>
-		<td>614</td>
-		<td>+ 2</td>
+		<td>615</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -230,8 +230,8 @@
 		<td>463</td>
 		<td>463</td>
 		<td>463</td>
-		<td>463</td>
-		<td></td>
+		<td>464</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -274,8 +274,8 @@
 		<td>237</td>
 		<td>239</td>
 		<td>241</td>
-		<td>241</td>
-		<td></td>
+		<td>242</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19469</td>
-		<td>54</td>
+		<td>19472</td>
+		<td>57</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>611</td>
 		<td>612</td>
 		<td>612</td>
-		<td>614</td>
-		<td>+ 2</td>
+		<td>615</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -729,8 +729,8 @@
 		<td>463</td>
 		<td>463</td>
 		<td>463</td>
-		<td>463</td>
-		<td></td>
+		<td>464</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -861,8 +861,8 @@
 		<td>237</td>
 		<td>239</td>
 		<td>241</td>
-		<td>241</td>
-		<td></td>
+		<td>242</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19469</td>
-		<td>54</td>
+		<td>19472</td>
+		<td>57</td>
 	</tr>
 </table>
 </sub></sup>
