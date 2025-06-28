@@ -285,8 +285,8 @@
 		<td>460</td>
 		<td>462</td>
 		<td>462</td>
-		<td>462</td>
-		<td></td>
+		<td>463</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19429</td>
-		<td>14</td>
+		<td>19430</td>
+		<td>15</td>
 	</tr>
 </table>
 </sub></sup>
@@ -711,6 +711,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>452</td>
+		<td>454</td>
+		<td>454</td>
+		<td>460</td>
+		<td>462</td>
+		<td>462</td>
+		<td>463</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>457</td>
 		<td>459</td>
@@ -719,17 +730,6 @@
 		<td>463</td>
 		<td>463</td>
 		<td>463</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>452</td>
-		<td>454</td>
-		<td>454</td>
-		<td>460</td>
-		<td>462</td>
-		<td>462</td>
-		<td>462</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19429</td>
-		<td>14</td>
+		<td>19430</td>
+		<td>15</td>
 	</tr>
 </table>
 </sub></sup>
