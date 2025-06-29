@@ -21,8 +21,8 @@
 		<td>873</td>
 		<td>874</td>
 		<td>876</td>
-		<td>877</td>
-		<td>+ 1</td>
+		<td>879</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>560</td>
 		<td>562</td>
 		<td>562</td>
-		<td>567</td>
-		<td>+ 5</td>
+		<td>569</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -98,8 +98,8 @@
 		<td>210</td>
 		<td>212</td>
 		<td>216</td>
-		<td>223</td>
-		<td>+ 7</td>
+		<td>225</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19619</td>
-		<td>129</td>
+		<td>19625</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
@@ -476,8 +476,8 @@
 		<td>873</td>
 		<td>874</td>
 		<td>876</td>
-		<td>877</td>
-		<td>+ 1</td>
+		<td>879</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -608,8 +608,8 @@
 		<td>560</td>
 		<td>562</td>
 		<td>562</td>
-		<td>567</td>
-		<td>+ 5</td>
+		<td>569</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -872,8 +872,8 @@
 		<td>210</td>
 		<td>212</td>
 		<td>216</td>
-		<td>223</td>
-		<td>+ 7</td>
+		<td>225</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19619</td>
-		<td>129</td>
+		<td>19625</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>17</td>
 		<td>37</td>
 		<td>7</td>
-		<td>34</td>
+		<td>37</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -946,7 +946,7 @@
 		<td>10</td>
 		<td>16</td>
 		<td>5</td>
-		<td>14</td>
+		<td>15</td>
 	</tr>
 </table>
 <br>
@@ -960,8 +960,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2787</td>
-		<td>772</td>
+		<td>2790</td>
+		<td>773</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -974,8 +974,8 @@
 	</tr>
 	<tr>
 		<td>67</td>
-		<td>41.60</td>
-		<td>11.52</td>
+		<td>41.64</td>
+		<td>11.54</td>
 		<td></td>
 		<td></td>
 	</tr>
