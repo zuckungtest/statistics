@@ -54,8 +54,8 @@
 		<td>560</td>
 		<td>562</td>
 		<td>562</td>
-		<td>565</td>
-		<td>+ 3</td>
+		<td>567</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -274,8 +274,8 @@
 		<td>239</td>
 		<td>241</td>
 		<td>244</td>
-		<td>247</td>
-		<td>+ 3</td>
+		<td>249</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>624</td>
 		<td>624</td>
 		<td>626</td>
-		<td>629</td>
-		<td>+ 3</td>
+		<td>631</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -307,8 +307,8 @@
 		<td>675</td>
 		<td>677</td>
 		<td>680</td>
-		<td>684</td>
-		<td>+ 4</td>
+		<td>686</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -439,8 +439,8 @@
 		<td>527</td>
 		<td>531</td>
 		<td>531</td>
-		<td>536</td>
-		<td>+ 5</td>
+		<td>538</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19609</td>
-		<td>119</td>
+		<td>19619</td>
+		<td>129</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>675</td>
 		<td>677</td>
 		<td>680</td>
-		<td>684</td>
-		<td>+ 4</td>
+		<td>686</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -575,8 +575,8 @@
 		<td>624</td>
 		<td>624</td>
 		<td>626</td>
-		<td>629</td>
-		<td>+ 3</td>
+		<td>631</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -608,8 +608,8 @@
 		<td>560</td>
 		<td>562</td>
 		<td>562</td>
-		<td>565</td>
-		<td>+ 3</td>
+		<td>567</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -652,8 +652,8 @@
 		<td>527</td>
 		<td>531</td>
 		<td>531</td>
-		<td>536</td>
-		<td>+ 5</td>
+		<td>538</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -861,8 +861,8 @@
 		<td>239</td>
 		<td>241</td>
 		<td>244</td>
-		<td>247</td>
-		<td>+ 3</td>
+		<td>249</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19609</td>
-		<td>119</td>
+		<td>19619</td>
+		<td>129</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>17</td>
 		<td>37</td>
 		<td>7</td>
-		<td>33</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -960,7 +960,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2786</td>
+		<td>2787</td>
 		<td>772</td>
 		<td>165</td>
 		<td>21</td>
@@ -974,7 +974,7 @@
 	</tr>
 	<tr>
 		<td>67</td>
-		<td>41.58</td>
+		<td>41.60</td>
 		<td>11.52</td>
 		<td></td>
 		<td></td>
