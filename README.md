@@ -32,8 +32,8 @@
 		<td>536</td>
 		<td>540</td>
 		<td>540</td>
-		<td>543</td>
-		<td>+ 3</td>
+		<td>545</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19605</td>
-		<td>115</td>
+		<td>19607</td>
+		<td>117</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>536</td>
 		<td>540</td>
 		<td>540</td>
-		<td>543</td>
-		<td>+ 3</td>
+		<td>545</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19605</td>
-		<td>115</td>
+		<td>19607</td>
+		<td>117</td>
 	</tr>
 </table>
 </sub></sup>
