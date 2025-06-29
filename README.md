@@ -285,8 +285,8 @@
 		<td>462</td>
 		<td>462</td>
 		<td>467</td>
-		<td>467</td>
-		<td></td>
+		<td>468</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>675</td>
 		<td>677</td>
 		<td>680</td>
-		<td>680</td>
-		<td></td>
+		<td>681</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>570</td>
 		<td>572</td>
 		<td>574</td>
-		<td>574</td>
-		<td></td>
+		<td>575</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -395,8 +395,8 @@
 		<td>519</td>
 		<td>519</td>
 		<td>521</td>
-		<td>521</td>
-		<td></td>
+		<td>522</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19493</td>
-		<td>3</td>
+		<td>19497</td>
+		<td>7</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>675</td>
 		<td>677</td>
 		<td>680</td>
-		<td>680</td>
-		<td></td>
+		<td>681</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -597,8 +597,8 @@
 		<td>570</td>
 		<td>572</td>
 		<td>574</td>
-		<td>574</td>
-		<td></td>
+		<td>575</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -663,8 +663,8 @@
 		<td>519</td>
 		<td>519</td>
 		<td>521</td>
-		<td>521</td>
-		<td></td>
+		<td>522</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -707,8 +707,8 @@
 		<td>462</td>
 		<td>462</td>
 		<td>467</td>
-		<td>467</td>
-		<td></td>
+		<td>468</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19493</td>
-		<td>3</td>
+		<td>19497</td>
+		<td>7</td>
 	</tr>
 </table>
 </sub></sup>
