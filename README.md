@@ -65,8 +65,8 @@
 		<td>748</td>
 		<td>750</td>
 		<td>756</td>
-		<td>756</td>
-		<td></td>
+		<td>758</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -241,8 +241,8 @@
 		<td>661</td>
 		<td>661</td>
 		<td>661</td>
-		<td>661</td>
-		<td></td>
+		<td>663</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -362,8 +362,8 @@
 		<td>297</td>
 		<td>297</td>
 		<td>297</td>
-		<td>297</td>
-		<td></td>
+		<td>299</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -417,8 +417,8 @@
 		<td>743</td>
 		<td>743</td>
 		<td>747</td>
-		<td>747</td>
-		<td></td>
+		<td>749</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19497</td>
-		<td>7</td>
+		<td>19505</td>
+		<td>15</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,19 @@
 		<td>748</td>
 		<td>750</td>
 		<td>756</td>
-		<td>756</td>
-		<td></td>
+		<td>758</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>too.many.asteroids</td>
+		<td>734</td>
+		<td>736</td>
+		<td>740</td>
+		<td>743</td>
+		<td>743</td>
+		<td>747</td>
+		<td>749</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -511,17 +522,6 @@
 		<td>748</td>
 		<td>749</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>734</td>
-		<td>736</td>
-		<td>740</td>
-		<td>743</td>
-		<td>743</td>
-		<td>747</td>
-		<td>747</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -564,8 +564,8 @@
 		<td>661</td>
 		<td>661</td>
 		<td>661</td>
-		<td>661</td>
-		<td></td>
+		<td>663</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -839,8 +839,8 @@
 		<td>297</td>
 		<td>297</td>
 		<td>297</td>
-		<td>297</td>
-		<td></td>
+		<td>299</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19497</td>
-		<td>7</td>
+		<td>19505</td>
+		<td>15</td>
 	</tr>
 </table>
 </sub></sup>
