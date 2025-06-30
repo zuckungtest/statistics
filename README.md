@@ -76,8 +76,8 @@
 		<td>546</td>
 		<td>548</td>
 		<td>551</td>
-		<td>551</td>
-		<td></td>
+		<td>553</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -252,8 +252,8 @@
 		<td>478</td>
 		<td>481</td>
 		<td>484</td>
-		<td>484</td>
-		<td></td>
+		<td>486</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19669</td>
-		<td>43</td>
+		<td>19673</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>546</td>
 		<td>548</td>
 		<td>551</td>
-		<td>551</td>
-		<td></td>
+		<td>553</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -696,8 +696,8 @@
 		<td>478</td>
 		<td>481</td>
 		<td>484</td>
-		<td>484</td>
-		<td></td>
+		<td>486</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19669</td>
-		<td>43</td>
+		<td>19673</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
