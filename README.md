@@ -142,8 +142,8 @@
 		<td>747</td>
 		<td>748</td>
 		<td>754</td>
-		<td>756</td>
-		<td>+ 2</td>
+		<td>758</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19677</td>
-		<td>51</td>
+		<td>19679</td>
+		<td>53</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>747</td>
 		<td>748</td>
 		<td>754</td>
-		<td>756</td>
-		<td>+ 2</td>
+		<td>758</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19677</td>
-		<td>51</td>
+		<td>19679</td>
+		<td>53</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>37</td>
 		<td>7</td>
 		<td>46</td>
-		<td>5</td>
+		<td>8</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -946,7 +946,7 @@
 		<td>16</td>
 		<td>5</td>
 		<td>18</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -960,8 +960,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2804</td>
-		<td>780</td>
+		<td>2807</td>
+		<td>781</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -974,8 +974,8 @@
 	</tr>
 	<tr>
 		<td>68</td>
-		<td>41.24</td>
-		<td>11.47</td>
+		<td>41.28</td>
+		<td>11.49</td>
 		<td></td>
 		<td></td>
 	</tr>
