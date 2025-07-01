@@ -5,7 +5,7 @@ v1.0.10-uniques | downloads: 28
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 16
 v1.0.5-show.reputation | downloads: 19
-v1.0.3-paint.your.ships | downloads: 24
+v1.0.3-paint.your.ships | downloads: 28
 v1.1.9-captureable.person.ships | downloads: 30
 v1.0.9-bunrodea.missions | downloads: 42
 v1.0.5-better.starts | downloads: 25
@@ -19,7 +19,7 @@ v1.0.1-free.worlds.5.years.later | downloads: 9
 v1.0.23-additional.command.buttons.radial | downloads: 95
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
-v1.1.5-more.boarding.missions | downloads: 93
+v1.1.5-more.boarding.missions | downloads: 95
 v1.1.5-hai.side.mission.unlocker | downloads: 65
 v1.0.6-snowfeather.robotics | downloads: 63
 v1.0.6-human.labels | downloads: 41
@@ -241,7 +241,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 240
-# TOTAL DOWNLOADS: 21700
+# TOTAL DOWNLOADS: 21706
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -276,12 +276,12 @@ landing.images.highres 340
 licenses 250
 mission.helper 475
 more.arfectas 632
-more.boarding.missions 686
+more.boarding.missions 688
 more.person.ships 462
 navy.licenses 575
 no.more.mereti.mines 393
 outfits.weapon.slot 429
-paint.your.ships 488
+paint.your.ships 492
 pirate.warlords 3
 planet.map 303
 planet.pluto 190
