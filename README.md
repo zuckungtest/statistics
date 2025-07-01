@@ -98,8 +98,8 @@
 		<td>216</td>
 		<td>225</td>
 		<td>229</td>
-		<td>229</td>
-		<td></td>
+		<td>231</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -439,8 +439,8 @@
 		<td>531</td>
 		<td>538</td>
 		<td>540</td>
-		<td>540</td>
-		<td></td>
+		<td>542</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19685</td>
-		<td>2</td>
+		<td>19689</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>531</td>
 		<td>538</td>
 		<td>540</td>
-		<td>540</td>
-		<td></td>
+		<td>542</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -872,8 +872,8 @@
 		<td>216</td>
 		<td>225</td>
 		<td>229</td>
-		<td>229</td>
-		<td></td>
+		<td>231</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19685</td>
-		<td>2</td>
+		<td>19689</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>7</td>
 		<td>46</td>
 		<td>17</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -946,7 +946,7 @@
 		<td>5</td>
 		<td>18</td>
 		<td>6</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -960,8 +960,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2827</td>
-		<td>787</td>
+		<td>2828</td>
+		<td>788</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -974,8 +974,8 @@
 	</tr>
 	<tr>
 		<td>69</td>
-		<td>40.97</td>
-		<td>11.41</td>
+		<td>40.99</td>
+		<td>11.42</td>
 		<td></td>
 		<td></td>
 	</tr>
