@@ -340,8 +340,8 @@
 		<td>428</td>
 		<td>429</td>
 		<td>429</td>
-		<td>433</td>
-		<td>+ 4</td>
+		<td>435</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19806</td>
-		<td>123</td>
+		<td>19808</td>
+		<td>125</td>
 	</tr>
 </table>
 </sub></sup>
@@ -762,8 +762,8 @@
 		<td>428</td>
 		<td>429</td>
 		<td>429</td>
-		<td>433</td>
-		<td>+ 4</td>
+		<td>435</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19806</td>
-		<td>123</td>
+		<td>19808</td>
+		<td>125</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>7</td>
 		<td>46</td>
 		<td>17</td>
-		<td>46</td>
+		<td>49</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -960,7 +960,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2862</td>
+		<td>2865</td>
 		<td>794</td>
 		<td>165</td>
 		<td>21</td>
@@ -974,7 +974,7 @@
 	</tr>
 	<tr>
 		<td>69</td>
-		<td>41.48</td>
+		<td>41.52</td>
 		<td>11.51</td>
 		<td></td>
 		<td></td>
