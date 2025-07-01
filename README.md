@@ -65,8 +65,8 @@
 		<td>756</td>
 		<td>763</td>
 		<td>765</td>
-		<td>769</td>
-		<td>+ 4</td>
+		<td>771</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>748</td>
 		<td>754</td>
 		<td>758</td>
-		<td>760</td>
-		<td>+ 2</td>
+		<td>762</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>693</td>
 		<td>696</td>
 		<td>700</td>
-		<td>705</td>
-		<td>+ 5</td>
+		<td>707</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -274,8 +274,8 @@
 		<td>244</td>
 		<td>249</td>
 		<td>250</td>
-		<td>256</td>
-		<td>+ 6</td>
+		<td>258</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -285,8 +285,8 @@
 		<td>467</td>
 		<td>472</td>
 		<td>475</td>
-		<td>479</td>
-		<td>+ 4</td>
+		<td>481</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>680</td>
 		<td>686</td>
 		<td>686</td>
-		<td>690</td>
-		<td>+ 4</td>
+		<td>694</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -395,8 +395,8 @@
 		<td>521</td>
 		<td>525</td>
 		<td>527</td>
-		<td>529</td>
-		<td>+ 2</td>
+		<td>531</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -439,8 +439,8 @@
 		<td>531</td>
 		<td>538</td>
 		<td>540</td>
-		<td>544</td>
-		<td>+ 4</td>
+		<td>546</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19786</td>
-		<td>103</td>
+		<td>19804</td>
+		<td>121</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>756</td>
 		<td>763</td>
 		<td>765</td>
-		<td>769</td>
-		<td>+ 4</td>
+		<td>771</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -509,8 +509,8 @@
 		<td>748</td>
 		<td>754</td>
 		<td>758</td>
-		<td>760</td>
-		<td>+ 2</td>
+		<td>762</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>693</td>
 		<td>696</td>
 		<td>700</td>
-		<td>705</td>
-		<td>+ 5</td>
+		<td>707</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -553,8 +553,8 @@
 		<td>680</td>
 		<td>686</td>
 		<td>686</td>
-		<td>690</td>
-		<td>+ 4</td>
+		<td>694</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -652,8 +652,8 @@
 		<td>531</td>
 		<td>538</td>
 		<td>540</td>
-		<td>544</td>
-		<td>+ 4</td>
+		<td>546</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -663,8 +663,8 @@
 		<td>521</td>
 		<td>525</td>
 		<td>527</td>
-		<td>529</td>
-		<td>+ 2</td>
+		<td>531</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -707,8 +707,8 @@
 		<td>467</td>
 		<td>472</td>
 		<td>475</td>
-		<td>479</td>
-		<td>+ 4</td>
+		<td>481</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -850,8 +850,8 @@
 		<td>244</td>
 		<td>249</td>
 		<td>250</td>
-		<td>256</td>
-		<td>+ 6</td>
+		<td>258</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19786</td>
-		<td>103</td>
+		<td>19804</td>
+		<td>121</td>
 	</tr>
 </table>
 </sub></sup>
