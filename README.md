@@ -43,8 +43,8 @@
 		<td>448</td>
 		<td>451</td>
 		<td>453</td>
-		<td>453</td>
-		<td></td>
+		<td>454</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>548</td>
 		<td>551</td>
 		<td>553</td>
-		<td>553</td>
-		<td></td>
+		<td>554</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -285,8 +285,8 @@
 		<td>467</td>
 		<td>472</td>
 		<td>475</td>
-		<td>475</td>
-		<td></td>
+		<td>477</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -296,8 +296,8 @@
 		<td>626</td>
 		<td>631</td>
 		<td>632</td>
-		<td>632</td>
-		<td></td>
+		<td>634</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -373,8 +373,8 @@
 		<td>689</td>
 		<td>692</td>
 		<td>694</td>
-		<td>694</td>
-		<td></td>
+		<td>696</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19695</td>
-		<td>12</td>
+		<td>19703</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>689</td>
 		<td>692</td>
 		<td>694</td>
-		<td>694</td>
-		<td></td>
+		<td>696</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -575,8 +575,8 @@
 		<td>626</td>
 		<td>631</td>
 		<td>632</td>
-		<td>632</td>
-		<td></td>
+		<td>634</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>548</td>
 		<td>551</td>
 		<td>553</td>
-		<td>553</td>
-		<td></td>
+		<td>554</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -707,8 +707,8 @@
 		<td>467</td>
 		<td>472</td>
 		<td>475</td>
-		<td>475</td>
-		<td></td>
+		<td>477</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -751,8 +751,8 @@
 		<td>448</td>
 		<td>451</td>
 		<td>453</td>
-		<td>453</td>
-		<td></td>
+		<td>454</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19695</td>
-		<td>12</td>
+		<td>19703</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>7</td>
 		<td>46</td>
 		<td>17</td>
-		<td>13</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -946,7 +946,7 @@
 		<td>5</td>
 		<td>18</td>
 		<td>6</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -960,8 +960,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2829</td>
-		<td>789</td>
+		<td>2832</td>
+		<td>790</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -974,8 +974,8 @@
 	</tr>
 	<tr>
 		<td>69</td>
-		<td>41.00</td>
-		<td>11.43</td>
+		<td>41.04</td>
+		<td>11.45</td>
 		<td></td>
 		<td></td>
 	</tr>
