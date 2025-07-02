@@ -142,8 +142,8 @@
 		<td>754</td>
 		<td>758</td>
 		<td>762</td>
-		<td>766</td>
-		<td>+ 4</td>
+		<td>768</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -164,8 +164,8 @@
 		<td>869</td>
 		<td>870</td>
 		<td>872</td>
-		<td>874</td>
-		<td>+ 2</td>
+		<td>875</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -219,8 +219,8 @@
 		<td>542</td>
 		<td>543</td>
 		<td>547</td>
-		<td>551</td>
-		<td>+ 4</td>
+		<td>552</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -241,8 +241,8 @@
 		<td>666</td>
 		<td>667</td>
 		<td>671</td>
-		<td>675</td>
-		<td>+ 4</td>
+		<td>676</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19932</td>
-		<td>124</td>
+		<td>19937</td>
+		<td>129</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>869</td>
 		<td>870</td>
 		<td>872</td>
-		<td>874</td>
-		<td>+ 2</td>
+		<td>875</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -509,8 +509,8 @@
 		<td>754</td>
 		<td>758</td>
 		<td>762</td>
-		<td>766</td>
-		<td>+ 4</td>
+		<td>768</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -564,8 +564,8 @@
 		<td>666</td>
 		<td>667</td>
 		<td>671</td>
-		<td>675</td>
-		<td>+ 4</td>
+		<td>676</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -623,6 +623,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>537</td>
+		<td>537</td>
+		<td>539</td>
+		<td>542</td>
+		<td>543</td>
+		<td>547</td>
+		<td>552</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>536</td>
 		<td>540</td>
@@ -632,17 +643,6 @@
 		<td>550</td>
 		<td>552</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>537</td>
-		<td>537</td>
-		<td>539</td>
-		<td>542</td>
-		<td>543</td>
-		<td>547</td>
-		<td>551</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19932</td>
-		<td>124</td>
+		<td>19937</td>
+		<td>129</td>
 	</tr>
 </table>
 </sub></sup>
