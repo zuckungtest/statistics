@@ -87,8 +87,8 @@
 		<td>618</td>
 		<td>620</td>
 		<td>622</td>
-		<td>626</td>
-		<td>+ 4</td>
+		<td>628</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19926</td>
-		<td>118</td>
+		<td>19928</td>
+		<td>120</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>618</td>
 		<td>620</td>
 		<td>622</td>
-		<td>626</td>
-		<td>+ 4</td>
+		<td>628</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19926</td>
-		<td>118</td>
+		<td>19928</td>
+		<td>120</td>
 	</tr>
 </table>
 </sub></sup>
