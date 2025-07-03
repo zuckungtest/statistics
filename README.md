@@ -98,8 +98,8 @@
 		<td>229</td>
 		<td>237</td>
 		<td>243</td>
-		<td>249</td>
-		<td>+ 6</td>
+		<td>251</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -109,8 +109,8 @@
 		<td>470</td>
 		<td>472</td>
 		<td>476</td>
-		<td>476</td>
-		<td></td>
+		<td>478</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19947</td>
-		<td>10</td>
+		<td>19951</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>470</td>
 		<td>472</td>
 		<td>476</td>
-		<td>476</td>
-		<td></td>
+		<td>478</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -872,8 +872,8 @@
 		<td>229</td>
 		<td>237</td>
 		<td>243</td>
-		<td>249</td>
-		<td>+ 6</td>
+		<td>251</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19947</td>
-		<td>10</td>
+		<td>19951</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
