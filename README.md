@@ -98,8 +98,8 @@
 		<td>229</td>
 		<td>237</td>
 		<td>243</td>
-		<td>245</td>
-		<td>+ 2</td>
+		<td>249</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19943</td>
-		<td>6</td>
+		<td>19947</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -872,8 +872,8 @@
 		<td>229</td>
 		<td>237</td>
 		<td>243</td>
-		<td>245</td>
-		<td>+ 2</td>
+		<td>249</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19943</td>
-		<td>6</td>
+		<td>19947</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>17</td>
 		<td>49</td>
 		<td>38</td>
-		<td>20</td>
+		<td>24</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -946,7 +946,7 @@
 		<td>6</td>
 		<td>12</td>
 		<td>8</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -960,8 +960,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2923</td>
-		<td>807</td>
+		<td>2927</td>
+		<td>808</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -974,8 +974,8 @@
 	</tr>
 	<tr>
 		<td>71</td>
-		<td>41.17</td>
-		<td>11.37</td>
+		<td>41.23</td>
+		<td>11.38</td>
 		<td></td>
 		<td></td>
 	</tr>
