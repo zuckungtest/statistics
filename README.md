@@ -54,8 +54,8 @@
 		<td>569</td>
 		<td>571</td>
 		<td>575</td>
-		<td>575</td>
-		<td></td>
+		<td>577</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19939</td>
-		<td>2</td>
+		<td>19941</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>569</td>
 		<td>571</td>
 		<td>575</td>
-		<td>575</td>
-		<td></td>
+		<td>577</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19939</td>
-		<td>2</td>
+		<td>19941</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
