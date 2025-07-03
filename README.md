@@ -65,8 +65,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>2</td>
-		<td>+ 2</td>
+		<td>4</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>229</td>
 		<td>237</td>
 		<td>243</td>
-		<td>254</td>
-		<td>+ 11</td>
+		<td>256</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -120,8 +120,8 @@
 		<td>470</td>
 		<td>472</td>
 		<td>476</td>
-		<td>479</td>
-		<td>+ 3</td>
+		<td>482</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19998</td>
-		<td>61</td>
+		<td>20005</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
@@ -729,8 +729,8 @@
 		<td>470</td>
 		<td>472</td>
 		<td>476</td>
-		<td>479</td>
-		<td>+ 3</td>
+		<td>482</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -883,8 +883,8 @@
 		<td>229</td>
 		<td>237</td>
 		<td>243</td>
-		<td>254</td>
-		<td>+ 11</td>
+		<td>256</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -916,8 +916,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>2</td>
-		<td>+ 2</td>
+		<td>4</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19998</td>
-		<td>61</td>
+		<td>20005</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>17</td>
 		<td>49</td>
 		<td>38</td>
-		<td>93</td>
+		<td>98</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>6</td>
 		<td>12</td>
 		<td>8</td>
-		<td>12</td>
+		<td>13</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2996</td>
-		<td>814</td>
+		<td>3001</td>
+		<td>815</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>71</td>
-		<td>42.20</td>
-		<td>11.46</td>
+		<td>42.27</td>
+		<td>11.48</td>
 		<td></td>
 		<td></td>
 	</tr>
