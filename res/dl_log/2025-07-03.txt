@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-boss.loot | downloads: 2
-v1.0.5-combat.ai | downloads: 16
+v1.0.0-boss.loot | downloads: 4
+v1.0.5-combat.ai | downloads: 18
 v1.0.2-flare.play | downloads: 3
 v1.0.7-mission.helper | downloads: 18
 v1.0.9-expert.crew.members | downloads: 28
@@ -12,7 +12,7 @@ v1.0.3-paint.your.ships | downloads: 35
 v1.1.9-captureable.person.ships | downloads: 38
 v1.0.9-bunrodea.missions | downloads: 53
 v1.0.5-better.starts | downloads: 34
-v1.0.4-control.station | downloads: 50
+v1.0.4-control.station | downloads: 53
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 113
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22009
+# TOTAL DOWNLOADS: 22016
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -254,12 +254,12 @@ automata.destruction.0percent 553
 automata.in.human.space 459
 avgi.licenses 229
 better.starts 578
-boss.loot 2
+boss.loot 4
 bunrodea.missions 776
 captureable.person.ships 561
 coalition.shopping 629
-combat.ai 254
-control.station 479
+combat.ai 256
+control.station 482
 devil-run.unhidden 66
 disable.person.ships 259
 disable.spaceport.repeatables 389
