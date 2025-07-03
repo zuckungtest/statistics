@@ -252,8 +252,8 @@
 		<td>486</td>
 		<td>486</td>
 		<td>488</td>
-		<td>488</td>
-		<td></td>
+		<td>489</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -263,8 +263,8 @@
 		<td>340</td>
 		<td>340</td>
 		<td>342</td>
-		<td>342</td>
-		<td></td>
+		<td>343</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -450,8 +450,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19951</td>
-		<td>14</td>
+		<td>19953</td>
+		<td>16</td>
 	</tr>
 </table>
 </sub></sup>
@@ -696,8 +696,8 @@
 		<td>486</td>
 		<td>486</td>
 		<td>488</td>
-		<td>488</td>
-		<td></td>
+		<td>489</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -817,8 +817,8 @@
 		<td>340</td>
 		<td>340</td>
 		<td>342</td>
-		<td>342</td>
-		<td></td>
+		<td>343</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -905,8 +905,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>19951</td>
-		<td>14</td>
+		<td>19953</td>
+		<td>16</td>
 	</tr>
 </table>
 </sub></sup>
@@ -934,7 +934,7 @@
 		<td>17</td>
 		<td>49</td>
 		<td>38</td>
-		<td>24</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -960,7 +960,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>2927</td>
+		<td>2928</td>
 		<td>808</td>
 		<td>165</td>
 		<td>21</td>
@@ -974,7 +974,7 @@
 	</tr>
 	<tr>
 		<td>71</td>
-		<td>41.23</td>
+		<td>41.24</td>
 		<td>11.38</td>
 		<td></td>
 		<td></td>
