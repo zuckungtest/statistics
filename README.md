@@ -87,8 +87,8 @@
 		<td>556</td>
 		<td>560</td>
 		<td>561</td>
-		<td>563</td>
-		<td>+ 2</td>
+		<td>565</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20061</td>
-		<td>56</td>
+		<td>20063</td>
+		<td>58</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>556</td>
 		<td>560</td>
 		<td>561</td>
-		<td>563</td>
-		<td>+ 2</td>
+		<td>565</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20061</td>
-		<td>56</td>
+		<td>20063</td>
+		<td>58</td>
 	</tr>
 </table>
 </sub></sup>
