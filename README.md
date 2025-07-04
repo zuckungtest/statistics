@@ -32,8 +32,8 @@
 		<td>550</td>
 		<td>552</td>
 		<td>553</td>
-		<td>553</td>
-		<td></td>
+		<td>555</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -98,8 +98,8 @@
 		<td>622</td>
 		<td>628</td>
 		<td>629</td>
-		<td>631</td>
-		<td>+ 2</td>
+		<td>633</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20075</td>
-		<td>70</td>
+		<td>20079</td>
+		<td>74</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>622</td>
 		<td>628</td>
 		<td>629</td>
-		<td>631</td>
-		<td>+ 2</td>
+		<td>633</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -634,22 +634,22 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
-		<td>jump.gates</td>
-		<td>539</td>
-		<td>542</td>
-		<td>543</td>
-		<td>547</td>
-		<td>552</td>
-		<td>553</td>
-		<td>553</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>540</td>
 		<td>545</td>
 		<td>548</td>
 		<td>550</td>
+		<td>552</td>
+		<td>553</td>
+		<td>555</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>jump.gates</td>
+		<td>539</td>
+		<td>542</td>
+		<td>543</td>
+		<td>547</td>
 		<td>552</td>
 		<td>553</td>
 		<td>553</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20075</td>
-		<td>70</td>
+		<td>20079</td>
+		<td>74</td>
 	</tr>
 </table>
 </sub></sup>
