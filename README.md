@@ -109,8 +109,8 @@
 		<td>237</td>
 		<td>243</td>
 		<td>256</td>
-		<td>260</td>
-		<td>+ 4</td>
+		<td>262</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -120,8 +120,8 @@
 		<td>472</td>
 		<td>476</td>
 		<td>482</td>
-		<td>484</td>
-		<td>+ 2</td>
+		<td>486</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>707</td>
 		<td>711</td>
 		<td>712</td>
-		<td>714</td>
-		<td>+ 2</td>
+		<td>716</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20063</td>
-		<td>58</td>
+		<td>20069</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>707</td>
 		<td>711</td>
 		<td>712</td>
-		<td>714</td>
-		<td>+ 2</td>
+		<td>716</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -729,8 +729,8 @@
 		<td>472</td>
 		<td>476</td>
 		<td>482</td>
-		<td>484</td>
-		<td>+ 2</td>
+		<td>486</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -872,8 +872,8 @@
 		<td>237</td>
 		<td>243</td>
 		<td>256</td>
-		<td>260</td>
-		<td>+ 4</td>
+		<td>262</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20063</td>
-		<td>58</td>
+		<td>20069</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>49</td>
 		<td>38</td>
 		<td>115</td>
-		<td>17</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>12</td>
 		<td>8</td>
 		<td>16</td>
-		<td>13</td>
+		<td>16</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3035</td>
-		<td>831</td>
+		<td>3044</td>
+		<td>834</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>72</td>
-		<td>42.15</td>
-		<td>11.54</td>
+		<td>42.28</td>
+		<td>11.58</td>
 		<td></td>
 		<td></td>
 	</tr>
