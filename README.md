@@ -65,8 +65,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>4</td>
-		<td>12</td>
-		<td>+ 8</td>
+		<td>15</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -153,8 +153,8 @@
 		<td>762</td>
 		<td>768</td>
 		<td>769</td>
-		<td>769</td>
-		<td></td>
+		<td>771</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -428,8 +428,8 @@
 		<td>755</td>
 		<td>757</td>
 		<td>758</td>
-		<td>758</td>
-		<td></td>
+		<td>760</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20079</td>
-		<td>74</td>
+		<td>20086</td>
+		<td>81</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>762</td>
 		<td>768</td>
 		<td>769</td>
-		<td>769</td>
-		<td></td>
+		<td>771</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>755</td>
 		<td>757</td>
 		<td>758</td>
-		<td>758</td>
-		<td></td>
+		<td>760</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -916,8 +916,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>4</td>
-		<td>12</td>
-		<td>+ 8</td>
+		<td>15</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20079</td>
-		<td>74</td>
+		<td>20086</td>
+		<td>81</td>
 	</tr>
 </table>
 </sub></sup>
