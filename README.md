@@ -296,8 +296,8 @@
 		<td>481</td>
 		<td>485</td>
 		<td>486</td>
-		<td>488</td>
-		<td>+ 2</td>
+		<td>490</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -395,8 +395,8 @@
 		<td>582</td>
 		<td>584</td>
 		<td>585</td>
-		<td>589</td>
-		<td>+ 4</td>
+		<td>591</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20071</td>
-		<td>66</td>
+		<td>20075</td>
+		<td>70</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>582</td>
 		<td>584</td>
 		<td>585</td>
-		<td>589</td>
-		<td>+ 4</td>
+		<td>591</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -718,8 +718,8 @@
 		<td>481</td>
 		<td>485</td>
 		<td>486</td>
-		<td>488</td>
-		<td>+ 2</td>
+		<td>490</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20071</td>
-		<td>66</td>
+		<td>20075</td>
+		<td>70</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>49</td>
 		<td>38</td>
 		<td>115</td>
-		<td>26</td>
+		<td>27</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>12</td>
 		<td>8</td>
 		<td>16</td>
-		<td>16</td>
+		<td>17</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3044</td>
-		<td>834</td>
+		<td>3045</td>
+		<td>835</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>72</td>
-		<td>42.28</td>
-		<td>11.58</td>
+		<td>42.29</td>
+		<td>11.60</td>
 		<td></td>
 		<td></td>
 	</tr>
