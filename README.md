@@ -65,8 +65,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>4</td>
-		<td>8</td>
-		<td>+ 4</td>
+		<td>10</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>237</td>
 		<td>243</td>
 		<td>256</td>
-		<td>258</td>
-		<td>+ 2</td>
+		<td>260</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -285,8 +285,8 @@
 		<td>258</td>
 		<td>262</td>
 		<td>263</td>
-		<td>265</td>
-		<td>+ 2</td>
+		<td>267</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -395,8 +395,8 @@
 		<td>582</td>
 		<td>584</td>
 		<td>585</td>
-		<td>587</td>
-		<td>+ 2</td>
+		<td>589</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20053</td>
-		<td>48</td>
+		<td>20061</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>582</td>
 		<td>584</td>
 		<td>585</td>
-		<td>587</td>
-		<td>+ 2</td>
+		<td>589</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -861,8 +861,19 @@
 		<td>258</td>
 		<td>262</td>
 		<td>263</td>
-		<td>265</td>
-		<td>+ 2</td>
+		<td>267</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>combat.ai</td>
+		<td>216</td>
+		<td>225</td>
+		<td>229</td>
+		<td>237</td>
+		<td>243</td>
+		<td>256</td>
+		<td>260</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -874,17 +885,6 @@
 		<td>259</td>
 		<td>259</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>combat.ai</td>
-		<td>216</td>
-		<td>225</td>
-		<td>229</td>
-		<td>237</td>
-		<td>243</td>
-		<td>256</td>
-		<td>258</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -916,8 +916,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>4</td>
-		<td>8</td>
-		<td>+ 4</td>
+		<td>10</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20053</td>
-		<td>48</td>
+		<td>20061</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>49</td>
 		<td>38</td>
 		<td>115</td>
-		<td>7</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>12</td>
 		<td>8</td>
 		<td>16</td>
-		<td>6</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3025</td>
-		<td>824</td>
+		<td>3031</td>
+		<td>827</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>72</td>
-		<td>42.01</td>
-		<td>11.44</td>
+		<td>42.10</td>
+		<td>11.49</td>
 		<td></td>
 		<td></td>
 	</tr>
