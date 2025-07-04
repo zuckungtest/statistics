@@ -2,12 +2,12 @@
 v1.0.0-boss.loot | downloads: 12
 v1.0.5-combat.ai | downloads: 24
 v1.0.2-flare.play | downloads: 3
-v1.0.7-mission.helper | downloads: 20
+v1.0.7-mission.helper | downloads: 22
 v1.0.9-expert.crew.members | downloads: 28
 v1.0.10-uniques | downloads: 35
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 23
-v1.0.5-show.reputation | downloads: 28
+v1.0.5-show.reputation | downloads: 30
 v1.0.3-paint.your.ships | downloads: 35
 v1.1.9-captureable.person.ships | downloads: 42
 v1.0.9-bunrodea.missions | downloads: 55
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22082
+# TOTAL DOWNLOADS: 22086
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -278,7 +278,7 @@ landing.images 492
 landing.images.android 349
 landing.images.highres 346
 licenses 267
-mission.helper 488
+mission.helper 490
 more.arfectas 643
 more.boarding.missions 697
 more.person.ships 471
@@ -291,7 +291,7 @@ planet.map 306
 planet.pluto 190
 quarg.farm 705
 real.fluff 93
-show.reputation 589
+show.reputation 591
 snowfeather.robotics 536
 space.fauna 379
 too.many.asteroids 758
