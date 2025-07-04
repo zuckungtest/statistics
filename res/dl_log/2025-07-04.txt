@@ -9,7 +9,7 @@ v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 23
 v1.0.5-show.reputation | downloads: 28
 v1.0.3-paint.your.ships | downloads: 35
-v1.1.9-captureable.person.ships | downloads: 40
+v1.1.9-captureable.person.ships | downloads: 42
 v1.0.9-bunrodea.missions | downloads: 55
 v1.0.5-better.starts | downloads: 36
 v1.0.4-control.station | downloads: 55
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22072
+# TOTAL DOWNLOADS: 22074
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -256,7 +256,7 @@ avgi.licenses 229
 better.starts 580
 boss.loot 10
 bunrodea.missions 778
-captureable.person.ships 563
+captureable.person.ships 565
 coalition.shopping 631
 combat.ai 260
 control.station 484
