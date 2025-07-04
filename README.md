@@ -65,8 +65,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>4</td>
-		<td>4</td>
-		<td></td>
+		<td>6</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20049</td>
-		<td>44</td>
+		<td>20051</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
@@ -916,8 +916,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>4</td>
-		<td>4</td>
-		<td></td>
+		<td>6</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20049</td>
-		<td>44</td>
+		<td>20051</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
