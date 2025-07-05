@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-boss.loot | downloads: 21
+v1.0.0-boss.loot | downloads: 23
 v1.0.5-combat.ai | downloads: 26
 v1.0.2-flare.play | downloads: 3
 v1.0.7-mission.helper | downloads: 26
@@ -116,7 +116,7 @@ v1.0.2-quarg.farm | downloads: 190
 v1.0.2-landing.images.highres | downloads: 278
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
-v1.0.1-automata.in.human.space | downloads: 398
+v1.0.1-automata.in.human.space | downloads: 400
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -244,17 +244,17 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22137
+# TOTAL DOWNLOADS: 22141
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 895
 automata.destruction.0percent 555
-automata.in.human.space 459
+automata.in.human.space 461
 avgi.licenses 229
 better.starts 582
-boss.loot 21
+boss.loot 23
 bunrodea.missions 780
 captureable.person.ships 565
 coalition.shopping 637
