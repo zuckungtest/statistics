@@ -43,8 +43,8 @@
 		<td>458</td>
 		<td>459</td>
 		<td>459</td>
-		<td>459</td>
-		<td></td>
+		<td>461</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>0</td>
 		<td>4</td>
 		<td>17</td>
-		<td>21</td>
-		<td>+ 4</td>
+		<td>23</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20126</td>
-		<td>35</td>
+		<td>20130</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
@@ -762,8 +762,8 @@
 		<td>458</td>
 		<td>459</td>
 		<td>459</td>
-		<td>459</td>
-		<td></td>
+		<td>461</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -916,8 +916,8 @@
 		<td>0</td>
 		<td>4</td>
 		<td>17</td>
-		<td>21</td>
-		<td>+ 4</td>
+		<td>23</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20126</td>
-		<td>35</td>
+		<td>20130</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>38</td>
 		<td>115</td>
 		<td>32</td>
-		<td>55</td>
+		<td>76</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>8</td>
 		<td>16</td>
 		<td>20</td>
-		<td>10</td>
+		<td>13</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3105</td>
-		<td>848</td>
+		<td>3126</td>
+		<td>851</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>73</td>
-		<td>42.53</td>
-		<td>11.62</td>
+		<td>42.82</td>
+		<td>11.66</td>
 		<td></td>
 		<td></td>
 	</tr>
