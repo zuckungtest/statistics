@@ -98,8 +98,8 @@
 		<td>628</td>
 		<td>629</td>
 		<td>633</td>
-		<td>633</td>
-		<td></td>
+		<td>635</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -373,8 +373,8 @@
 		<td>305</td>
 		<td>306</td>
 		<td>306</td>
-		<td>306</td>
-		<td></td>
+		<td>308</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20104</td>
-		<td>13</td>
+		<td>20108</td>
+		<td>17</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>628</td>
 		<td>629</td>
 		<td>633</td>
-		<td>633</td>
-		<td></td>
+		<td>635</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -850,8 +850,8 @@
 		<td>305</td>
 		<td>306</td>
 		<td>306</td>
-		<td>306</td>
-		<td></td>
+		<td>308</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20104</td>
-		<td>13</td>
+		<td>20108</td>
+		<td>17</td>
 	</tr>
 </table>
 </sub></sup>
