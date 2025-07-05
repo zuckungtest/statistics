@@ -54,8 +54,8 @@
 		<td>575</td>
 		<td>578</td>
 		<td>580</td>
-		<td>580</td>
-		<td></td>
+		<td>582</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20102</td>
-		<td>11</td>
+		<td>20104</td>
+		<td>13</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>575</td>
 		<td>578</td>
 		<td>580</td>
-		<td>580</td>
-		<td></td>
+		<td>582</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20102</td>
-		<td>11</td>
+		<td>20104</td>
+		<td>13</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>38</td>
 		<td>115</td>
 		<td>32</td>
-		<td>4</td>
+		<td>32</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>8</td>
 		<td>16</td>
 		<td>20</td>
-		<td>3</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3054</td>
-		<td>841</td>
+		<td>3082</td>
+		<td>842</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>73</td>
-		<td>41.84</td>
-		<td>11.52</td>
+		<td>42.22</td>
+		<td>11.53</td>
 		<td></td>
 		<td></td>
 	</tr>
