@@ -153,8 +153,8 @@
 		<td>768</td>
 		<td>769</td>
 		<td>771</td>
-		<td>771</td>
-		<td></td>
+		<td>772</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -362,8 +362,8 @@
 		<td>498</td>
 		<td>499</td>
 		<td>501</td>
-		<td>501</td>
-		<td></td>
+		<td>503</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -450,8 +450,8 @@
 		<td>548</td>
 		<td>549</td>
 		<td>549</td>
-		<td>549</td>
-		<td></td>
+		<td>551</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20091</td>
-		<td>0</td>
+		<td>20096</td>
+		<td>5</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>768</td>
 		<td>769</td>
 		<td>771</td>
-		<td>771</td>
-		<td></td>
+		<td>772</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -663,8 +663,8 @@
 		<td>548</td>
 		<td>549</td>
 		<td>549</td>
-		<td>549</td>
-		<td></td>
+		<td>551</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>paint.your.ships</td>
+		<td>487</td>
+		<td>488</td>
+		<td>496</td>
+		<td>498</td>
+		<td>499</td>
+		<td>501</td>
+		<td>503</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>494</td>
 		<td>496</td>
@@ -686,17 +697,6 @@
 		<td>501</td>
 		<td>503</td>
 		<td>503</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>487</td>
-		<td>488</td>
-		<td>496</td>
-		<td>498</td>
-		<td>499</td>
-		<td>501</td>
-		<td>501</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20091</td>
-		<td>0</td>
+		<td>20096</td>
+		<td>5</td>
 	</tr>
 </table>
 </sub></sup>
