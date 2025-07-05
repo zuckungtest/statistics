@@ -47,7 +47,7 @@ v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 162
-v1.0.3-planet.map | downloads: 93
+v1.0.3-planet.map | downloads: 95
 v1.0.8-bunrodea.missions | downloads: 203
 v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
@@ -92,7 +92,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 439
+v1.0.6-coalition.shopping | downloads: 441
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 506
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22115
+# TOTAL DOWNLOADS: 22119
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -257,7 +257,7 @@ better.starts 582
 boss.loot 21
 bunrodea.missions 778
 captureable.person.ships 565
-coalition.shopping 633
+coalition.shopping 635
 combat.ai 264
 control.station 486
 devil-run.unhidden 66
@@ -287,7 +287,7 @@ no.more.mereti.mines 400
 outfits.weapon.slot 440
 paint.your.ships 503
 pirate.warlords 3
-planet.map 306
+planet.map 308
 planet.pluto 190
 quarg.farm 705
 real.fluff 93
