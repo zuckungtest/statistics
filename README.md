@@ -76,8 +76,8 @@
 		<td>776</td>
 		<td>778</td>
 		<td>780</td>
-		<td>780</td>
-		<td></td>
+		<td>782</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>256</td>
 		<td>262</td>
 		<td>264</td>
-		<td>264</td>
-		<td></td>
+		<td>265</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>769</td>
 		<td>771</td>
 		<td>772</td>
-		<td>772</td>
-		<td></td>
+		<td>773</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>878</td>
 		<td>880</td>
 		<td>880</td>
-		<td>882</td>
-		<td>+ 2</td>
+		<td>883</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20151</td>
-		<td>21</td>
+		<td>20156</td>
+		<td>26</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>878</td>
 		<td>880</td>
 		<td>880</td>
-		<td>882</td>
-		<td>+ 2</td>
+		<td>883</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -509,8 +509,8 @@
 		<td>776</td>
 		<td>778</td>
 		<td>780</td>
-		<td>780</td>
-		<td></td>
+		<td>782</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -520,8 +520,8 @@
 		<td>769</td>
 		<td>771</td>
 		<td>772</td>
-		<td>772</td>
-		<td></td>
+		<td>773</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -872,8 +872,8 @@
 		<td>256</td>
 		<td>262</td>
 		<td>264</td>
-		<td>264</td>
-		<td></td>
+		<td>265</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20151</td>
-		<td>21</td>
+		<td>20156</td>
+		<td>26</td>
 	</tr>
 </table>
 </sub></sup>
