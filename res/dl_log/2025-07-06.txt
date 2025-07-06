@@ -4,10 +4,10 @@ v1.0.5-combat.ai | downloads: 28
 v1.0.2-flare.play | downloads: 3
 v1.0.7-mission.helper | downloads: 33
 v1.0.9-expert.crew.members | downloads: 32
-v1.0.10-uniques | downloads: 38
+v1.0.10-uniques | downloads: 40
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 24
-v1.0.5-show.reputation | downloads: 33
+v1.0.5-show.reputation | downloads: 34
 v1.0.3-paint.your.ships | downloads: 39
 v1.1.9-captureable.person.ships | downloads: 43
 v1.0.9-bunrodea.missions | downloads: 60
@@ -24,16 +24,16 @@ v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 109
 v1.1.5-hai.side.mission.unlocker | downloads: 73
-v1.0.6-snowfeather.robotics | downloads: 73
+v1.0.6-snowfeather.robotics | downloads: 74
 v1.0.6-human.labels | downloads: 41
-v1.0.5-quarg.farm | downloads: 116
+v1.0.5-quarg.farm | downloads: 117
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
-v1.0.3-more.person.ships | downloads: 58
+v1.0.3-more.person.ships | downloads: 59
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
-v1.0.1-outfits.weapon.slot | downloads: 62
+v1.0.1-outfits.weapon.slot | downloads: 63
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 72
@@ -76,7 +76,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 431
+v1.0.4-too.many.asteroids | downloads: 432
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22195
+# TOTAL DOWNLOADS: 22203
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -281,20 +281,20 @@ licenses 270
 mission.helper 501
 more.arfectas 644
 more.boarding.missions 702
-more.person.ships 471
+more.person.ships 472
 navy.licenses 575
 no.more.mereti.mines 402
-outfits.weapon.slot 440
+outfits.weapon.slot 441
 paint.your.ships 503
 pirate.warlords 3
 planet.map 308
 planet.pluto 190
-quarg.farm 707
+quarg.farm 708
 real.fluff 93
-show.reputation 594
-snowfeather.robotics 537
+show.reputation 595
+snowfeather.robotics 538
 space.fauna 379
-too.many.asteroids 762
+too.many.asteroids 763
 tribute.republic 334
 unique.fix 44
-uniques 552
+uniques 554
