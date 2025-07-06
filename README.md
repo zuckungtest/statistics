@@ -65,8 +65,8 @@
 		<td>4</td>
 		<td>17</td>
 		<td>23</td>
-		<td>26</td>
-		<td>+ 3</td>
+		<td>28</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -296,8 +296,8 @@
 		<td>486</td>
 		<td>490</td>
 		<td>494</td>
-		<td>496</td>
-		<td>+ 2</td>
+		<td>498</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20137</td>
-		<td>7</td>
+		<td>20141</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
@@ -707,8 +707,8 @@
 		<td>486</td>
 		<td>490</td>
 		<td>494</td>
-		<td>496</td>
-		<td>+ 2</td>
+		<td>498</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -916,8 +916,8 @@
 		<td>4</td>
 		<td>17</td>
 		<td>23</td>
-		<td>26</td>
-		<td>+ 3</td>
+		<td>28</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20137</td>
-		<td>7</td>
+		<td>20141</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
