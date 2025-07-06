@@ -2,7 +2,7 @@
 v1.0.0-boss.loot | downloads: 28
 v1.0.5-combat.ai | downloads: 26
 v1.0.2-flare.play | downloads: 3
-v1.0.7-mission.helper | downloads: 30
+v1.0.7-mission.helper | downloads: 32
 v1.0.9-expert.crew.members | downloads: 31
 v1.0.10-uniques | downloads: 37
 v1.0.8-expert.crew.members | downloads: 18
@@ -16,13 +16,13 @@ v1.0.4-control.station | downloads: 57
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 113
-v1.1.8-galactic.capital.investment | downloads: 88
+v1.1.8-galactic.capital.investment | downloads: 90
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
 v1.0.23-additional.command.buttons.radial | downloads: 107
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
-v1.1.5-more.boarding.missions | downloads: 106
+v1.1.5-more.boarding.missions | downloads: 108
 v1.1.5-hai.side.mission.unlocker | downloads: 72
 v1.0.6-snowfeather.robotics | downloads: 72
 v1.0.6-human.labels | downloads: 41
@@ -95,7 +95,7 @@ v1.0.3-navy.licenses | downloads: 362
 v1.0.6-coalition.shopping | downloads: 443
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 506
+v1.0.2-kor.efret.shipyard | downloads: 510
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22152
+# TOTAL DOWNLOADS: 22162
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -266,21 +266,21 @@ disable.spaceport.repeatables 389
 expert.crew.members 772
 flare.play 129
 free.worlds.5.years.later 369
-galactic.capital.investment 880
+galactic.capital.investment 882
 gegno.pirates 718
 hai.side.mission.unlocker 503
 highrollers.ltd 174
 human.labels 428
 jump.gates 553
 kestrel.unlocks 475
-kor.efret.shipyard 677
+kor.efret.shipyard 681
 landing.images 492
 landing.images.android 349
 landing.images.highres 346
 licenses 269
-mission.helper 498
+mission.helper 500
 more.arfectas 643
-more.boarding.missions 699
+more.boarding.missions 701
 more.person.ships 471
 navy.licenses 575
 no.more.mereti.mines 402
