@@ -109,8 +109,8 @@
 		<td>262</td>
 		<td>264</td>
 		<td>266</td>
-		<td>269</td>
-		<td>+ 3</td>
+		<td>272</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>771</td>
 		<td>772</td>
 		<td>773</td>
-		<td>777</td>
-		<td>+ 4</td>
+		<td>780</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -318,8 +318,8 @@
 		<td>697</td>
 		<td>699</td>
 		<td>702</td>
-		<td>704</td>
-		<td>+ 2</td>
+		<td>706</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -450,8 +450,8 @@
 		<td>549</td>
 		<td>551</td>
 		<td>554</td>
-		<td>557</td>
-		<td>+ 3</td>
+		<td>559</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20250</td>
-		<td>58</td>
+		<td>20260</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>771</td>
 		<td>772</td>
 		<td>773</td>
-		<td>777</td>
-		<td>+ 4</td>
+		<td>780</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -564,8 +564,8 @@
 		<td>697</td>
 		<td>699</td>
 		<td>702</td>
-		<td>704</td>
-		<td>+ 2</td>
+		<td>706</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -641,8 +641,8 @@
 		<td>549</td>
 		<td>551</td>
 		<td>554</td>
-		<td>557</td>
-		<td>+ 3</td>
+		<td>559</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -872,8 +872,8 @@
 		<td>262</td>
 		<td>264</td>
 		<td>266</td>
-		<td>269</td>
-		<td>+ 3</td>
+		<td>272</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20250</td>
-		<td>58</td>
+		<td>20260</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
