@@ -98,8 +98,8 @@
 		<td>633</td>
 		<td>637</td>
 		<td>638</td>
-		<td>638</td>
-		<td></td>
+		<td>640</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -450,8 +450,8 @@
 		<td>549</td>
 		<td>551</td>
 		<td>554</td>
-		<td>556</td>
-		<td>+ 2</td>
+		<td>557</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20247</td>
-		<td>55</td>
+		<td>20250</td>
+		<td>58</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>633</td>
 		<td>637</td>
 		<td>638</td>
-		<td>638</td>
-		<td></td>
+		<td>640</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -641,8 +641,8 @@
 		<td>549</td>
 		<td>551</td>
 		<td>554</td>
-		<td>556</td>
-		<td>+ 2</td>
+		<td>557</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20247</td>
-		<td>55</td>
+		<td>20250</td>
+		<td>58</td>
 	</tr>
 </table>
 </sub></sup>
