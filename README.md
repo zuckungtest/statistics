@@ -956,7 +956,7 @@
 		<td>32</td>
 		<td>79</td>
 		<td>26</td>
-		<td>12</td>
+		<td>13</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -982,7 +982,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3167</td>
+		<td>3168</td>
 		<td>866</td>
 		<td>165</td>
 		<td>21</td>
@@ -996,7 +996,7 @@
 	</tr>
 	<tr>
 		<td>75</td>
-		<td>42.23</td>
+		<td>42.24</td>
 		<td>11.55</td>
 		<td></td>
 		<td></td>
