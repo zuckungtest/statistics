@@ -4,7 +4,7 @@ v1.0.5-combat.ai | downloads: 31
 v1.0.2-flare.play | downloads: 6
 v1.0.7-mission.helper | downloads: 35
 v1.0.9-expert.crew.members | downloads: 36
-v1.0.10-uniques | downloads: 42
+v1.0.10-uniques | downloads: 43
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 24
 v1.0.5-show.reputation | downloads: 36
@@ -92,7 +92,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 444
+v1.0.6-coalition.shopping | downloads: 446
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 513
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22258
+# TOTAL DOWNLOADS: 22261
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -257,7 +257,7 @@ better.starts 585
 boss.loot 32
 bunrodea.missions 785
 captureable.person.ships 566
-coalition.shopping 638
+coalition.shopping 640
 combat.ai 269
 control.station 490
 devil-run.unhidden 66
@@ -297,4 +297,4 @@ space.fauna 379
 too.many.asteroids 763
 tribute.republic 334
 unique.fix 44
-uniques 556
+uniques 557
