@@ -11,7 +11,7 @@ v1.0.5-show.reputation | downloads: 37
 v1.0.3-paint.your.ships | downloads: 41
 v1.1.9-captureable.person.ships | downloads: 49
 v1.0.9-bunrodea.missions | downloads: 65
-v1.0.5-better.starts | downloads: 45
+v1.0.5-better.starts | downloads: 47
 v1.0.4-control.station | downloads: 62
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22350
+# TOTAL DOWNLOADS: 22352
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -253,7 +253,7 @@ additional.command.buttons.radial 903
 automata.destruction.0percent 555
 automata.in.human.space 462
 avgi.licenses 229
-better.starts 589
+better.starts 591
 boss.loot 35
 bunrodea.missions 788
 captureable.person.ships 572
