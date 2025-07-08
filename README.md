@@ -450,8 +450,8 @@
 		<td>551</td>
 		<td>554</td>
 		<td>559</td>
-		<td>559</td>
-		<td></td>
+		<td>560</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20267</td>
-		<td>5</td>
+		<td>20268</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>551</td>
 		<td>554</td>
 		<td>559</td>
-		<td>559</td>
-		<td></td>
+		<td>560</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20267</td>
-		<td>5</td>
+		<td>20268</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>79</td>
 		<td>26</td>
 		<td>28</td>
-		<td>6</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>14</td>
 		<td>9</td>
 		<td>10</td>
-		<td>3</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3189</td>
-		<td>874</td>
+		<td>3190</td>
+		<td>875</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>76</td>
-		<td>41.96</td>
-		<td>11.50</td>
+		<td>41.97</td>
+		<td>11.51</td>
 		<td></td>
 		<td></td>
 	</tr>
