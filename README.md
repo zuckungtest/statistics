@@ -296,8 +296,8 @@
 		<td>494</td>
 		<td>501</td>
 		<td>505</td>
-		<td>505</td>
-		<td></td>
+		<td>507</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20262</td>
-		<td>0</td>
+		<td>20264</td>
+		<td>2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -678,6 +678,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>485</td>
+		<td>486</td>
+		<td>490</td>
+		<td>494</td>
+		<td>501</td>
+		<td>505</td>
+		<td>507</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>hai.side.mission.unlocker</td>
 		<td>500</td>
 		<td>501</td>
@@ -695,17 +706,6 @@
 		<td>501</td>
 		<td>503</td>
 		<td>503</td>
-		<td>505</td>
-		<td>505</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>485</td>
-		<td>486</td>
-		<td>490</td>
-		<td>494</td>
-		<td>501</td>
 		<td>505</td>
 		<td>505</td>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20262</td>
-		<td>0</td>
+		<td>20264</td>
+		<td>2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -936,7 +936,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-06-29</td>
 		<td>2025-06-30</td>
 		<td>2025-07-01</td>
 		<td>2025-07-02</td>
@@ -945,10 +944,10 @@
 		<td>2025-07-05</td>
 		<td>2025-07-06</td>
 		<td>2025-07-07</td>
+		<td>2025-07-08</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>46</td>
 		<td>17</td>
 		<td>49</td>
 		<td>38</td>
@@ -957,10 +956,10 @@
 		<td>79</td>
 		<td>26</td>
 		<td>28</td>
+		<td>1</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>18</td>
 		<td>6</td>
 		<td>12</td>
 		<td>8</td>
@@ -969,6 +968,7 @@
 		<td>14</td>
 		<td>9</td>
 		<td>10</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3183</td>
-		<td>871</td>
+		<td>3184</td>
+		<td>872</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>76</td>
-		<td>41.88</td>
-		<td>11.46</td>
+		<td>41.89</td>
+		<td>11.47</td>
 		<td></td>
 		<td></td>
 	</tr>
