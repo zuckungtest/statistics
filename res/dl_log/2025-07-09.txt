@@ -1,8 +1,8 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-boss.loot | downloads: 37
+v1.0.0-boss.loot | downloads: 39
 v1.0.5-combat.ai | downloads: 39
 v1.0.2-flare.play | downloads: 9
-v1.0.7-mission.helper | downloads: 46
+v1.0.7-mission.helper | downloads: 48
 v1.0.9-expert.crew.members | downloads: 44
 v1.0.10-uniques | downloads: 56
 v1.0.8-expert.crew.members | downloads: 18
@@ -12,11 +12,11 @@ v1.0.3-paint.your.ships | downloads: 43
 v1.1.9-captureable.person.ships | downloads: 53
 v1.0.9-bunrodea.missions | downloads: 70
 v1.0.5-better.starts | downloads: 50
-v1.0.4-control.station | downloads: 65
+v1.0.4-control.station | downloads: 67
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 114
-v1.1.8-galactic.capital.investment | downloads: 102
+v1.1.8-galactic.capital.investment | downloads: 104
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
 v1.0.23-additional.command.buttons.radial | downloads: 117
@@ -137,7 +137,7 @@ v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
 v1.0.0-kestrel.unlocks | downloads: 478
-v1.0.2-tribute.republic | downloads: 318
+v1.0.2-tribute.republic | downloads: 320
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22452
+# TOTAL DOWNLOADS: 22462
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -254,19 +254,19 @@ automata.destruction.0percent 557
 automata.in.human.space 463
 avgi.licenses 229
 better.starts 594
-boss.loot 37
+boss.loot 39
 bunrodea.missions 793
 captureable.person.ships 576
 coalition.shopping 642
 combat.ai 278
-control.station 494
+control.station 496
 devil-run.unhidden 66
 disable.person.ships 259
 disable.spaceport.repeatables 391
 expert.crew.members 785
 flare.play 135
 free.worlds.5.years.later 369
-galactic.capital.investment 894
+galactic.capital.investment 896
 gegno.pirates 729
 hai.side.mission.unlocker 512
 highrollers.ltd 174
@@ -278,7 +278,7 @@ landing.images 497
 landing.images.android 349
 landing.images.highres 351
 licenses 286
-mission.helper 514
+mission.helper 516
 more.arfectas 648
 more.boarding.missions 711
 more.person.ships 480
@@ -295,6 +295,6 @@ show.reputation 603
 snowfeather.robotics 544
 space.fauna 382
 too.many.asteroids 763
-tribute.republic 336
+tribute.republic 338
 unique.fix 44
 uniques 570
