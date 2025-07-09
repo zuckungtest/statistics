@@ -65,8 +65,8 @@
 		<td>29</td>
 		<td>32</td>
 		<td>35</td>
-		<td>35</td>
-		<td></td>
+		<td>37</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>266</td>
 		<td>272</td>
 		<td>275</td>
-		<td>275</td>
-		<td></td>
+		<td>277</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20374</td>
-		<td>32</td>
+		<td>20378</td>
+		<td>36</td>
 	</tr>
 </table>
 </sub></sup>
@@ -872,8 +872,8 @@
 		<td>266</td>
 		<td>272</td>
 		<td>275</td>
-		<td>275</td>
-		<td></td>
+		<td>277</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -916,8 +916,8 @@
 		<td>29</td>
 		<td>32</td>
 		<td>35</td>
-		<td>35</td>
-		<td></td>
+		<td>37</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20374</td>
-		<td>32</td>
+		<td>20378</td>
+		<td>36</td>
 	</tr>
 </table>
 </sub></sup>
