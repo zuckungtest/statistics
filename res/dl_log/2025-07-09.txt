@@ -8,11 +8,11 @@ v1.0.10-uniques | downloads: 53
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 24
 v1.0.5-show.reputation | downloads: 39
-v1.0.3-paint.your.ships | downloads: 41
-v1.1.9-captureable.person.ships | downloads: 49
+v1.0.3-paint.your.ships | downloads: 43
+v1.1.9-captureable.person.ships | downloads: 51
 v1.0.9-bunrodea.missions | downloads: 69
-v1.0.5-better.starts | downloads: 47
-v1.0.4-control.station | downloads: 62
+v1.0.5-better.starts | downloads: 49
+v1.0.4-control.station | downloads: 64
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 114
@@ -37,7 +37,7 @@ v1.0.1-outfits.weapon.slot | downloads: 67
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 72
-v1.0.1-licenses | downloads: 278
+v1.0.1-licenses | downloads: 280
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22373
+# TOTAL DOWNLOADS: 22383
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -253,13 +253,13 @@ additional.command.buttons.radial 903
 automata.destruction.0percent 555
 automata.in.human.space 462
 avgi.licenses 229
-better.starts 591
+better.starts 593
 boss.loot 35
 bunrodea.missions 792
-captureable.person.ships 572
+captureable.person.ships 574
 coalition.shopping 641
 combat.ai 275
-control.station 491
+control.station 493
 devil-run.unhidden 66
 disable.person.ships 259
 disable.spaceport.repeatables 389
@@ -277,7 +277,7 @@ kor.efret.shipyard 688
 landing.images 494
 landing.images.android 349
 landing.images.highres 349
-licenses 280
+licenses 282
 mission.helper 510
 more.arfectas 646
 more.boarding.missions 709
@@ -285,7 +285,7 @@ more.person.ships 478
 navy.licenses 575
 no.more.mereti.mines 402
 outfits.weapon.slot 445
-paint.your.ships 505
+paint.your.ships 507
 pirate.warlords 3
 planet.map 308
 planet.pluto 190
