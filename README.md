@@ -285,8 +285,8 @@
 		<td>270</td>
 		<td>274</td>
 		<td>280</td>
-		<td>282</td>
-		<td>+ 2</td>
+		<td>284</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>501</td>
 		<td>505</td>
 		<td>510</td>
-		<td>510</td>
-		<td></td>
+		<td>512</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -450,8 +450,8 @@
 		<td>554</td>
 		<td>559</td>
 		<td>565</td>
-		<td>567</td>
-		<td>+ 2</td>
+		<td>569</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20378</td>
-		<td>36</td>
+		<td>20384</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>554</td>
 		<td>559</td>
 		<td>565</td>
-		<td>567</td>
-		<td>+ 2</td>
+		<td>569</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -685,8 +685,8 @@
 		<td>501</td>
 		<td>505</td>
 		<td>510</td>
-		<td>510</td>
-		<td></td>
+		<td>512</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -861,8 +861,8 @@
 		<td>270</td>
 		<td>274</td>
 		<td>280</td>
-		<td>282</td>
-		<td>+ 2</td>
+		<td>284</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20378</td>
-		<td>36</td>
+		<td>20384</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
