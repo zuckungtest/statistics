@@ -2,9 +2,9 @@
 v1.0.0-boss.loot | downloads: 37
 v1.0.5-combat.ai | downloads: 38
 v1.0.2-flare.play | downloads: 9
-v1.0.7-mission.helper | downloads: 42
+v1.0.7-mission.helper | downloads: 44
 v1.0.9-expert.crew.members | downloads: 41
-v1.0.10-uniques | downloads: 53
+v1.0.10-uniques | downloads: 55
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 24
 v1.0.5-show.reputation | downloads: 39
@@ -37,7 +37,7 @@ v1.0.1-outfits.weapon.slot | downloads: 67
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 72
-v1.0.1-licenses | downloads: 280
+v1.0.1-licenses | downloads: 282
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22389
+# TOTAL DOWNLOADS: 22395
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -277,8 +277,8 @@ kor.efret.shipyard 688
 landing.images 494
 landing.images.android 349
 landing.images.highres 349
-licenses 282
-mission.helper 510
+licenses 284
+mission.helper 512
 more.arfectas 646
 more.boarding.missions 709
 more.person.ships 478
@@ -297,4 +297,4 @@ space.fauna 382
 too.many.asteroids 763
 tribute.republic 334
 unique.fix 44
-uniques 567
+uniques 569
