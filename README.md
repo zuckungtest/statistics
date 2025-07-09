@@ -65,8 +65,8 @@
 		<td>29</td>
 		<td>32</td>
 		<td>35</td>
-		<td>37</td>
-		<td>+ 2</td>
+		<td>39</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -120,8 +120,8 @@
 		<td>487</td>
 		<td>490</td>
 		<td>491</td>
-		<td>494</td>
-		<td>+ 3</td>
+		<td>496</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>884</td>
 		<td>886</td>
 		<td>890</td>
-		<td>894</td>
-		<td>+ 4</td>
+		<td>896</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -296,8 +296,8 @@
 		<td>501</td>
 		<td>505</td>
 		<td>510</td>
-		<td>514</td>
-		<td>+ 4</td>
+		<td>516</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -439,8 +439,8 @@
 		<td>334</td>
 		<td>334</td>
 		<td>334</td>
-		<td>336</td>
-		<td>+ 2</td>
+		<td>338</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20441</td>
-		<td>99</td>
+		<td>20451</td>
+		<td>109</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>884</td>
 		<td>886</td>
 		<td>890</td>
-		<td>894</td>
-		<td>+ 4</td>
+		<td>896</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -685,8 +685,8 @@
 		<td>501</td>
 		<td>505</td>
 		<td>510</td>
-		<td>514</td>
-		<td>+ 4</td>
+		<td>516</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -729,8 +729,8 @@
 		<td>487</td>
 		<td>490</td>
 		<td>491</td>
-		<td>494</td>
-		<td>+ 3</td>
+		<td>496</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -839,8 +839,8 @@
 		<td>334</td>
 		<td>334</td>
 		<td>334</td>
-		<td>336</td>
-		<td>+ 2</td>
+		<td>338</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -916,8 +916,8 @@
 		<td>29</td>
 		<td>32</td>
 		<td>35</td>
-		<td>37</td>
-		<td>+ 2</td>
+		<td>39</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20441</td>
-		<td>99</td>
+		<td>20451</td>
+		<td>109</td>
 	</tr>
 </table>
 </sub></sup>
