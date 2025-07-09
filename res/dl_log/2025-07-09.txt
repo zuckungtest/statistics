@@ -4,7 +4,7 @@ v1.0.5-combat.ai | downloads: 36
 v1.0.2-flare.play | downloads: 9
 v1.0.7-mission.helper | downloads: 42
 v1.0.9-expert.crew.members | downloads: 41
-v1.0.10-uniques | downloads: 51
+v1.0.10-uniques | downloads: 53
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 24
 v1.0.5-show.reputation | downloads: 37
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22367
+# TOTAL DOWNLOADS: 22369
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -297,4 +297,4 @@ space.fauna 382
 too.many.asteroids 763
 tribute.republic 334
 unique.fix 44
-uniques 565
+uniques 567
