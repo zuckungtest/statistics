@@ -21,8 +21,8 @@
 		<td>900</td>
 		<td>903</td>
 		<td>905</td>
-		<td>907</td>
-		<td>+ 2</td>
+		<td>909</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -186,8 +186,8 @@
 		<td>721</td>
 		<td>724</td>
 		<td>729</td>
-		<td>731</td>
-		<td>+ 2</td>
+		<td>733</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -395,8 +395,8 @@
 		<td>597</td>
 		<td>598</td>
 		<td>603</td>
-		<td>605</td>
-		<td>+ 2</td>
+		<td>607</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20548</td>
-		<td>97</td>
+		<td>20554</td>
+		<td>103</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>900</td>
 		<td>903</td>
 		<td>905</td>
-		<td>907</td>
-		<td>+ 2</td>
+		<td>909</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -542,8 +542,8 @@
 		<td>721</td>
 		<td>724</td>
 		<td>729</td>
-		<td>731</td>
-		<td>+ 2</td>
+		<td>733</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -608,8 +608,8 @@
 		<td>597</td>
 		<td>598</td>
 		<td>603</td>
-		<td>605</td>
-		<td>+ 2</td>
+		<td>607</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20548</td>
-		<td>97</td>
+		<td>20554</td>
+		<td>103</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>28</td>
 		<td>44</td>
 		<td>38</td>
-		<td>14</td>
+		<td>17</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>10</td>
 		<td>14</td>
 		<td>14</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3279</td>
-		<td>907</td>
+		<td>3282</td>
+		<td>908</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>78</td>
-		<td>42.04</td>
-		<td>11.63</td>
+		<td>42.08</td>
+		<td>11.64</td>
 		<td></td>
 		<td></td>
 	</tr>
