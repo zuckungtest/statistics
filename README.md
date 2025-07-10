@@ -131,8 +131,8 @@
 		<td>259</td>
 		<td>259</td>
 		<td>259</td>
-		<td>261</td>
-		<td>+ 2</td>
+		<td>263</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -285,8 +285,8 @@
 		<td>274</td>
 		<td>280</td>
 		<td>286</td>
-		<td>288</td>
-		<td>+ 2</td>
+		<td>290</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20544</td>
-		<td>93</td>
+		<td>20548</td>
+		<td>97</td>
 	</tr>
 </table>
 </sub></sup>
@@ -861,8 +861,8 @@
 		<td>274</td>
 		<td>280</td>
 		<td>286</td>
-		<td>288</td>
-		<td>+ 2</td>
+		<td>290</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -883,8 +883,8 @@
 		<td>259</td>
 		<td>259</td>
 		<td>259</td>
-		<td>261</td>
-		<td>+ 2</td>
+		<td>263</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20544</td>
-		<td>93</td>
+		<td>20548</td>
+		<td>97</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>28</td>
 		<td>44</td>
 		<td>38</td>
-		<td>12</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>10</td>
 		<td>14</td>
 		<td>14</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3277</td>
-		<td>906</td>
+		<td>3279</td>
+		<td>907</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>78</td>
-		<td>42.01</td>
-		<td>11.62</td>
+		<td>42.04</td>
+		<td>11.63</td>
 		<td></td>
 		<td></td>
 	</tr>
