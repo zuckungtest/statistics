@@ -109,8 +109,8 @@
 		<td>272</td>
 		<td>275</td>
 		<td>278</td>
-		<td>284</td>
-		<td>+ 6</td>
+		<td>285</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20543</td>
-		<td>92</td>
+		<td>20544</td>
+		<td>93</td>
 	</tr>
 </table>
 </sub></sup>
@@ -872,8 +872,8 @@
 		<td>272</td>
 		<td>275</td>
 		<td>278</td>
-		<td>284</td>
-		<td>+ 6</td>
+		<td>285</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20543</td>
-		<td>92</td>
+		<td>20544</td>
+		<td>93</td>
 	</tr>
 </table>
 </sub></sup>
