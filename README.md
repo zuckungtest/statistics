@@ -65,8 +65,8 @@
 		<td>35</td>
 		<td>39</td>
 		<td>44</td>
-		<td>48</td>
-		<td>+ 4</td>
+		<td>50</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -87,8 +87,8 @@
 		<td>572</td>
 		<td>576</td>
 		<td>578</td>
-		<td>580</td>
-		<td>+ 2</td>
+		<td>582</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -109,8 +109,8 @@
 		<td>275</td>
 		<td>278</td>
 		<td>285</td>
-		<td>289</td>
-		<td>+ 4</td>
+		<td>291</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -219,8 +219,8 @@
 		<td>429</td>
 		<td>429</td>
 		<td>431</td>
-		<td>431</td>
-		<td></td>
+		<td>433</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -230,8 +230,8 @@
 		<td>554</td>
 		<td>558</td>
 		<td>560</td>
-		<td>560</td>
-		<td></td>
+		<td>562</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -285,8 +285,8 @@
 		<td>280</td>
 		<td>286</td>
 		<td>290</td>
-		<td>292</td>
-		<td>+ 2</td>
+		<td>294</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>510</td>
 		<td>516</td>
 		<td>518</td>
-		<td>520</td>
-		<td>+ 2</td>
+		<td>522</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>644</td>
 		<td>648</td>
 		<td>650</td>
-		<td>652</td>
-		<td>+ 2</td>
+		<td>654</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>712</td>
 		<td>716</td>
 		<td>718</td>
-		<td>720</td>
-		<td>+ 2</td>
+		<td>722</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -395,8 +395,8 @@
 		<td>598</td>
 		<td>603</td>
 		<td>607</td>
-		<td>609</td>
-		<td>+ 2</td>
+		<td>611</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20624</td>
-		<td>70</td>
+		<td>20644</td>
+		<td>90</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>712</td>
 		<td>716</td>
 		<td>718</td>
-		<td>720</td>
-		<td>+ 2</td>
+		<td>722</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -586,8 +586,8 @@
 		<td>644</td>
 		<td>648</td>
 		<td>650</td>
-		<td>652</td>
-		<td>+ 2</td>
+		<td>654</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -608,8 +608,8 @@
 		<td>598</td>
 		<td>603</td>
 		<td>607</td>
-		<td>609</td>
-		<td>+ 2</td>
+		<td>611</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -630,8 +630,8 @@
 		<td>572</td>
 		<td>576</td>
 		<td>578</td>
-		<td>580</td>
-		<td>+ 2</td>
+		<td>582</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -652,8 +652,8 @@
 		<td>554</td>
 		<td>558</td>
 		<td>560</td>
-		<td>560</td>
-		<td></td>
+		<td>562</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -685,8 +685,8 @@
 		<td>510</td>
 		<td>516</td>
 		<td>518</td>
-		<td>520</td>
-		<td>+ 2</td>
+		<td>522</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -784,8 +784,8 @@
 		<td>429</td>
 		<td>429</td>
 		<td>431</td>
-		<td>431</td>
-		<td></td>
+		<td>433</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -861,8 +861,8 @@
 		<td>280</td>
 		<td>286</td>
 		<td>290</td>
-		<td>292</td>
-		<td>+ 2</td>
+		<td>294</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -872,8 +872,8 @@
 		<td>275</td>
 		<td>278</td>
 		<td>285</td>
-		<td>289</td>
-		<td>+ 4</td>
+		<td>291</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -916,8 +916,8 @@
 		<td>35</td>
 		<td>39</td>
 		<td>44</td>
-		<td>48</td>
-		<td>+ 4</td>
+		<td>50</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20624</td>
-		<td>70</td>
+		<td>20644</td>
+		<td>90</td>
 	</tr>
 </table>
 </sub></sup>
