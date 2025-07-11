@@ -362,8 +362,8 @@
 		<td>505</td>
 		<td>507</td>
 		<td>509</td>
-		<td>511</td>
-		<td>+ 2</td>
+		<td>513</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20622</td>
-		<td>68</td>
+		<td>20624</td>
+		<td>70</td>
 	</tr>
 </table>
 </sub></sup>
@@ -707,8 +707,8 @@
 		<td>505</td>
 		<td>507</td>
 		<td>509</td>
-		<td>511</td>
-		<td>+ 2</td>
+		<td>513</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20622</td>
-		<td>68</td>
+		<td>20624</td>
+		<td>70</td>
 	</tr>
 </table>
 </sub></sup>
