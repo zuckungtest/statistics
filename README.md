@@ -109,8 +109,8 @@
 		<td>275</td>
 		<td>278</td>
 		<td>285</td>
-		<td>292</td>
-		<td>+ 7</td>
+		<td>294</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -296,8 +296,8 @@
 		<td>510</td>
 		<td>516</td>
 		<td>518</td>
-		<td>523</td>
-		<td>+ 5</td>
+		<td>525</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -450,8 +450,8 @@
 		<td>565</td>
 		<td>570</td>
 		<td>572</td>
-		<td>575</td>
-		<td>+ 3</td>
+		<td>577</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20694</td>
-		<td>140</td>
+		<td>20700</td>
+		<td>146</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>565</td>
 		<td>570</td>
 		<td>572</td>
-		<td>575</td>
-		<td>+ 3</td>
+		<td>577</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -685,8 +685,8 @@
 		<td>510</td>
 		<td>516</td>
 		<td>518</td>
-		<td>523</td>
-		<td>+ 5</td>
+		<td>525</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -872,8 +872,8 @@
 		<td>275</td>
 		<td>278</td>
 		<td>285</td>
-		<td>292</td>
-		<td>+ 7</td>
+		<td>294</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20694</td>
-		<td>140</td>
+		<td>20700</td>
+		<td>146</td>
 	</tr>
 </table>
 </sub></sup>
