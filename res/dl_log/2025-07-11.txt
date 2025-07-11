@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-boss.loot | downloads: 46
+v1.0.0-boss.loot | downloads: 48
 v1.0.5-combat.ai | downloads: 47
 v1.0.2-flare.play | downloads: 11
 v1.0.7-mission.helper | downloads: 52
@@ -24,7 +24,7 @@ v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 124
 v1.1.5-hai.side.mission.unlocker | downloads: 85
-v1.0.6-snowfeather.robotics | downloads: 84
+v1.0.6-snowfeather.robotics | downloads: 86
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 129
 v1.0.4-show.reputation | downloads: 54
@@ -244,7 +244,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 243
-# TOTAL DOWNLOADS: 22625
+# TOTAL DOWNLOADS: 22629
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -254,7 +254,7 @@ automata.destruction.0percent 559
 automata.in.human.space 465
 avgi.licenses 229
 better.starts 600
-boss.loot 46
+boss.loot 48
 bunrodea.missions 798
 captureable.person.ships 580
 coalition.shopping 644
@@ -292,7 +292,7 @@ planet.pluto 190
 quarg.farm 720
 real.fluff 93
 show.reputation 609
-snowfeather.robotics 548
+snowfeather.robotics 550
 space.fauna 386
 too.many.asteroids 767
 tribute.republic 342
