@@ -76,8 +76,8 @@
 		<td>793</td>
 		<td>796</td>
 		<td>799</td>
-		<td>799</td>
-		<td></td>
+		<td>801</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -241,8 +241,8 @@
 		<td>478</td>
 		<td>480</td>
 		<td>483</td>
-		<td>483</td>
-		<td></td>
+		<td>485</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20706</td>
-		<td>6</td>
+		<td>20710</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>793</td>
 		<td>796</td>
 		<td>799</td>
-		<td>799</td>
-		<td></td>
+		<td>801</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -751,8 +751,8 @@
 		<td>478</td>
 		<td>480</td>
 		<td>483</td>
-		<td>483</td>
-		<td></td>
+		<td>485</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20706</td>
-		<td>6</td>
+		<td>20710</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -936,7 +936,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-07-03</td>
 		<td>2025-07-04</td>
 		<td>2025-07-05</td>
 		<td>2025-07-06</td>
@@ -945,10 +944,10 @@
 		<td>2025-07-09</td>
 		<td>2025-07-10</td>
 		<td>2025-07-11</td>
+		<td>2025-07-12</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>115</td>
 		<td>32</td>
 		<td>79</td>
 		<td>26</td>
@@ -957,10 +956,10 @@
 		<td>38</td>
 		<td>22</td>
 		<td>74</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>16</td>
 		<td>20</td>
 		<td>14</td>
 		<td>9</td>
@@ -969,6 +968,7 @@
 		<td>14</td>
 		<td>12</td>
 		<td>12</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3361</td>
-		<td>923</td>
+		<td>3373</td>
+		<td>928</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>80</td>
-		<td>42.01</td>
-		<td>11.54</td>
+		<td>42.16</td>
+		<td>11.60</td>
 		<td></td>
 		<td></td>
 	</tr>
