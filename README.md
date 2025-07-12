@@ -109,8 +109,8 @@
 		<td>278</td>
 		<td>285</td>
 		<td>294</td>
-		<td>295</td>
-		<td>+ 1</td>
+		<td>297</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20721</td>
-		<td>21</td>
+		<td>20723</td>
+		<td>23</td>
 	</tr>
 </table>
 </sub></sup>
@@ -854,6 +854,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>combat.ai</td>
+		<td>266</td>
+		<td>272</td>
+		<td>275</td>
+		<td>278</td>
+		<td>285</td>
+		<td>294</td>
+		<td>297</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>licenses</td>
 		<td>270</td>
 		<td>274</td>
@@ -863,17 +874,6 @@
 		<td>295</td>
 		<td>295</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>combat.ai</td>
-		<td>266</td>
-		<td>272</td>
-		<td>275</td>
-		<td>278</td>
-		<td>285</td>
-		<td>294</td>
-		<td>295</td>
-		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20721</td>
-		<td>21</td>
+		<td>20723</td>
+		<td>23</td>
 	</tr>
 </table>
 </sub></sup>
