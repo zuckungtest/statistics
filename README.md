@@ -65,8 +65,8 @@
 		<td>39</td>
 		<td>44</td>
 		<td>51</td>
-		<td>51</td>
-		<td></td>
+		<td>52</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>278</td>
 		<td>285</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>295</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -186,8 +186,8 @@
 		<td>729</td>
 		<td>733</td>
 		<td>736</td>
-		<td>736</td>
-		<td></td>
+		<td>737</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -362,8 +362,8 @@
 		<td>507</td>
 		<td>509</td>
 		<td>515</td>
-		<td>515</td>
-		<td></td>
+		<td>516</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -417,8 +417,8 @@
 		<td>382</td>
 		<td>384</td>
 		<td>387</td>
-		<td>387</td>
-		<td></td>
+		<td>388</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -428,8 +428,8 @@
 		<td>763</td>
 		<td>765</td>
 		<td>768</td>
-		<td>768</td>
-		<td></td>
+		<td>769</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20700</td>
-		<td>0</td>
+		<td>20706</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>763</td>
 		<td>765</td>
 		<td>768</td>
-		<td>768</td>
-		<td></td>
+		<td>769</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -542,8 +542,8 @@
 		<td>729</td>
 		<td>733</td>
 		<td>736</td>
-		<td>736</td>
-		<td></td>
+		<td>737</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -707,8 +707,8 @@
 		<td>507</td>
 		<td>509</td>
 		<td>515</td>
-		<td>515</td>
-		<td></td>
+		<td>516</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -817,8 +817,8 @@
 		<td>382</td>
 		<td>384</td>
 		<td>387</td>
-		<td>387</td>
-		<td></td>
+		<td>388</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -872,8 +872,8 @@
 		<td>278</td>
 		<td>285</td>
 		<td>294</td>
-		<td>294</td>
-		<td></td>
+		<td>295</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -916,8 +916,8 @@
 		<td>39</td>
 		<td>44</td>
 		<td>51</td>
-		<td>51</td>
-		<td></td>
+		<td>52</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20700</td>
-		<td>0</td>
+		<td>20706</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
