@@ -76,8 +76,8 @@
 		<td>793</td>
 		<td>796</td>
 		<td>799</td>
-		<td>801</td>
-		<td>+ 2</td>
+		<td>803</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>729</td>
 		<td>733</td>
 		<td>736</td>
-		<td>737</td>
-		<td>+ 1</td>
+		<td>739</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -252,8 +252,8 @@
 		<td>691</td>
 		<td>693</td>
 		<td>696</td>
-		<td>696</td>
-		<td></td>
+		<td>698</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -384,8 +384,8 @@
 		<td>716</td>
 		<td>718</td>
 		<td>723</td>
-		<td>723</td>
-		<td></td>
+		<td>725</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td>570</td>
 		<td>572</td>
 		<td>577</td>
-		<td>577</td>
-		<td></td>
+		<td>580</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20710</td>
-		<td>10</td>
+		<td>20721</td>
+		<td>21</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>793</td>
 		<td>796</td>
 		<td>799</td>
-		<td>801</td>
-		<td>+ 2</td>
+		<td>803</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>729</td>
 		<td>733</td>
 		<td>736</td>
-		<td>737</td>
-		<td>+ 1</td>
+		<td>739</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -553,8 +553,8 @@
 		<td>716</td>
 		<td>718</td>
 		<td>723</td>
-		<td>723</td>
-		<td></td>
+		<td>725</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -575,8 +575,8 @@
 		<td>691</td>
 		<td>693</td>
 		<td>696</td>
-		<td>696</td>
-		<td></td>
+		<td>698</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -641,8 +641,8 @@
 		<td>570</td>
 		<td>572</td>
 		<td>577</td>
-		<td>577</td>
-		<td></td>
+		<td>580</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20710</td>
-		<td>10</td>
+		<td>20721</td>
+		<td>21</td>
 	</tr>
 </table>
 </sub></sup>
