@@ -11,7 +11,7 @@ v1.0.7-human.labels | downloads: 29
 v1.0.5-show.reputation | downloads: 51
 v1.0.3-paint.your.ships | downloads: 52
 v1.1.9-captureable.person.ships | downloads: 60
-v1.0.9-bunrodea.missions | downloads: 76
+v1.0.9-bunrodea.missions | downloads: 78
 v1.0.5-better.starts | downloads: 57
 v1.0.4-control.station | downloads: 74
 v1.0.6-mission.helper | downloads: 64
@@ -137,7 +137,7 @@ v1.0.0-outfits.weapon.slot | downloads: 378
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
-v1.0.0-kestrel.unlocks | downloads: 483
+v1.0.0-kestrel.unlocks | downloads: 485
 v1.0.2-tribute.republic | downloads: 325
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -245,7 +245,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 244
-# TOTAL DOWNLOADS: 22717
+# TOTAL DOWNLOADS: 22721
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -256,7 +256,7 @@ automata.in.human.space 466
 avgi.licenses 229
 better.starts 601
 boss.loot 52
-bunrodea.missions 799
+bunrodea.missions 801
 captureable.person.ships 583
 coalition.shopping 645
 combat.ai 295
@@ -273,7 +273,7 @@ hai.side.mission.unlocker 517
 highrollers.ltd 181
 human.labels 434
 jump.gates 563
-kestrel.unlocks 483
+kestrel.unlocks 485
 kor.efret.shipyard 696
 landing.images 502
 landing.images.android 349
