@@ -1,9 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.6-combat.ai | downloads: 6
+v1.0.6-combat.ai | downloads: 8
 v1.0.0-boss.loot | downloads: 55
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 12
-v1.0.7-mission.helper | downloads: 65
+v1.0.7-mission.helper | downloads: 67
 v1.0.9-expert.crew.members | downloads: 54
 v1.0.10-uniques | downloads: 66
 v1.0.8-expert.crew.members | downloads: 18
@@ -245,7 +245,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 244
-# TOTAL DOWNLOADS: 22778
+# TOTAL DOWNLOADS: 22782
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -259,7 +259,7 @@ boss.loot 55
 bunrodea.missions 803
 captureable.person.ships 583
 coalition.shopping 649
-combat.ai 297
+combat.ai 299
 control.station 505
 devil-run.unhidden 66
 disable.person.ships 264
@@ -279,7 +279,7 @@ landing.images 504
 landing.images.android 349
 landing.images.highres 356
 licenses 297
-mission.helper 533
+mission.helper 535
 more.arfectas 655
 more.boarding.missions 718
 more.person.ships 485
