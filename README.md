@@ -120,8 +120,8 @@
 		<td>500</td>
 		<td>503</td>
 		<td>503</td>
-		<td>503</td>
-		<td></td>
+		<td>505</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -406,8 +406,8 @@
 		<td>546</td>
 		<td>551</td>
 		<td>551</td>
-		<td>551</td>
-		<td></td>
+		<td>553</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -439,8 +439,8 @@
 		<td>340</td>
 		<td>343</td>
 		<td>343</td>
-		<td>343</td>
-		<td></td>
+		<td>347</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20757</td>
-		<td>34</td>
+		<td>20765</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
@@ -674,8 +674,8 @@
 		<td>546</td>
 		<td>551</td>
 		<td>551</td>
-		<td>551</td>
-		<td></td>
+		<td>553</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -711,6 +711,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>control.station</td>
+		<td>490</td>
+		<td>491</td>
+		<td>496</td>
+		<td>500</td>
+		<td>503</td>
+		<td>503</td>
+		<td>505</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>landing.images</td>
 		<td>493</td>
 		<td>494</td>
@@ -720,17 +731,6 @@
 		<td>502</td>
 		<td>504</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>control.station</td>
-		<td>490</td>
-		<td>491</td>
-		<td>496</td>
-		<td>500</td>
-		<td>503</td>
-		<td>503</td>
-		<td>503</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -839,8 +839,8 @@
 		<td>340</td>
 		<td>343</td>
 		<td>343</td>
-		<td>343</td>
-		<td></td>
+		<td>347</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20757</td>
-		<td>34</td>
+		<td>20765</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>22</td>
 		<td>74</td>
 		<td>63</td>
-		<td>17</td>
+		<td>18</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -982,7 +982,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3441</td>
+		<td>3442</td>
 		<td>943</td>
 		<td>165</td>
 		<td>21</td>
@@ -996,7 +996,7 @@
 	</tr>
 	<tr>
 		<td>81</td>
-		<td>42.48</td>
+		<td>42.49</td>
 		<td>11.64</td>
 		<td></td>
 		<td></td>
