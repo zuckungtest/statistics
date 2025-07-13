@@ -109,8 +109,8 @@
 		<td>285</td>
 		<td>294</td>
 		<td>297</td>
-		<td>297</td>
-		<td></td>
+		<td>299</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -296,8 +296,8 @@
 		<td>518</td>
 		<td>525</td>
 		<td>525</td>
-		<td>533</td>
-		<td>+ 8</td>
+		<td>535</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20767</td>
-		<td>44</td>
+		<td>20771</td>
+		<td>48</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>518</td>
 		<td>525</td>
 		<td>525</td>
-		<td>533</td>
-		<td>+ 8</td>
+		<td>535</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -854,6 +854,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>combat.ai</td>
+		<td>272</td>
+		<td>275</td>
+		<td>278</td>
+		<td>285</td>
+		<td>294</td>
+		<td>297</td>
+		<td>299</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>licenses</td>
 		<td>274</td>
 		<td>280</td>
@@ -863,17 +874,6 @@
 		<td>295</td>
 		<td>297</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>combat.ai</td>
-		<td>272</td>
-		<td>275</td>
-		<td>278</td>
-		<td>285</td>
-		<td>294</td>
-		<td>297</td>
-		<td>297</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20767</td>
-		<td>44</td>
+		<td>20771</td>
+		<td>48</td>
 	</tr>
 </table>
 </sub></sup>
