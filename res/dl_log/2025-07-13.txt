@@ -13,7 +13,7 @@ v1.0.3-paint.your.ships | downloads: 54
 v1.1.9-captureable.person.ships | downloads: 60
 v1.0.9-bunrodea.missions | downloads: 80
 v1.0.5-better.starts | downloads: 59
-v1.0.4-control.station | downloads: 74
+v1.0.4-control.station | downloads: 76
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 114
@@ -25,7 +25,7 @@ v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 125
 v1.1.5-hai.side.mission.unlocker | downloads: 86
-v1.0.6-snowfeather.robotics | downloads: 87
+v1.0.6-snowfeather.robotics | downloads: 89
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 134
 v1.0.4-show.reputation | downloads: 54
@@ -138,7 +138,7 @@ v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
 v1.0.0-kestrel.unlocks | downloads: 485
-v1.0.2-tribute.republic | downloads: 325
+v1.0.2-tribute.republic | downloads: 329
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
@@ -245,7 +245,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 244
-# TOTAL DOWNLOADS: 22768
+# TOTAL DOWNLOADS: 22776
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -260,7 +260,7 @@ bunrodea.missions 803
 captureable.person.ships 583
 coalition.shopping 649
 combat.ai 297
-control.station 503
+control.station 505
 devil-run.unhidden 66
 disable.person.ships 264
 disable.spaceport.repeatables 396
@@ -293,9 +293,9 @@ planet.pluto 190
 quarg.farm 725
 real.fluff 93
 show.reputation 614
-snowfeather.robotics 551
+snowfeather.robotics 553
 space.fauna 388
 too.many.asteroids 771
-tribute.republic 343
+tribute.republic 347
 unique.fix 44
 uniques 580
