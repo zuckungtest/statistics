@@ -10,7 +10,7 @@ v1.0.10-uniques | downloads: 69
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 34
 v1.0.5-show.reputation | downloads: 58
-v1.0.3-paint.your.ships | downloads: 56
+v1.0.3-paint.your.ships | downloads: 57
 v1.1.9-captureable.person.ships | downloads: 62
 v1.0.9-bunrodea.missions | downloads: 85
 v1.0.5-better.starts | downloads: 62
@@ -246,7 +246,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 245
-# TOTAL DOWNLOADS: 22914
+# TOTAL DOWNLOADS: 22915
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -287,7 +287,7 @@ more.person.ships 489
 navy.licenses 575
 no.more.mereti.mines 412
 outfits.weapon.slot 454
-paint.your.ships 520
+paint.your.ships 521
 pirate.warlords 3
 planet.map 313
 planet.pluto 190
