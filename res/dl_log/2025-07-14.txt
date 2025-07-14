@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.7-combat.ai | downloads: 7
+v1.0.7-combat.ai | downloads: 8
 v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 58
 v1.0.5-combat.ai | downloads: 51
@@ -10,7 +10,7 @@ v1.0.10-uniques | downloads: 69
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 34
 v1.0.5-show.reputation | downloads: 58
-v1.0.3-paint.your.ships | downloads: 57
+v1.0.3-paint.your.ships | downloads: 59
 v1.1.9-captureable.person.ships | downloads: 62
 v1.0.9-bunrodea.missions | downloads: 85
 v1.0.5-better.starts | downloads: 62
@@ -18,10 +18,10 @@ v1.0.4-control.station | downloads: 78
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 114
-v1.1.8-galactic.capital.investment | downloads: 113
+v1.1.8-galactic.capital.investment | downloads: 114
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
-v1.0.23-additional.command.buttons.radial | downloads: 139
+v1.0.23-additional.command.buttons.radial | downloads: 140
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 129
@@ -78,7 +78,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 443
+v1.0.4-too.many.asteroids | downloads: 444
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -246,12 +246,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 245
-# TOTAL DOWNLOADS: 22915
+# TOTAL DOWNLOADS: 22921
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 927
+additional.command.buttons.radial 928
 automata.destruction.0percent 561
 automata.in.human.space 469
 avgi.licenses 229
@@ -260,7 +260,7 @@ boss.loot 58
 bunrodea.missions 808
 captureable.person.ships 585
 coalition.shopping 651
-combat.ai 308
+combat.ai 309
 control.station 507
 devil-run.unhidden 66
 disable.person.ships 265
@@ -268,7 +268,7 @@ disable.spaceport.repeatables 397
 expert.crew.members 802
 flare.play 140
 free.worlds.5.years.later 369
-galactic.capital.investment 905
+galactic.capital.investment 906
 gegno.pirates 745
 hai.side.mission.unlocker 519
 highrollers.ltd 184
@@ -287,7 +287,7 @@ more.person.ships 489
 navy.licenses 575
 no.more.mereti.mines 412
 outfits.weapon.slot 454
-paint.your.ships 521
+paint.your.ships 523
 pirate.warlords 3
 planet.map 313
 planet.pluto 190
@@ -296,7 +296,7 @@ real.fluff 93
 show.reputation 619
 snowfeather.robotics 556
 space.fauna 391
-too.many.asteroids 774
+too.many.asteroids 775
 tribute.republic 348
 unique.fix 44
 uniques 583
