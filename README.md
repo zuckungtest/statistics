@@ -21,8 +21,8 @@
 		<td>914</td>
 		<td>914</td>
 		<td>921</td>
-		<td>923</td>
-		<td>+ 2</td>
+		<td>925</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -153,8 +153,8 @@
 		<td>792</td>
 		<td>792</td>
 		<td>799</td>
-		<td>799</td>
-		<td></td>
+		<td>801</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20871</td>
-		<td>11</td>
+		<td>20875</td>
+		<td>15</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>914</td>
 		<td>914</td>
 		<td>921</td>
-		<td>923</td>
-		<td>+ 2</td>
+		<td>925</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -520,8 +520,8 @@
 		<td>792</td>
 		<td>792</td>
 		<td>799</td>
-		<td>799</td>
-		<td></td>
+		<td>801</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20871</td>
-		<td>11</td>
+		<td>20875</td>
+		<td>15</td>
 	</tr>
 </table>
 </sub></sup>
