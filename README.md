@@ -21,8 +21,8 @@
 		<td>914</td>
 		<td>914</td>
 		<td>921</td>
-		<td>927</td>
-		<td>+ 6</td>
+		<td>928</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>294</td>
 		<td>297</td>
 		<td>303</td>
-		<td>308</td>
-		<td>+ 5</td>
+		<td>309</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>901</td>
 		<td>901</td>
 		<td>904</td>
-		<td>905</td>
-		<td>+ 1</td>
+		<td>906</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -362,8 +362,8 @@
 		<td>515</td>
 		<td>516</td>
 		<td>519</td>
-		<td>521</td>
-		<td>+ 2</td>
+		<td>523</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -428,8 +428,8 @@
 		<td>768</td>
 		<td>769</td>
 		<td>774</td>
-		<td>774</td>
-		<td></td>
+		<td>775</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20904</td>
-		<td>44</td>
+		<td>20910</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>914</td>
 		<td>914</td>
 		<td>921</td>
-		<td>927</td>
-		<td>+ 6</td>
+		<td>928</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -498,8 +498,8 @@
 		<td>901</td>
 		<td>901</td>
 		<td>904</td>
-		<td>905</td>
-		<td>+ 1</td>
+		<td>906</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>768</td>
 		<td>769</td>
 		<td>774</td>
-		<td>774</td>
-		<td></td>
+		<td>775</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -696,8 +696,8 @@
 		<td>515</td>
 		<td>516</td>
 		<td>519</td>
-		<td>521</td>
-		<td>+ 2</td>
+		<td>523</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -861,8 +861,8 @@
 		<td>294</td>
 		<td>297</td>
 		<td>303</td>
-		<td>308</td>
-		<td>+ 5</td>
+		<td>309</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20904</td>
-		<td>44</td>
+		<td>20910</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
