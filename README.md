@@ -186,8 +186,8 @@
 		<td>736</td>
 		<td>739</td>
 		<td>742</td>
-		<td>742</td>
-		<td></td>
+		<td>744</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20885</td>
-		<td>25</td>
+		<td>20887</td>
+		<td>27</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>736</td>
 		<td>739</td>
 		<td>742</td>
-		<td>742</td>
-		<td></td>
+		<td>744</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20885</td>
-		<td>25</td>
+		<td>20887</td>
+		<td>27</td>
 	</tr>
 </table>
 </sub></sup>
