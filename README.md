@@ -450,8 +450,8 @@
 		<td>577</td>
 		<td>580</td>
 		<td>581</td>
-		<td>581</td>
-		<td></td>
+		<td>583</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20875</td>
-		<td>15</td>
+		<td>20877</td>
+		<td>17</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>577</td>
 		<td>580</td>
 		<td>581</td>
-		<td>581</td>
-		<td></td>
+		<td>583</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20875</td>
-		<td>15</td>
+		<td>20877</td>
+		<td>17</td>
 	</tr>
 </table>
 </sub></sup>
