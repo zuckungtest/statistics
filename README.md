@@ -109,8 +109,8 @@
 		<td>294</td>
 		<td>297</td>
 		<td>303</td>
-		<td>303</td>
-		<td></td>
+		<td>305</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -208,8 +208,8 @@
 		<td>181</td>
 		<td>181</td>
 		<td>182</td>
-		<td>182</td>
-		<td></td>
+		<td>184</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20867</td>
-		<td>7</td>
+		<td>20871</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
@@ -861,8 +861,8 @@
 		<td>294</td>
 		<td>297</td>
 		<td>303</td>
-		<td>303</td>
-		<td></td>
+		<td>305</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -894,8 +894,8 @@
 		<td>181</td>
 		<td>181</td>
 		<td>182</td>
-		<td>182</td>
-		<td></td>
+		<td>184</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20867</td>
-		<td>7</td>
+		<td>20871</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>74</td>
 		<td>63</td>
 		<td>39</td>
-		<td>1</td>
+		<td>5</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>12</td>
 		<td>13</td>
 		<td>13</td>
-		<td>1</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3464</td>
-		<td>950</td>
+		<td>3468</td>
+		<td>952</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>82</td>
-		<td>42.24</td>
-		<td>11.59</td>
+		<td>42.29</td>
+		<td>11.61</td>
 		<td></td>
 		<td></td>
 	</tr>
