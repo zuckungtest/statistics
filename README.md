@@ -285,8 +285,8 @@
 		<td>295</td>
 		<td>295</td>
 		<td>300</td>
-		<td>300</td>
-		<td></td>
+		<td>302</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20865</td>
-		<td>5</td>
+		<td>20867</td>
+		<td>7</td>
 	</tr>
 </table>
 </sub></sup>
@@ -872,8 +872,8 @@
 		<td>295</td>
 		<td>295</td>
 		<td>300</td>
-		<td>300</td>
-		<td></td>
+		<td>302</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20865</td>
-		<td>5</td>
+		<td>20867</td>
+		<td>7</td>
 	</tr>
 </table>
 </sub></sup>
