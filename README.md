@@ -296,8 +296,8 @@
 		<td>525</td>
 		<td>525</td>
 		<td>538</td>
-		<td>542</td>
-		<td>+ 4</td>
+		<td>544</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20912</td>
-		<td>52</td>
+		<td>20914</td>
+		<td>54</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>525</td>
 		<td>525</td>
 		<td>538</td>
-		<td>542</td>
-		<td>+ 4</td>
+		<td>544</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20912</td>
-		<td>52</td>
+		<td>20914</td>
+		<td>54</td>
 	</tr>
 </table>
 </sub></sup>
