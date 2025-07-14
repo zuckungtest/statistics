@@ -109,8 +109,8 @@
 		<td>294</td>
 		<td>297</td>
 		<td>303</td>
-		<td>305</td>
-		<td>+ 2</td>
+		<td>307</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -296,8 +296,8 @@
 		<td>525</td>
 		<td>525</td>
 		<td>538</td>
-		<td>538</td>
-		<td></td>
+		<td>542</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20877</td>
-		<td>17</td>
+		<td>20883</td>
+		<td>23</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>525</td>
 		<td>525</td>
 		<td>538</td>
-		<td>538</td>
-		<td></td>
+		<td>542</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -861,8 +861,8 @@
 		<td>294</td>
 		<td>297</td>
 		<td>303</td>
-		<td>305</td>
-		<td>+ 2</td>
+		<td>307</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20877</td>
-		<td>17</td>
+		<td>20883</td>
+		<td>23</td>
 	</tr>
 </table>
 </sub></sup>
