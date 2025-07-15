@@ -4,7 +4,7 @@ v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 62
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 14
-v1.0.7-mission.helper | downloads: 77
+v1.0.7-mission.helper | downloads: 80
 v1.0.9-expert.crew.members | downloads: 62
 v1.0.10-uniques | downloads: 69
 v1.0.8-expert.crew.members | downloads: 18
@@ -26,7 +26,7 @@ v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 129
 v1.1.5-hai.side.mission.unlocker | downloads: 89
-v1.0.6-snowfeather.robotics | downloads: 92
+v1.0.6-snowfeather.robotics | downloads: 93
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 135
 v1.0.4-show.reputation | downloads: 54
@@ -39,7 +39,7 @@ v1.0.1-outfits.weapon.slot | downloads: 76
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 305
+v1.0.1-licenses | downloads: 307
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -182,7 +182,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 560
+v1.0.1-automata.destruction.0percent | downloads: 561
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -246,13 +246,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 245
-# TOTAL DOWNLOADS: 22943
+# TOTAL DOWNLOADS: 22950
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 930
-automata.destruction.0percent 561
+automata.destruction.0percent 562
 automata.in.human.space 469
 avgi.licenses 229
 better.starts 606
@@ -279,8 +279,8 @@ kor.efret.shipyard 699
 landing.images 506
 landing.images.android 349
 landing.images.highres 361
-licenses 307
-mission.helper 545
+licenses 309
+mission.helper 548
 more.arfectas 657
 more.boarding.missions 722
 more.person.ships 489
@@ -294,7 +294,7 @@ planet.pluto 190
 quarg.farm 726
 real.fluff 93
 show.reputation 620
-snowfeather.robotics 556
+snowfeather.robotics 557
 space.fauna 391
 too.many.asteroids 775
 tribute.republic 348
