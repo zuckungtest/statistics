@@ -76,8 +76,8 @@
 		<td>803</td>
 		<td>806</td>
 		<td>808</td>
-		<td>808</td>
-		<td></td>
+		<td>810</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -153,8 +153,8 @@
 		<td>792</td>
 		<td>799</td>
 		<td>802</td>
-		<td>802</td>
-		<td></td>
+		<td>803</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>901</td>
 		<td>904</td>
 		<td>906</td>
-		<td>906</td>
-		<td></td>
+		<td>907</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>517</td>
 		<td>518</td>
 		<td>519</td>
-		<td>519</td>
-		<td></td>
+		<td>520</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -263,8 +263,8 @@
 		<td>502</td>
 		<td>505</td>
 		<td>505</td>
-		<td>505</td>
-		<td></td>
+		<td>506</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -395,8 +395,8 @@
 		<td>612</td>
 		<td>619</td>
 		<td>619</td>
-		<td>619</td>
-		<td></td>
+		<td>620</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20919</td>
-		<td>5</td>
+		<td>20926</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>901</td>
 		<td>904</td>
 		<td>906</td>
-		<td>906</td>
-		<td></td>
+		<td>907</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -509,8 +509,8 @@
 		<td>803</td>
 		<td>806</td>
 		<td>808</td>
-		<td>808</td>
-		<td></td>
+		<td>810</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -520,8 +520,8 @@
 		<td>792</td>
 		<td>799</td>
 		<td>802</td>
-		<td>802</td>
-		<td></td>
+		<td>803</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -608,8 +608,8 @@
 		<td>612</td>
 		<td>619</td>
 		<td>619</td>
-		<td>619</td>
-		<td></td>
+		<td>620</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -707,8 +707,8 @@
 		<td>517</td>
 		<td>518</td>
 		<td>519</td>
-		<td>519</td>
-		<td></td>
+		<td>520</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -729,8 +729,8 @@
 		<td>502</td>
 		<td>505</td>
 		<td>505</td>
-		<td>505</td>
-		<td></td>
+		<td>506</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20919</td>
-		<td>5</td>
+		<td>20926</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
