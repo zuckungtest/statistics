@@ -32,8 +32,8 @@
 		<td>560</td>
 		<td>561</td>
 		<td>561</td>
-		<td>561</td>
-		<td></td>
+		<td>562</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -285,8 +285,8 @@
 		<td>295</td>
 		<td>300</td>
 		<td>305</td>
-		<td>307</td>
-		<td>+ 2</td>
+		<td>309</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>525</td>
 		<td>538</td>
 		<td>544</td>
-		<td>545</td>
-		<td>+ 1</td>
+		<td>548</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -406,8 +406,8 @@
 		<td>551</td>
 		<td>556</td>
 		<td>556</td>
-		<td>556</td>
-		<td></td>
+		<td>557</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20932</td>
-		<td>18</td>
+		<td>20939</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>560</td>
 		<td>561</td>
 		<td>561</td>
-		<td>561</td>
-		<td></td>
+		<td>562</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -674,8 +674,8 @@
 		<td>551</td>
 		<td>556</td>
 		<td>556</td>
-		<td>556</td>
-		<td></td>
+		<td>557</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -685,8 +685,8 @@
 		<td>525</td>
 		<td>538</td>
 		<td>544</td>
-		<td>545</td>
-		<td>+ 1</td>
+		<td>548</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -872,8 +872,8 @@
 		<td>295</td>
 		<td>300</td>
 		<td>305</td>
-		<td>307</td>
-		<td>+ 2</td>
+		<td>309</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20932</td>
-		<td>18</td>
+		<td>20939</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
