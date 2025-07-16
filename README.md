@@ -32,8 +32,8 @@
 		<td>561</td>
 		<td>561</td>
 		<td>563</td>
-		<td>565</td>
-		<td>+ 2</td>
+		<td>567</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>469</td>
 		<td>469</td>
 		<td>469</td>
-		<td>469</td>
-		<td></td>
+		<td>471</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>58</td>
 		<td>58</td>
 		<td>62</td>
-		<td>62</td>
-		<td></td>
+		<td>64</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>806</td>
 		<td>808</td>
 		<td>811</td>
-		<td>813</td>
-		<td>+ 2</td>
+		<td>815</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>584</td>
 		<td>585</td>
 		<td>585</td>
-		<td>585</td>
-		<td></td>
+		<td>587</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>650</td>
 		<td>651</td>
 		<td>652</td>
-		<td>654</td>
-		<td>+ 2</td>
+		<td>656</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -109,8 +109,8 @@
 		<td>303</td>
 		<td>309</td>
 		<td>312</td>
-		<td>314</td>
-		<td>+ 2</td>
+		<td>316</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>799</td>
 		<td>802</td>
 		<td>804</td>
-		<td>804</td>
-		<td></td>
+		<td>806</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -186,8 +186,8 @@
 		<td>742</td>
 		<td>745</td>
 		<td>746</td>
-		<td>746</td>
-		<td></td>
+		<td>748</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -197,8 +197,8 @@
 		<td>518</td>
 		<td>519</td>
 		<td>520</td>
-		<td>520</td>
-		<td></td>
+		<td>522</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20978</td>
-		<td>19</td>
+		<td>20998</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>806</td>
 		<td>808</td>
 		<td>811</td>
-		<td>813</td>
-		<td>+ 2</td>
+		<td>815</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -520,8 +520,8 @@
 		<td>799</td>
 		<td>802</td>
 		<td>804</td>
-		<td>804</td>
-		<td></td>
+		<td>806</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -542,8 +542,8 @@
 		<td>742</td>
 		<td>745</td>
 		<td>746</td>
-		<td>746</td>
-		<td></td>
+		<td>748</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -597,8 +597,8 @@
 		<td>650</td>
 		<td>651</td>
 		<td>652</td>
-		<td>654</td>
-		<td>+ 2</td>
+		<td>656</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -630,8 +630,8 @@
 		<td>584</td>
 		<td>585</td>
 		<td>585</td>
-		<td>585</td>
-		<td></td>
+		<td>587</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -663,8 +663,8 @@
 		<td>561</td>
 		<td>561</td>
 		<td>563</td>
-		<td>565</td>
-		<td>+ 2</td>
+		<td>567</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -707,8 +707,8 @@
 		<td>518</td>
 		<td>519</td>
 		<td>520</td>
-		<td>520</td>
-		<td></td>
+		<td>522</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -762,8 +762,8 @@
 		<td>469</td>
 		<td>469</td>
 		<td>469</td>
-		<td>469</td>
-		<td></td>
+		<td>471</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -850,8 +850,8 @@
 		<td>303</td>
 		<td>309</td>
 		<td>312</td>
-		<td>314</td>
-		<td>+ 2</td>
+		<td>316</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -916,8 +916,8 @@
 		<td>58</td>
 		<td>58</td>
 		<td>62</td>
-		<td>62</td>
-		<td></td>
+		<td>64</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>20978</td>
-		<td>19</td>
+		<td>20998</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
