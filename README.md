@@ -263,8 +263,8 @@
 		<td>505</td>
 		<td>505</td>
 		<td>506</td>
-		<td>506</td>
-		<td></td>
+		<td>508</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>359</td>
 		<td>361</td>
 		<td>361</td>
-		<td>363</td>
-		<td>+ 2</td>
+		<td>365</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -296,8 +296,8 @@
 		<td>538</td>
 		<td>544</td>
 		<td>552</td>
-		<td>552</td>
-		<td></td>
+		<td>554</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21020</td>
-		<td>61</td>
+		<td>21026</td>
+		<td>67</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>538</td>
 		<td>544</td>
 		<td>552</td>
-		<td>552</td>
-		<td></td>
+		<td>554</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -729,8 +729,8 @@
 		<td>505</td>
 		<td>505</td>
 		<td>506</td>
-		<td>506</td>
-		<td></td>
+		<td>508</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -828,8 +828,8 @@
 		<td>359</td>
 		<td>361</td>
 		<td>361</td>
-		<td>363</td>
-		<td>+ 2</td>
+		<td>365</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21020</td>
-		<td>61</td>
+		<td>21026</td>
+		<td>67</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>39</td>
 		<td>24</td>
 		<td>41</td>
-		<td>19</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>13</td>
 		<td>14</td>
 		<td>13</td>
-		<td>7</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3547</td>
-		<td>983</td>
+		<td>3558</td>
+		<td>985</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>84</td>
-		<td>42.23</td>
-		<td>11.70</td>
+		<td>42.36</td>
+		<td>11.73</td>
 		<td></td>
 		<td></td>
 	</tr>
