@@ -109,8 +109,8 @@
 		<td>309</td>
 		<td>312</td>
 		<td>316</td>
-		<td>320</td>
-		<td>+ 4</td>
+		<td>321</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -252,8 +252,8 @@
 		<td>699</td>
 		<td>700</td>
 		<td>702</td>
-		<td>704</td>
-		<td>+ 2</td>
+		<td>705</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>305</td>
 		<td>310</td>
 		<td>314</td>
-		<td>320</td>
-		<td>+ 6</td>
+		<td>321</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>544</td>
 		<td>552</td>
 		<td>554</td>
-		<td>558</td>
-		<td>+ 4</td>
+		<td>559</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -384,8 +384,8 @@
 		<td>726</td>
 		<td>726</td>
 		<td>726</td>
-		<td>730</td>
-		<td>+ 4</td>
+		<td>731</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -395,8 +395,8 @@
 		<td>619</td>
 		<td>621</td>
 		<td>623</td>
-		<td>623</td>
-		<td></td>
+		<td>624</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -406,8 +406,8 @@
 		<td>556</td>
 		<td>558</td>
 		<td>560</td>
-		<td>562</td>
-		<td>+ 2</td>
+		<td>563</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21084</td>
-		<td>58</td>
+		<td>21091</td>
+		<td>65</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>726</td>
 		<td>726</td>
 		<td>726</td>
-		<td>730</td>
-		<td>+ 4</td>
+		<td>731</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -575,8 +575,8 @@
 		<td>699</td>
 		<td>700</td>
 		<td>702</td>
-		<td>704</td>
-		<td>+ 2</td>
+		<td>705</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -608,8 +608,8 @@
 		<td>619</td>
 		<td>621</td>
 		<td>623</td>
-		<td>623</td>
-		<td></td>
+		<td>624</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -674,8 +674,8 @@
 		<td>556</td>
 		<td>558</td>
 		<td>560</td>
-		<td>562</td>
-		<td>+ 2</td>
+		<td>563</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -685,8 +685,8 @@
 		<td>544</td>
 		<td>552</td>
 		<td>554</td>
-		<td>558</td>
-		<td>+ 4</td>
+		<td>559</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -850,8 +850,8 @@
 		<td>305</td>
 		<td>310</td>
 		<td>314</td>
-		<td>320</td>
-		<td>+ 6</td>
+		<td>321</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -861,8 +861,8 @@
 		<td>309</td>
 		<td>312</td>
 		<td>316</td>
-		<td>320</td>
-		<td>+ 4</td>
+		<td>321</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21084</td>
-		<td>58</td>
+		<td>21091</td>
+		<td>65</td>
 	</tr>
 </table>
 </sub></sup>
