@@ -6,11 +6,11 @@ v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 14
 v1.0.7-mission.helper | downloads: 88
 v1.0.9-expert.crew.members | downloads: 65
-v1.0.10-uniques | downloads: 72
+v1.0.10-uniques | downloads: 74
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 34
 v1.0.5-show.reputation | downloads: 62
-v1.0.3-paint.your.ships | downloads: 61
+v1.0.3-paint.your.ships | downloads: 63
 v1.1.9-captureable.person.ships | downloads: 64
 v1.0.9-bunrodea.missions | downloads: 96
 v1.0.5-better.starts | downloads: 66
@@ -28,7 +28,7 @@ v1.1.5-more.boarding.missions | downloads: 134
 v1.1.5-hai.side.mission.unlocker | downloads: 91
 v1.0.6-snowfeather.robotics | downloads: 98
 v1.0.6-human.labels | downloads: 41
-v1.0.5-quarg.farm | downloads: 137
+v1.0.5-quarg.farm | downloads: 139
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 80
@@ -54,7 +54,7 @@ v1.0.8-bunrodea.missions | downloads: 203
 v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
-v1.0.1-highrollers.ltd | downloads: 175
+v1.0.1-highrollers.ltd | downloads: 177
 v1.0.3-gegno.pirates | downloads: 327
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
@@ -246,7 +246,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 245
-# TOTAL DOWNLOADS: 23083
+# TOTAL DOWNLOADS: 23091
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -271,7 +271,7 @@ free.worlds.5.years.later 369
 galactic.capital.investment 914
 gegno.pirates 752
 hai.side.mission.unlocker 522
-highrollers.ltd 186
+highrollers.ltd 188
 human.labels 439
 jump.gates 567
 kestrel.unlocks 492
@@ -287,11 +287,11 @@ more.person.ships 493
 navy.licenses 575
 no.more.mereti.mines 412
 outfits.weapon.slot 454
-paint.your.ships 525
+paint.your.ships 527
 pirate.warlords 3
 planet.map 313
 planet.pluto 190
-quarg.farm 728
+quarg.farm 730
 real.fluff 93
 show.reputation 623
 snowfeather.robotics 562
@@ -299,4 +299,4 @@ space.fauna 391
 too.many.asteroids 776
 tribute.republic 348
 unique.fix 44
-uniques 586
+uniques 588
