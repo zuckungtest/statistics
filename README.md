@@ -285,8 +285,8 @@
 		<td>305</td>
 		<td>310</td>
 		<td>314</td>
-		<td>318</td>
-		<td>+ 4</td>
+		<td>320</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21080</td>
-		<td>54</td>
+		<td>21082</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -843,6 +843,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>licenses</td>
+		<td>295</td>
+		<td>295</td>
+		<td>300</td>
+		<td>305</td>
+		<td>310</td>
+		<td>314</td>
+		<td>320</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>combat.ai</td>
 		<td>294</td>
 		<td>297</td>
@@ -851,17 +862,6 @@
 		<td>312</td>
 		<td>316</td>
 		<td>320</td>
-		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>licenses</td>
-		<td>295</td>
-		<td>295</td>
-		<td>300</td>
-		<td>305</td>
-		<td>310</td>
-		<td>314</td>
-		<td>318</td>
 		<td>+ 4</td>
 	</tr>
 	<tr>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21080</td>
-		<td>54</td>
+		<td>21082</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
