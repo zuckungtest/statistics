@@ -208,8 +208,8 @@
 		<td>184</td>
 		<td>184</td>
 		<td>184</td>
-		<td>186</td>
-		<td>+ 2</td>
+		<td>188</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -362,8 +362,8 @@
 		<td>523</td>
 		<td>523</td>
 		<td>525</td>
-		<td>525</td>
-		<td></td>
+		<td>527</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -384,8 +384,8 @@
 		<td>726</td>
 		<td>726</td>
 		<td>726</td>
-		<td>728</td>
-		<td>+ 2</td>
+		<td>730</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td>583</td>
 		<td>584</td>
 		<td>586</td>
-		<td>586</td>
-		<td></td>
+		<td>588</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21072</td>
-		<td>46</td>
+		<td>21080</td>
+		<td>54</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>726</td>
 		<td>726</td>
 		<td>726</td>
-		<td>728</td>
-		<td>+ 2</td>
+		<td>730</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -623,6 +623,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>577</td>
+		<td>580</td>
+		<td>581</td>
+		<td>583</td>
+		<td>584</td>
+		<td>586</td>
+		<td>588</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>583</td>
 		<td>583</td>
@@ -631,17 +642,6 @@
 		<td>585</td>
 		<td>587</td>
 		<td>587</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>577</td>
-		<td>580</td>
-		<td>581</td>
-		<td>583</td>
-		<td>584</td>
-		<td>586</td>
-		<td>586</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -696,8 +696,8 @@
 		<td>523</td>
 		<td>523</td>
 		<td>525</td>
-		<td>525</td>
-		<td></td>
+		<td>527</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -894,8 +894,8 @@
 		<td>184</td>
 		<td>184</td>
 		<td>184</td>
-		<td>186</td>
-		<td>+ 2</td>
+		<td>188</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21072</td>
-		<td>46</td>
+		<td>21080</td>
+		<td>54</td>
 	</tr>
 </table>
 </sub></sup>
