@@ -87,8 +87,8 @@
 		<td>585</td>
 		<td>587</td>
 		<td>587</td>
-		<td>589</td>
-		<td>+ 2</td>
+		<td>591</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>652</td>
 		<td>656</td>
 		<td>658</td>
-		<td>661</td>
-		<td>+ 3</td>
+		<td>663</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21179</td>
-		<td>88</td>
+		<td>21183</td>
+		<td>92</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>652</td>
 		<td>656</td>
 		<td>658</td>
-		<td>661</td>
-		<td>+ 3</td>
+		<td>663</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -623,6 +623,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>583</td>
+		<td>584</td>
+		<td>585</td>
+		<td>585</td>
+		<td>587</td>
+		<td>587</td>
+		<td>591</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>uniques</td>
 		<td>580</td>
 		<td>581</td>
@@ -631,17 +642,6 @@
 		<td>586</td>
 		<td>588</td>
 		<td>590</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>583</td>
-		<td>584</td>
-		<td>585</td>
-		<td>585</td>
-		<td>587</td>
-		<td>587</td>
-		<td>589</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21179</td>
-		<td>88</td>
+		<td>21183</td>
+		<td>92</td>
 	</tr>
 </table>
 </sub></sup>
