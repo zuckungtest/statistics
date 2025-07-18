@@ -175,8 +175,8 @@
 		<td>908</td>
 		<td>910</td>
 		<td>914</td>
-		<td>914</td>
-		<td></td>
+		<td>916</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21093</td>
-		<td>2</td>
+		<td>21095</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>908</td>
 		<td>910</td>
 		<td>914</td>
-		<td>914</td>
-		<td></td>
+		<td>916</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21093</td>
-		<td>2</td>
+		<td>21095</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>41</td>
 		<td>33</td>
 		<td>60</td>
-		<td>1</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>13</td>
 		<td>10</td>
 		<td>12</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3622</td>
-		<td>999</td>
+		<td>3627</td>
+		<td>1000</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>86</td>
-		<td>42.12</td>
-		<td>11.62</td>
+		<td>42.17</td>
+		<td>11.63</td>
 		<td></td>
 		<td></td>
 	</tr>
