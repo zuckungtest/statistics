@@ -296,8 +296,8 @@
 		<td>552</td>
 		<td>554</td>
 		<td>559</td>
-		<td>563</td>
-		<td>+ 4</td>
+		<td>564</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -318,8 +318,8 @@
 		<td>723</td>
 		<td>725</td>
 		<td>727</td>
-		<td>729</td>
-		<td>+ 2</td>
+		<td>730</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -373,8 +373,8 @@
 		<td>313</td>
 		<td>313</td>
 		<td>313</td>
-		<td>315</td>
-		<td>+ 2</td>
+		<td>318</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21183</td>
-		<td>92</td>
+		<td>21188</td>
+		<td>97</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>723</td>
 		<td>725</td>
 		<td>727</td>
-		<td>729</td>
-		<td>+ 2</td>
+		<td>730</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -685,8 +685,8 @@
 		<td>552</td>
 		<td>554</td>
 		<td>559</td>
-		<td>563</td>
-		<td>+ 4</td>
+		<td>564</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -872,8 +872,8 @@
 		<td>313</td>
 		<td>313</td>
 		<td>313</td>
-		<td>315</td>
-		<td>+ 2</td>
+		<td>318</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21183</td>
-		<td>92</td>
+		<td>21188</td>
+		<td>97</td>
 	</tr>
 </table>
 </sub></sup>
