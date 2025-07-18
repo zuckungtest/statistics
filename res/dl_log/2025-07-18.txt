@@ -1,31 +1,31 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.7-combat.ai | downloads: 22
+v1.0.7-combat.ai | downloads: 23
 v1.0.6-combat.ai | downloads: 10
-v1.0.0-boss.loot | downloads: 66
+v1.0.0-boss.loot | downloads: 67
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 14
-v1.0.7-mission.helper | downloads: 96
+v1.0.7-mission.helper | downloads: 97
 v1.0.9-expert.crew.members | downloads: 66
-v1.0.10-uniques | downloads: 76
+v1.0.10-uniques | downloads: 78
 v1.0.8-expert.crew.members | downloads: 18
-v1.0.7-human.labels | downloads: 36
-v1.0.5-show.reputation | downloads: 65
+v1.0.7-human.labels | downloads: 37
+v1.0.5-show.reputation | downloads: 67
 v1.0.3-paint.your.ships | downloads: 67
 v1.1.9-captureable.person.ships | downloads: 68
 v1.0.9-bunrodea.missions | downloads: 98
 v1.0.5-better.starts | downloads: 68
-v1.0.4-control.station | downloads: 84
+v1.0.4-control.station | downloads: 85
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 114
 v1.1.8-galactic.capital.investment | downloads: 128
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
-v1.0.23-additional.command.buttons.radial | downloads: 144
+v1.0.23-additional.command.buttons.radial | downloads: 145
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
-v1.1.5-more.boarding.missions | downloads: 137
-v1.1.5-hai.side.mission.unlocker | downloads: 94
+v1.1.5-more.boarding.missions | downloads: 138
+v1.1.5-hai.side.mission.unlocker | downloads: 95
 v1.0.6-snowfeather.robotics | downloads: 102
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 143
@@ -49,7 +49,7 @@ v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 162
-v1.0.3-planet.map | downloads: 105
+v1.0.3-planet.map | downloads: 106
 v1.0.8-bunrodea.missions | downloads: 203
 v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
@@ -138,7 +138,7 @@ v1.0.0-outfits.weapon.slot | downloads: 378
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
-v1.0.0-kestrel.unlocks | downloads: 496
+v1.0.0-kestrel.unlocks | downloads: 497
 v1.0.2-tribute.republic | downloads: 330
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -246,22 +246,22 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 245
-# TOTAL DOWNLOADS: 23199
+# TOTAL DOWNLOADS: 23213
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 932
+additional.command.buttons.radial 933
 automata.destruction.0percent 571
 automata.in.human.space 474
 avgi.licenses 229
 better.starts 612
-boss.loot 66
+boss.loot 67
 bunrodea.missions 821
 captureable.person.ships 591
 coalition.shopping 663
-combat.ai 323
-control.station 513
+combat.ai 324
+control.station 514
 devil-run.unhidden 66
 disable.person.ships 265
 disable.spaceport.repeatables 397
@@ -270,33 +270,33 @@ flare.play 140
 free.worlds.5.years.later 369
 galactic.capital.investment 920
 gegno.pirates 755
-hai.side.mission.unlocker 525
+hai.side.mission.unlocker 526
 highrollers.ltd 190
-human.labels 441
+human.labels 442
 jump.gates 567
-kestrel.unlocks 496
+kestrel.unlocks 497
 kor.efret.shipyard 708
 landing.images 511
 landing.images.android 349
 landing.images.highres 367
 licenses 323
-mission.helper 564
+mission.helper 565
 more.arfectas 664
-more.boarding.missions 730
+more.boarding.missions 731
 more.person.ships 495
 navy.licenses 575
 no.more.mereti.mines 412
 outfits.weapon.slot 457
 paint.your.ships 531
 pirate.warlords 3
-planet.map 318
+planet.map 319
 planet.pluto 190
 quarg.farm 734
 real.fluff 93
-show.reputation 626
+show.reputation 628
 snowfeather.robotics 566
 space.fauna 394
 too.many.asteroids 781
 tribute.republic 348
 unique.fix 44
-uniques 590
+uniques 592
