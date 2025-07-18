@@ -11,7 +11,7 @@ v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 36
 v1.0.5-show.reputation | downloads: 65
 v1.0.3-paint.your.ships | downloads: 67
-v1.1.9-captureable.person.ships | downloads: 66
+v1.1.9-captureable.person.ships | downloads: 68
 v1.0.9-bunrodea.missions | downloads: 98
 v1.0.5-better.starts | downloads: 68
 v1.0.4-control.station | downloads: 84
@@ -94,7 +94,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 467
+v1.0.6-coalition.shopping | downloads: 469
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 537
@@ -246,7 +246,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 245
-# TOTAL DOWNLOADS: 23190
+# TOTAL DOWNLOADS: 23194
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -258,8 +258,8 @@ avgi.licenses 229
 better.starts 612
 boss.loot 66
 bunrodea.missions 821
-captureable.person.ships 589
-coalition.shopping 661
+captureable.person.ships 591
+coalition.shopping 663
 combat.ai 323
 control.station 513
 devil-run.unhidden 66
