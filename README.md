@@ -175,8 +175,8 @@
 		<td>908</td>
 		<td>910</td>
 		<td>914</td>
-		<td>916</td>
-		<td>+ 2</td>
+		<td>918</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>486</td>
 		<td>490</td>
 		<td>492</td>
-		<td>492</td>
-		<td></td>
+		<td>494</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -428,8 +428,8 @@
 		<td>776</td>
 		<td>776</td>
 		<td>776</td>
-		<td>776</td>
-		<td></td>
+		<td>778</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21095</td>
-		<td>4</td>
+		<td>21101</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>908</td>
 		<td>910</td>
 		<td>914</td>
-		<td>916</td>
-		<td>+ 2</td>
+		<td>918</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>776</td>
 		<td>776</td>
 		<td>776</td>
-		<td>776</td>
-		<td></td>
+		<td>778</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -733,6 +733,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>kestrel.unlocks</td>
+		<td>485</td>
+		<td>486</td>
+		<td>486</td>
+		<td>486</td>
+		<td>490</td>
+		<td>492</td>
+		<td>494</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>more.person.ships</td>
 		<td>485</td>
 		<td>488</td>
@@ -741,17 +752,6 @@
 		<td>491</td>
 		<td>493</td>
 		<td>493</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>kestrel.unlocks</td>
-		<td>485</td>
-		<td>486</td>
-		<td>486</td>
-		<td>486</td>
-		<td>490</td>
-		<td>492</td>
-		<td>492</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21095</td>
-		<td>4</td>
+		<td>21101</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
