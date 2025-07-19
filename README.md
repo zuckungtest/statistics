@@ -32,8 +32,8 @@
 		<td>567</td>
 		<td>569</td>
 		<td>571</td>
-		<td>571</td>
-		<td></td>
+		<td>573</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -109,8 +109,8 @@
 		<td>316</td>
 		<td>321</td>
 		<td>324</td>
-		<td>324</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21206</td>
-		<td>4</td>
+		<td>21212</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>567</td>
 		<td>569</td>
 		<td>571</td>
-		<td>571</td>
-		<td></td>
+		<td>573</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -850,8 +850,8 @@
 		<td>316</td>
 		<td>321</td>
 		<td>324</td>
-		<td>324</td>
-		<td></td>
+		<td>328</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21206</td>
-		<td>4</td>
+		<td>21212</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
