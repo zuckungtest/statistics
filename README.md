@@ -296,8 +296,8 @@
 		<td>554</td>
 		<td>559</td>
 		<td>565</td>
-		<td>566</td>
-		<td>+ 1</td>
+		<td>568</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21212</td>
-		<td>10</td>
+		<td>21214</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -656,6 +656,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>538</td>
+		<td>544</td>
+		<td>552</td>
+		<td>554</td>
+		<td>559</td>
+		<td>565</td>
+		<td>568</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>566</td>
 		<td>567</td>
@@ -676,17 +687,6 @@
 		<td>566</td>
 		<td>566</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>538</td>
-		<td>544</td>
-		<td>552</td>
-		<td>554</td>
-		<td>559</td>
-		<td>565</td>
-		<td>566</td>
-		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21212</td>
-		<td>10</td>
+		<td>21214</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>33</td>
 		<td>60</td>
 		<td>14</td>
-		<td>17</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>10</td>
 		<td>12</td>
 		<td>4</td>
-		<td>4</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3652</td>
-		<td>1006</td>
+		<td>3654</td>
+		<td>1008</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>87</td>
-		<td>41.98</td>
-		<td>11.56</td>
+		<td>42.00</td>
+		<td>11.59</td>
 		<td></td>
 		<td></td>
 	</tr>
