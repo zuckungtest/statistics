@@ -142,8 +142,8 @@
 		<td>397</td>
 		<td>397</td>
 		<td>397</td>
-		<td>397</td>
-		<td></td>
+		<td>399</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -252,8 +252,8 @@
 		<td>702</td>
 		<td>705</td>
 		<td>708</td>
-		<td>708</td>
-		<td></td>
+		<td>709</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>554</td>
 		<td>559</td>
 		<td>565</td>
-		<td>565</td>
-		<td></td>
+		<td>566</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21202</td>
-		<td>0</td>
+		<td>21206</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>702</td>
 		<td>705</td>
 		<td>708</td>
-		<td>708</td>
-		<td></td>
+		<td>709</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -685,8 +685,8 @@
 		<td>554</td>
 		<td>559</td>
 		<td>565</td>
-		<td>565</td>
-		<td></td>
+		<td>566</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -806,8 +806,8 @@
 		<td>397</td>
 		<td>397</td>
 		<td>397</td>
-		<td>397</td>
-		<td></td>
+		<td>399</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21202</td>
-		<td>0</td>
+		<td>21206</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
