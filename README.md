@@ -252,8 +252,8 @@
 		<td>705</td>
 		<td>708</td>
 		<td>709</td>
-		<td>713</td>
-		<td>+ 4</td>
+		<td>715</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21354</td>
-		<td>140</td>
+		<td>21356</td>
+		<td>142</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>705</td>
 		<td>708</td>
 		<td>709</td>
-		<td>713</td>
-		<td>+ 4</td>
+		<td>715</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21354</td>
-		<td>140</td>
+		<td>21356</td>
+		<td>142</td>
 	</tr>
 </table>
 </sub></sup>
