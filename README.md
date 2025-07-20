@@ -241,8 +241,8 @@
 		<td>492</td>
 		<td>497</td>
 		<td>497</td>
-		<td>500</td>
-		<td>+ 3</td>
+		<td>502</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -285,8 +285,8 @@
 		<td>321</td>
 		<td>323</td>
 		<td>323</td>
-		<td>325</td>
-		<td>+ 2</td>
+		<td>327</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -307,8 +307,8 @@
 		<td>662</td>
 		<td>664</td>
 		<td>664</td>
-		<td>666</td>
-		<td>+ 2</td>
+		<td>667</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>731</td>
 		<td>734</td>
 		<td>734</td>
-		<td>736</td>
-		<td>+ 2</td>
+		<td>737</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21277</td>
-		<td>63</td>
+		<td>21283</td>
+		<td>69</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>731</td>
 		<td>734</td>
 		<td>734</td>
-		<td>736</td>
-		<td>+ 2</td>
+		<td>737</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -586,8 +586,8 @@
 		<td>662</td>
 		<td>664</td>
 		<td>664</td>
-		<td>666</td>
-		<td>+ 2</td>
+		<td>667</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -740,8 +740,8 @@
 		<td>492</td>
 		<td>497</td>
 		<td>497</td>
-		<td>500</td>
-		<td>+ 3</td>
+		<td>502</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -861,8 +861,8 @@
 		<td>321</td>
 		<td>323</td>
 		<td>323</td>
-		<td>325</td>
-		<td>+ 2</td>
+		<td>327</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21277</td>
-		<td>63</td>
+		<td>21283</td>
+		<td>69</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>60</td>
 		<td>14</td>
 		<td>20</td>
-		<td>59</td>
+		<td>64</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>12</td>
 		<td>4</td>
 		<td>6</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3714</td>
-		<td>1015</td>
+		<td>3719</td>
+		<td>1016</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>88</td>
-		<td>42.20</td>
-		<td>11.53</td>
+		<td>42.26</td>
+		<td>11.55</td>
 		<td></td>
 		<td></td>
 	</tr>
