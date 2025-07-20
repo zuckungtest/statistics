@@ -28,7 +28,7 @@ v1.1.5-more.boarding.missions | downloads: 140
 v1.1.5-hai.side.mission.unlocker | downloads: 97
 v1.0.6-snowfeather.robotics | downloads: 104
 v1.0.6-human.labels | downloads: 41
-v1.0.5-quarg.farm | downloads: 145
+v1.0.5-quarg.farm | downloads: 146
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 82
@@ -39,7 +39,7 @@ v1.0.1-outfits.weapon.slot | downloads: 81
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 323
+v1.0.1-licenses | downloads: 325
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -138,7 +138,7 @@ v1.0.0-outfits.weapon.slot | downloads: 378
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
-v1.0.0-kestrel.unlocks | downloads: 500
+v1.0.0-kestrel.unlocks | downloads: 502
 v1.0.2-tribute.republic | downloads: 330
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -211,7 +211,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 664
+v1.0.2-more.arfectas | downloads: 665
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -246,7 +246,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 245
-# TOTAL DOWNLOADS: 23288
+# TOTAL DOWNLOADS: 23294
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -274,14 +274,14 @@ hai.side.mission.unlocker 528
 highrollers.ltd 192
 human.labels 442
 jump.gates 569
-kestrel.unlocks 500
+kestrel.unlocks 502
 kor.efret.shipyard 709
 landing.images 512
 landing.images.android 349
 landing.images.highres 367
-licenses 325
+licenses 327
 mission.helper 570
-more.arfectas 666
+more.arfectas 667
 more.boarding.missions 733
 more.person.ships 495
 navy.licenses 575
@@ -291,7 +291,7 @@ paint.your.ships 533
 pirate.warlords 3
 planet.map 319
 planet.pluto 190
-quarg.farm 736
+quarg.farm 737
 real.fluff 93
 show.reputation 630
 snowfeather.robotics 568
