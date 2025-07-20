@@ -76,8 +76,8 @@
 		<td>819</td>
 		<td>821</td>
 		<td>821</td>
-		<td>825</td>
-		<td>+ 4</td>
+		<td>827</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21352</td>
-		<td>138</td>
+		<td>21354</td>
+		<td>140</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>819</td>
 		<td>821</td>
 		<td>821</td>
-		<td>825</td>
-		<td>+ 4</td>
+		<td>827</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21352</td>
-		<td>138</td>
+		<td>21354</td>
+		<td>140</td>
 	</tr>
 </table>
 </sub></sup>
