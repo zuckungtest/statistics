@@ -21,8 +21,8 @@
 		<td>933</td>
 		<td>933</td>
 		<td>935</td>
-		<td>937</td>
-		<td>+ 2</td>
+		<td>939</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21377</td>
-		<td>16</td>
+		<td>21379</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>933</td>
 		<td>933</td>
 		<td>935</td>
-		<td>937</td>
-		<td>+ 2</td>
+		<td>939</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21377</td>
-		<td>16</td>
+		<td>21379</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
