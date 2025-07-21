@@ -54,8 +54,8 @@
 		<td>612</td>
 		<td>612</td>
 		<td>614</td>
-		<td>618</td>
-		<td>+ 4</td>
+		<td>619</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -109,8 +109,8 @@
 		<td>324</td>
 		<td>328</td>
 		<td>337</td>
-		<td>340</td>
-		<td>+ 3</td>
+		<td>342</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>807</td>
 		<td>807</td>
 		<td>809</td>
-		<td>811</td>
-		<td>+ 2</td>
+		<td>813</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -428,8 +428,8 @@
 		<td>781</td>
 		<td>781</td>
 		<td>786</td>
-		<td>786</td>
-		<td></td>
+		<td>790</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21418</td>
-		<td>57</td>
+		<td>21427</td>
+		<td>66</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>807</td>
 		<td>807</td>
 		<td>809</td>
-		<td>811</td>
-		<td>+ 2</td>
+		<td>813</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>781</td>
 		<td>781</td>
 		<td>786</td>
-		<td>786</td>
-		<td></td>
+		<td>790</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -619,8 +619,8 @@
 		<td>612</td>
 		<td>612</td>
 		<td>614</td>
-		<td>618</td>
-		<td>+ 4</td>
+		<td>619</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -850,8 +850,8 @@
 		<td>324</td>
 		<td>328</td>
 		<td>337</td>
-		<td>340</td>
-		<td>+ 3</td>
+		<td>342</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21418</td>
-		<td>57</td>
+		<td>21427</td>
+		<td>66</td>
 	</tr>
 </table>
 </sub></sup>
