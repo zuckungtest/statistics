@@ -65,8 +65,8 @@
 		<td>67</td>
 		<td>67</td>
 		<td>69</td>
-		<td>71</td>
-		<td>+ 2</td>
+		<td>73</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -175,8 +175,8 @@
 		<td>920</td>
 		<td>920</td>
 		<td>928</td>
-		<td>930</td>
-		<td>+ 2</td>
+		<td>932</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -395,8 +395,8 @@
 		<td>628</td>
 		<td>628</td>
 		<td>634</td>
-		<td>636</td>
-		<td>+ 2</td>
+		<td>638</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21427</td>
-		<td>66</td>
+		<td>21433</td>
+		<td>72</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>920</td>
 		<td>920</td>
 		<td>928</td>
-		<td>930</td>
-		<td>+ 2</td>
+		<td>932</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -608,8 +608,8 @@
 		<td>628</td>
 		<td>628</td>
 		<td>634</td>
-		<td>636</td>
-		<td>+ 2</td>
+		<td>638</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -916,8 +916,8 @@
 		<td>67</td>
 		<td>67</td>
 		<td>69</td>
-		<td>71</td>
-		<td>+ 2</td>
+		<td>73</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21427</td>
-		<td>66</td>
+		<td>21433</td>
+		<td>72</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>14</td>
 		<td>20</td>
 		<td>81</td>
-		<td>85</td>
+		<td>103</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>4</td>
 		<td>6</td>
 		<td>12</td>
-		<td>9</td>
+		<td>10</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3821</td>
-		<td>1029</td>
+		<td>3839</td>
+		<td>1030</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>89</td>
-		<td>42.93</td>
-		<td>11.56</td>
+		<td>43.13</td>
+		<td>11.57</td>
 		<td></td>
 		<td></td>
 	</tr>
