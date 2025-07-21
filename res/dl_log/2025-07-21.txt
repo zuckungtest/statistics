@@ -1,11 +1,11 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.7-combat.ai | downloads: 39
+v1.0.7-combat.ai | downloads: 41
 v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 71
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 19
 v1.0.7-mission.helper | downloads: 106
-v1.0.9-expert.crew.members | downloads: 70
+v1.0.9-expert.crew.members | downloads: 72
 v1.0.10-uniques | downloads: 82
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 40
@@ -13,7 +13,7 @@ v1.0.5-show.reputation | downloads: 75
 v1.0.3-paint.your.ships | downloads: 75
 v1.1.9-captureable.person.ships | downloads: 70
 v1.0.9-bunrodea.missions | downloads: 107
-v1.0.5-better.starts | downloads: 74
+v1.0.5-better.starts | downloads: 75
 v1.0.4-control.station | downloads: 91
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
@@ -78,7 +78,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 455
+v1.0.4-too.many.asteroids | downloads: 459
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -246,7 +246,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 245
-# TOTAL DOWNLOADS: 23429
+# TOTAL DOWNLOADS: 23438
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -255,17 +255,17 @@ additional.command.buttons.radial 941
 automata.destruction.0percent 580
 automata.in.human.space 476
 avgi.licenses 229
-better.starts 618
+better.starts 619
 boss.loot 71
 bunrodea.missions 830
 captureable.person.ships 593
 coalition.shopping 678
-combat.ai 340
+combat.ai 342
 control.station 520
 devil-run.unhidden 66
 disable.person.ships 265
 disable.spaceport.repeatables 400
-expert.crew.members 811
+expert.crew.members 813
 flare.play 145
 free.worlds.5.years.later 369
 galactic.capital.investment 930
@@ -296,7 +296,7 @@ real.fluff 93
 show.reputation 636
 snowfeather.robotics 572
 space.fauna 394
-too.many.asteroids 786
+too.many.asteroids 790
 tribute.republic 348
 unique.fix 44
 uniques 596
