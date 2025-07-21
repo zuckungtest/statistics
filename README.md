@@ -43,8 +43,8 @@
 		<td>474</td>
 		<td>474</td>
 		<td>474</td>
-		<td>474</td>
-		<td></td>
+		<td>476</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -98,8 +98,8 @@
 		<td>663</td>
 		<td>663</td>
 		<td>671</td>
-		<td>673</td>
-		<td>+ 2</td>
+		<td>678</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -252,8 +252,8 @@
 		<td>708</td>
 		<td>709</td>
 		<td>715</td>
-		<td>715</td>
-		<td></td>
+		<td>717</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>565</td>
 		<td>568</td>
 		<td>572</td>
-		<td>572</td>
-		<td></td>
+		<td>574</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21407</td>
-		<td>46</td>
+		<td>21418</td>
+		<td>57</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>708</td>
 		<td>709</td>
 		<td>715</td>
-		<td>715</td>
-		<td></td>
+		<td>717</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -586,8 +586,8 @@
 		<td>663</td>
 		<td>663</td>
 		<td>671</td>
-		<td>673</td>
-		<td>+ 2</td>
+		<td>678</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -656,6 +656,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>552</td>
+		<td>554</td>
+		<td>559</td>
+		<td>565</td>
+		<td>568</td>
+		<td>572</td>
+		<td>574</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>558</td>
 		<td>560</td>
@@ -665,17 +676,6 @@
 		<td>570</td>
 		<td>572</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>552</td>
-		<td>554</td>
-		<td>559</td>
-		<td>565</td>
-		<td>568</td>
-		<td>572</td>
-		<td>572</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -762,8 +762,8 @@
 		<td>474</td>
 		<td>474</td>
 		<td>474</td>
-		<td>474</td>
-		<td></td>
+		<td>476</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21407</td>
-		<td>46</td>
+		<td>21418</td>
+		<td>57</td>
 	</tr>
 </table>
 </sub></sup>
