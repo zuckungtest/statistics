@@ -76,8 +76,8 @@
 		<td>821</td>
 		<td>821</td>
 		<td>828</td>
-		<td>828</td>
-		<td></td>
+		<td>830</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>663</td>
 		<td>663</td>
 		<td>671</td>
-		<td>671</td>
-		<td></td>
+		<td>673</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -175,8 +175,8 @@
 		<td>920</td>
 		<td>920</td>
 		<td>928</td>
-		<td>928</td>
-		<td></td>
+		<td>930</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>755</td>
 		<td>755</td>
 		<td>761</td>
-		<td>761</td>
-		<td></td>
+		<td>763</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -285,8 +285,8 @@
 		<td>323</td>
 		<td>323</td>
 		<td>333</td>
-		<td>333</td>
-		<td></td>
+		<td>335</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -307,8 +307,8 @@
 		<td>664</td>
 		<td>664</td>
 		<td>669</td>
-		<td>669</td>
-		<td></td>
+		<td>671</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>734</td>
 		<td>734</td>
 		<td>745</td>
-		<td>745</td>
-		<td></td>
+		<td>747</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -395,8 +395,8 @@
 		<td>628</td>
 		<td>628</td>
 		<td>634</td>
-		<td>634</td>
-		<td></td>
+		<td>636</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -406,8 +406,8 @@
 		<td>566</td>
 		<td>566</td>
 		<td>570</td>
-		<td>570</td>
-		<td></td>
+		<td>572</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -450,8 +450,8 @@
 		<td>592</td>
 		<td>592</td>
 		<td>594</td>
-		<td>594</td>
-		<td></td>
+		<td>596</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21387</td>
-		<td>26</td>
+		<td>21407</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>920</td>
 		<td>920</td>
 		<td>928</td>
-		<td>928</td>
-		<td></td>
+		<td>930</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -509,8 +509,8 @@
 		<td>821</td>
 		<td>821</td>
 		<td>828</td>
-		<td>828</td>
-		<td></td>
+		<td>830</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>755</td>
 		<td>755</td>
 		<td>761</td>
-		<td>761</td>
-		<td></td>
+		<td>763</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -553,8 +553,8 @@
 		<td>734</td>
 		<td>734</td>
 		<td>745</td>
-		<td>745</td>
-		<td></td>
+		<td>747</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -586,8 +586,8 @@
 		<td>663</td>
 		<td>663</td>
 		<td>671</td>
-		<td>671</td>
-		<td></td>
+		<td>673</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -597,8 +597,8 @@
 		<td>664</td>
 		<td>664</td>
 		<td>669</td>
-		<td>669</td>
-		<td></td>
+		<td>671</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -608,8 +608,8 @@
 		<td>628</td>
 		<td>628</td>
 		<td>634</td>
-		<td>634</td>
-		<td></td>
+		<td>636</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -630,8 +630,8 @@
 		<td>592</td>
 		<td>592</td>
 		<td>594</td>
-		<td>594</td>
-		<td></td>
+		<td>596</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -656,6 +656,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>558</td>
+		<td>560</td>
+		<td>563</td>
+		<td>566</td>
+		<td>566</td>
+		<td>570</td>
+		<td>572</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>mission.helper</td>
 		<td>552</td>
 		<td>554</td>
@@ -675,17 +686,6 @@
 		<td>567</td>
 		<td>571</td>
 		<td>571</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>558</td>
-		<td>560</td>
-		<td>563</td>
-		<td>566</td>
-		<td>566</td>
-		<td>570</td>
-		<td>570</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -861,8 +861,8 @@
 		<td>323</td>
 		<td>323</td>
 		<td>333</td>
-		<td>333</td>
-		<td></td>
+		<td>335</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21387</td>
-		<td>26</td>
+		<td>21407</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
