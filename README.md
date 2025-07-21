@@ -21,8 +21,8 @@
 		<td>933</td>
 		<td>933</td>
 		<td>935</td>
-		<td>939</td>
-		<td>+ 4</td>
+		<td>941</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -362,8 +362,8 @@
 		<td>531</td>
 		<td>531</td>
 		<td>535</td>
-		<td>535</td>
-		<td></td>
+		<td>539</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21379</td>
-		<td>18</td>
+		<td>21385</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>933</td>
 		<td>933</td>
 		<td>935</td>
-		<td>939</td>
-		<td>+ 4</td>
+		<td>941</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -696,8 +696,8 @@
 		<td>531</td>
 		<td>531</td>
 		<td>535</td>
-		<td>535</td>
-		<td></td>
+		<td>539</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21379</td>
-		<td>18</td>
+		<td>21385</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>14</td>
 		<td>20</td>
 		<td>81</td>
-		<td>3</td>
+		<td>23</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>4</td>
 		<td>6</td>
 		<td>12</td>
-		<td>3</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3739</td>
-		<td>1023</td>
+		<td>3759</td>
+		<td>1024</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>89</td>
-		<td>42.01</td>
-		<td>11.49</td>
+		<td>42.24</td>
+		<td>11.51</td>
 		<td></td>
 		<td></td>
 	</tr>
