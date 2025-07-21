@@ -54,8 +54,8 @@
 		<td>612</td>
 		<td>612</td>
 		<td>614</td>
-		<td>614</td>
-		<td></td>
+		<td>616</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>67</td>
 		<td>67</td>
 		<td>69</td>
-		<td>69</td>
-		<td></td>
+		<td>71</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>324</td>
 		<td>328</td>
 		<td>337</td>
-		<td>337</td>
-		<td></td>
+		<td>340</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -120,8 +120,8 @@
 		<td>514</td>
 		<td>514</td>
 		<td>518</td>
-		<td>518</td>
-		<td></td>
+		<td>520</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -153,8 +153,8 @@
 		<td>807</td>
 		<td>807</td>
 		<td>809</td>
-		<td>809</td>
-		<td></td>
+		<td>811</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -164,8 +164,8 @@
 		<td>140</td>
 		<td>140</td>
 		<td>142</td>
-		<td>142</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21363</td>
-		<td>2</td>
+		<td>21377</td>
+		<td>16</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>807</td>
 		<td>807</td>
 		<td>809</td>
-		<td>809</td>
-		<td></td>
+		<td>811</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -619,8 +619,8 @@
 		<td>612</td>
 		<td>612</td>
 		<td>614</td>
-		<td>614</td>
-		<td></td>
+		<td>616</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -718,8 +718,8 @@
 		<td>514</td>
 		<td>514</td>
 		<td>518</td>
-		<td>518</td>
-		<td></td>
+		<td>520</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -850,8 +850,8 @@
 		<td>324</td>
 		<td>328</td>
 		<td>337</td>
-		<td>337</td>
-		<td></td>
+		<td>340</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -905,8 +905,8 @@
 		<td>140</td>
 		<td>140</td>
 		<td>142</td>
-		<td>142</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -916,8 +916,8 @@
 		<td>67</td>
 		<td>67</td>
 		<td>69</td>
-		<td>69</td>
-		<td></td>
+		<td>71</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21363</td>
-		<td>2</td>
+		<td>21377</td>
+		<td>16</td>
 	</tr>
 </table>
 </sub></sup>
@@ -936,7 +936,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-07-12</td>
 		<td>2025-07-13</td>
 		<td>2025-07-14</td>
 		<td>2025-07-15</td>
@@ -945,10 +944,10 @@
 		<td>2025-07-18</td>
 		<td>2025-07-19</td>
 		<td>2025-07-20</td>
+		<td>2025-07-21</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>63</td>
 		<td>39</td>
 		<td>24</td>
 		<td>41</td>
@@ -957,10 +956,10 @@
 		<td>14</td>
 		<td>20</td>
 		<td>81</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>13</td>
 		<td>13</td>
 		<td>14</td>
 		<td>13</td>
@@ -969,6 +968,7 @@
 		<td>4</td>
 		<td>6</td>
 		<td>12</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3736</td>
-		<td>1020</td>
+		<td>3739</td>
+		<td>1023</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>89</td>
-		<td>41.98</td>
-		<td>11.46</td>
+		<td>42.01</td>
+		<td>11.49</td>
 		<td></td>
 		<td></td>
 	</tr>
