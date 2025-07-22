@@ -21,8 +21,8 @@
 		<td>933</td>
 		<td>935</td>
 		<td>941</td>
-		<td>941</td>
-		<td></td>
+		<td>943</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>612</td>
 		<td>614</td>
 		<td>619</td>
-		<td>619</td>
-		<td></td>
+		<td>621</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>67</td>
 		<td>69</td>
 		<td>73</td>
-		<td>73</td>
-		<td></td>
+		<td>75</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -175,8 +175,8 @@
 		<td>920</td>
 		<td>928</td>
 		<td>932</td>
-		<td>936</td>
-		<td>+ 4</td>
+		<td>938</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -208,8 +208,8 @@
 		<td>190</td>
 		<td>192</td>
 		<td>192</td>
-		<td>192</td>
-		<td></td>
+		<td>194</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21476</td>
-		<td>43</td>
+		<td>21486</td>
+		<td>53</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>933</td>
 		<td>935</td>
 		<td>941</td>
-		<td>941</td>
-		<td></td>
+		<td>943</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -498,8 +498,8 @@
 		<td>920</td>
 		<td>928</td>
 		<td>932</td>
-		<td>936</td>
-		<td>+ 4</td>
+		<td>938</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -619,8 +619,8 @@
 		<td>612</td>
 		<td>614</td>
 		<td>619</td>
-		<td>619</td>
-		<td></td>
+		<td>621</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -894,8 +894,8 @@
 		<td>190</td>
 		<td>192</td>
 		<td>192</td>
-		<td>192</td>
-		<td></td>
+		<td>194</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -916,8 +916,8 @@
 		<td>67</td>
 		<td>69</td>
 		<td>73</td>
-		<td>73</td>
-		<td></td>
+		<td>75</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21476</td>
-		<td>43</td>
+		<td>21486</td>
+		<td>53</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>20</td>
 		<td>81</td>
 		<td>103</td>
-		<td>154</td>
+		<td>155</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>6</td>
 		<td>12</td>
 		<td>10</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>3993</td>
-		<td>1037</td>
+		<td>3994</td>
+		<td>1038</td>
 		<td>165</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>90</td>
-		<td>44.37</td>
-		<td>11.52</td>
+		<td>44.38</td>
+		<td>11.53</td>
 		<td></td>
 		<td></td>
 	</tr>
