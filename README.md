@@ -109,8 +109,8 @@
 		<td>337</td>
 		<td>342</td>
 		<td>347</td>
-		<td>347</td>
-		<td></td>
+		<td>349</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -164,8 +164,8 @@
 		<td>142</td>
 		<td>145</td>
 		<td>145</td>
-		<td>145</td>
-		<td></td>
+		<td>147</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -263,8 +263,8 @@
 		<td>512</td>
 		<td>512</td>
 		<td>512</td>
-		<td>512</td>
-		<td></td>
+		<td>514</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>367</td>
 		<td>367</td>
 		<td>367</td>
-		<td>367</td>
-		<td></td>
+		<td>369</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21488</td>
-		<td>0</td>
+		<td>21496</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
@@ -729,8 +729,8 @@
 		<td>512</td>
 		<td>512</td>
 		<td>512</td>
-		<td>512</td>
-		<td></td>
+		<td>514</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -828,8 +828,19 @@
 		<td>367</td>
 		<td>367</td>
 		<td>367</td>
-		<td>367</td>
-		<td></td>
+		<td>369</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>combat.ai</td>
+		<td>321</td>
+		<td>324</td>
+		<td>328</td>
+		<td>337</td>
+		<td>342</td>
+		<td>347</td>
+		<td>349</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -840,17 +851,6 @@
 		<td>348</td>
 		<td>348</td>
 		<td>348</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>combat.ai</td>
-		<td>321</td>
-		<td>324</td>
-		<td>328</td>
-		<td>337</td>
-		<td>342</td>
-		<td>347</td>
-		<td>347</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -905,8 +905,8 @@
 		<td>142</td>
 		<td>145</td>
 		<td>145</td>
-		<td>145</td>
-		<td></td>
+		<td>147</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21488</td>
-		<td>0</td>
+		<td>21496</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
