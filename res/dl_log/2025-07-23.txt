@@ -26,7 +26,7 @@ v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 142
 v1.1.5-hai.side.mission.unlocker | downloads: 101
-v1.0.6-snowfeather.robotics | downloads: 110
+v1.0.6-snowfeather.robotics | downloads: 112
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 160
 v1.0.4-show.reputation | downloads: 54
@@ -246,7 +246,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 245
-# TOTAL DOWNLOADS: 23523
+# TOTAL DOWNLOADS: 23525
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -294,7 +294,7 @@ planet.pluto 190
 quarg.farm 751
 real.fluff 93
 show.reputation 645
-snowfeather.robotics 574
+snowfeather.robotics 576
 space.fauna 394
 too.many.asteroids 792
 tribute.republic 348
