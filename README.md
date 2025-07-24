@@ -87,8 +87,8 @@
 		<td>593</td>
 		<td>594</td>
 		<td>594</td>
-		<td>597</td>
-		<td>+ 3</td>
+		<td>599</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21639</td>
-		<td>114</td>
+		<td>21641</td>
+		<td>116</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>593</td>
 		<td>594</td>
 		<td>594</td>
-		<td>597</td>
-		<td>+ 3</td>
+		<td>599</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21639</td>
-		<td>114</td>
+		<td>21641</td>
+		<td>116</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>103</td>
 		<td>214</td>
 		<td>90</td>
-		<td>27</td>
+		<td>28</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>10</td>
 		<td>8</td>
 		<td>18</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4170</td>
-		<td>1064</td>
+		<td>4171</td>
+		<td>1065</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>92</td>
-		<td>45.33</td>
-		<td>11.57</td>
+		<td>45.34</td>
+		<td>11.58</td>
 		<td></td>
 		<td></td>
 	</tr>
