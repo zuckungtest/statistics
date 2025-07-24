@@ -22,7 +22,7 @@ v1.0.4-combat.ai | downloads: 114
 v1.1.8-galactic.capital.investment | downloads: 151
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
-v1.0.23-additional.command.buttons.radial | downloads: 158
+v1.0.23-additional.command.buttons.radial | downloads: 160
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 143
@@ -247,12 +247,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 246
-# TOTAL DOWNLOADS: 23648
+# TOTAL DOWNLOADS: 23650
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 946
+additional.command.buttons.radial 948
 automata.destruction.0percent 587
 automata.in.human.space 479
 avgi.licenses 229
