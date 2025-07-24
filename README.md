@@ -109,8 +109,8 @@
 		<td>342</td>
 		<td>347</td>
 		<td>352</td>
-		<td>357</td>
-		<td>+ 5</td>
+		<td>358</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21660</td>
-		<td>135</td>
+		<td>21661</td>
+		<td>136</td>
 	</tr>
 </table>
 </sub></sup>
@@ -839,8 +839,8 @@
 		<td>342</td>
 		<td>347</td>
 		<td>352</td>
-		<td>357</td>
-		<td>+ 5</td>
+		<td>358</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21660</td>
-		<td>135</td>
+		<td>21661</td>
+		<td>136</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>103</td>
 		<td>214</td>
 		<td>90</td>
-		<td>28</td>
+		<td>38</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>10</td>
 		<td>8</td>
 		<td>18</td>
-		<td>9</td>
+		<td>10</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4171</td>
-		<td>1065</td>
+		<td>4181</td>
+		<td>1066</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>92</td>
-		<td>45.34</td>
-		<td>11.58</td>
+		<td>45.45</td>
+		<td>11.59</td>
 		<td></td>
 		<td></td>
 	</tr>
