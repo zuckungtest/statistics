@@ -296,8 +296,8 @@
 		<td>574</td>
 		<td>576</td>
 		<td>578</td>
-		<td>581</td>
-		<td>+ 3</td>
+		<td>583</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -395,8 +395,8 @@
 		<td>638</td>
 		<td>643</td>
 		<td>645</td>
-		<td>648</td>
-		<td>+ 3</td>
+		<td>650</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21603</td>
-		<td>78</td>
+		<td>21607</td>
+		<td>82</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>638</td>
 		<td>643</td>
 		<td>645</td>
-		<td>648</td>
-		<td>+ 3</td>
+		<td>650</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -663,8 +663,8 @@
 		<td>574</td>
 		<td>576</td>
 		<td>578</td>
-		<td>581</td>
-		<td>+ 3</td>
+		<td>583</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21603</td>
-		<td>78</td>
+		<td>21607</td>
+		<td>82</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>103</td>
 		<td>214</td>
 		<td>90</td>
-		<td>19</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>10</td>
 		<td>8</td>
 		<td>18</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4162</td>
-		<td>1061</td>
+		<td>4164</td>
+		<td>1062</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>92</td>
-		<td>45.24</td>
-		<td>11.53</td>
+		<td>45.26</td>
+		<td>11.54</td>
 		<td></td>
 		<td></td>
 	</tr>
