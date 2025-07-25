@@ -65,8 +65,8 @@
 		<td>75</td>
 		<td>75</td>
 		<td>78</td>
-		<td>79</td>
-		<td>+ 1</td>
+		<td>81</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>830</td>
 		<td>832</td>
 		<td>836</td>
-		<td>836</td>
-		<td></td>
+		<td>838</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -285,8 +285,8 @@
 		<td>337</td>
 		<td>340</td>
 		<td>344</td>
-		<td>344</td>
-		<td></td>
+		<td>346</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>576</td>
 		<td>578</td>
 		<td>586</td>
-		<td>586</td>
-		<td></td>
+		<td>588</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>673</td>
 		<td>675</td>
 		<td>680</td>
-		<td>680</td>
-		<td></td>
+		<td>682</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21662</td>
-		<td>1</td>
+		<td>21672</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>830</td>
 		<td>832</td>
 		<td>836</td>
-		<td>836</td>
-		<td></td>
+		<td>838</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -579,6 +579,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>more.arfectas</td>
+		<td>664</td>
+		<td>669</td>
+		<td>671</td>
+		<td>673</td>
+		<td>675</td>
+		<td>680</td>
+		<td>682</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>coalition.shopping</td>
 		<td>663</td>
 		<td>671</td>
@@ -587,17 +598,6 @@
 		<td>678</td>
 		<td>682</td>
 		<td>682</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>more.arfectas</td>
-		<td>664</td>
-		<td>669</td>
-		<td>671</td>
-		<td>673</td>
-		<td>675</td>
-		<td>680</td>
-		<td>680</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -645,6 +645,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>568</td>
+		<td>572</td>
+		<td>574</td>
+		<td>576</td>
+		<td>578</td>
+		<td>586</td>
+		<td>588</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>573</td>
 		<td>580</td>
@@ -653,17 +664,6 @@
 		<td>582</td>
 		<td>587</td>
 		<td>587</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>568</td>
-		<td>572</td>
-		<td>574</td>
-		<td>576</td>
-		<td>578</td>
-		<td>586</td>
-		<td>586</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -861,8 +861,8 @@
 		<td>337</td>
 		<td>340</td>
 		<td>344</td>
-		<td>344</td>
-		<td></td>
+		<td>346</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -916,8 +916,8 @@
 		<td>75</td>
 		<td>75</td>
 		<td>78</td>
-		<td>79</td>
-		<td>+ 1</td>
+		<td>81</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21662</td>
-		<td>1</td>
+		<td>21672</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
