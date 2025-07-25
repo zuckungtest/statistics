@@ -2,7 +2,7 @@
 v1.0.8-combat.ai | downloads: 9
 v1.0.7-combat.ai | downloads: 53
 v1.0.6-combat.ai | downloads: 10
-v1.0.0-boss.loot | downloads: 85
+v1.0.0-boss.loot | downloads: 87
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 22
 v1.0.7-mission.helper | downloads: 129
@@ -11,7 +11,7 @@ v1.0.10-uniques | downloads: 90
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 45
 v1.0.5-show.reputation | downloads: 94
-v1.0.3-paint.your.ships | downloads: 85
+v1.0.3-paint.your.ships | downloads: 87
 v1.1.9-captureable.person.ships | downloads: 78
 v1.0.9-bunrodea.missions | downloads: 117
 v1.0.5-better.starts | downloads: 84
@@ -247,7 +247,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 246
-# TOTAL DOWNLOADS: 23789
+# TOTAL DOWNLOADS: 23793
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -257,7 +257,7 @@ automata.destruction.0percent 587
 automata.in.human.space 481
 avgi.licenses 229
 better.starts 628
-boss.loot 85
+boss.loot 87
 bunrodea.missions 840
 captureable.person.ships 601
 coalition.shopping 684
@@ -288,7 +288,7 @@ more.person.ships 500
 navy.licenses 575
 no.more.mereti.mines 420
 outfits.weapon.slot 464
-paint.your.ships 549
+paint.your.ships 551
 pirate.warlords 3
 planet.map 322
 planet.pluto 190
