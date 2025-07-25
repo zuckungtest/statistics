@@ -2,10 +2,10 @@
 v1.0.8-combat.ai | downloads: 4
 v1.0.7-combat.ai | downloads: 53
 v1.0.6-combat.ai | downloads: 10
-v1.0.0-boss.loot | downloads: 79
+v1.0.0-boss.loot | downloads: 81
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 22
-v1.0.7-mission.helper | downloads: 118
+v1.0.7-mission.helper | downloads: 120
 v1.0.9-expert.crew.members | downloads: 75
 v1.0.10-uniques | downloads: 85
 v1.0.8-expert.crew.members | downloads: 18
@@ -13,7 +13,7 @@ v1.0.7-human.labels | downloads: 43
 v1.0.5-show.reputation | downloads: 92
 v1.0.3-paint.your.ships | downloads: 82
 v1.1.9-captureable.person.ships | downloads: 76
-v1.0.9-bunrodea.missions | downloads: 113
+v1.0.9-bunrodea.missions | downloads: 115
 v1.0.5-better.starts | downloads: 82
 v1.0.4-control.station | downloads: 95
 v1.0.6-mission.helper | downloads: 64
@@ -40,7 +40,7 @@ v1.0.1-outfits.weapon.slot | downloads: 84
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 342
+v1.0.1-licenses | downloads: 344
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -212,7 +212,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 678
+v1.0.2-more.arfectas | downloads: 680
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -247,7 +247,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 246
-# TOTAL DOWNLOADS: 23673
+# TOTAL DOWNLOADS: 23683
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -257,8 +257,8 @@ automata.destruction.0percent 587
 automata.in.human.space 479
 avgi.licenses 229
 better.starts 626
-boss.loot 79
-bunrodea.missions 836
+boss.loot 81
+bunrodea.missions 838
 captureable.person.ships 599
 coalition.shopping 682
 combat.ai 358
@@ -280,9 +280,9 @@ kor.efret.shipyard 725
 landing.images 518
 landing.images.android 349
 landing.images.highres 370
-licenses 344
-mission.helper 586
-more.arfectas 680
+licenses 346
+mission.helper 588
+more.arfectas 682
 more.boarding.missions 737
 more.person.ships 498
 navy.licenses 575
