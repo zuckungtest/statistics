@@ -21,8 +21,8 @@
 		<td>943</td>
 		<td>943</td>
 		<td>948</td>
-		<td>951</td>
-		<td>+ 3</td>
+		<td>952</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>75</td>
 		<td>75</td>
 		<td>78</td>
-		<td>83</td>
-		<td>+ 5</td>
+		<td>85</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -296,8 +296,8 @@
 		<td>576</td>
 		<td>578</td>
 		<td>586</td>
-		<td>595</td>
-		<td>+ 9</td>
+		<td>597</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21773</td>
-		<td>112</td>
+		<td>21778</td>
+		<td>117</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>943</td>
 		<td>943</td>
 		<td>948</td>
-		<td>951</td>
-		<td>+ 3</td>
+		<td>952</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -652,8 +652,8 @@
 		<td>576</td>
 		<td>578</td>
 		<td>586</td>
-		<td>595</td>
-		<td>+ 9</td>
+		<td>597</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -916,8 +916,8 @@
 		<td>75</td>
 		<td>75</td>
 		<td>78</td>
-		<td>83</td>
-		<td>+ 5</td>
+		<td>85</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21773</td>
-		<td>112</td>
+		<td>21778</td>
+		<td>117</td>
 	</tr>
 </table>
 </sub></sup>
