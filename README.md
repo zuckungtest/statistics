@@ -21,8 +21,8 @@
 		<td>943</td>
 		<td>943</td>
 		<td>948</td>
-		<td>950</td>
-		<td>+ 2</td>
+		<td>951</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>347</td>
 		<td>352</td>
 		<td>358</td>
-		<td>362</td>
-		<td>+ 4</td>
+		<td>363</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>815</td>
 		<td>815</td>
 		<td>816</td>
-		<td>820</td>
-		<td>+ 4</td>
+		<td>821</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -230,8 +230,8 @@
 		<td>573</td>
 		<td>573</td>
 		<td>574</td>
-		<td>576</td>
-		<td>+ 2</td>
+		<td>577</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -252,8 +252,8 @@
 		<td>721</td>
 		<td>721</td>
 		<td>725</td>
-		<td>729</td>
-		<td>+ 4</td>
+		<td>730</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>576</td>
 		<td>578</td>
 		<td>586</td>
-		<td>594</td>
-		<td>+ 8</td>
+		<td>595</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -340,8 +340,8 @@
 		<td>413</td>
 		<td>413</td>
 		<td>417</td>
-		<td>419</td>
-		<td>+ 2</td>
+		<td>420</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -362,8 +362,8 @@
 		<td>539</td>
 		<td>541</td>
 		<td>546</td>
-		<td>548</td>
-		<td>+ 2</td>
+		<td>549</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -428,8 +428,8 @@
 		<td>792</td>
 		<td>792</td>
 		<td>795</td>
-		<td>797</td>
-		<td>+ 2</td>
+		<td>798</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -450,8 +450,8 @@
 		<td>596</td>
 		<td>598</td>
 		<td>599</td>
-		<td>603</td>
-		<td>+ 4</td>
+		<td>604</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21763</td>
-		<td>102</td>
+		<td>21773</td>
+		<td>112</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>943</td>
 		<td>943</td>
 		<td>948</td>
-		<td>950</td>
-		<td>+ 2</td>
+		<td>951</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -520,8 +520,8 @@
 		<td>815</td>
 		<td>815</td>
 		<td>816</td>
-		<td>820</td>
-		<td>+ 4</td>
+		<td>821</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -531,8 +531,8 @@
 		<td>792</td>
 		<td>792</td>
 		<td>795</td>
-		<td>797</td>
-		<td>+ 2</td>
+		<td>798</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>721</td>
 		<td>721</td>
 		<td>725</td>
-		<td>729</td>
-		<td>+ 4</td>
+		<td>730</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -630,8 +630,8 @@
 		<td>596</td>
 		<td>598</td>
 		<td>599</td>
-		<td>603</td>
-		<td>+ 4</td>
+		<td>604</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -652,8 +652,8 @@
 		<td>576</td>
 		<td>578</td>
 		<td>586</td>
-		<td>594</td>
-		<td>+ 8</td>
+		<td>595</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -685,8 +685,8 @@
 		<td>573</td>
 		<td>573</td>
 		<td>574</td>
-		<td>576</td>
-		<td>+ 2</td>
+		<td>577</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -696,8 +696,8 @@
 		<td>539</td>
 		<td>541</td>
 		<td>546</td>
-		<td>548</td>
-		<td>+ 2</td>
+		<td>549</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -795,8 +795,8 @@
 		<td>413</td>
 		<td>413</td>
 		<td>417</td>
-		<td>419</td>
-		<td>+ 2</td>
+		<td>420</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -839,8 +839,8 @@
 		<td>347</td>
 		<td>352</td>
 		<td>358</td>
-		<td>362</td>
-		<td>+ 4</td>
+		<td>363</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21763</td>
-		<td>102</td>
+		<td>21773</td>
+		<td>112</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>214</td>
 		<td>90</td>
 		<td>45</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>8</td>
 		<td>18</td>
 		<td>11</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4198</td>
-		<td>1071</td>
+		<td>4199</td>
+		<td>1072</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>93</td>
-		<td>45.14</td>
-		<td>11.52</td>
+		<td>45.15</td>
+		<td>11.53</td>
 		<td></td>
 		<td></td>
 	</tr>
