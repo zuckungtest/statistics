@@ -2,10 +2,10 @@
 v1.0.8-combat.ai | downloads: 9
 v1.0.7-combat.ai | downloads: 53
 v1.0.6-combat.ai | downloads: 10
-v1.0.0-boss.loot | downloads: 83
+v1.0.0-boss.loot | downloads: 85
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 22
-v1.0.7-mission.helper | downloads: 127
+v1.0.7-mission.helper | downloads: 129
 v1.0.9-expert.crew.members | downloads: 80
 v1.0.10-uniques | downloads: 90
 v1.0.8-expert.crew.members | downloads: 18
@@ -22,7 +22,7 @@ v1.0.4-combat.ai | downloads: 114
 v1.1.8-galactic.capital.investment | downloads: 154
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
-v1.0.23-additional.command.buttons.radial | downloads: 163
+v1.0.23-additional.command.buttons.radial | downloads: 164
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 146
@@ -247,17 +247,17 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 246
-# TOTAL DOWNLOADS: 23784
+# TOTAL DOWNLOADS: 23789
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 951
+additional.command.buttons.radial 952
 automata.destruction.0percent 587
 automata.in.human.space 481
 avgi.licenses 229
 better.starts 628
-boss.loot 83
+boss.loot 85
 bunrodea.missions 840
 captureable.person.ships 601
 coalition.shopping 684
@@ -281,7 +281,7 @@ landing.images 520
 landing.images.android 349
 landing.images.highres 370
 licenses 352
-mission.helper 595
+mission.helper 597
 more.arfectas 684
 more.boarding.missions 739
 more.person.ships 500
