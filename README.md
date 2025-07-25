@@ -65,8 +65,8 @@
 		<td>75</td>
 		<td>75</td>
 		<td>78</td>
-		<td>85</td>
-		<td>+ 7</td>
+		<td>87</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -362,8 +362,8 @@
 		<td>539</td>
 		<td>541</td>
 		<td>546</td>
-		<td>549</td>
-		<td>+ 3</td>
+		<td>551</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21778</td>
-		<td>117</td>
+		<td>21782</td>
+		<td>121</td>
 	</tr>
 </table>
 </sub></sup>
@@ -696,8 +696,8 @@
 		<td>539</td>
 		<td>541</td>
 		<td>546</td>
-		<td>549</td>
-		<td>+ 3</td>
+		<td>551</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -916,8 +916,8 @@
 		<td>75</td>
 		<td>75</td>
 		<td>78</td>
-		<td>85</td>
-		<td>+ 7</td>
+		<td>87</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21778</td>
-		<td>117</td>
+		<td>21782</td>
+		<td>121</td>
 	</tr>
 </table>
 </sub></sup>
