@@ -120,8 +120,8 @@
 		<td>520</td>
 		<td>524</td>
 		<td>529</td>
-		<td>529</td>
-		<td></td>
+		<td>531</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -153,8 +153,8 @@
 		<td>815</td>
 		<td>816</td>
 		<td>821</td>
-		<td>821</td>
-		<td></td>
+		<td>823</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>938</td>
 		<td>944</td>
 		<td>946</td>
-		<td>946</td>
-		<td></td>
+		<td>948</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -318,8 +318,8 @@
 		<td>735</td>
 		<td>737</td>
 		<td>739</td>
-		<td>739</td>
-		<td></td>
+		<td>741</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>751</td>
 		<td>758</td>
 		<td>762</td>
-		<td>762</td>
-		<td></td>
+		<td>764</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -395,8 +395,8 @@
 		<td>645</td>
 		<td>653</td>
 		<td>655</td>
-		<td>655</td>
-		<td></td>
+		<td>657</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -406,8 +406,8 @@
 		<td>576</td>
 		<td>578</td>
 		<td>580</td>
-		<td>580</td>
-		<td></td>
+		<td>581</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21784</td>
-		<td>2</td>
+		<td>21797</td>
+		<td>15</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>938</td>
 		<td>944</td>
 		<td>946</td>
-		<td>946</td>
-		<td></td>
+		<td>948</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>815</td>
 		<td>816</td>
 		<td>821</td>
-		<td>821</td>
-		<td></td>
+		<td>823</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -553,8 +553,8 @@
 		<td>751</td>
 		<td>758</td>
 		<td>762</td>
-		<td>762</td>
-		<td></td>
+		<td>764</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -564,8 +564,8 @@
 		<td>735</td>
 		<td>737</td>
 		<td>739</td>
-		<td>739</td>
-		<td></td>
+		<td>741</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -608,8 +608,8 @@
 		<td>645</td>
 		<td>653</td>
 		<td>655</td>
-		<td>655</td>
-		<td></td>
+		<td>657</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -674,8 +674,8 @@
 		<td>576</td>
 		<td>578</td>
 		<td>580</td>
-		<td>580</td>
-		<td></td>
+		<td>581</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -718,8 +718,8 @@
 		<td>520</td>
 		<td>524</td>
 		<td>529</td>
-		<td>529</td>
-		<td></td>
+		<td>531</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21784</td>
-		<td>2</td>
+		<td>21797</td>
+		<td>15</td>
 	</tr>
 </table>
 </sub></sup>
