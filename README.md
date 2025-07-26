@@ -32,8 +32,8 @@
 		<td>582</td>
 		<td>587</td>
 		<td>587</td>
-		<td>587</td>
-		<td></td>
+		<td>589</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21797</td>
-		<td>15</td>
+		<td>21799</td>
+		<td>17</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>582</td>
 		<td>587</td>
 		<td>587</td>
-		<td>587</td>
-		<td></td>
+		<td>589</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21797</td>
-		<td>15</td>
+		<td>21799</td>
+		<td>17</td>
 	</tr>
 </table>
 </sub></sup>
