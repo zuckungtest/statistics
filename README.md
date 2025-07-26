@@ -109,8 +109,8 @@
 		<td>352</td>
 		<td>358</td>
 		<td>363</td>
-		<td>364</td>
-		<td>+ 1</td>
+		<td>366</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21799</td>
-		<td>17</td>
+		<td>21801</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
@@ -839,8 +839,8 @@
 		<td>352</td>
 		<td>358</td>
 		<td>363</td>
-		<td>364</td>
-		<td>+ 1</td>
+		<td>366</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21799</td>
-		<td>17</td>
+		<td>21801</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
