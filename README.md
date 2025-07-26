@@ -54,8 +54,8 @@
 		<td>621</td>
 		<td>626</td>
 		<td>628</td>
-		<td>628</td>
-		<td></td>
+		<td>629</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -109,8 +109,8 @@
 		<td>352</td>
 		<td>358</td>
 		<td>363</td>
-		<td>363</td>
-		<td></td>
+		<td>364</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21782</td>
-		<td>0</td>
+		<td>21784</td>
+		<td>2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>621</td>
 		<td>626</td>
 		<td>628</td>
-		<td>628</td>
-		<td></td>
+		<td>629</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -839,8 +839,8 @@
 		<td>352</td>
 		<td>358</td>
 		<td>363</td>
-		<td>363</td>
-		<td></td>
+		<td>364</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21782</td>
-		<td>0</td>
+		<td>21784</td>
+		<td>2</td>
 	</tr>
 </table>
 </sub></sup>
