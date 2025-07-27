@@ -4,14 +4,14 @@ v1.0.7-combat.ai | downloads: 53
 v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 87
 v1.0.5-combat.ai | downloads: 51
-v1.0.2-flare.play | downloads: 22
+v1.0.2-flare.play | downloads: 24
 v1.0.7-mission.helper | downloads: 129
-v1.0.9-expert.crew.members | downloads: 82
+v1.0.9-expert.crew.members | downloads: 84
 v1.0.10-uniques | downloads: 90
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 45
 v1.0.5-show.reputation | downloads: 96
-v1.0.3-paint.your.ships | downloads: 87
+v1.0.3-paint.your.ships | downloads: 89
 v1.1.9-captureable.person.ships | downloads: 78
 v1.0.9-bunrodea.missions | downloads: 119
 v1.0.5-better.starts | downloads: 85
@@ -247,7 +247,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 246
-# TOTAL DOWNLOADS: 23824
+# TOTAL DOWNLOADS: 23830
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -266,8 +266,8 @@ control.station 531
 devil-run.unhidden 66
 disable.person.ships 266
 disable.spaceport.repeatables 403
-expert.crew.members 823
-flare.play 148
+expert.crew.members 825
+flare.play 150
 free.worlds.5.years.later 369
 galactic.capital.investment 948
 gegno.pirates 776
@@ -288,7 +288,7 @@ more.person.ships 500
 navy.licenses 575
 no.more.mereti.mines 420
 outfits.weapon.slot 464
-paint.your.ships 551
+paint.your.ships 553
 pirate.warlords 3
 planet.map 322
 planet.pluto 190
