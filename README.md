@@ -98,8 +98,8 @@
 		<td>682</td>
 		<td>684</td>
 		<td>684</td>
-		<td>684</td>
-		<td></td>
+		<td>686</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -186,8 +186,8 @@
 		<td>772</td>
 		<td>776</td>
 		<td>776</td>
-		<td>776</td>
-		<td></td>
+		<td>778</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21819</td>
-		<td>10</td>
+		<td>21823</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>772</td>
 		<td>776</td>
 		<td>776</td>
-		<td>776</td>
-		<td></td>
+		<td>778</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -579,22 +579,22 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>more.arfectas</td>
-		<td>671</td>
-		<td>673</td>
-		<td>675</td>
-		<td>680</td>
-		<td>684</td>
-		<td>684</td>
-		<td>684</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>coalition.shopping</td>
 		<td>678</td>
 		<td>678</td>
 		<td>678</td>
 		<td>682</td>
+		<td>684</td>
+		<td>684</td>
+		<td>686</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>more.arfectas</td>
+		<td>671</td>
+		<td>673</td>
+		<td>675</td>
+		<td>680</td>
 		<td>684</td>
 		<td>684</td>
 		<td>684</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21819</td>
-		<td>10</td>
+		<td>21823</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>45</td>
 		<td>29</td>
 		<td>34</td>
-		<td>9</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -982,7 +982,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4260</td>
+		<td>4261</td>
 		<td>1097</td>
 		<td>214</td>
 		<td>21</td>
@@ -996,7 +996,7 @@
 	</tr>
 	<tr>
 		<td>95</td>
-		<td>44.84</td>
+		<td>44.85</td>
 		<td>11.55</td>
 		<td></td>
 		<td></td>
