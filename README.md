@@ -153,8 +153,8 @@
 		<td>816</td>
 		<td>821</td>
 		<td>823</td>
-		<td>823</td>
-		<td></td>
+		<td>825</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -164,8 +164,8 @@
 		<td>148</td>
 		<td>148</td>
 		<td>148</td>
-		<td>148</td>
-		<td></td>
+		<td>150</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -362,8 +362,8 @@
 		<td>546</td>
 		<td>551</td>
 		<td>551</td>
-		<td>551</td>
-		<td></td>
+		<td>553</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21813</td>
-		<td>4</td>
+		<td>21819</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>816</td>
 		<td>821</td>
 		<td>823</td>
-		<td>823</td>
-		<td></td>
+		<td>825</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -696,8 +696,8 @@
 		<td>546</td>
 		<td>551</td>
 		<td>551</td>
-		<td>551</td>
-		<td></td>
+		<td>553</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -905,8 +905,8 @@
 		<td>148</td>
 		<td>148</td>
 		<td>148</td>
-		<td>148</td>
-		<td></td>
+		<td>150</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21813</td>
-		<td>4</td>
+		<td>21819</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
