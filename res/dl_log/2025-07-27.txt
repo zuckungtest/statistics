@@ -56,7 +56,7 @@ v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 184
-v1.0.3-gegno.pirates | downloads: 351
+v1.0.3-gegno.pirates | downloads: 353
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 203
@@ -95,7 +95,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 490
+v1.0.6-coalition.shopping | downloads: 492
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 563
@@ -247,7 +247,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 246
-# TOTAL DOWNLOADS: 23830
+# TOTAL DOWNLOADS: 23834
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -260,7 +260,7 @@ better.starts 629
 boss.loot 87
 bunrodea.missions 842
 captureable.person.ships 601
-coalition.shopping 684
+coalition.shopping 686
 combat.ai 368
 control.station 531
 devil-run.unhidden 66
@@ -270,7 +270,7 @@ expert.crew.members 825
 flare.play 150
 free.worlds.5.years.later 369
 galactic.capital.investment 948
-gegno.pirates 776
+gegno.pirates 778
 hai.side.mission.unlocker 538
 highrollers.ltd 195
 human.labels 450
