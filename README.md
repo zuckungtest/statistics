@@ -230,8 +230,8 @@
 		<td>574</td>
 		<td>577</td>
 		<td>577</td>
-		<td>577</td>
-		<td></td>
+		<td>581</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21823</td>
-		<td>14</td>
+		<td>21827</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>574</td>
 		<td>577</td>
 		<td>577</td>
-		<td>577</td>
-		<td></td>
+		<td>581</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21823</td>
-		<td>14</td>
+		<td>21827</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
