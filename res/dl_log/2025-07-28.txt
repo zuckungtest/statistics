@@ -14,7 +14,7 @@ v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 49
 v1.0.5-show.reputation | downloads: 98
 v1.0.3-paint.your.ships | downloads: 91
-v1.1.9-captureable.person.ships | downloads: 80
+v1.1.9-captureable.person.ships | downloads: 82
 v1.0.9-bunrodea.missions | downloads: 125
 v1.0.5-better.starts | downloads: 89
 v1.0.4-control.station | downloads: 106
@@ -29,9 +29,9 @@ v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 152
 v1.1.5-hai.side.mission.unlocker | downloads: 111
-v1.0.6-snowfeather.robotics | downloads: 123
+v1.0.6-snowfeather.robotics | downloads: 126
 v1.0.6-human.labels | downloads: 41
-v1.0.5-quarg.farm | downloads: 175
+v1.0.5-quarg.farm | downloads: 178
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 89
@@ -58,7 +58,7 @@ v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 186
-v1.0.3-gegno.pirates | downloads: 359
+v1.0.3-gegno.pirates | downloads: 361
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 203
@@ -214,7 +214,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 684
+v1.0.2-more.arfectas | downloads: 687
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -249,7 +249,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 23984
+# TOTAL DOWNLOADS: 23997
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -261,7 +261,7 @@ avgi.licenses 229
 better.starts 633
 boss.loot 93
 bunrodea.missions 848
-captureable.person.ships 603
+captureable.person.ships 605
 coalition.shopping 690
 combat.ai 376
 control.station 535
@@ -272,7 +272,7 @@ expert.crew.members 831
 flare.play 152
 free.worlds.5.years.later 369
 galactic.capital.investment 954
-gegno.pirates 784
+gegno.pirates 786
 hai.side.mission.unlocker 542
 highrollers.ltd 197
 human.labels 454
@@ -284,7 +284,7 @@ landing.images.android 349
 landing.images.highres 374
 licenses 360
 mission.helper 599
-more.arfectas 686
+more.arfectas 689
 more.boarding.missions 745
 more.person.ships 502
 navy.licenses 575
@@ -294,10 +294,10 @@ paint.your.ships 555
 pirate.warlords 3
 planet.map 324
 planet.pluto 190
-quarg.farm 766
+quarg.farm 769
 real.fluff 93
 show.reputation 659
-snowfeather.robotics 587
+snowfeather.robotics 590
 space.fauna 399
 too.many.asteroids 802
 tribute.republic 355
