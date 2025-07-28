@@ -87,8 +87,8 @@
 		<td>601</td>
 		<td>601</td>
 		<td>601</td>
-		<td>603</td>
-		<td>+ 2</td>
+		<td>605</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -186,8 +186,8 @@
 		<td>776</td>
 		<td>776</td>
 		<td>778</td>
-		<td>784</td>
-		<td>+ 6</td>
+		<td>786</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -307,8 +307,8 @@
 		<td>684</td>
 		<td>684</td>
 		<td>684</td>
-		<td>686</td>
-		<td>+ 2</td>
+		<td>689</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>762</td>
 		<td>764</td>
 		<td>764</td>
-		<td>766</td>
-		<td>+ 2</td>
+		<td>769</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -406,8 +406,8 @@
 		<td>580</td>
 		<td>581</td>
 		<td>581</td>
-		<td>587</td>
-		<td>+ 6</td>
+		<td>590</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21973</td>
-		<td>146</td>
+		<td>21986</td>
+		<td>159</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>776</td>
 		<td>776</td>
 		<td>778</td>
-		<td>784</td>
-		<td>+ 6</td>
+		<td>786</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -553,8 +553,8 @@
 		<td>762</td>
 		<td>764</td>
 		<td>764</td>
-		<td>766</td>
-		<td>+ 2</td>
+		<td>769</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>684</td>
 		<td>684</td>
 		<td>684</td>
-		<td>686</td>
-		<td>+ 2</td>
+		<td>689</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -641,8 +641,8 @@
 		<td>601</td>
 		<td>601</td>
 		<td>601</td>
-		<td>603</td>
-		<td>+ 2</td>
+		<td>605</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -674,8 +674,8 @@
 		<td>580</td>
 		<td>581</td>
 		<td>581</td>
-		<td>587</td>
-		<td>+ 6</td>
+		<td>590</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21973</td>
-		<td>146</td>
+		<td>21986</td>
+		<td>159</td>
 	</tr>
 </table>
 </sub></sup>
