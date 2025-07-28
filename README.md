@@ -76,8 +76,8 @@
 		<td>840</td>
 		<td>842</td>
 		<td>842</td>
-		<td>842</td>
-		<td></td>
+		<td>844</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>363</td>
 		<td>368</td>
 		<td>368</td>
-		<td>368</td>
-		<td></td>
+		<td>370</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21833</td>
-		<td>6</td>
+		<td>21837</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>840</td>
 		<td>842</td>
 		<td>842</td>
-		<td>842</td>
-		<td></td>
+		<td>844</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -839,8 +839,8 @@
 		<td>363</td>
 		<td>368</td>
 		<td>368</td>
-		<td>368</td>
-		<td></td>
+		<td>370</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>21833</td>
-		<td>6</td>
+		<td>21837</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
