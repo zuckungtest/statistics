@@ -21,8 +21,8 @@
 		<td>952</td>
 		<td>956</td>
 		<td>956</td>
-		<td>959</td>
-		<td>+ 3</td>
+		<td>961</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -296,8 +296,8 @@
 		<td>597</td>
 		<td>599</td>
 		<td>605</td>
-		<td>607</td>
-		<td>+ 2</td>
+		<td>609</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -395,8 +395,8 @@
 		<td>657</td>
 		<td>659</td>
 		<td>659</td>
-		<td>663</td>
-		<td>+ 4</td>
+		<td>665</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22083</td>
-		<td>76</td>
+		<td>22089</td>
+		<td>82</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>952</td>
 		<td>956</td>
 		<td>956</td>
-		<td>959</td>
-		<td>+ 3</td>
+		<td>961</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -608,8 +608,8 @@
 		<td>657</td>
 		<td>659</td>
 		<td>659</td>
-		<td>663</td>
-		<td>+ 4</td>
+		<td>665</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -641,8 +641,8 @@
 		<td>597</td>
 		<td>599</td>
 		<td>605</td>
-		<td>607</td>
-		<td>+ 2</td>
+		<td>609</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22083</td>
-		<td>76</td>
+		<td>22089</td>
+		<td>82</td>
 	</tr>
 </table>
 </sub></sup>
