@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.24-additional.command.buttons.radial | downloads: 5
-v1.0.11-uniques | downloads: 10
+v1.0.11-uniques | downloads: 12
 v1.0.8-combat.ai | downloads: 25
 v1.0.7-combat.ai | downloads: 53
 v1.0.6-combat.ai | downloads: 10
@@ -14,7 +14,7 @@ v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 50
 v1.0.5-show.reputation | downloads: 102
 v1.0.3-paint.your.ships | downloads: 93
-v1.1.9-captureable.person.ships | downloads: 82
+v1.1.9-captureable.person.ships | downloads: 84
 v1.0.9-bunrodea.missions | downloads: 127
 v1.0.5-better.starts | downloads: 91
 v1.0.4-control.station | downloads: 108
@@ -214,7 +214,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 687
+v1.0.2-more.arfectas | downloads: 689
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -249,7 +249,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24088
+# TOTAL DOWNLOADS: 24094
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -261,7 +261,7 @@ avgi.licenses 229
 better.starts 635
 boss.loot 95
 bunrodea.missions 850
-captureable.person.ships 605
+captureable.person.ships 607
 coalition.shopping 691
 combat.ai 379
 control.station 537
@@ -284,7 +284,7 @@ landing.images.android 349
 landing.images.highres 374
 licenses 363
 mission.helper 607
-more.arfectas 689
+more.arfectas 691
 more.boarding.missions 748
 more.person.ships 502
 navy.licenses 575
@@ -302,4 +302,4 @@ space.fauna 399
 too.many.asteroids 804
 tribute.republic 355
 unique.fix 44
-uniques 617
+uniques 619
