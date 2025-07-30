@@ -7,7 +7,7 @@ v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 95
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 28
-v1.0.7-mission.helper | downloads: 138
+v1.0.7-mission.helper | downloads: 139
 v1.0.9-expert.crew.members | downloads: 93
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
@@ -29,7 +29,7 @@ v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 155
 v1.1.5-hai.side.mission.unlocker | downloads: 114
-v1.0.6-snowfeather.robotics | downloads: 129
+v1.0.6-snowfeather.robotics | downloads: 130
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 182
 v1.0.4-show.reputation | downloads: 54
@@ -71,7 +71,7 @@ v1.0.7-bunrodea.missions | downloads: 141
 v1.0.5-human.labels | downloads: 150
 v1.1.4-more.boarding.missions | downloads: 273
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 313
+v1.0.3-jump.gates | downloads: 314
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
 v1.0.0-avgi.licenses | downloads: 229
@@ -249,7 +249,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24085
+# TOTAL DOWNLOADS: 24088
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -276,14 +276,14 @@ gegno.pirates 790
 hai.side.mission.unlocker 545
 highrollers.ltd 199
 human.labels 455
-jump.gates 585
+jump.gates 586
 kestrel.unlocks 518
 kor.efret.shipyard 739
 landing.images 528
 landing.images.android 349
 landing.images.highres 374
 licenses 363
-mission.helper 606
+mission.helper 607
 more.arfectas 689
 more.boarding.missions 748
 more.person.ships 502
@@ -297,7 +297,7 @@ planet.pluto 190
 quarg.farm 773
 real.fluff 93
 show.reputation 663
-snowfeather.robotics 593
+snowfeather.robotics 594
 space.fauna 399
 too.many.asteroids 804
 tribute.republic 355
