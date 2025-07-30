@@ -230,8 +230,8 @@
 		<td>581</td>
 		<td>585</td>
 		<td>585</td>
-		<td>585</td>
-		<td></td>
+		<td>586</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -296,8 +296,8 @@
 		<td>597</td>
 		<td>599</td>
 		<td>605</td>
-		<td>606</td>
-		<td>+ 1</td>
+		<td>607</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -406,8 +406,8 @@
 		<td>581</td>
 		<td>590</td>
 		<td>590</td>
-		<td>593</td>
-		<td>+ 3</td>
+		<td>594</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22074</td>
-		<td>67</td>
+		<td>22077</td>
+		<td>70</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>597</td>
 		<td>599</td>
 		<td>605</td>
-		<td>606</td>
-		<td>+ 1</td>
+		<td>607</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -663,8 +663,8 @@
 		<td>581</td>
 		<td>590</td>
 		<td>590</td>
-		<td>593</td>
-		<td>+ 3</td>
+		<td>594</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -685,8 +685,8 @@
 		<td>581</td>
 		<td>585</td>
 		<td>585</td>
-		<td>585</td>
-		<td></td>
+		<td>586</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22074</td>
-		<td>67</td>
+		<td>22077</td>
+		<td>70</td>
 	</tr>
 </table>
 </sub></sup>
