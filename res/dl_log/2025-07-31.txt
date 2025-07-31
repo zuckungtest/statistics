@@ -14,10 +14,10 @@ v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 50
 v1.0.5-show.reputation | downloads: 104
 v1.0.3-paint.your.ships | downloads: 93
-v1.1.9-captureable.person.ships | downloads: 84
+v1.1.9-captureable.person.ships | downloads: 86
 v1.0.9-bunrodea.missions | downloads: 127
 v1.0.5-better.starts | downloads: 91
-v1.0.4-control.station | downloads: 108
+v1.0.4-control.station | downloads: 110
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 114
@@ -28,13 +28,13 @@ v1.0.23-additional.command.buttons.radial | downloads: 166
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 155
-v1.1.5-hai.side.mission.unlocker | downloads: 114
+v1.1.5-hai.side.mission.unlocker | downloads: 116
 v1.0.6-snowfeather.robotics | downloads: 130
 v1.0.6-human.labels | downloads: 41
-v1.0.5-quarg.farm | downloads: 182
+v1.0.5-quarg.farm | downloads: 184
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
-v1.0.3-more.person.ships | downloads: 89
+v1.0.3-more.person.ships | downloads: 91
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
@@ -58,7 +58,7 @@ v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 188
-v1.0.3-gegno.pirates | downloads: 365
+v1.0.3-gegno.pirates | downloads: 367
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 203
@@ -214,7 +214,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 691
+v1.0.2-more.arfectas | downloads: 693
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -249,7 +249,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24102
+# TOTAL DOWNLOADS: 24116
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -261,10 +261,10 @@ avgi.licenses 229
 better.starts 635
 boss.loot 95
 bunrodea.missions 850
-captureable.person.ships 607
+captureable.person.ships 609
 coalition.shopping 691
 combat.ai 379
-control.station 537
+control.station 539
 devil-run.unhidden 66
 disable.person.ships 268
 disable.spaceport.repeatables 410
@@ -272,8 +272,8 @@ expert.crew.members 834
 flare.play 154
 free.worlds.5.years.later 369
 galactic.capital.investment 956
-gegno.pirates 790
-hai.side.mission.unlocker 545
+gegno.pirates 792
+hai.side.mission.unlocker 547
 highrollers.ltd 199
 human.labels 455
 jump.gates 586
@@ -284,9 +284,9 @@ landing.images.android 349
 landing.images.highres 374
 licenses 363
 mission.helper 609
-more.arfectas 693
+more.arfectas 695
 more.boarding.missions 748
-more.person.ships 502
+more.person.ships 504
 navy.licenses 575
 no.more.mereti.mines 422
 outfits.weapon.slot 472
@@ -294,7 +294,7 @@ paint.your.ships 557
 pirate.warlords 3
 planet.map 325
 planet.pluto 190
-quarg.farm 773
+quarg.farm 775
 real.fluff 93
 show.reputation 665
 snowfeather.robotics 594
