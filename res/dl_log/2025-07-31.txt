@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.24-additional.command.buttons.radial | downloads: 7
-v1.0.11-uniques | downloads: 12
+v1.0.11-uniques | downloads: 14
 v1.0.8-combat.ai | downloads: 25
 v1.0.7-combat.ai | downloads: 53
 v1.0.6-combat.ai | downloads: 10
@@ -249,7 +249,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24116
+# TOTAL DOWNLOADS: 24118
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -302,4 +302,4 @@ space.fauna 399
 too.many.asteroids 804
 tribute.republic 355
 unique.fix 44
-uniques 619
+uniques 621
