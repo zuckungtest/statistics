@@ -450,8 +450,8 @@
 		<td>608</td>
 		<td>611</td>
 		<td>619</td>
-		<td>619</td>
-		<td></td>
+		<td>621</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22105</td>
-		<td>16</td>
+		<td>22107</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>608</td>
 		<td>611</td>
 		<td>619</td>
-		<td>619</td>
-		<td></td>
+		<td>621</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22105</td>
-		<td>16</td>
+		<td>22107</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
