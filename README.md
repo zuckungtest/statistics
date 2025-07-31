@@ -175,8 +175,8 @@
 		<td>954</td>
 		<td>956</td>
 		<td>956</td>
-		<td>961</td>
-		<td>+ 5</td>
+		<td>964</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>786</td>
 		<td>788</td>
 		<td>790</td>
-		<td>792</td>
-		<td>+ 2</td>
+		<td>793</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22184</td>
-		<td>95</td>
+		<td>22188</td>
+		<td>99</td>
 	</tr>
 </table>
 </sub></sup>
@@ -480,6 +480,17 @@
 		<td>today +</td>
 	</tr>
 	<tr>
+		<td>galactic.capital.investment</td>
+		<td>946</td>
+		<td>948</td>
+		<td>948</td>
+		<td>954</td>
+		<td>956</td>
+		<td>956</td>
+		<td>964</td>
+		<td>+ 8</td>
+	</tr>
+	<tr>
 		<td>additional.command.buttons.radial</td>
 		<td>952</td>
 		<td>952</td>
@@ -489,17 +500,6 @@
 		<td>961</td>
 		<td>963</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>galactic.capital.investment</td>
-		<td>946</td>
-		<td>948</td>
-		<td>948</td>
-		<td>954</td>
-		<td>956</td>
-		<td>956</td>
-		<td>961</td>
-		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>786</td>
 		<td>788</td>
 		<td>790</td>
-		<td>792</td>
-		<td>+ 2</td>
+		<td>793</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22184</td>
-		<td>95</td>
+		<td>22188</td>
+		<td>99</td>
 	</tr>
 </table>
 </sub></sup>
