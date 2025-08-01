@@ -32,8 +32,8 @@
 		<td>593</td>
 		<td>593</td>
 		<td>597</td>
-		<td>597</td>
-		<td></td>
+		<td>599</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -76,8 +76,8 @@
 		<td>848</td>
 		<td>850</td>
 		<td>852</td>
-		<td>852</td>
-		<td></td>
+		<td>854</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -120,8 +120,8 @@
 		<td>535</td>
 		<td>537</td>
 		<td>539</td>
-		<td>539</td>
-		<td></td>
+		<td>541</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>788</td>
 		<td>790</td>
 		<td>793</td>
-		<td>793</td>
-		<td></td>
+		<td>795</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -241,8 +241,8 @@
 		<td>516</td>
 		<td>518</td>
 		<td>522</td>
-		<td>522</td>
-		<td></td>
+		<td>524</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -285,8 +285,8 @@
 		<td>360</td>
 		<td>363</td>
 		<td>365</td>
-		<td>368</td>
-		<td>+ 3</td>
+		<td>370</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22209</td>
-		<td>21</td>
+		<td>22221</td>
+		<td>33</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>848</td>
 		<td>850</td>
 		<td>852</td>
-		<td>852</td>
-		<td></td>
+		<td>854</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>788</td>
 		<td>790</td>
 		<td>793</td>
-		<td>793</td>
-		<td></td>
+		<td>795</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -656,6 +656,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>591</td>
+		<td>591</td>
+		<td>593</td>
+		<td>593</td>
+		<td>593</td>
+		<td>597</td>
+		<td>599</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>581</td>
 		<td>581</td>
@@ -665,17 +676,6 @@
 		<td>596</td>
 		<td>598</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>591</td>
-		<td>591</td>
-		<td>593</td>
-		<td>593</td>
-		<td>593</td>
-		<td>597</td>
-		<td>597</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -718,8 +718,8 @@
 		<td>535</td>
 		<td>537</td>
 		<td>539</td>
-		<td>539</td>
-		<td></td>
+		<td>541</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -740,8 +740,8 @@
 		<td>516</td>
 		<td>518</td>
 		<td>522</td>
-		<td>522</td>
-		<td></td>
+		<td>524</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -850,8 +850,8 @@
 		<td>360</td>
 		<td>363</td>
 		<td>365</td>
-		<td>368</td>
-		<td>+ 3</td>
+		<td>370</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22209</td>
-		<td>21</td>
+		<td>22221</td>
+		<td>33</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>27</td>
 		<td>21</td>
 		<td>41</td>
-		<td>26</td>
+		<td>29</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>17</td>
 		<td>9</td>
 		<td>15</td>
-		<td>9</td>
+		<td>10</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4443</td>
-		<td>1162</td>
+		<td>4446</td>
+		<td>1163</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>100</td>
-		<td>44.43</td>
-		<td>11.62</td>
+		<td>44.46</td>
+		<td>11.63</td>
 		<td></td>
 		<td></td>
 	</tr>
