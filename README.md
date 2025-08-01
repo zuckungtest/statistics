@@ -285,8 +285,8 @@
 		<td>360</td>
 		<td>363</td>
 		<td>365</td>
-		<td>367</td>
-		<td>+ 2</td>
+		<td>368</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22208</td>
-		<td>20</td>
+		<td>22209</td>
+		<td>21</td>
 	</tr>
 </table>
 </sub></sup>
@@ -850,8 +850,8 @@
 		<td>360</td>
 		<td>363</td>
 		<td>365</td>
-		<td>367</td>
-		<td>+ 2</td>
+		<td>368</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22208</td>
-		<td>20</td>
+		<td>22209</td>
+		<td>21</td>
 	</tr>
 </table>
 </sub></sup>
