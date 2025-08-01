@@ -285,8 +285,8 @@
 		<td>360</td>
 		<td>363</td>
 		<td>365</td>
-		<td>365</td>
-		<td></td>
+		<td>367</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22200</td>
-		<td>12</td>
+		<td>22202</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -850,8 +850,8 @@
 		<td>360</td>
 		<td>363</td>
 		<td>365</td>
-		<td>365</td>
-		<td></td>
+		<td>367</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22200</td>
-		<td>12</td>
+		<td>22202</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>27</td>
 		<td>21</td>
 		<td>41</td>
-		<td>4</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>17</td>
 		<td>9</td>
 		<td>15</td>
-		<td>3</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4421</td>
-		<td>1156</td>
+		<td>4428</td>
+		<td>1158</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>100</td>
-		<td>44.21</td>
-		<td>11.56</td>
+		<td>44.28</td>
+		<td>11.58</td>
 		<td></td>
 		<td></td>
 	</tr>
