@@ -175,8 +175,8 @@
 		<td>956</td>
 		<td>964</td>
 		<td>964</td>
-		<td>968</td>
-		<td>+ 4</td>
+		<td>970</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22262</td>
-		<td>41</td>
+		<td>22264</td>
+		<td>43</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>956</td>
 		<td>964</td>
 		<td>964</td>
-		<td>968</td>
-		<td>+ 4</td>
+		<td>970</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22262</td>
-		<td>41</td>
+		<td>22264</td>
+		<td>43</td>
 	</tr>
 </table>
 </sub></sup>
@@ -936,7 +936,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-07-24</td>
 		<td>2025-07-25</td>
 		<td>2025-07-26</td>
 		<td>2025-07-27</td>
@@ -945,10 +944,10 @@
 		<td>2025-07-30</td>
 		<td>2025-07-31</td>
 		<td>2025-08-01</td>
+		<td>2025-08-02</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>45</td>
 		<td>29</td>
 		<td>34</td>
 		<td>47</td>
@@ -957,10 +956,10 @@
 		<td>21</td>
 		<td>41</td>
 		<td>43</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>11</td>
 		<td>11</td>
 		<td>14</td>
 		<td>9</td>
@@ -969,6 +968,7 @@
 		<td>9</td>
 		<td>15</td>
 		<td>13</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4460</td>
-		<td>1166</td>
+		<td>4463</td>
+		<td>1168</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>101</td>
-		<td>44.16</td>
-		<td>11.54</td>
+		<td>44.19</td>
+		<td>11.56</td>
 		<td></td>
 		<td></td>
 	</tr>
