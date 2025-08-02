@@ -120,8 +120,8 @@
 		<td>537</td>
 		<td>539</td>
 		<td>541</td>
-		<td>543</td>
-		<td>+ 2</td>
+		<td>545</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>790</td>
 		<td>793</td>
 		<td>795</td>
-		<td>797</td>
-		<td>+ 2</td>
+		<td>799</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -241,8 +241,8 @@
 		<td>518</td>
 		<td>522</td>
 		<td>524</td>
-		<td>524</td>
-		<td></td>
+		<td>526</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22268</td>
-		<td>47</td>
+		<td>22274</td>
+		<td>53</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>790</td>
 		<td>793</td>
 		<td>795</td>
-		<td>797</td>
-		<td>+ 2</td>
+		<td>799</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -718,8 +718,8 @@
 		<td>537</td>
 		<td>539</td>
 		<td>541</td>
-		<td>543</td>
-		<td>+ 2</td>
+		<td>545</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -740,8 +740,8 @@
 		<td>518</td>
 		<td>522</td>
 		<td>524</td>
-		<td>524</td>
-		<td></td>
+		<td>526</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22268</td>
-		<td>47</td>
+		<td>22274</td>
+		<td>53</td>
 	</tr>
 </table>
 </sub></sup>
