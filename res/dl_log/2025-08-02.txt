@@ -17,7 +17,7 @@ v1.0.3-paint.your.ships | downloads: 95
 v1.1.9-captureable.person.ships | downloads: 90
 v1.0.9-bunrodea.missions | downloads: 135
 v1.0.5-better.starts | downloads: 99
-v1.0.4-control.station | downloads: 114
+v1.0.4-control.station | downloads: 116
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 114
@@ -58,7 +58,7 @@ v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 188
-v1.0.3-gegno.pirates | downloads: 372
+v1.0.3-gegno.pirates | downloads: 374
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 203
@@ -141,7 +141,7 @@ v1.0.0-outfits.weapon.slot | downloads: 378
 v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
-v1.0.0-kestrel.unlocks | downloads: 524
+v1.0.0-kestrel.unlocks | downloads: 526
 v1.0.2-tribute.republic | downloads: 340
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
@@ -249,7 +249,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24279
+# TOTAL DOWNLOADS: 24285
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -264,7 +264,7 @@ bunrodea.missions 858
 captureable.person.ships 613
 coalition.shopping 695
 combat.ai 384
-control.station 543
+control.station 545
 devil-run.unhidden 66
 disable.person.ships 268
 disable.spaceport.repeatables 414
@@ -272,12 +272,12 @@ expert.crew.members 839
 flare.play 154
 free.worlds.5.years.later 369
 galactic.capital.investment 970
-gegno.pirates 797
+gegno.pirates 799
 hai.side.mission.unlocker 549
 highrollers.ltd 199
 human.labels 455
 jump.gates 586
-kestrel.unlocks 524
+kestrel.unlocks 526
 kor.efret.shipyard 743
 landing.images 528
 landing.images.android 349
