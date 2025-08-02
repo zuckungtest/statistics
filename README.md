@@ -285,8 +285,8 @@
 		<td>363</td>
 		<td>365</td>
 		<td>370</td>
-		<td>372</td>
-		<td>+ 2</td>
+		<td>374</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22260</td>
-		<td>39</td>
+		<td>22262</td>
+		<td>41</td>
 	</tr>
 </table>
 </sub></sup>
@@ -832,6 +832,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>licenses</td>
+		<td>354</td>
+		<td>360</td>
+		<td>360</td>
+		<td>363</td>
+		<td>365</td>
+		<td>370</td>
+		<td>374</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>landing.images.highres</td>
 		<td>370</td>
 		<td>374</td>
@@ -841,17 +852,6 @@
 		<td>374</td>
 		<td>374</td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>licenses</td>
-		<td>354</td>
-		<td>360</td>
-		<td>360</td>
-		<td>363</td>
-		<td>365</td>
-		<td>370</td>
-		<td>372</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22260</td>
-		<td>39</td>
+		<td>22262</td>
+		<td>41</td>
 	</tr>
 </table>
 </sub></sup>
