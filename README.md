@@ -109,8 +109,8 @@
 		<td>381</td>
 		<td>381</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>387</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22316</td>
-		<td>23</td>
+		<td>22318</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
@@ -828,8 +828,8 @@
 		<td>381</td>
 		<td>381</td>
 		<td>385</td>
-		<td>385</td>
-		<td></td>
+		<td>387</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22316</td>
-		<td>23</td>
+		<td>22318</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
