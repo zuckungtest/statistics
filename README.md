@@ -65,8 +65,8 @@
 		<td>97</td>
 		<td>97</td>
 		<td>99</td>
-		<td>99</td>
-		<td></td>
+		<td>101</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>852</td>
 		<td>854</td>
 		<td>858</td>
-		<td>860</td>
-		<td>+ 2</td>
+		<td>862</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -197,8 +197,8 @@
 		<td>549</td>
 		<td>549</td>
 		<td>552</td>
-		<td>552</td>
-		<td></td>
+		<td>554</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -307,8 +307,8 @@
 		<td>698</td>
 		<td>698</td>
 		<td>702</td>
-		<td>702</td>
-		<td></td>
+		<td>704</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -329,8 +329,8 @@
 		<td>506</td>
 		<td>506</td>
 		<td>508</td>
-		<td>508</td>
-		<td></td>
+		<td>511</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -351,8 +351,8 @@
 		<td>472</td>
 		<td>474</td>
 		<td>474</td>
-		<td>474</td>
-		<td></td>
+		<td>477</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -406,8 +406,8 @@
 		<td>596</td>
 		<td>598</td>
 		<td>598</td>
-		<td>600</td>
-		<td>+ 2</td>
+		<td>602</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22319</td>
-		<td>26</td>
+		<td>22335</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>852</td>
 		<td>854</td>
 		<td>858</td>
-		<td>860</td>
-		<td>+ 2</td>
+		<td>862</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -586,8 +586,8 @@
 		<td>698</td>
 		<td>698</td>
 		<td>702</td>
-		<td>702</td>
-		<td></td>
+		<td>704</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -674,8 +674,8 @@
 		<td>596</td>
 		<td>598</td>
 		<td>598</td>
-		<td>600</td>
-		<td>+ 2</td>
+		<td>602</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -707,8 +707,8 @@
 		<td>549</td>
 		<td>549</td>
 		<td>552</td>
-		<td>552</td>
-		<td></td>
+		<td>554</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -751,8 +751,8 @@
 		<td>506</td>
 		<td>506</td>
 		<td>508</td>
-		<td>508</td>
-		<td></td>
+		<td>511</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -773,8 +773,8 @@
 		<td>472</td>
 		<td>474</td>
 		<td>474</td>
-		<td>474</td>
-		<td></td>
+		<td>477</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -916,8 +916,8 @@
 		<td>97</td>
 		<td>97</td>
 		<td>99</td>
-		<td>99</td>
-		<td></td>
+		<td>101</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22319</td>
-		<td>26</td>
+		<td>22335</td>
+		<td>42</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>41</td>
 		<td>43</td>
 		<td>76</td>
-		<td>14</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>15</td>
 		<td>13</td>
 		<td>10</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4550</td>
-		<td>1183</td>
+		<td>4551</td>
+		<td>1184</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>102</td>
-		<td>44.61</td>
-		<td>11.60</td>
+		<td>44.62</td>
+		<td>11.61</td>
 		<td></td>
 		<td></td>
 	</tr>
