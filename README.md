@@ -21,8 +21,8 @@
 		<td>963</td>
 		<td>963</td>
 		<td>963</td>
-		<td>963</td>
-		<td></td>
+		<td>965</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -153,8 +153,8 @@
 		<td>836</td>
 		<td>837</td>
 		<td>839</td>
-		<td>843</td>
-		<td>+ 4</td>
+		<td>845</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -219,8 +219,8 @@
 		<td>455</td>
 		<td>455</td>
 		<td>455</td>
-		<td>455</td>
-		<td></td>
+		<td>457</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -384,8 +384,8 @@
 		<td>777</td>
 		<td>779</td>
 		<td>779</td>
-		<td>779</td>
-		<td></td>
+		<td>781</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -395,8 +395,8 @@
 		<td>669</td>
 		<td>669</td>
 		<td>671</td>
-		<td>671</td>
-		<td></td>
+		<td>673</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22339</td>
-		<td>46</td>
+		<td>22349</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>963</td>
 		<td>963</td>
 		<td>963</td>
-		<td>963</td>
-		<td></td>
+		<td>965</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>836</td>
 		<td>837</td>
 		<td>839</td>
-		<td>843</td>
-		<td>+ 4</td>
+		<td>845</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -553,8 +553,8 @@
 		<td>777</td>
 		<td>779</td>
 		<td>779</td>
-		<td>779</td>
-		<td></td>
+		<td>781</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -608,8 +608,8 @@
 		<td>669</td>
 		<td>669</td>
 		<td>671</td>
-		<td>671</td>
-		<td></td>
+		<td>673</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -784,8 +784,8 @@
 		<td>455</td>
 		<td>455</td>
 		<td>455</td>
-		<td>455</td>
-		<td></td>
+		<td>457</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22339</td>
-		<td>46</td>
+		<td>22349</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>41</td>
 		<td>43</td>
 		<td>76</td>
-		<td>21</td>
+		<td>22</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>15</td>
 		<td>13</td>
 		<td>10</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4557</td>
-		<td>1186</td>
+		<td>4558</td>
+		<td>1187</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>102</td>
-		<td>44.68</td>
-		<td>11.63</td>
+		<td>44.69</td>
+		<td>11.64</td>
 		<td></td>
 		<td></td>
 	</tr>
