@@ -153,8 +153,8 @@
 		<td>836</td>
 		<td>837</td>
 		<td>839</td>
-		<td>839</td>
-		<td></td>
+		<td>841</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -362,8 +362,8 @@
 		<td>559</td>
 		<td>559</td>
 		<td>559</td>
-		<td>559</td>
-		<td></td>
+		<td>561</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -450,8 +450,8 @@
 		<td>621</td>
 		<td>625</td>
 		<td>625</td>
-		<td>625</td>
-		<td></td>
+		<td>627</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22293</td>
-		<td>0</td>
+		<td>22299</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>836</td>
 		<td>837</td>
 		<td>839</td>
-		<td>839</td>
-		<td></td>
+		<td>841</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -630,8 +630,8 @@
 		<td>621</td>
 		<td>625</td>
 		<td>625</td>
-		<td>625</td>
-		<td></td>
+		<td>627</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -696,8 +696,8 @@
 		<td>559</td>
 		<td>559</td>
 		<td>559</td>
-		<td>559</td>
-		<td></td>
+		<td>561</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22293</td>
-		<td>0</td>
+		<td>22299</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -936,7 +936,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-07-25</td>
 		<td>2025-07-26</td>
 		<td>2025-07-27</td>
 		<td>2025-07-28</td>
@@ -945,10 +944,10 @@
 		<td>2025-07-31</td>
 		<td>2025-08-01</td>
 		<td>2025-08-02</td>
+		<td>2025-08-03</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>29</td>
 		<td>34</td>
 		<td>47</td>
 		<td>30</td>
@@ -957,10 +956,10 @@
 		<td>41</td>
 		<td>43</td>
 		<td>76</td>
+		<td>1</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>11</td>
 		<td>14</td>
 		<td>9</td>
 		<td>11</td>
@@ -969,6 +968,7 @@
 		<td>15</td>
 		<td>13</td>
 		<td>10</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4536</td>
-		<td>1176</td>
+		<td>4537</td>
+		<td>1177</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>102</td>
-		<td>44.47</td>
-		<td>11.53</td>
+		<td>44.48</td>
+		<td>11.54</td>
 		<td></td>
 		<td></td>
 	</tr>
