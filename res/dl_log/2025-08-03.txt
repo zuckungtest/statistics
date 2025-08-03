@@ -71,7 +71,7 @@ v1.0.7-bunrodea.missions | downloads: 141
 v1.0.5-human.labels | downloads: 150
 v1.1.4-more.boarding.missions | downloads: 273
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 314
+v1.0.3-jump.gates | downloads: 316
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
 v1.0.0-avgi.licenses | downloads: 229
@@ -81,7 +81,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 481
+v1.0.4-too.many.asteroids | downloads: 483
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -249,7 +249,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24346
+# TOTAL DOWNLOADS: 24350
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -276,7 +276,7 @@ gegno.pirates 803
 hai.side.mission.unlocker 554
 highrollers.ltd 199
 human.labels 455
-jump.gates 586
+jump.gates 588
 kestrel.unlocks 526
 kor.efret.shipyard 745
 landing.images 528
@@ -299,7 +299,7 @@ real.fluff 93
 show.reputation 671
 snowfeather.robotics 602
 space.fauna 399
-too.many.asteroids 812
+too.many.asteroids 814
 tribute.republic 358
 unique.fix 44
 uniques 629
