@@ -76,8 +76,8 @@
 		<td>852</td>
 		<td>854</td>
 		<td>858</td>
-		<td>858</td>
-		<td></td>
+		<td>860</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>964</td>
 		<td>964</td>
 		<td>970</td>
-		<td>972</td>
-		<td>+ 2</td>
+		<td>975</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>793</td>
 		<td>795</td>
 		<td>801</td>
-		<td>801</td>
-		<td></td>
+		<td>803</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -406,8 +406,8 @@
 		<td>596</td>
 		<td>598</td>
 		<td>598</td>
-		<td>598</td>
-		<td></td>
+		<td>600</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22307</td>
-		<td>14</td>
+		<td>22316</td>
+		<td>23</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>964</td>
 		<td>964</td>
 		<td>970</td>
-		<td>972</td>
-		<td>+ 2</td>
+		<td>975</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>852</td>
 		<td>854</td>
 		<td>858</td>
-		<td>858</td>
-		<td></td>
+		<td>860</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>793</td>
 		<td>795</td>
 		<td>801</td>
-		<td>801</td>
-		<td></td>
+		<td>803</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -674,8 +674,8 @@
 		<td>596</td>
 		<td>598</td>
 		<td>598</td>
-		<td>598</td>
-		<td></td>
+		<td>600</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22307</td>
-		<td>14</td>
+		<td>22316</td>
+		<td>23</td>
 	</tr>
 </table>
 </sub></sup>
