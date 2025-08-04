@@ -1,10 +1,10 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.24-additional.command.buttons.radial | downloads: 16
-v1.0.11-uniques | downloads: 24
+v1.0.11-uniques | downloads: 26
 v1.0.8-combat.ai | downloads: 37
 v1.0.7-combat.ai | downloads: 53
 v1.0.6-combat.ai | downloads: 10
-v1.0.0-boss.loot | downloads: 103
+v1.0.0-boss.loot | downloads: 105
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 28
 v1.0.7-mission.helper | downloads: 158
@@ -16,7 +16,7 @@ v1.0.5-show.reputation | downloads: 113
 v1.0.3-paint.your.ships | downloads: 99
 v1.1.9-captureable.person.ships | downloads: 92
 v1.0.9-bunrodea.missions | downloads: 143
-v1.0.5-better.starts | downloads: 99
+v1.0.5-better.starts | downloads: 101
 v1.0.4-control.station | downloads: 117
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
@@ -34,7 +34,7 @@ v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 190
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
-v1.0.3-more.person.ships | downloads: 98
+v1.0.3-more.person.ships | downloads: 100
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
@@ -249,7 +249,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24438
+# TOTAL DOWNLOADS: 24446
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -258,8 +258,8 @@ additional.command.buttons.radial 970
 automata.destruction.0percent 606
 automata.in.human.space 496
 avgi.licenses 229
-better.starts 643
-boss.loot 103
+better.starts 645
+boss.loot 105
 bunrodea.missions 866
 captureable.person.ships 615
 coalition.shopping 699
@@ -286,7 +286,7 @@ licenses 385
 mission.helper 626
 more.arfectas 706
 more.boarding.missions 756
-more.person.ships 511
+more.person.ships 513
 navy.licenses 575
 no.more.mereti.mines 426
 outfits.weapon.slot 477
@@ -302,4 +302,4 @@ space.fauna 399
 too.many.asteroids 818
 tribute.republic 358
 unique.fix 44
-uniques 631
+uniques 633
