@@ -21,8 +21,8 @@
 		<td>963</td>
 		<td>963</td>
 		<td>965</td>
-		<td>967</td>
-		<td>+ 2</td>
+		<td>968</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -120,8 +120,8 @@
 		<td>541</td>
 		<td>545</td>
 		<td>545</td>
-		<td>545</td>
-		<td></td>
+		<td>546</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -285,8 +285,8 @@
 		<td>370</td>
 		<td>376</td>
 		<td>382</td>
-		<td>382</td>
-		<td></td>
+		<td>383</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>619</td>
 		<td>621</td>
 		<td>623</td>
-		<td>623</td>
-		<td></td>
+		<td>624</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -340,8 +340,8 @@
 		<td>425</td>
 		<td>425</td>
 		<td>425</td>
-		<td>425</td>
-		<td></td>
+		<td>426</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -395,8 +395,8 @@
 		<td>669</td>
 		<td>671</td>
 		<td>673</td>
-		<td>673</td>
-		<td></td>
+		<td>674</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22401</td>
-		<td>2</td>
+		<td>22407</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>963</td>
 		<td>963</td>
 		<td>965</td>
-		<td>967</td>
-		<td>+ 2</td>
+		<td>968</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -608,8 +608,8 @@
 		<td>669</td>
 		<td>671</td>
 		<td>673</td>
-		<td>673</td>
-		<td></td>
+		<td>674</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -641,8 +641,8 @@
 		<td>619</td>
 		<td>621</td>
 		<td>623</td>
-		<td>623</td>
-		<td></td>
+		<td>624</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -718,8 +718,8 @@
 		<td>541</td>
 		<td>545</td>
 		<td>545</td>
-		<td>545</td>
-		<td></td>
+		<td>546</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -795,8 +795,8 @@
 		<td>425</td>
 		<td>425</td>
 		<td>425</td>
-		<td>425</td>
-		<td></td>
+		<td>426</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -839,8 +839,8 @@
 		<td>370</td>
 		<td>376</td>
 		<td>382</td>
-		<td>382</td>
-		<td></td>
+		<td>383</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22401</td>
-		<td>2</td>
+		<td>22407</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
