@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.24-additional.command.buttons.radial | downloads: 13
+v1.0.24-additional.command.buttons.radial | downloads: 14
 v1.0.11-uniques | downloads: 22
 v1.0.8-combat.ai | downloads: 35
 v1.0.7-combat.ai | downloads: 53
@@ -7,17 +7,17 @@ v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 101
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 28
-v1.0.7-mission.helper | downloads: 155
+v1.0.7-mission.helper | downloads: 156
 v1.0.9-expert.crew.members | downloads: 106
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 52
-v1.0.5-show.reputation | downloads: 112
+v1.0.5-show.reputation | downloads: 113
 v1.0.3-paint.your.ships | downloads: 99
 v1.1.9-captureable.person.ships | downloads: 92
 v1.0.9-bunrodea.missions | downloads: 143
 v1.0.5-better.starts | downloads: 99
-v1.0.4-control.station | downloads: 116
+v1.0.4-control.station | downloads: 117
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 114
@@ -42,7 +42,7 @@ v1.0.1-outfits.weapon.slot | downloads: 99
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 380
+v1.0.1-licenses | downloads: 381
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -129,7 +129,7 @@ v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 356
 v1.0.6-additional.command.buttons.radial | downloads: 48
-v1.0.3-no.more.mereti.mines | downloads: 369
+v1.0.3-no.more.mereti.mines | downloads: 370
 v1.0.1-paint.your.ships | downloads: 413
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
@@ -249,12 +249,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24412
+# TOTAL DOWNLOADS: 24418
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 967
+additional.command.buttons.radial 968
 automata.destruction.0percent 606
 automata.in.human.space 496
 avgi.licenses 229
@@ -264,7 +264,7 @@ bunrodea.missions 866
 captureable.person.ships 615
 coalition.shopping 699
 combat.ai 389
-control.station 545
+control.station 546
 devil-run.unhidden 66
 disable.person.ships 268
 disable.spaceport.repeatables 414
@@ -282,13 +282,13 @@ kor.efret.shipyard 747
 landing.images 530
 landing.images.android 349
 landing.images.highres 376
-licenses 382
-mission.helper 623
+licenses 383
+mission.helper 624
 more.arfectas 706
 more.boarding.missions 756
 more.person.ships 511
 navy.licenses 575
-no.more.mereti.mines 425
+no.more.mereti.mines 426
 outfits.weapon.slot 477
 paint.your.ships 563
 pirate.warlords 3
@@ -296,7 +296,7 @@ planet.map 325
 planet.pluto 190
 quarg.farm 781
 real.fluff 93
-show.reputation 673
+show.reputation 674
 snowfeather.robotics 602
 space.fauna 399
 too.many.asteroids 818
