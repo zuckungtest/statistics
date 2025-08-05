@@ -32,8 +32,8 @@
 		<td>603</td>
 		<td>606</td>
 		<td>606</td>
-		<td>606</td>
-		<td></td>
+		<td>608</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -120,8 +120,8 @@
 		<td>545</td>
 		<td>545</td>
 		<td>546</td>
-		<td>546</td>
-		<td></td>
+		<td>548</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22484</td>
-		<td>47</td>
+		<td>22488</td>
+		<td>51</td>
 	</tr>
 </table>
 </sub></sup>
@@ -656,6 +656,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>593</td>
+		<td>597</td>
+		<td>599</td>
+		<td>603</td>
+		<td>606</td>
+		<td>606</td>
+		<td>608</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>594</td>
 		<td>596</td>
@@ -665,17 +676,6 @@
 		<td>604</td>
 		<td>606</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>593</td>
-		<td>597</td>
-		<td>599</td>
-		<td>603</td>
-		<td>606</td>
-		<td>606</td>
-		<td>606</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -718,8 +718,8 @@
 		<td>545</td>
 		<td>545</td>
 		<td>546</td>
-		<td>546</td>
-		<td></td>
+		<td>548</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22484</td>
-		<td>47</td>
+		<td>22488</td>
+		<td>51</td>
 	</tr>
 </table>
 </sub></sup>
