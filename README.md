@@ -43,8 +43,8 @@
 		<td>494</td>
 		<td>496</td>
 		<td>496</td>
-		<td>496</td>
-		<td></td>
+		<td>498</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>858</td>
 		<td>866</td>
 		<td>868</td>
-		<td>870</td>
-		<td>+ 2</td>
+		<td>872</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -153,8 +153,8 @@
 		<td>839</td>
 		<td>847</td>
 		<td>847</td>
-		<td>849</td>
-		<td>+ 2</td>
+		<td>851</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -263,8 +263,8 @@
 		<td>528</td>
 		<td>530</td>
 		<td>532</td>
-		<td>532</td>
-		<td></td>
+		<td>534</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -318,8 +318,8 @@
 		<td>752</td>
 		<td>756</td>
 		<td>756</td>
-		<td>759</td>
-		<td>+ 3</td>
+		<td>761</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -329,8 +329,8 @@
 		<td>508</td>
 		<td>511</td>
 		<td>513</td>
-		<td>513</td>
-		<td></td>
+		<td>515</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -417,8 +417,8 @@
 		<td>399</td>
 		<td>399</td>
 		<td>399</td>
-		<td>399</td>
-		<td></td>
+		<td>401</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22470</td>
-		<td>33</td>
+		<td>22484</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>858</td>
 		<td>866</td>
 		<td>868</td>
-		<td>870</td>
-		<td>+ 2</td>
+		<td>872</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -520,8 +520,8 @@
 		<td>839</td>
 		<td>847</td>
 		<td>847</td>
-		<td>849</td>
-		<td>+ 2</td>
+		<td>851</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -564,8 +564,8 @@
 		<td>752</td>
 		<td>756</td>
 		<td>756</td>
-		<td>759</td>
-		<td>+ 3</td>
+		<td>761</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -729,8 +729,8 @@
 		<td>528</td>
 		<td>530</td>
 		<td>532</td>
-		<td>532</td>
-		<td></td>
+		<td>534</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -751,8 +751,8 @@
 		<td>508</td>
 		<td>511</td>
 		<td>513</td>
-		<td>513</td>
-		<td></td>
+		<td>515</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -762,8 +762,8 @@
 		<td>494</td>
 		<td>496</td>
 		<td>496</td>
-		<td>496</td>
-		<td></td>
+		<td>498</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -817,8 +817,8 @@
 		<td>399</td>
 		<td>399</td>
 		<td>399</td>
-		<td>399</td>
-		<td></td>
+		<td>401</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22470</td>
-		<td>33</td>
+		<td>22484</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
