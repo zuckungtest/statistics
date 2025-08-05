@@ -17,7 +17,7 @@ v1.0.3-paint.your.ships | downloads: 99
 v1.1.9-captureable.person.ships | downloads: 92
 v1.0.9-bunrodea.missions | downloads: 149
 v1.0.5-better.starts | downloads: 103
-v1.0.4-control.station | downloads: 117
+v1.0.4-control.station | downloads: 119
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 114
@@ -185,7 +185,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 605
+v1.0.1-automata.destruction.0percent | downloads: 607
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -249,13 +249,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24495
+# TOTAL DOWNLOADS: 24499
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 970
-automata.destruction.0percent 606
+automata.destruction.0percent 608
 automata.in.human.space 498
 avgi.licenses 229
 better.starts 647
@@ -264,7 +264,7 @@ bunrodea.missions 872
 captureable.person.ships 615
 coalition.shopping 699
 combat.ai 393
-control.station 546
+control.station 548
 devil-run.unhidden 66
 disable.person.ships 268
 disable.spaceport.repeatables 414
