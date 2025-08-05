@@ -11,7 +11,7 @@ v1.0.7-mission.helper | downloads: 158
 v1.0.9-expert.crew.members | downloads: 110
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
-v1.0.7-human.labels | downloads: 52
+v1.0.7-human.labels | downloads: 53
 v1.0.5-show.reputation | downloads: 113
 v1.0.3-paint.your.ships | downloads: 99
 v1.1.9-captureable.person.ships | downloads: 92
@@ -21,7 +21,7 @@ v1.0.4-control.station | downloads: 119
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
 v1.0.4-combat.ai | downloads: 114
-v1.1.8-galactic.capital.investment | downloads: 188
+v1.1.8-galactic.capital.investment | downloads: 189
 v1.0.3-combat.ai | downloads: 6
 v1.0.1-free.worlds.5.years.later | downloads: 9
 v1.0.23-additional.command.buttons.radial | downloads: 166
@@ -71,7 +71,7 @@ v1.0.7-bunrodea.missions | downloads: 141
 v1.0.5-human.labels | downloads: 150
 v1.1.4-more.boarding.missions | downloads: 273
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 318
+v1.0.3-jump.gates | downloads: 319
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
 v1.0.0-avgi.licenses | downloads: 229
@@ -249,7 +249,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24499
+# TOTAL DOWNLOADS: 24502
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -271,12 +271,12 @@ disable.spaceport.repeatables 414
 expert.crew.members 851
 flare.play 154
 free.worlds.5.years.later 369
-galactic.capital.investment 980
+galactic.capital.investment 981
 gegno.pirates 809
 hai.side.mission.unlocker 556
 highrollers.ltd 199
-human.labels 457
-jump.gates 590
+human.labels 458
+jump.gates 591
 kestrel.unlocks 528
 kor.efret.shipyard 751
 landing.images 534
