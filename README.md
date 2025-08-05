@@ -175,8 +175,8 @@
 		<td>970</td>
 		<td>975</td>
 		<td>975</td>
-		<td>980</td>
-		<td>+ 5</td>
+		<td>981</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -219,8 +219,8 @@
 		<td>455</td>
 		<td>457</td>
 		<td>457</td>
-		<td>457</td>
-		<td></td>
+		<td>458</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -230,8 +230,8 @@
 		<td>586</td>
 		<td>588</td>
 		<td>590</td>
-		<td>590</td>
-		<td></td>
+		<td>591</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22488</td>
-		<td>51</td>
+		<td>22491</td>
+		<td>54</td>
 	</tr>
 </table>
 </sub></sup>
@@ -487,8 +487,8 @@
 		<td>970</td>
 		<td>975</td>
 		<td>975</td>
-		<td>980</td>
-		<td>+ 5</td>
+		<td>981</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -685,8 +685,8 @@
 		<td>586</td>
 		<td>588</td>
 		<td>590</td>
-		<td>590</td>
-		<td></td>
+		<td>591</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -784,8 +784,8 @@
 		<td>455</td>
 		<td>457</td>
 		<td>457</td>
-		<td>457</td>
-		<td></td>
+		<td>458</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22488</td>
-		<td>51</td>
+		<td>22491</td>
+		<td>54</td>
 	</tr>
 </table>
 </sub></sup>
