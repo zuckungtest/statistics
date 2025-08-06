@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.24-additional.command.buttons.radial | downloads: 19
+v1.0.24-additional.command.buttons.radial | downloads: 21
 v1.0.11-uniques | downloads: 31
 v1.0.8-combat.ai | downloads: 45
 v1.0.7-combat.ai | downloads: 53
@@ -249,12 +249,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24571
+# TOTAL DOWNLOADS: 24573
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 973
+additional.command.buttons.radial 975
 automata.destruction.0percent 608
 automata.in.human.space 498
 avgi.licenses 229
