@@ -384,8 +384,8 @@
 		<td>781</td>
 		<td>781</td>
 		<td>784</td>
-		<td>784</td>
-		<td></td>
+		<td>786</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22503</td>
-		<td>10</td>
+		<td>22505</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>781</td>
 		<td>781</td>
 		<td>784</td>
-		<td>784</td>
-		<td></td>
+		<td>786</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22503</td>
-		<td>10</td>
+		<td>22505</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -936,7 +936,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-07-28</td>
 		<td>2025-07-29</td>
 		<td>2025-07-30</td>
 		<td>2025-07-31</td>
@@ -945,10 +944,10 @@
 		<td>2025-08-03</td>
 		<td>2025-08-04</td>
 		<td>2025-08-05</td>
+		<td>2025-08-06</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>30</td>
 		<td>27</td>
 		<td>21</td>
 		<td>41</td>
@@ -957,10 +956,10 @@
 		<td>28</td>
 		<td>47</td>
 		<td>40</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>11</td>
 		<td>17</td>
 		<td>9</td>
 		<td>15</td>
@@ -969,6 +968,7 @@
 		<td>13</td>
 		<td>10</td>
 		<td>9</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4651</td>
-		<td>1208</td>
+		<td>4658</td>
+		<td>1210</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>105</td>
-		<td>44.30</td>
-		<td>11.50</td>
+		<td>44.36</td>
+		<td>11.52</td>
 		<td></td>
 		<td></td>
 	</tr>
