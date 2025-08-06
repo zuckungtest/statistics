@@ -109,8 +109,8 @@
 		<td>389</td>
 		<td>391</td>
 		<td>393</td>
-		<td>395</td>
-		<td>+ 2</td>
+		<td>397</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -241,8 +241,8 @@
 		<td>528</td>
 		<td>528</td>
 		<td>528</td>
-		<td>528</td>
-		<td></td>
+		<td>531</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -329,8 +329,8 @@
 		<td>511</td>
 		<td>513</td>
 		<td>515</td>
-		<td>515</td>
-		<td></td>
+		<td>517</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22496</td>
-		<td>3</td>
+		<td>22503</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -740,8 +740,8 @@
 		<td>528</td>
 		<td>528</td>
 		<td>528</td>
-		<td>528</td>
-		<td></td>
+		<td>531</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -751,8 +751,8 @@
 		<td>511</td>
 		<td>513</td>
 		<td>515</td>
-		<td>515</td>
-		<td></td>
+		<td>517</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -828,8 +828,8 @@
 		<td>389</td>
 		<td>391</td>
 		<td>393</td>
-		<td>395</td>
-		<td>+ 2</td>
+		<td>397</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22496</td>
-		<td>3</td>
+		<td>22503</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
