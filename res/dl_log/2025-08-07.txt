@@ -58,7 +58,7 @@ v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 190
-v1.0.3-gegno.pirates | downloads: 386
+v1.0.3-gegno.pirates | downloads: 388
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 203
@@ -100,7 +100,7 @@ v1.0.3-navy.licenses | downloads: 362
 v1.0.6-coalition.shopping | downloads: 507
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
-v1.0.2-kor.efret.shipyard | downloads: 584
+v1.0.2-kor.efret.shipyard | downloads: 586
 v1.0.10-additional.command.buttons.radial | downloads: 40
 v1.0.3-better.starts | downloads: 69
 v1.0.2-show.reputation | downloads: 107
@@ -249,7 +249,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24594
+# TOTAL DOWNLOADS: 24598
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -272,13 +272,13 @@ expert.crew.members 854
 flare.play 156
 free.worlds.5.years.later 369
 galactic.capital.investment 983
-gegno.pirates 811
+gegno.pirates 813
 hai.side.mission.unlocker 558
 highrollers.ltd 201
 human.labels 462
 jump.gates 593
 kestrel.unlocks 531
-kor.efret.shipyard 755
+kor.efret.shipyard 757
 landing.images 536
 landing.images.android 349
 landing.images.highres 376
