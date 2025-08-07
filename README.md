@@ -186,8 +186,8 @@
 		<td>807</td>
 		<td>809</td>
 		<td>811</td>
-		<td>811</td>
-		<td></td>
+		<td>813</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -252,8 +252,8 @@
 		<td>749</td>
 		<td>751</td>
 		<td>755</td>
-		<td>755</td>
-		<td></td>
+		<td>757</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22583</td>
-		<td>14</td>
+		<td>22587</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>807</td>
 		<td>809</td>
 		<td>811</td>
-		<td>811</td>
-		<td></td>
+		<td>813</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -575,8 +575,8 @@
 		<td>749</td>
 		<td>751</td>
 		<td>755</td>
-		<td>755</td>
-		<td></td>
+		<td>757</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22583</td>
-		<td>14</td>
+		<td>22587</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>47</td>
 		<td>40</td>
 		<td>46</td>
-		<td>7</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>10</td>
 		<td>9</td>
 		<td>12</td>
-		<td>3</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4704</td>
-		<td>1223</td>
+		<td>4709</td>
+		<td>1224</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>106</td>
-		<td>44.38</td>
-		<td>11.54</td>
+		<td>44.42</td>
+		<td>11.55</td>
 		<td></td>
 		<td></td>
 	</tr>
