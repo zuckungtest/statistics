@@ -318,8 +318,8 @@
 		<td>756</td>
 		<td>761</td>
 		<td>762</td>
-		<td>762</td>
-		<td></td>
+		<td>764</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>781</td>
 		<td>784</td>
 		<td>787</td>
-		<td>787</td>
-		<td></td>
+		<td>789</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -406,8 +406,8 @@
 		<td>604</td>
 		<td>606</td>
 		<td>608</td>
-		<td>608</td>
-		<td></td>
+		<td>610</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -428,8 +428,8 @@
 		<td>818</td>
 		<td>818</td>
 		<td>820</td>
-		<td>820</td>
-		<td></td>
+		<td>822</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22575</td>
-		<td>6</td>
+		<td>22583</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>818</td>
 		<td>818</td>
 		<td>820</td>
-		<td>820</td>
-		<td></td>
+		<td>822</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>781</td>
 		<td>784</td>
 		<td>787</td>
-		<td>787</td>
-		<td></td>
+		<td>789</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -564,8 +564,8 @@
 		<td>756</td>
 		<td>761</td>
 		<td>762</td>
-		<td>762</td>
-		<td></td>
+		<td>764</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -663,8 +663,8 @@
 		<td>604</td>
 		<td>606</td>
 		<td>608</td>
-		<td>608</td>
-		<td></td>
+		<td>610</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22575</td>
-		<td>6</td>
+		<td>22583</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
