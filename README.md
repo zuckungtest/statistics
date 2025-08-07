@@ -120,8 +120,8 @@
 		<td>546</td>
 		<td>548</td>
 		<td>550</td>
-		<td>550</td>
-		<td></td>
+		<td>552</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -219,8 +219,8 @@
 		<td>457</td>
 		<td>458</td>
 		<td>460</td>
-		<td>460</td>
-		<td></td>
+		<td>462</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -450,8 +450,8 @@
 		<td>633</td>
 		<td>636</td>
 		<td>639</td>
-		<td>639</td>
-		<td></td>
+		<td>641</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22569</td>
-		<td>0</td>
+		<td>22575</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>633</td>
 		<td>636</td>
 		<td>639</td>
-		<td>639</td>
-		<td></td>
+		<td>641</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -718,8 +718,8 @@
 		<td>546</td>
 		<td>548</td>
 		<td>550</td>
-		<td>550</td>
-		<td></td>
+		<td>552</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -784,8 +784,8 @@
 		<td>457</td>
 		<td>458</td>
 		<td>460</td>
-		<td>460</td>
-		<td></td>
+		<td>462</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22569</td>
-		<td>0</td>
+		<td>22575</td>
+		<td>6</td>
 	</tr>
 </table>
 </sub></sup>
