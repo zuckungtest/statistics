@@ -76,8 +76,8 @@
 		<td>872</td>
 		<td>874</td>
 		<td>874</td>
-		<td>875</td>
-		<td>+ 1</td>
+		<td>877</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -263,8 +263,8 @@
 		<td>534</td>
 		<td>536</td>
 		<td>536</td>
-		<td>536</td>
-		<td></td>
+		<td>538</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -362,8 +362,8 @@
 		<td>563</td>
 		<td>565</td>
 		<td>565</td>
-		<td>565</td>
-		<td></td>
+		<td>567</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22605</td>
-		<td>18</td>
+		<td>22611</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>872</td>
 		<td>874</td>
 		<td>874</td>
-		<td>875</td>
-		<td>+ 1</td>
+		<td>877</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -696,8 +696,8 @@
 		<td>563</td>
 		<td>565</td>
 		<td>565</td>
-		<td>565</td>
-		<td></td>
+		<td>567</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -729,8 +729,8 @@
 		<td>534</td>
 		<td>536</td>
 		<td>536</td>
-		<td>536</td>
-		<td></td>
+		<td>538</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22605</td>
-		<td>18</td>
+		<td>22611</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
@@ -956,7 +956,7 @@
 		<td>40</td>
 		<td>46</td>
 		<td>18</td>
-		<td>12</td>
+		<td>16</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -968,7 +968,7 @@
 		<td>9</td>
 		<td>12</td>
 		<td>5</td>
-		<td>6</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4727</td>
-		<td>1231</td>
+		<td>4731</td>
+		<td>1232</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>107</td>
-		<td>44.18</td>
-		<td>11.50</td>
+		<td>44.21</td>
+		<td>11.51</td>
 		<td></td>
 		<td></td>
 	</tr>
