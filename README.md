@@ -362,8 +362,8 @@
 		<td>563</td>
 		<td>565</td>
 		<td>565</td>
-		<td>567</td>
-		<td>+ 2</td>
+		<td>569</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -428,8 +428,8 @@
 		<td>818</td>
 		<td>820</td>
 		<td>822</td>
-		<td>822</td>
-		<td></td>
+		<td>824</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22611</td>
-		<td>24</td>
+		<td>22615</td>
+		<td>28</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>818</td>
 		<td>820</td>
 		<td>822</td>
-		<td>822</td>
-		<td></td>
+		<td>824</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -696,8 +696,8 @@
 		<td>563</td>
 		<td>565</td>
 		<td>565</td>
-		<td>567</td>
-		<td>+ 2</td>
+		<td>569</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22611</td>
-		<td>24</td>
+		<td>22615</td>
+		<td>28</td>
 	</tr>
 </table>
 </sub></sup>
