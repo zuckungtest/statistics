@@ -120,8 +120,8 @@
 		<td>548</td>
 		<td>550</td>
 		<td>552</td>
-		<td>552</td>
-		<td></td>
+		<td>554</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22615</td>
-		<td>28</td>
+		<td>22617</td>
+		<td>30</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>548</td>
 		<td>550</td>
 		<td>552</td>
-		<td>552</td>
-		<td></td>
+		<td>554</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22615</td>
-		<td>28</td>
+		<td>22617</td>
+		<td>30</td>
 	</tr>
 </table>
 </sub></sup>
