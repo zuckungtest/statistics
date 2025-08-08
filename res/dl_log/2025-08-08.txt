@@ -13,7 +13,7 @@ v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 57
 v1.0.5-show.reputation | downloads: 115
-v1.0.3-paint.your.ships | downloads: 103
+v1.0.3-paint.your.ships | downloads: 105
 v1.1.9-captureable.person.ships | downloads: 92
 v1.0.9-bunrodea.missions | downloads: 154
 v1.0.5-better.starts | downloads: 105
@@ -81,7 +81,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 491
+v1.0.4-too.many.asteroids | downloads: 493
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -249,7 +249,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 248
-# TOTAL DOWNLOADS: 24622
+# TOTAL DOWNLOADS: 24626
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -290,7 +290,7 @@ more.person.ships 517
 navy.licenses 575
 no.more.mereti.mines 428
 outfits.weapon.slot 479
-paint.your.ships 567
+paint.your.ships 569
 pirate.warlords 3
 planet.map 325
 planet.pluto 190
@@ -299,7 +299,7 @@ real.fluff 93
 show.reputation 676
 snowfeather.robotics 610
 space.fauna 405
-too.many.asteroids 822
+too.many.asteroids 824
 tribute.republic 360
 unique.fix 44
 uniques 641
