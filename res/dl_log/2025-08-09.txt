@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-ship.merging | downloads: 4
+v1.0.0-ship.merging | downloads: 6
 v1.0.24-additional.command.buttons.radial | downloads: 24
 v1.0.11-uniques | downloads: 35
 v1.0.8-combat.ai | downloads: 47
@@ -143,7 +143,7 @@ v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
 v1.0.0-kestrel.unlocks | downloads: 533
-v1.0.2-tribute.republic | downloads: 343
+v1.0.2-tribute.republic | downloads: 345
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
@@ -250,7 +250,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 249
-# TOTAL DOWNLOADS: 24697
+# TOTAL DOWNLOADS: 24701
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -297,11 +297,11 @@ planet.map 326
 planet.pluto 190
 quarg.farm 791
 real.fluff 93
-ship.merging 4
+ship.merging 6
 show.reputation 679
 snowfeather.robotics 611
 space.fauna 406
 too.many.asteroids 826
-tribute.republic 361
+tribute.republic 363
 unique.fix 44
 uniques 642
