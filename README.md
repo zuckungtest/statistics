@@ -98,8 +98,8 @@
 		<td>701</td>
 		<td>701</td>
 		<td>703</td>
-		<td>703</td>
-		<td></td>
+		<td>705</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -186,8 +186,8 @@
 		<td>811</td>
 		<td>813</td>
 		<td>813</td>
-		<td>813</td>
-		<td></td>
+		<td>814</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -285,8 +285,8 @@
 		<td>390</td>
 		<td>390</td>
 		<td>390</td>
-		<td>390</td>
-		<td></td>
+		<td>391</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22621</td>
-		<td>4</td>
+		<td>22625</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>811</td>
 		<td>813</td>
 		<td>813</td>
-		<td>813</td>
-		<td></td>
+		<td>814</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -597,8 +597,8 @@
 		<td>701</td>
 		<td>701</td>
 		<td>703</td>
-		<td>703</td>
-		<td></td>
+		<td>705</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -839,8 +839,8 @@
 		<td>390</td>
 		<td>390</td>
 		<td>390</td>
-		<td>390</td>
-		<td></td>
+		<td>391</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -927,8 +927,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22621</td>
-		<td>4</td>
+		<td>22625</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
@@ -936,7 +936,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-07-31</td>
 		<td>2025-08-01</td>
 		<td>2025-08-02</td>
 		<td>2025-08-03</td>
@@ -945,10 +944,10 @@
 		<td>2025-08-06</td>
 		<td>2025-08-07</td>
 		<td>2025-08-08</td>
+		<td>2025-08-09</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>41</td>
 		<td>43</td>
 		<td>76</td>
 		<td>28</td>
@@ -957,10 +956,10 @@
 		<td>46</td>
 		<td>18</td>
 		<td>17</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>15</td>
 		<td>13</td>
 		<td>10</td>
 		<td>13</td>
@@ -969,6 +968,7 @@
 		<td>12</td>
 		<td>5</td>
 		<td>8</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -982,8 +982,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4732</td>
-		<td>1233</td>
+		<td>4734</td>
+		<td>1234</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -996,8 +996,8 @@
 	</tr>
 	<tr>
 		<td>108</td>
-		<td>43.81</td>
-		<td>11.42</td>
+		<td>43.83</td>
+		<td>11.43</td>
 		<td></td>
 		<td></td>
 	</tr>
