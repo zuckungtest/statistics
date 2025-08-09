@@ -54,8 +54,8 @@
 		<td>649</td>
 		<td>649</td>
 		<td>649</td>
-		<td>650</td>
-		<td>+ 1</td>
+		<td>651</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -76,8 +76,8 @@
 		<td>874</td>
 		<td>874</td>
 		<td>877</td>
-		<td>878</td>
-		<td>+ 1</td>
+		<td>879</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>811</td>
 		<td>813</td>
 		<td>813</td>
-		<td>815</td>
-		<td>+ 2</td>
+		<td>816</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -219,8 +219,8 @@
 		<td>460</td>
 		<td>462</td>
 		<td>462</td>
-		<td>463</td>
-		<td>+ 1</td>
+		<td>464</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -252,8 +252,8 @@
 		<td>755</td>
 		<td>757</td>
 		<td>759</td>
-		<td>760</td>
-		<td>+ 1</td>
+		<td>761</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -263,8 +263,8 @@
 		<td>536</td>
 		<td>536</td>
 		<td>538</td>
-		<td>539</td>
-		<td>+ 1</td>
+		<td>540</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -285,8 +285,8 @@
 		<td>390</td>
 		<td>390</td>
 		<td>390</td>
-		<td>392</td>
-		<td>+ 2</td>
+		<td>393</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>628</td>
 		<td>628</td>
 		<td>630</td>
-		<td>631</td>
-		<td>+ 1</td>
+		<td>633</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -318,8 +318,8 @@
 		<td>762</td>
 		<td>764</td>
 		<td>764</td>
-		<td>765</td>
-		<td>+ 1</td>
+		<td>766</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -439,8 +439,8 @@
 		<td>820</td>
 		<td>822</td>
 		<td>824</td>
-		<td>825</td>
-		<td>+ 1</td>
+		<td>826</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22670</td>
-		<td>53</td>
+		<td>22681</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>874</td>
 		<td>874</td>
 		<td>877</td>
-		<td>878</td>
-		<td>+ 1</td>
+		<td>879</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>820</td>
 		<td>822</td>
 		<td>824</td>
-		<td>825</td>
-		<td>+ 1</td>
+		<td>826</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>811</td>
 		<td>813</td>
 		<td>813</td>
-		<td>815</td>
-		<td>+ 2</td>
+		<td>816</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -575,8 +575,8 @@
 		<td>762</td>
 		<td>764</td>
 		<td>764</td>
-		<td>765</td>
-		<td>+ 1</td>
+		<td>766</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -586,8 +586,8 @@
 		<td>755</td>
 		<td>757</td>
 		<td>759</td>
-		<td>760</td>
-		<td>+ 1</td>
+		<td>761</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -630,8 +630,8 @@
 		<td>649</td>
 		<td>649</td>
 		<td>649</td>
-		<td>650</td>
-		<td>+ 1</td>
+		<td>651</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -652,8 +652,8 @@
 		<td>628</td>
 		<td>628</td>
 		<td>630</td>
-		<td>631</td>
-		<td>+ 1</td>
+		<td>633</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -740,8 +740,8 @@
 		<td>536</td>
 		<td>536</td>
 		<td>538</td>
-		<td>539</td>
-		<td>+ 1</td>
+		<td>540</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -795,8 +795,8 @@
 		<td>460</td>
 		<td>462</td>
 		<td>462</td>
-		<td>463</td>
-		<td>+ 1</td>
+		<td>464</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -850,8 +850,8 @@
 		<td>390</td>
 		<td>390</td>
 		<td>390</td>
-		<td>392</td>
-		<td>+ 2</td>
+		<td>393</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22670</td>
-		<td>53</td>
+		<td>22681</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
