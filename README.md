@@ -109,8 +109,8 @@
 		<td>400</td>
 		<td>400</td>
 		<td>401</td>
-		<td>402</td>
-		<td>+ 1</td>
+		<td>405</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -164,8 +164,8 @@
 		<td>156</td>
 		<td>156</td>
 		<td>157</td>
-		<td>158</td>
-		<td>+ 1</td>
+		<td>160</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22743</td>
-		<td>53</td>
+		<td>22748</td>
+		<td>58</td>
 	</tr>
 </table>
 </sub></sup>
@@ -839,8 +839,8 @@
 		<td>400</td>
 		<td>400</td>
 		<td>401</td>
-		<td>402</td>
-		<td>+ 1</td>
+		<td>405</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -916,8 +916,8 @@
 		<td>156</td>
 		<td>156</td>
 		<td>157</td>
-		<td>158</td>
-		<td>+ 1</td>
+		<td>160</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22743</td>
-		<td>53</td>
+		<td>22748</td>
+		<td>58</td>
 	</tr>
 </table>
 </sub></sup>
