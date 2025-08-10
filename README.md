@@ -76,8 +76,8 @@
 		<td>874</td>
 		<td>877</td>
 		<td>879</td>
-		<td>880</td>
-		<td>+ 1</td>
+		<td>881</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -373,8 +373,8 @@
 		<td>325</td>
 		<td>325</td>
 		<td>326</td>
-		<td>327</td>
-		<td>+ 1</td>
+		<td>328</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -384,8 +384,8 @@
 		<td>789</td>
 		<td>790</td>
 		<td>791</td>
-		<td>792</td>
-		<td>+ 1</td>
+		<td>793</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22748</td>
-		<td>58</td>
+		<td>22751</td>
+		<td>61</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>874</td>
 		<td>877</td>
 		<td>879</td>
-		<td>880</td>
-		<td>+ 1</td>
+		<td>881</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -564,8 +564,8 @@
 		<td>789</td>
 		<td>790</td>
 		<td>791</td>
-		<td>792</td>
-		<td>+ 1</td>
+		<td>793</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -883,8 +883,8 @@
 		<td>325</td>
 		<td>325</td>
 		<td>326</td>
-		<td>327</td>
-		<td>+ 1</td>
+		<td>328</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22748</td>
-		<td>58</td>
+		<td>22751</td>
+		<td>61</td>
 	</tr>
 </table>
 </sub></sup>
