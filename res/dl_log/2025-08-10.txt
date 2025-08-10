@@ -2,7 +2,7 @@
 v1.0.1-ship.merging | downloads: 3
 v1.0.0-ship.merging | downloads: 12
 v1.0.24-additional.command.buttons.radial | downloads: 25
-v1.0.11-uniques | downloads: 36
+v1.0.11-uniques | downloads: 38
 v1.0.8-combat.ai | downloads: 51
 v1.0.7-combat.ai | downloads: 53
 v1.0.6-combat.ai | downloads: 10
@@ -31,7 +31,7 @@ v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 176
 v1.1.5-hai.side.mission.unlocker | downloads: 130
-v1.0.6-snowfeather.robotics | downloads: 148
+v1.0.6-snowfeather.robotics | downloads: 150
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 202
 v1.0.4-show.reputation | downloads: 54
@@ -44,7 +44,7 @@ v1.0.1-outfits.weapon.slot | downloads: 103
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 392
+v1.0.1-licenses | downloads: 394
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -251,7 +251,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 250
-# TOTAL DOWNLOADS: 24762
+# TOTAL DOWNLOADS: 24768
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -284,7 +284,7 @@ kor.efret.shipyard 762
 landing.images 541
 landing.images.android 349
 landing.images.highres 378
-licenses 394
+licenses 396
 mission.helper 634
 more.arfectas 714
 more.boarding.missions 769
@@ -300,9 +300,9 @@ quarg.farm 793
 real.fluff 93
 ship.merging 15
 show.reputation 680
-snowfeather.robotics 612
+snowfeather.robotics 614
 space.fauna 407
 too.many.asteroids 827
 tribute.republic 364
 unique.fix 44
-uniques 643
+uniques 645
