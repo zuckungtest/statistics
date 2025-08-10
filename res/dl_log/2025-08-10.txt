@@ -60,7 +60,7 @@ v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 192
-v1.0.3-gegno.pirates | downloads: 392
+v1.0.3-gegno.pirates | downloads: 393
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 203
@@ -216,7 +216,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 711
+v1.0.2-more.arfectas | downloads: 712
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -251,7 +251,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 250
-# TOTAL DOWNLOADS: 24750
+# TOTAL DOWNLOADS: 24752
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -274,7 +274,7 @@ expert.crew.members 858
 flare.play 158
 free.worlds.5.years.later 369
 galactic.capital.investment 992
-gegno.pirates 817
+gegno.pirates 818
 hai.side.mission.unlocker 561
 highrollers.ltd 203
 human.labels 465
@@ -286,7 +286,7 @@ landing.images.android 349
 landing.images.highres 378
 licenses 394
 mission.helper 634
-more.arfectas 713
+more.arfectas 714
 more.boarding.missions 769
 more.person.ships 519
 navy.licenses 575
