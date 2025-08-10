@@ -1,4 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
+v1.0.1-ship.merging | downloads: 0
 v1.0.0-ship.merging | downloads: 12
 v1.0.24-additional.command.buttons.radial | downloads: 24
 v1.0.11-uniques | downloads: 35
@@ -28,7 +29,7 @@ v1.0.1-free.worlds.5.years.later | downloads: 9
 v1.0.23-additional.command.buttons.radial | downloads: 166
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
-v1.1.5-more.boarding.missions | downloads: 173
+v1.1.5-more.boarding.missions | downloads: 175
 v1.1.5-hai.side.mission.unlocker | downloads: 129
 v1.0.6-snowfeather.robotics | downloads: 147
 v1.0.6-human.labels | downloads: 41
@@ -249,8 +250,8 @@ v1.0-additional.command.buttons | downloads: 1
 v1.1-galactic.capital.investment | downloads: 29
 
 
-# NUMBER OF RELEASES: 249
-# TOTAL DOWNLOADS: 24707
+# NUMBER OF RELEASES: 250
+# TOTAL DOWNLOADS: 24709
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -286,7 +287,7 @@ landing.images.highres 377
 licenses 393
 mission.helper 633
 more.arfectas 712
-more.boarding.missions 766
+more.boarding.missions 768
 more.person.ships 518
 navy.licenses 575
 no.more.mereti.mines 429
