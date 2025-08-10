@@ -285,8 +285,8 @@
 		<td>390</td>
 		<td>390</td>
 		<td>393</td>
-		<td>394</td>
-		<td>+ 1</td>
+		<td>396</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -417,8 +417,8 @@
 		<td>610</td>
 		<td>610</td>
 		<td>611</td>
-		<td>612</td>
-		<td>+ 1</td>
+		<td>614</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -461,8 +461,8 @@
 		<td>641</td>
 		<td>641</td>
 		<td>642</td>
-		<td>643</td>
-		<td>+ 1</td>
+		<td>645</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22751</td>
-		<td>61</td>
+		<td>22757</td>
+		<td>67</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>641</td>
 		<td>641</td>
 		<td>642</td>
-		<td>643</td>
-		<td>+ 1</td>
+		<td>645</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -674,8 +674,8 @@
 		<td>610</td>
 		<td>610</td>
 		<td>611</td>
-		<td>612</td>
-		<td>+ 1</td>
+		<td>614</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -850,8 +850,8 @@
 		<td>390</td>
 		<td>390</td>
 		<td>393</td>
-		<td>394</td>
-		<td>+ 1</td>
+		<td>396</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22751</td>
-		<td>61</td>
+		<td>22757</td>
+		<td>67</td>
 	</tr>
 </table>
 </sub></sup>
