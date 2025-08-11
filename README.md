@@ -153,8 +153,8 @@
 		<td>854</td>
 		<td>857</td>
 		<td>858</td>
-		<td>865</td>
-		<td>+ 7</td>
+		<td>866</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -208,8 +208,8 @@
 		<td>201</td>
 		<td>202</td>
 		<td>203</td>
-		<td>207</td>
-		<td>+ 4</td>
+		<td>208</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22931</td>
-		<td>171</td>
+		<td>22933</td>
+		<td>173</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>854</td>
 		<td>857</td>
 		<td>858</td>
-		<td>865</td>
-		<td>+ 7</td>
+		<td>866</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -905,8 +905,8 @@
 		<td>201</td>
 		<td>202</td>
 		<td>203</td>
-		<td>207</td>
-		<td>+ 4</td>
+		<td>208</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22931</td>
-		<td>171</td>
+		<td>22933</td>
+		<td>173</td>
 	</tr>
 </table>
 </sub></sup>
