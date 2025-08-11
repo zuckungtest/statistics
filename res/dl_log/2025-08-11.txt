@@ -1,12 +1,12 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-ship.merging | downloads: 11
+v1.0.1-ship.merging | downloads: 13
 v1.0.0-ship.merging | downloads: 12
 v1.0.24-additional.command.buttons.radial | downloads: 29
-v1.0.11-uniques | downloads: 44
-v1.0.8-combat.ai | downloads: 55
+v1.0.11-uniques | downloads: 46
+v1.0.8-combat.ai | downloads: 57
 v1.0.7-combat.ai | downloads: 54
 v1.0.6-combat.ai | downloads: 10
-v1.0.0-boss.loot | downloads: 117
+v1.0.0-boss.loot | downloads: 119
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 36
 v1.0.7-mission.helper | downloads: 172
@@ -251,7 +251,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 250
-# TOTAL DOWNLOADS: 24934
+# TOTAL DOWNLOADS: 24942
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -261,11 +261,11 @@ automata.destruction.0percent 613
 automata.in.human.space 502
 avgi.licenses 229
 better.starts 655
-boss.loot 117
+boss.loot 119
 bunrodea.missions 887
 captureable.person.ships 622
 coalition.shopping 709
-combat.ai 410
+combat.ai 412
 control.station 558
 devil-run.unhidden 66
 disable.person.ships 270
@@ -298,11 +298,11 @@ planet.map 330
 planet.pluto 190
 quarg.farm 797
 real.fluff 93
-ship.merging 23
+ship.merging 25
 show.reputation 684
 snowfeather.robotics 620
 space.fauna 409
 too.many.asteroids 831
 tribute.republic 364
 unique.fix 44
-uniques 651
+uniques 653
