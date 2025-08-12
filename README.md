@@ -131,8 +131,8 @@
 		<td>269</td>
 		<td>270</td>
 		<td>270</td>
-		<td>272</td>
-		<td>+ 2</td>
+		<td>274</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -153,8 +153,8 @@
 		<td>857</td>
 		<td>858</td>
 		<td>866</td>
-		<td>868</td>
-		<td>+ 2</td>
+		<td>870</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -395,8 +395,8 @@
 		<td>6</td>
 		<td>17</td>
 		<td>25</td>
-		<td>29</td>
-		<td>+ 4</td>
+		<td>31</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -417,8 +417,8 @@
 		<td>611</td>
 		<td>614</td>
 		<td>620</td>
-		<td>622</td>
-		<td>+ 2</td>
+		<td>623</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -439,8 +439,8 @@
 		<td>826</td>
 		<td>827</td>
 		<td>831</td>
-		<td>833</td>
-		<td>+ 2</td>
+		<td>835</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22967</td>
-		<td>34</td>
+		<td>22976</td>
+		<td>43</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>857</td>
 		<td>858</td>
 		<td>866</td>
-		<td>868</td>
-		<td>+ 2</td>
+		<td>870</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -542,8 +542,8 @@
 		<td>826</td>
 		<td>827</td>
 		<td>831</td>
-		<td>833</td>
-		<td>+ 2</td>
+		<td>835</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -663,8 +663,8 @@
 		<td>611</td>
 		<td>614</td>
 		<td>620</td>
-		<td>622</td>
-		<td>+ 2</td>
+		<td>623</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -894,8 +894,8 @@
 		<td>269</td>
 		<td>270</td>
 		<td>270</td>
-		<td>272</td>
-		<td>+ 2</td>
+		<td>274</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -938,8 +938,8 @@
 		<td>6</td>
 		<td>17</td>
 		<td>25</td>
-		<td>29</td>
-		<td>+ 4</td>
+		<td>31</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22967</td>
-		<td>34</td>
+		<td>22976</td>
+		<td>43</td>
 	</tr>
 </table>
 </sub></sup>
@@ -977,7 +977,7 @@
 		<td>17</td>
 		<td>48</td>
 		<td>30</td>
-		<td>39</td>
+		<td>75</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4851</td>
+		<td>4887</td>
 		<td>1271</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>111</td>
-		<td>43.70</td>
+		<td>44.03</td>
 		<td>11.45</td>
 		<td></td>
 		<td></td>
