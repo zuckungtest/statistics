@@ -54,8 +54,8 @@
 		<td>651</td>
 		<td>652</td>
 		<td>655</td>
-		<td>657</td>
-		<td>+ 2</td>
+		<td>659</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -76,8 +76,8 @@
 		<td>879</td>
 		<td>881</td>
 		<td>887</td>
-		<td>887</td>
-		<td></td>
+		<td>889</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -153,8 +153,8 @@
 		<td>857</td>
 		<td>858</td>
 		<td>866</td>
-		<td>866</td>
-		<td></td>
+		<td>868</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -263,8 +263,8 @@
 		<td>540</td>
 		<td>541</td>
 		<td>546</td>
-		<td>546</td>
-		<td></td>
+		<td>548</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>377</td>
 		<td>378</td>
 		<td>382</td>
-		<td>382</td>
-		<td></td>
+		<td>384</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -318,8 +318,8 @@
 		<td>766</td>
 		<td>769</td>
 		<td>777</td>
-		<td>777</td>
-		<td></td>
+		<td>779</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -340,8 +340,8 @@
 		<td>429</td>
 		<td>430</td>
 		<td>434</td>
-		<td>434</td>
-		<td></td>
+		<td>436</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -439,8 +439,8 @@
 		<td>826</td>
 		<td>827</td>
 		<td>831</td>
-		<td>831</td>
-		<td></td>
+		<td>833</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22951</td>
-		<td>18</td>
+		<td>22967</td>
+		<td>34</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>879</td>
 		<td>881</td>
 		<td>887</td>
-		<td>887</td>
-		<td></td>
+		<td>889</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -531,8 +531,8 @@
 		<td>857</td>
 		<td>858</td>
 		<td>866</td>
-		<td>866</td>
-		<td></td>
+		<td>868</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -542,8 +542,8 @@
 		<td>826</td>
 		<td>827</td>
 		<td>831</td>
-		<td>831</td>
-		<td></td>
+		<td>833</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>766</td>
 		<td>769</td>
 		<td>777</td>
-		<td>777</td>
-		<td></td>
+		<td>779</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -630,8 +630,8 @@
 		<td>651</td>
 		<td>652</td>
 		<td>655</td>
-		<td>657</td>
-		<td>+ 2</td>
+		<td>659</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -740,8 +740,8 @@
 		<td>540</td>
 		<td>541</td>
 		<td>546</td>
-		<td>546</td>
-		<td></td>
+		<td>548</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -806,8 +806,8 @@
 		<td>429</td>
 		<td>430</td>
 		<td>434</td>
-		<td>434</td>
-		<td></td>
+		<td>436</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -861,8 +861,8 @@
 		<td>377</td>
 		<td>378</td>
 		<td>382</td>
-		<td>382</td>
-		<td></td>
+		<td>384</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22951</td>
-		<td>18</td>
+		<td>22967</td>
+		<td>34</td>
 	</tr>
 </table>
 </sub></sup>
