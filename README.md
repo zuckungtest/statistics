@@ -340,8 +340,8 @@
 		<td>429</td>
 		<td>430</td>
 		<td>434</td>
-		<td>436</td>
-		<td>+ 2</td>
+		<td>437</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22976</td>
-		<td>43</td>
+		<td>22977</td>
+		<td>44</td>
 	</tr>
 </table>
 </sub></sup>
@@ -806,8 +806,8 @@
 		<td>429</td>
 		<td>430</td>
 		<td>434</td>
-		<td>436</td>
-		<td>+ 2</td>
+		<td>437</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>22976</td>
-		<td>43</td>
+		<td>22977</td>
+		<td>44</td>
 	</tr>
 </table>
 </sub></sup>
