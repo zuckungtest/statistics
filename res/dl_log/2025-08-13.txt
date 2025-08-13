@@ -83,7 +83,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 508
+v1.0.4-too.many.asteroids | downloads: 510
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -144,7 +144,7 @@ v1.0.1-more.person.ships | downloads: 83
 v1.0.1-additional.command.buttons.radial | downloads: 10
 v1.0.1-planet.map | downloads: 108
 v1.0.0-kestrel.unlocks | downloads: 538
-v1.0.2-tribute.republic | downloads: 348
+v1.0.2-tribute.republic | downloads: 349
 v1.0.1-tribute.republic | downloads: 16
 v1.0.1-landing.images.highres | downloads: 52
 v1.0.0-tribute.republic | downloads: 2
@@ -251,7 +251,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 250
-# TOTAL DOWNLOADS: 25090
+# TOTAL DOWNLOADS: 25093
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -302,7 +302,7 @@ ship.merging 36
 show.reputation 684
 snowfeather.robotics 625
 space.fauna 409
-too.many.asteroids 839
-tribute.republic 366
+too.many.asteroids 841
+tribute.republic 367
 unique.fix 44
 uniques 657
