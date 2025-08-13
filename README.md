@@ -109,8 +109,8 @@
 		<td>406</td>
 		<td>412</td>
 		<td>414</td>
-		<td>416</td>
-		<td>+ 2</td>
+		<td>418</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23082</td>
-		<td>65</td>
+		<td>23084</td>
+		<td>67</td>
 	</tr>
 </table>
 </sub></sup>
@@ -828,8 +828,8 @@
 		<td>406</td>
 		<td>412</td>
 		<td>414</td>
-		<td>416</td>
-		<td>+ 2</td>
+		<td>418</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23082</td>
-		<td>65</td>
+		<td>23084</td>
+		<td>67</td>
 	</tr>
 </table>
 </sub></sup>
