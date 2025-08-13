@@ -30,7 +30,7 @@ v1.0.23-additional.command.buttons.radial | downloads: 166
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 188
-v1.1.5-hai.side.mission.unlocker | downloads: 135
+v1.1.5-hai.side.mission.unlocker | downloads: 136
 v1.0.6-snowfeather.robotics | downloads: 161
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 206
@@ -251,7 +251,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 250
-# TOTAL DOWNLOADS: 25085
+# TOTAL DOWNLOADS: 25086
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -275,7 +275,7 @@ flare.play 164
 free.worlds.5.years.later 369
 galactic.capital.investment 1000
 gegno.pirates 827
-hai.side.mission.unlocker 566
+hai.side.mission.unlocker 567
 highrollers.ltd 210
 human.labels 471
 jump.gates 599
