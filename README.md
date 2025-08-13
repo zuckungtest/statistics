@@ -65,8 +65,8 @@
 		<td>109</td>
 		<td>119</td>
 		<td>123</td>
-		<td>124</td>
-		<td>+ 1</td>
+		<td>126</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23077</td>
-		<td>60</td>
+		<td>23079</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
@@ -927,8 +927,8 @@
 		<td>109</td>
 		<td>119</td>
 		<td>123</td>
-		<td>124</td>
-		<td>+ 1</td>
+		<td>126</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23077</td>
-		<td>60</td>
+		<td>23079</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
