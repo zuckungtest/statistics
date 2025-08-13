@@ -439,8 +439,8 @@
 		<td>827</td>
 		<td>831</td>
 		<td>837</td>
-		<td>839</td>
-		<td>+ 2</td>
+		<td>841</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -450,8 +450,8 @@
 		<td>364</td>
 		<td>364</td>
 		<td>364</td>
-		<td>366</td>
-		<td>+ 2</td>
+		<td>367</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23079</td>
-		<td>62</td>
+		<td>23082</td>
+		<td>65</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>827</td>
 		<td>831</td>
 		<td>837</td>
-		<td>839</td>
-		<td>+ 2</td>
+		<td>841</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -872,8 +872,8 @@
 		<td>364</td>
 		<td>364</td>
 		<td>364</td>
-		<td>366</td>
-		<td>+ 2</td>
+		<td>367</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23079</td>
-		<td>62</td>
+		<td>23082</td>
+		<td>65</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>30</td>
 		<td>75</td>
 		<td>32</td>
-		<td>10</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>15</td>
 		<td>14</td>
 		<td>11</td>
-		<td>7</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4927</td>
-		<td>1288</td>
+		<td>4931</td>
+		<td>1290</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>112</td>
-		<td>43.99</td>
-		<td>11.50</td>
+		<td>44.03</td>
+		<td>11.52</td>
 		<td></td>
 		<td></td>
 	</tr>
