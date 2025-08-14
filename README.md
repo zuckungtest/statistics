@@ -186,8 +186,8 @@
 		<td>822</td>
 		<td>824</td>
 		<td>827</td>
-		<td>829</td>
-		<td>+ 2</td>
+		<td>830</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -417,8 +417,8 @@
 		<td>620</td>
 		<td>623</td>
 		<td>625</td>
-		<td>625</td>
-		<td></td>
+		<td>626</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23141</td>
-		<td>57</td>
+		<td>23143</td>
+		<td>59</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>822</td>
 		<td>824</td>
 		<td>827</td>
-		<td>829</td>
-		<td>+ 2</td>
+		<td>830</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -656,6 +656,17 @@
 		<td>+ 5</td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>610</td>
+		<td>611</td>
+		<td>614</td>
+		<td>620</td>
+		<td>623</td>
+		<td>625</td>
+		<td>626</td>
+		<td>+ 1</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>615</td>
 		<td>616</td>
@@ -664,17 +675,6 @@
 		<td>624</td>
 		<td>626</td>
 		<td>626</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>610</td>
-		<td>611</td>
-		<td>614</td>
-		<td>620</td>
-		<td>623</td>
-		<td>625</td>
-		<td>625</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23141</td>
-		<td>57</td>
+		<td>23143</td>
+		<td>59</td>
 	</tr>
 </table>
 </sub></sup>
