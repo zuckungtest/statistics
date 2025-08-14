@@ -9,7 +9,7 @@ v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 126
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 38
-v1.0.7-mission.helper | downloads: 174
+v1.0.7-mission.helper | downloads: 177
 v1.0.9-expert.crew.members | downloads: 132
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
@@ -251,7 +251,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 250
-# TOTAL DOWNLOADS: 25097
+# TOTAL DOWNLOADS: 25100
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -285,7 +285,7 @@ landing.images 552
 landing.images.android 349
 landing.images.highres 386
 licenses 408
-mission.helper 642
+mission.helper 645
 more.arfectas 720
 more.boarding.missions 781
 more.person.ships 526
