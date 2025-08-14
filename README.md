@@ -54,8 +54,8 @@
 		<td>655</td>
 		<td>663</td>
 		<td>665</td>
-		<td>665</td>
-		<td></td>
+		<td>666</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -98,8 +98,8 @@
 		<td>709</td>
 		<td>711</td>
 		<td>711</td>
-		<td>711</td>
-		<td></td>
+		<td>712</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -142,8 +142,8 @@
 		<td>420</td>
 		<td>422</td>
 		<td>422</td>
-		<td>427</td>
-		<td>+ 5</td>
+		<td>428</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -373,8 +373,8 @@
 		<td>330</td>
 		<td>330</td>
 		<td>332</td>
-		<td>332</td>
-		<td></td>
+		<td>334</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23143</td>
-		<td>59</td>
+		<td>23148</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>709</td>
 		<td>711</td>
 		<td>711</td>
-		<td>711</td>
-		<td></td>
+		<td>712</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -630,8 +630,8 @@
 		<td>655</td>
 		<td>663</td>
 		<td>665</td>
-		<td>665</td>
-		<td></td>
+		<td>666</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -817,8 +817,8 @@
 		<td>420</td>
 		<td>422</td>
 		<td>422</td>
-		<td>427</td>
-		<td>+ 5</td>
+		<td>428</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -883,8 +883,8 @@
 		<td>330</td>
 		<td>330</td>
 		<td>332</td>
-		<td>332</td>
-		<td></td>
+		<td>334</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23143</td>
-		<td>59</td>
+		<td>23148</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
