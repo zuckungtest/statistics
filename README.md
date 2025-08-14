@@ -395,8 +395,8 @@
 		<td>25</td>
 		<td>36</td>
 		<td>36</td>
-		<td>36</td>
-		<td></td>
+		<td>38</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23084</td>
-		<td>0</td>
+		<td>23086</td>
+		<td>2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -938,8 +938,8 @@
 		<td>25</td>
 		<td>36</td>
 		<td>36</td>
-		<td>36</td>
-		<td></td>
+		<td>38</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23084</td>
-		<td>0</td>
+		<td>23086</td>
+		<td>2</td>
 	</tr>
 </table>
 </sub></sup>
