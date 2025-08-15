@@ -395,8 +395,8 @@
 		<td>36</td>
 		<td>36</td>
 		<td>40</td>
-		<td>43</td>
-		<td>+ 3</td>
+		<td>45</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td>364</td>
 		<td>367</td>
 		<td>367</td>
-		<td>367</td>
-		<td></td>
+		<td>369</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23195</td>
-		<td>47</td>
+		<td>23199</td>
+		<td>51</td>
 	</tr>
 </table>
 </sub></sup>
@@ -872,8 +872,8 @@
 		<td>364</td>
 		<td>367</td>
 		<td>367</td>
-		<td>367</td>
-		<td></td>
+		<td>369</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -938,8 +938,8 @@
 		<td>36</td>
 		<td>36</td>
 		<td>40</td>
-		<td>43</td>
-		<td>+ 3</td>
+		<td>45</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23195</td>
-		<td>47</td>
+		<td>23199</td>
+		<td>51</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>32</td>
 		<td>20</td>
 		<td>32</td>
-		<td>17</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4986</td>
+		<td>4990</td>
 		<td>1306</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>114</td>
-		<td>43.74</td>
+		<td>43.77</td>
 		<td>11.46</td>
 		<td></td>
 		<td></td>
