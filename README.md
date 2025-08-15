@@ -21,8 +21,8 @@
 		<td>983</td>
 		<td>987</td>
 		<td>990</td>
-		<td>990</td>
-		<td></td>
+		<td>992</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -153,8 +153,8 @@
 		<td>871</td>
 		<td>873</td>
 		<td>874</td>
-		<td>875</td>
-		<td>+ 1</td>
+		<td>879</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23162</td>
-		<td>14</td>
+		<td>23168</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>983</td>
 		<td>987</td>
 		<td>990</td>
-		<td>990</td>
-		<td></td>
+		<td>992</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>871</td>
 		<td>873</td>
 		<td>874</td>
-		<td>875</td>
-		<td>+ 1</td>
+		<td>879</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23162</td>
-		<td>14</td>
+		<td>23168</td>
+		<td>20</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>32</td>
 		<td>20</td>
 		<td>32</td>
-		<td>1</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>11</td>
 		<td>10</td>
 		<td>11</td>
-		<td>1</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>4970</td>
-		<td>1303</td>
+		<td>4976</td>
+		<td>1305</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>114</td>
-		<td>43.60</td>
-		<td>11.43</td>
+		<td>43.65</td>
+		<td>11.45</td>
 		<td></td>
 		<td></td>
 	</tr>
