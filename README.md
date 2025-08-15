@@ -76,8 +76,8 @@
 		<td>891</td>
 		<td>895</td>
 		<td>897</td>
-		<td>900</td>
-		<td>+ 3</td>
+		<td>902</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>824</td>
 		<td>827</td>
 		<td>830</td>
-		<td>831</td>
-		<td>+ 1</td>
+		<td>833</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -197,8 +197,8 @@
 		<td>564</td>
 		<td>567</td>
 		<td>569</td>
-		<td>571</td>
-		<td>+ 2</td>
+		<td>573</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -252,8 +252,8 @@
 		<td>766</td>
 		<td>767</td>
 		<td>767</td>
-		<td>767</td>
-		<td></td>
+		<td>769</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23203</td>
-		<td>55</td>
+		<td>23211</td>
+		<td>63</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>891</td>
 		<td>895</td>
 		<td>897</td>
-		<td>900</td>
-		<td>+ 3</td>
+		<td>902</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -553,8 +553,8 @@
 		<td>824</td>
 		<td>827</td>
 		<td>830</td>
-		<td>831</td>
-		<td>+ 1</td>
+		<td>833</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -586,8 +586,8 @@
 		<td>766</td>
 		<td>767</td>
 		<td>767</td>
-		<td>767</td>
-		<td></td>
+		<td>769</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -718,8 +718,8 @@
 		<td>564</td>
 		<td>567</td>
 		<td>569</td>
-		<td>571</td>
-		<td>+ 2</td>
+		<td>573</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23203</td>
-		<td>55</td>
+		<td>23211</td>
+		<td>63</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>32</td>
 		<td>20</td>
 		<td>32</td>
-		<td>46</td>
+		<td>48</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5015</td>
+		<td>5017</td>
 		<td>1308</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>114</td>
-		<td>43.99</td>
+		<td>44.01</td>
 		<td>11.47</td>
 		<td></td>
 		<td></td>
