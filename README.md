@@ -197,8 +197,8 @@
 		<td>564</td>
 		<td>567</td>
 		<td>569</td>
-		<td>569</td>
-		<td></td>
+		<td>571</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -318,8 +318,8 @@
 		<td>779</td>
 		<td>781</td>
 		<td>783</td>
-		<td>783</td>
-		<td></td>
+		<td>785</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23199</td>
-		<td>51</td>
+		<td>23203</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>779</td>
 		<td>781</td>
 		<td>783</td>
-		<td>783</td>
-		<td></td>
+		<td>785</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -718,8 +718,8 @@
 		<td>564</td>
 		<td>567</td>
 		<td>569</td>
-		<td>569</td>
-		<td></td>
+		<td>571</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23199</td>
-		<td>51</td>
+		<td>23203</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>32</td>
 		<td>20</td>
 		<td>32</td>
-		<td>43</td>
+		<td>46</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5012</td>
+		<td>5015</td>
 		<td>1308</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>114</td>
-		<td>43.96</td>
+		<td>43.99</td>
 		<td>11.47</td>
 		<td></td>
 		<td></td>
