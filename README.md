@@ -76,8 +76,8 @@
 		<td>891</td>
 		<td>895</td>
 		<td>897</td>
-		<td>902</td>
-		<td>+ 5</td>
+		<td>904</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>422</td>
 		<td>422</td>
 		<td>428</td>
-		<td>428</td>
-		<td></td>
+		<td>430</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -186,8 +186,8 @@
 		<td>824</td>
 		<td>827</td>
 		<td>830</td>
-		<td>833</td>
-		<td>+ 3</td>
+		<td>835</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -197,8 +197,8 @@
 		<td>564</td>
 		<td>567</td>
 		<td>569</td>
-		<td>573</td>
-		<td>+ 4</td>
+		<td>575</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -406,8 +406,8 @@
 		<td>684</td>
 		<td>684</td>
 		<td>686</td>
-		<td>689</td>
-		<td>+ 3</td>
+		<td>691</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23211</td>
-		<td>63</td>
+		<td>23221</td>
+		<td>73</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>891</td>
 		<td>895</td>
 		<td>897</td>
-		<td>902</td>
-		<td>+ 5</td>
+		<td>904</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -553,8 +553,8 @@
 		<td>824</td>
 		<td>827</td>
 		<td>830</td>
-		<td>833</td>
-		<td>+ 3</td>
+		<td>835</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -619,8 +619,8 @@
 		<td>684</td>
 		<td>684</td>
 		<td>686</td>
-		<td>689</td>
-		<td>+ 3</td>
+		<td>691</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -718,8 +718,8 @@
 		<td>564</td>
 		<td>567</td>
 		<td>569</td>
-		<td>573</td>
-		<td>+ 4</td>
+		<td>575</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -817,8 +817,8 @@
 		<td>422</td>
 		<td>422</td>
 		<td>428</td>
-		<td>428</td>
-		<td></td>
+		<td>430</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23211</td>
-		<td>63</td>
+		<td>23221</td>
+		<td>73</td>
 	</tr>
 </table>
 </sub></sup>
