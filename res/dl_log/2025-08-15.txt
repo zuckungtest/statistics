@@ -14,10 +14,10 @@ v1.0.9-expert.crew.members | downloads: 140
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 66
-v1.0.5-show.reputation | downloads: 128
+v1.0.5-show.reputation | downloads: 130
 v1.0.3-paint.your.ships | downloads: 116
 v1.1.9-captureable.person.ships | downloads: 103
-v1.0.9-bunrodea.missions | downloads: 179
+v1.0.9-bunrodea.missions | downloads: 181
 v1.0.5-better.starts | downloads: 122
 v1.0.4-control.station | downloads: 136
 v1.0.6-mission.helper | downloads: 64
@@ -30,7 +30,7 @@ v1.0.23-additional.command.buttons.radial | downloads: 166
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 192
-v1.1.5-hai.side.mission.unlocker | downloads: 142
+v1.1.5-hai.side.mission.unlocker | downloads: 144
 v1.0.6-snowfeather.robotics | downloads: 165
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 208
@@ -60,7 +60,7 @@ v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
 v1.0.1-highrollers.ltd | downloads: 201
-v1.0.3-gegno.pirates | downloads: 408
+v1.0.3-gegno.pirates | downloads: 410
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
 v1.0.2-mission.helper | downloads: 203
@@ -192,7 +192,7 @@ v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
-v1.1.1-disable.spaceport.repeatables | downloads: 427
+v1.1.1-disable.spaceport.repeatables | downloads: 429
 v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 386
 v1.0.0-control.station | downloads: 1
@@ -251,7 +251,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 250
-# TOTAL DOWNLOADS: 25222
+# TOTAL DOWNLOADS: 25232
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -262,20 +262,20 @@ automata.in.human.space 502
 avgi.licenses 229
 better.starts 666
 boss.loot 127
-bunrodea.missions 902
+bunrodea.missions 904
 captureable.person.ships 626
 coalition.shopping 712
 combat.ai 419
 control.station 565
 devil-run.unhidden 66
 disable.person.ships 278
-disable.spaceport.repeatables 428
+disable.spaceport.repeatables 430
 expert.crew.members 881
 flare.play 167
 free.worlds.5.years.later 369
 galactic.capital.investment 1003
-gegno.pirates 833
-hai.side.mission.unlocker 573
+gegno.pirates 835
+hai.side.mission.unlocker 575
 highrollers.ltd 212
 human.labels 471
 jump.gates 604
@@ -299,7 +299,7 @@ planet.pluto 190
 quarg.farm 799
 real.fluff 93
 ship.merging 45
-show.reputation 689
+show.reputation 691
 snowfeather.robotics 629
 space.fauna 411
 too.many.asteroids 845
