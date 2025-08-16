@@ -7,7 +7,7 @@ v1.0.11-uniques | downloads: 56
 v1.0.8-combat.ai | downloads: 67
 v1.0.7-combat.ai | downloads: 54
 v1.0.6-combat.ai | downloads: 10
-v1.0.0-boss.loot | downloads: 132
+v1.0.0-boss.loot | downloads: 134
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 44
 v1.0.7-mission.helper | downloads: 181
@@ -252,7 +252,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 251
-# TOTAL DOWNLOADS: 25341
+# TOTAL DOWNLOADS: 25343
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -262,7 +262,7 @@ automata.destruction.0percent 619
 automata.in.human.space 505
 avgi.licenses 229
 better.starts 671
-boss.loot 132
+boss.loot 134
 bunrodea.missions 907
 captureable.person.ships 631
 coalition.shopping 715
