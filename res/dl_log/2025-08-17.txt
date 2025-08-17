@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.9-galactic.capital.investment | downloads: 8
-v1.0.1-ship.merging | downloads: 42
+v1.0.1-ship.merging | downloads: 44
 v1.0.0-ship.merging | downloads: 12
 v1.0.24-additional.command.buttons.radial | downloads: 47
 v1.0.11-uniques | downloads: 60
@@ -18,7 +18,7 @@ v1.0.7-human.labels | downloads: 73
 v1.0.5-show.reputation | downloads: 135
 v1.0.3-paint.your.ships | downloads: 121
 v1.1.9-captureable.person.ships | downloads: 114
-v1.0.9-bunrodea.missions | downloads: 188
+v1.0.9-bunrodea.missions | downloads: 190
 v1.0.5-better.starts | downloads: 133
 v1.0.4-control.station | downloads: 143
 v1.0.6-mission.helper | downloads: 64
@@ -31,8 +31,8 @@ v1.0.23-additional.command.buttons.radial | downloads: 166
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
 v1.1.5-more.boarding.missions | downloads: 199
-v1.1.5-hai.side.mission.unlocker | downloads: 151
-v1.0.6-snowfeather.robotics | downloads: 172
+v1.1.5-hai.side.mission.unlocker | downloads: 153
+v1.0.6-snowfeather.robotics | downloads: 174
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 217
 v1.0.4-show.reputation | downloads: 54
@@ -74,7 +74,7 @@ v1.0.7-bunrodea.missions | downloads: 141
 v1.0.5-human.labels | downloads: 150
 v1.1.4-more.boarding.missions | downloads: 273
 v1.0.6-bunrodea.missions | downloads: 6
-v1.0.3-jump.gates | downloads: 339
+v1.0.3-jump.gates | downloads: 341
 v1.0.15-additional.command.buttons.radial | downloads: 69
 v1.0.6-expert.crew.members | downloads: 156
 v1.0.0-avgi.licenses | downloads: 229
@@ -84,7 +84,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 519
+v1.0.4-too.many.asteroids | downloads: 521
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -252,7 +252,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 251
-# TOTAL DOWNLOADS: 25523
+# TOTAL DOWNLOADS: 25535
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -263,7 +263,7 @@ automata.in.human.space 509
 avgi.licenses 229
 better.starts 677
 boss.loot 141
-bunrodea.missions 911
+bunrodea.missions 913
 captureable.person.ships 637
 coalition.shopping 719
 combat.ai 426
@@ -276,10 +276,10 @@ flare.play 175
 free.worlds.5.years.later 369
 galactic.capital.investment 1013
 gegno.pirates 842
-hai.side.mission.unlocker 582
+hai.side.mission.unlocker 584
 highrollers.ltd 217
 human.labels 478
-jump.gates 611
+jump.gates 613
 kestrel.unlocks 546
 kor.efret.shipyard 776
 landing.images 563
@@ -299,11 +299,11 @@ planet.map 339
 planet.pluto 190
 quarg.farm 808
 real.fluff 93
-ship.merging 54
+ship.merging 56
 show.reputation 696
-snowfeather.robotics 636
+snowfeather.robotics 638
 space.fauna 417
-too.many.asteroids 850
+too.many.asteroids 852
 tribute.republic 374
 unique.fix 44
 uniques 667
