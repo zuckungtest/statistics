@@ -54,8 +54,8 @@
 		<td>666</td>
 		<td>669</td>
 		<td>673</td>
-		<td>677</td>
-		<td>+ 4</td>
+		<td>679</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -175,8 +175,8 @@
 		<td>1002</td>
 		<td>1006</td>
 		<td>1010</td>
-		<td>1014</td>
-		<td>+ 4</td>
+		<td>1016</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23536</td>
-		<td>127</td>
+		<td>23540</td>
+		<td>131</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1002</td>
 		<td>1006</td>
 		<td>1010</td>
-		<td>1014</td>
-		<td>+ 4</td>
+		<td>1016</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -630,8 +630,8 @@
 		<td>666</td>
 		<td>669</td>
 		<td>673</td>
-		<td>677</td>
-		<td>+ 4</td>
+		<td>679</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23536</td>
-		<td>127</td>
+		<td>23540</td>
+		<td>131</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>32</td>
 		<td>74</td>
 		<td>22</td>
-		<td>18</td>
+		<td>20</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5083</td>
+		<td>5085</td>
 		<td>1333</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>116</td>
-		<td>43.82</td>
+		<td>43.84</td>
 		<td>11.49</td>
 		<td></td>
 		<td></td>
