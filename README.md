@@ -120,8 +120,8 @@
 		<td>565</td>
 		<td>566</td>
 		<td>570</td>
-		<td>572</td>
-		<td>+ 2</td>
+		<td>573</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>1002</td>
 		<td>1006</td>
 		<td>1010</td>
-		<td>1013</td>
-		<td>+ 3</td>
+		<td>1014</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -219,8 +219,8 @@
 		<td>471</td>
 		<td>472</td>
 		<td>476</td>
-		<td>478</td>
-		<td>+ 2</td>
+		<td>480</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -230,8 +230,8 @@
 		<td>604</td>
 		<td>605</td>
 		<td>609</td>
-		<td>613</td>
-		<td>+ 4</td>
+		<td>615</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -296,8 +296,8 @@
 		<td>647</td>
 		<td>649</td>
 		<td>651</td>
-		<td>656</td>
-		<td>+ 5</td>
+		<td>658</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -406,8 +406,8 @@
 		<td>686</td>
 		<td>692</td>
 		<td>694</td>
-		<td>696</td>
-		<td>+ 2</td>
+		<td>698</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -439,8 +439,8 @@
 		<td>845</td>
 		<td>846</td>
 		<td>848</td>
-		<td>852</td>
-		<td>+ 4</td>
+		<td>854</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23524</td>
-		<td>115</td>
+		<td>23536</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1002</td>
 		<td>1006</td>
 		<td>1010</td>
-		<td>1013</td>
-		<td>+ 3</td>
+		<td>1014</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>845</td>
 		<td>846</td>
 		<td>848</td>
-		<td>852</td>
-		<td>+ 4</td>
+		<td>854</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -619,8 +619,8 @@
 		<td>686</td>
 		<td>692</td>
 		<td>694</td>
-		<td>696</td>
-		<td>+ 2</td>
+		<td>698</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -652,8 +652,8 @@
 		<td>647</td>
 		<td>649</td>
 		<td>651</td>
-		<td>656</td>
-		<td>+ 5</td>
+		<td>658</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -696,8 +696,8 @@
 		<td>604</td>
 		<td>605</td>
 		<td>609</td>
-		<td>613</td>
-		<td>+ 4</td>
+		<td>615</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -729,8 +729,8 @@
 		<td>565</td>
 		<td>566</td>
 		<td>570</td>
-		<td>572</td>
-		<td>+ 2</td>
+		<td>573</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -795,8 +795,8 @@
 		<td>471</td>
 		<td>472</td>
 		<td>476</td>
-		<td>478</td>
-		<td>+ 2</td>
+		<td>480</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23524</td>
-		<td>115</td>
+		<td>23536</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
