@@ -21,8 +21,8 @@
 		<td>993</td>
 		<td>997</td>
 		<td>1005</td>
-		<td>1005</td>
-		<td></td>
+		<td>1007</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>420</td>
 		<td>424</td>
 		<td>426</td>
-		<td>426</td>
-		<td></td>
+		<td>431</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -219,8 +219,8 @@
 		<td>472</td>
 		<td>476</td>
 		<td>482</td>
-		<td>482</td>
-		<td></td>
+		<td>487</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23585</td>
-		<td>11</td>
+		<td>23597</td>
+		<td>23</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>993</td>
 		<td>997</td>
 		<td>1005</td>
-		<td>1005</td>
-		<td></td>
+		<td>1007</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -795,8 +795,8 @@
 		<td>472</td>
 		<td>476</td>
 		<td>482</td>
-		<td>482</td>
-		<td></td>
+		<td>487</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -828,8 +828,8 @@
 		<td>420</td>
 		<td>424</td>
 		<td>426</td>
-		<td>426</td>
-		<td></td>
+		<td>431</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23585</td>
-		<td>11</td>
+		<td>23597</td>
+		<td>23</td>
 	</tr>
 </table>
 </sub></sup>
