@@ -285,8 +285,8 @@
 		<td>414</td>
 		<td>418</td>
 		<td>420</td>
-		<td>420</td>
-		<td></td>
+		<td>421</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23605</td>
-		<td>31</td>
+		<td>23606</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
@@ -839,8 +839,8 @@
 		<td>414</td>
 		<td>418</td>
 		<td>420</td>
-		<td>420</td>
-		<td></td>
+		<td>421</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23605</td>
-		<td>31</td>
+		<td>23606</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
