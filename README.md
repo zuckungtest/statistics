@@ -120,8 +120,8 @@
 		<td>566</td>
 		<td>570</td>
 		<td>573</td>
-		<td>573</td>
-		<td></td>
+		<td>574</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>168</td>
 		<td>172</td>
 		<td>175</td>
-		<td>175</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23597</td>
-		<td>23</td>
+		<td>23599</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
@@ -729,8 +729,8 @@
 		<td>566</td>
 		<td>570</td>
 		<td>573</td>
-		<td>573</td>
-		<td></td>
+		<td>574</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -916,8 +916,8 @@
 		<td>168</td>
 		<td>172</td>
 		<td>175</td>
-		<td>175</td>
-		<td></td>
+		<td>176</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23597</td>
-		<td>23</td>
+		<td>23599</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>74</td>
 		<td>22</td>
 		<td>28</td>
-		<td>9</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5102</td>
+		<td>5103</td>
 		<td>1339</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>117</td>
-		<td>43.61</td>
+		<td>43.62</td>
 		<td>11.44</td>
 		<td></td>
 		<td></td>
