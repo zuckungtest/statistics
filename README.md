@@ -21,8 +21,8 @@
 		<td>993</td>
 		<td>997</td>
 		<td>1005</td>
-		<td>1007</td>
-		<td>+ 2</td>
+		<td>1008</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -186,8 +186,8 @@
 		<td>838</td>
 		<td>840</td>
 		<td>842</td>
-		<td>842</td>
-		<td></td>
+		<td>844</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -384,8 +384,8 @@
 		<td>802</td>
 		<td>804</td>
 		<td>808</td>
-		<td>808</td>
-		<td></td>
+		<td>810</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23599</td>
-		<td>25</td>
+		<td>23604</td>
+		<td>30</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>993</td>
 		<td>997</td>
 		<td>1005</td>
-		<td>1007</td>
-		<td>+ 2</td>
+		<td>1008</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>838</td>
 		<td>840</td>
 		<td>842</td>
-		<td>842</td>
-		<td></td>
+		<td>844</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>802</td>
 		<td>804</td>
 		<td>808</td>
-		<td>808</td>
-		<td></td>
+		<td>810</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23599</td>
-		<td>25</td>
+		<td>23604</td>
+		<td>30</td>
 	</tr>
 </table>
 </sub></sup>
