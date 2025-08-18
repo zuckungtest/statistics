@@ -2,9 +2,9 @@
 v1.1.9-galactic.capital.investment | downloads: 13
 v1.0.1-ship.merging | downloads: 48
 v1.0.0-ship.merging | downloads: 12
-v1.0.24-additional.command.buttons.radial | downloads: 51
+v1.0.24-additional.command.buttons.radial | downloads: 53
 v1.0.11-uniques | downloads: 60
-v1.0.8-combat.ai | downloads: 71
+v1.0.8-combat.ai | downloads: 76
 v1.0.7-combat.ai | downloads: 54
 v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 141
@@ -14,7 +14,7 @@ v1.0.7-mission.helper | downloads: 197
 v1.0.9-expert.crew.members | downloads: 147
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
-v1.0.7-human.labels | downloads: 77
+v1.0.7-human.labels | downloads: 82
 v1.0.5-show.reputation | downloads: 143
 v1.0.3-paint.your.ships | downloads: 125
 v1.1.9-captureable.person.ships | downloads: 114
@@ -252,12 +252,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 251
-# TOTAL DOWNLOADS: 25596
+# TOTAL DOWNLOADS: 25608
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1005
+additional.command.buttons.radial 1007
 automata.destruction.0percent 623
 automata.in.human.space 509
 avgi.licenses 229
@@ -266,7 +266,7 @@ boss.loot 141
 bunrodea.missions 915
 captureable.person.ships 637
 coalition.shopping 719
-combat.ai 426
+combat.ai 431
 control.station 573
 devil-run.unhidden 66
 disable.person.ships 281
@@ -278,7 +278,7 @@ galactic.capital.investment 1018
 gegno.pirates 842
 hai.side.mission.unlocker 584
 highrollers.ltd 217
-human.labels 482
+human.labels 487
 jump.gates 617
 kestrel.unlocks 546
 kor.efret.shipyard 776
