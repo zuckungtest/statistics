@@ -76,8 +76,8 @@
 		<td>905</td>
 		<td>909</td>
 		<td>913</td>
-		<td>913</td>
-		<td></td>
+		<td>915</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -296,8 +296,8 @@
 		<td>649</td>
 		<td>651</td>
 		<td>664</td>
-		<td>664</td>
-		<td></td>
+		<td>665</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23582</td>
-		<td>8</td>
+		<td>23585</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>905</td>
 		<td>909</td>
 		<td>913</td>
-		<td>913</td>
-		<td></td>
+		<td>915</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -652,8 +652,8 @@
 		<td>649</td>
 		<td>651</td>
 		<td>664</td>
-		<td>664</td>
-		<td></td>
+		<td>665</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23582</td>
-		<td>8</td>
+		<td>23585</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>74</td>
 		<td>22</td>
 		<td>28</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>10</td>
 		<td>11</td>
 		<td>13</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5101</td>
-		<td>1338</td>
+		<td>5102</td>
+		<td>1339</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>117</td>
-		<td>43.60</td>
+		<td>43.61</td>
 		<td>11.44</td>
 		<td></td>
 		<td></td>
