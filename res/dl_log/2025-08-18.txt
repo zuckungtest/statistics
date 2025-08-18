@@ -10,7 +10,7 @@ v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 141
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 49
-v1.0.7-mission.helper | downloads: 196
+v1.0.7-mission.helper | downloads: 197
 v1.0.9-expert.crew.members | downloads: 147
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
@@ -18,7 +18,7 @@ v1.0.7-human.labels | downloads: 77
 v1.0.5-show.reputation | downloads: 143
 v1.0.3-paint.your.ships | downloads: 125
 v1.1.9-captureable.person.ships | downloads: 114
-v1.0.9-bunrodea.missions | downloads: 190
+v1.0.9-bunrodea.missions | downloads: 192
 v1.0.5-better.starts | downloads: 135
 v1.0.4-control.station | downloads: 144
 v1.0.6-mission.helper | downloads: 64
@@ -252,7 +252,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 251
-# TOTAL DOWNLOADS: 25593
+# TOTAL DOWNLOADS: 25596
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -263,7 +263,7 @@ automata.in.human.space 509
 avgi.licenses 229
 better.starts 679
 boss.loot 141
-bunrodea.missions 913
+bunrodea.missions 915
 captureable.person.ships 637
 coalition.shopping 719
 combat.ai 426
@@ -286,7 +286,7 @@ landing.images 565
 landing.images.android 349
 landing.images.highres 398
 licenses 420
-mission.helper 664
+mission.helper 665
 more.arfectas 733
 more.boarding.missions 792
 more.person.ships 535
