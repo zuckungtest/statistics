@@ -98,8 +98,8 @@
 		<td>713</td>
 		<td>717</td>
 		<td>719</td>
-		<td>719</td>
-		<td></td>
+		<td>720</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -109,8 +109,8 @@
 		<td>420</td>
 		<td>424</td>
 		<td>426</td>
-		<td>431</td>
-		<td>+ 5</td>
+		<td>432</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>882</td>
 		<td>886</td>
 		<td>888</td>
-		<td>888</td>
-		<td></td>
+		<td>889</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -208,8 +208,8 @@
 		<td>213</td>
 		<td>215</td>
 		<td>217</td>
-		<td>217</td>
-		<td></td>
+		<td>218</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -219,8 +219,8 @@
 		<td>472</td>
 		<td>476</td>
 		<td>482</td>
-		<td>487</td>
-		<td>+ 5</td>
+		<td>488</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -329,8 +329,8 @@
 		<td>531</td>
 		<td>533</td>
 		<td>535</td>
-		<td>535</td>
-		<td></td>
+		<td>536</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -450,8 +450,8 @@
 		<td>370</td>
 		<td>372</td>
 		<td>374</td>
-		<td>374</td>
-		<td></td>
+		<td>375</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23606</td>
-		<td>32</td>
+		<td>23613</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>882</td>
 		<td>886</td>
 		<td>888</td>
-		<td>888</td>
-		<td></td>
+		<td>889</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -608,8 +608,8 @@
 		<td>713</td>
 		<td>717</td>
 		<td>719</td>
-		<td>719</td>
-		<td></td>
+		<td>720</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -762,8 +762,8 @@
 		<td>531</td>
 		<td>533</td>
 		<td>535</td>
-		<td>535</td>
-		<td></td>
+		<td>536</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -795,8 +795,8 @@
 		<td>472</td>
 		<td>476</td>
 		<td>482</td>
-		<td>487</td>
-		<td>+ 5</td>
+		<td>488</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -828,8 +828,8 @@
 		<td>420</td>
 		<td>424</td>
 		<td>426</td>
-		<td>431</td>
-		<td>+ 5</td>
+		<td>432</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -872,8 +872,8 @@
 		<td>370</td>
 		<td>372</td>
 		<td>374</td>
-		<td>374</td>
-		<td></td>
+		<td>375</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -905,8 +905,8 @@
 		<td>213</td>
 		<td>215</td>
 		<td>217</td>
-		<td>217</td>
-		<td></td>
+		<td>218</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23606</td>
-		<td>32</td>
+		<td>23613</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
