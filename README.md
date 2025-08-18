@@ -978,7 +978,7 @@
 		<td>74</td>
 		<td>22</td>
 		<td>28</td>
-		<td>39</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>10</td>
 		<td>11</td>
 		<td>13</td>
-		<td>16</td>
+		<td>17</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5132</td>
-		<td>1352</td>
+		<td>5133</td>
+		<td>1353</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>117</td>
-		<td>43.86</td>
+		<td>43.87</td>
 		<td>11.56</td>
 		<td></td>
 		<td></td>
