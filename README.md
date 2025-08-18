@@ -175,8 +175,8 @@
 		<td>1006</td>
 		<td>1010</td>
 		<td>1016</td>
-		<td>1018</td>
-		<td>+ 2</td>
+		<td>1019</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>578</td>
 		<td>580</td>
 		<td>584</td>
-		<td>584</td>
-		<td></td>
+		<td>585</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -263,8 +263,8 @@
 		<td>555</td>
 		<td>561</td>
 		<td>565</td>
-		<td>565</td>
-		<td></td>
+		<td>566</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -340,8 +340,8 @@
 		<td>439</td>
 		<td>441</td>
 		<td>443</td>
-		<td>443</td>
-		<td></td>
+		<td>444</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23617</td>
-		<td>43</td>
+		<td>23621</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1006</td>
 		<td>1010</td>
 		<td>1016</td>
-		<td>1018</td>
-		<td>+ 2</td>
+		<td>1019</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -718,8 +718,8 @@
 		<td>578</td>
 		<td>580</td>
 		<td>584</td>
-		<td>584</td>
-		<td></td>
+		<td>585</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -740,8 +740,8 @@
 		<td>555</td>
 		<td>561</td>
 		<td>565</td>
-		<td>565</td>
-		<td></td>
+		<td>566</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -806,8 +806,8 @@
 		<td>439</td>
 		<td>441</td>
 		<td>443</td>
-		<td>443</td>
-		<td></td>
+		<td>444</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23617</td>
-		<td>43</td>
+		<td>23621</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>74</td>
 		<td>22</td>
 		<td>28</td>
-		<td>22</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>10</td>
 		<td>11</td>
 		<td>13</td>
-		<td>6</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5115</td>
-		<td>1342</td>
+		<td>5119</td>
+		<td>1344</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>117</td>
-		<td>43.72</td>
-		<td>11.47</td>
+		<td>43.75</td>
+		<td>11.49</td>
 		<td></td>
 		<td></td>
 	</tr>
