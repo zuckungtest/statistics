@@ -406,8 +406,8 @@
 		<td>694</td>
 		<td>702</td>
 		<td>705</td>
-		<td>705</td>
-		<td></td>
+		<td>706</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23689</td>
-		<td>24</td>
+		<td>23690</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>694</td>
 		<td>702</td>
 		<td>705</td>
-		<td>705</td>
-		<td></td>
+		<td>706</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23689</td>
-		<td>24</td>
+		<td>23690</td>
+		<td>25</td>
 	</tr>
 </table>
 </sub></sup>
