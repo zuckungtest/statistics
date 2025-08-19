@@ -296,8 +296,8 @@
 		<td>651</td>
 		<td>664</td>
 		<td>667</td>
-		<td>669</td>
-		<td>+ 2</td>
+		<td>671</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>634</td>
 		<td>638</td>
 		<td>640</td>
-		<td>640</td>
-		<td></td>
+		<td>641</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23676</td>
-		<td>11</td>
+		<td>23679</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>651</td>
 		<td>664</td>
 		<td>667</td>
-		<td>669</td>
-		<td>+ 2</td>
+		<td>671</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -663,8 +663,8 @@
 		<td>634</td>
 		<td>638</td>
 		<td>640</td>
-		<td>640</td>
-		<td></td>
+		<td>641</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23676</td>
-		<td>11</td>
+		<td>23679</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
