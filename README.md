@@ -285,8 +285,8 @@
 		<td>418</td>
 		<td>420</td>
 		<td>423</td>
-		<td>423</td>
-		<td></td>
+		<td>425</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -439,8 +439,8 @@
 		<td>848</td>
 		<td>854</td>
 		<td>857</td>
-		<td>858</td>
-		<td>+ 1</td>
+		<td>860</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23692</td>
-		<td>27</td>
+		<td>23696</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>848</td>
 		<td>854</td>
 		<td>857</td>
-		<td>858</td>
-		<td>+ 1</td>
+		<td>860</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -839,8 +839,8 @@
 		<td>418</td>
 		<td>420</td>
 		<td>423</td>
-		<td>423</td>
-		<td></td>
+		<td>425</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23692</td>
-		<td>27</td>
+		<td>23696</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
