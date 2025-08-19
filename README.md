@@ -186,8 +186,8 @@
 		<td>840</td>
 		<td>842</td>
 		<td>844</td>
-		<td>844</td>
-		<td></td>
+		<td>845</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -252,8 +252,8 @@
 		<td>774</td>
 		<td>776</td>
 		<td>776</td>
-		<td>776</td>
-		<td></td>
+		<td>777</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -307,8 +307,8 @@
 		<td>727</td>
 		<td>733</td>
 		<td>735</td>
-		<td>735</td>
-		<td></td>
+		<td>736</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>804</td>
 		<td>808</td>
 		<td>813</td>
-		<td>813</td>
-		<td></td>
+		<td>814</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -439,8 +439,8 @@
 		<td>848</td>
 		<td>854</td>
 		<td>857</td>
-		<td>857</td>
-		<td></td>
+		<td>858</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23679</td>
-		<td>14</td>
+		<td>23684</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>848</td>
 		<td>854</td>
 		<td>857</td>
-		<td>857</td>
-		<td></td>
+		<td>858</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>840</td>
 		<td>842</td>
 		<td>844</td>
-		<td>844</td>
-		<td></td>
+		<td>845</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>804</td>
 		<td>808</td>
 		<td>813</td>
-		<td>813</td>
-		<td></td>
+		<td>814</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -586,8 +586,8 @@
 		<td>774</td>
 		<td>776</td>
 		<td>776</td>
-		<td>776</td>
-		<td></td>
+		<td>777</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -597,8 +597,8 @@
 		<td>727</td>
 		<td>733</td>
 		<td>735</td>
-		<td>735</td>
-		<td></td>
+		<td>736</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23679</td>
-		<td>14</td>
+		<td>23684</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
