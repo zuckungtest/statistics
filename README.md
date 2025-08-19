@@ -65,8 +65,8 @@
 		<td>136</td>
 		<td>141</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>424</td>
 		<td>426</td>
 		<td>434</td>
-		<td>434</td>
-		<td></td>
+		<td>436</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>1010</td>
 		<td>1016</td>
 		<td>1022</td>
-		<td>1022</td>
-		<td></td>
+		<td>1024</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>609</td>
 		<td>617</td>
 		<td>619</td>
-		<td>619</td>
-		<td></td>
+		<td>621</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -296,8 +296,8 @@
 		<td>651</td>
 		<td>664</td>
 		<td>667</td>
-		<td>667</td>
-		<td></td>
+		<td>669</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23665</td>
-		<td>0</td>
+		<td>23675</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1010</td>
 		<td>1016</td>
 		<td>1022</td>
-		<td>1022</td>
-		<td></td>
+		<td>1024</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -634,6 +634,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>642</td>
+		<td>647</td>
+		<td>649</td>
+		<td>651</td>
+		<td>664</td>
+		<td>667</td>
+		<td>669</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>uniques</td>
 		<td>657</td>
 		<td>659</td>
@@ -642,17 +653,6 @@
 		<td>667</td>
 		<td>668</td>
 		<td>668</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>642</td>
-		<td>647</td>
-		<td>649</td>
-		<td>651</td>
-		<td>664</td>
-		<td>667</td>
-		<td>667</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -696,8 +696,8 @@
 		<td>609</td>
 		<td>617</td>
 		<td>619</td>
-		<td>619</td>
-		<td></td>
+		<td>621</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -810,6 +810,17 @@
 		<td></td>
 	</tr>
 	<tr>
+		<td>combat.ai</td>
+		<td>418</td>
+		<td>418</td>
+		<td>420</td>
+		<td>424</td>
+		<td>426</td>
+		<td>434</td>
+		<td>436</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>422</td>
 		<td>428</td>
@@ -818,17 +829,6 @@
 		<td>435</td>
 		<td>435</td>
 		<td>435</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>combat.ai</td>
-		<td>418</td>
-		<td>418</td>
-		<td>420</td>
-		<td>424</td>
-		<td>426</td>
-		<td>434</td>
-		<td>434</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -927,8 +927,8 @@
 		<td>136</td>
 		<td>141</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>145</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23665</td>
-		<td>0</td>
+		<td>23675</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
