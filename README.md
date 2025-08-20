@@ -384,8 +384,8 @@
 		<td>808</td>
 		<td>813</td>
 		<td>814</td>
-		<td>814</td>
-		<td></td>
+		<td>816</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23698</td>
-		<td>2</td>
+		<td>23700</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>808</td>
 		<td>813</td>
 		<td>814</td>
-		<td>814</td>
-		<td></td>
+		<td>816</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23698</td>
-		<td>2</td>
+		<td>23700</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -958,7 +958,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-08-11</td>
 		<td>2025-08-12</td>
 		<td>2025-08-13</td>
 		<td>2025-08-14</td>
@@ -967,10 +966,10 @@
 		<td>2025-08-17</td>
 		<td>2025-08-18</td>
 		<td>2025-08-19</td>
+		<td>2025-08-20</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>75</td>
 		<td>32</td>
 		<td>20</td>
 		<td>32</td>
@@ -979,10 +978,10 @@
 		<td>28</td>
 		<td>40</td>
 		<td>33</td>
+		<td>1</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>14</td>
 		<td>11</td>
 		<td>10</td>
 		<td>11</td>
@@ -991,6 +990,7 @@
 		<td>13</td>
 		<td>17</td>
 		<td>9</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5166</td>
-		<td>1362</td>
+		<td>5167</td>
+		<td>1363</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>119</td>
-		<td>43.41</td>
+		<td>43.42</td>
 		<td>11.45</td>
 		<td></td>
 		<td></td>
