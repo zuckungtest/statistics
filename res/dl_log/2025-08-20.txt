@@ -1,10 +1,10 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.9-galactic.capital.investment | downloads: 20
-v1.0.1-ship.merging | downloads: 54
+v1.0.1-ship.merging | downloads: 55
 v1.0.0-ship.merging | downloads: 12
 v1.0.24-additional.command.buttons.radial | downloads: 54
 v1.0.11-uniques | downloads: 61
-v1.0.8-combat.ai | downloads: 81
+v1.0.8-combat.ai | downloads: 83
 v1.0.7-combat.ai | downloads: 54
 v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 145
@@ -252,7 +252,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 251
-# TOTAL DOWNLOADS: 25711
+# TOTAL DOWNLOADS: 25714
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -266,7 +266,7 @@ boss.loot 145
 bunrodea.missions 915
 captureable.person.ships 640
 coalition.shopping 722
-combat.ai 436
+combat.ai 438
 control.station 578
 devil-run.unhidden 66
 disable.person.ships 281
@@ -299,7 +299,7 @@ planet.map 342
 planet.pluto 190
 quarg.farm 816
 real.fluff 93
-ship.merging 66
+ship.merging 67
 show.reputation 706
 snowfeather.robotics 641
 space.fauna 418
