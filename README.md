@@ -109,8 +109,8 @@
 		<td>426</td>
 		<td>434</td>
 		<td>436</td>
-		<td>436</td>
-		<td></td>
+		<td>438</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -395,8 +395,8 @@
 		<td>58</td>
 		<td>66</td>
 		<td>66</td>
-		<td>66</td>
-		<td></td>
+		<td>67</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23700</td>
-		<td>4</td>
+		<td>23703</td>
+		<td>7</td>
 	</tr>
 </table>
 </sub></sup>
@@ -817,8 +817,8 @@
 		<td>426</td>
 		<td>434</td>
 		<td>436</td>
-		<td>436</td>
-		<td></td>
+		<td>438</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -938,8 +938,8 @@
 		<td>58</td>
 		<td>66</td>
 		<td>66</td>
-		<td>66</td>
-		<td></td>
+		<td>67</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23700</td>
-		<td>4</td>
+		<td>23703</td>
+		<td>7</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>28</td>
 		<td>40</td>
 		<td>33</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5167</td>
+		<td>5168</td>
 		<td>1363</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>119</td>
-		<td>43.42</td>
+		<td>43.43</td>
 		<td>11.45</td>
 		<td></td>
 		<td></td>
