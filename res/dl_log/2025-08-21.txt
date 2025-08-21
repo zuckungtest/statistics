@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.9-galactic.capital.investment | downloads: 20
-v1.0.1-ship.merging | downloads: 57
+v1.1.9-galactic.capital.investment | downloads: 23
+v1.0.1-ship.merging | downloads: 59
 v1.0.0-ship.merging | downloads: 12
 v1.0.24-additional.command.buttons.radial | downloads: 54
 v1.0.11-uniques | downloads: 61
@@ -252,7 +252,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 251
-# TOTAL DOWNLOADS: 25732
+# TOTAL DOWNLOADS: 25737
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -274,7 +274,7 @@ disable.spaceport.repeatables 435
 expert.crew.members 889
 flare.play 177
 free.worlds.5.years.later 369
-galactic.capital.investment 1026
+galactic.capital.investment 1029
 gegno.pirates 847
 hai.side.mission.unlocker 586
 highrollers.ltd 218
@@ -299,7 +299,7 @@ planet.map 342
 planet.pluto 190
 quarg.farm 816
 real.fluff 93
-ship.merging 69
+ship.merging 71
 show.reputation 706
 snowfeather.robotics 641
 space.fauna 418
