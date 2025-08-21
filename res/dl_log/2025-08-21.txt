@@ -100,7 +100,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 528
+v1.0.6-coalition.shopping | downloads: 530
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 606
@@ -217,7 +217,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 734
+v1.0.2-more.arfectas | downloads: 736
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -252,7 +252,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 251
-# TOTAL DOWNLOADS: 25728
+# TOTAL DOWNLOADS: 25732
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -265,7 +265,7 @@ better.starts 680
 boss.loot 145
 bunrodea.missions 915
 captureable.person.ships 642
-coalition.shopping 722
+coalition.shopping 724
 combat.ai 438
 control.station 578
 devil-run.unhidden 66
@@ -287,7 +287,7 @@ landing.images.android 349
 landing.images.highres 398
 licenses 427
 mission.helper 671
-more.arfectas 736
+more.arfectas 738
 more.boarding.missions 796
 more.person.ships 536
 navy.licenses 575
