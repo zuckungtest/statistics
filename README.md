@@ -76,8 +76,8 @@
 		<td>915</td>
 		<td>915</td>
 		<td>915</td>
-		<td>915</td>
-		<td></td>
+		<td>916</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>1022</td>
 		<td>1026</td>
 		<td>1026</td>
-		<td>1029</td>
-		<td>+ 3</td>
+		<td>1030</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -362,8 +362,8 @@
 		<td>589</td>
 		<td>589</td>
 		<td>589</td>
-		<td>589</td>
-		<td></td>
+		<td>590</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23726</td>
-		<td>23</td>
+		<td>23729</td>
+		<td>26</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1022</td>
 		<td>1026</td>
 		<td>1026</td>
-		<td>1029</td>
-		<td>+ 3</td>
+		<td>1030</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -520,8 +520,8 @@
 		<td>915</td>
 		<td>915</td>
 		<td>915</td>
-		<td>915</td>
-		<td></td>
+		<td>916</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -707,8 +707,8 @@
 		<td>589</td>
 		<td>589</td>
 		<td>589</td>
-		<td>589</td>
-		<td></td>
+		<td>590</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23726</td>
-		<td>23</td>
+		<td>23729</td>
+		<td>26</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>40</td>
 		<td>33</td>
 		<td>5</td>
-		<td>13</td>
+		<td>14</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5184</td>
+		<td>5185</td>
 		<td>1371</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>120</td>
-		<td>43.20</td>
+		<td>43.21</td>
 		<td>11.43</td>
 		<td></td>
 		<td></td>
