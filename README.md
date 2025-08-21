@@ -54,8 +54,8 @@
 		<td>680</td>
 		<td>680</td>
 		<td>680</td>
-		<td>680</td>
-		<td></td>
+		<td>681</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -153,8 +153,8 @@
 		<td>889</td>
 		<td>889</td>
 		<td>889</td>
-		<td>889</td>
-		<td></td>
+		<td>890</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>1022</td>
 		<td>1026</td>
 		<td>1026</td>
-		<td>1030</td>
-		<td>+ 4</td>
+		<td>1031</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>585</td>
 		<td>586</td>
 		<td>586</td>
-		<td>586</td>
-		<td></td>
+		<td>587</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -318,8 +318,8 @@
 		<td>793</td>
 		<td>794</td>
 		<td>794</td>
-		<td>796</td>
-		<td>+ 2</td>
+		<td>797</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -406,8 +406,8 @@
 		<td>705</td>
 		<td>706</td>
 		<td>706</td>
-		<td>706</td>
-		<td></td>
+		<td>707</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -428,8 +428,8 @@
 		<td>418</td>
 		<td>418</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>419</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23735</td>
-		<td>32</td>
+		<td>23742</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1022</td>
 		<td>1026</td>
 		<td>1026</td>
-		<td>1030</td>
-		<td>+ 4</td>
+		<td>1031</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>889</td>
 		<td>889</td>
 		<td>889</td>
-		<td>889</td>
-		<td></td>
+		<td>890</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -575,8 +575,8 @@
 		<td>793</td>
 		<td>794</td>
 		<td>794</td>
-		<td>796</td>
-		<td>+ 2</td>
+		<td>797</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -619,8 +619,8 @@
 		<td>705</td>
 		<td>706</td>
 		<td>706</td>
-		<td>706</td>
-		<td></td>
+		<td>707</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -630,8 +630,8 @@
 		<td>680</td>
 		<td>680</td>
 		<td>680</td>
-		<td>680</td>
-		<td></td>
+		<td>681</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -718,8 +718,8 @@
 		<td>585</td>
 		<td>586</td>
 		<td>586</td>
-		<td>586</td>
-		<td></td>
+		<td>587</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -850,8 +850,8 @@
 		<td>418</td>
 		<td>418</td>
 		<td>418</td>
-		<td>418</td>
-		<td></td>
+		<td>419</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23735</td>
-		<td>32</td>
+		<td>23742</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
