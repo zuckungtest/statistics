@@ -98,8 +98,8 @@
 		<td>722</td>
 		<td>722</td>
 		<td>722</td>
-		<td>722</td>
-		<td></td>
+		<td>724</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -307,8 +307,8 @@
 		<td>735</td>
 		<td>736</td>
 		<td>736</td>
-		<td>736</td>
-		<td></td>
+		<td>738</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23717</td>
-		<td>14</td>
+		<td>23721</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>735</td>
 		<td>736</td>
 		<td>736</td>
-		<td>736</td>
-		<td></td>
+		<td>738</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -608,8 +608,8 @@
 		<td>722</td>
 		<td>722</td>
 		<td>722</td>
-		<td>722</td>
-		<td></td>
+		<td>724</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23717</td>
-		<td>14</td>
+		<td>23721</td>
+		<td>18</td>
 	</tr>
 </table>
 </sub></sup>
