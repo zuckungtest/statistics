@@ -384,8 +384,8 @@
 		<td>814</td>
 		<td>816</td>
 		<td>816</td>
-		<td>816</td>
-		<td></td>
+		<td>818</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23748</td>
-		<td>6</td>
+		<td>23750</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>814</td>
 		<td>816</td>
 		<td>816</td>
-		<td>816</td>
-		<td></td>
+		<td>818</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23748</td>
-		<td>6</td>
+		<td>23750</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
