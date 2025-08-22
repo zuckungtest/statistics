@@ -296,8 +296,8 @@
 		<td>671</td>
 		<td>671</td>
 		<td>675</td>
-		<td>675</td>
-		<td></td>
+		<td>679</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23750</td>
-		<td>8</td>
+		<td>23754</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>671</td>
 		<td>671</td>
 		<td>675</td>
-		<td>675</td>
-		<td></td>
+		<td>679</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23750</td>
-		<td>8</td>
+		<td>23754</td>
+		<td>12</td>
 	</tr>
 </table>
 </sub></sup>
