@@ -34,7 +34,7 @@ v1.1.5-more.boarding.missions | downloads: 204
 v1.1.5-hai.side.mission.unlocker | downloads: 156
 v1.0.6-snowfeather.robotics | downloads: 177
 v1.0.6-human.labels | downloads: 41
-v1.0.5-quarg.farm | downloads: 225
+v1.0.5-quarg.farm | downloads: 227
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 123
@@ -252,7 +252,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 251
-# TOTAL DOWNLOADS: 25759
+# TOTAL DOWNLOADS: 25761
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -297,7 +297,7 @@ paint.your.ships 590
 pirate.warlords 3
 planet.map 342
 planet.pluto 190
-quarg.farm 816
+quarg.farm 818
 real.fluff 93
 ship.merging 71
 show.reputation 707
