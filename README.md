@@ -21,8 +21,8 @@
 		<td>1008</td>
 		<td>1008</td>
 		<td>1008</td>
-		<td>1008</td>
-		<td></td>
+		<td>1011</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>145</td>
 		<td>145</td>
 		<td>145</td>
-		<td>147</td>
-		<td>+ 2</td>
+		<td>149</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -175,8 +175,8 @@
 		<td>1026</td>
 		<td>1026</td>
 		<td>1031</td>
-		<td>1035</td>
-		<td>+ 4</td>
+		<td>1037</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>845</td>
 		<td>845</td>
 		<td>847</td>
-		<td>847</td>
-		<td></td>
+		<td>850</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -384,8 +384,8 @@
 		<td>814</td>
 		<td>816</td>
 		<td>816</td>
-		<td>818</td>
-		<td>+ 2</td>
+		<td>820</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -395,8 +395,8 @@
 		<td>66</td>
 		<td>67</td>
 		<td>71</td>
-		<td>71</td>
-		<td></td>
+		<td>73</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23754</td>
-		<td>12</td>
+		<td>23768</td>
+		<td>26</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1026</td>
 		<td>1026</td>
 		<td>1031</td>
-		<td>1035</td>
-		<td>+ 4</td>
+		<td>1037</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>1008</td>
 		<td>1008</td>
 		<td>1008</td>
-		<td>1008</td>
-		<td></td>
+		<td>1011</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>845</td>
 		<td>845</td>
 		<td>847</td>
-		<td>847</td>
-		<td></td>
+		<td>850</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>814</td>
 		<td>816</td>
 		<td>816</td>
-		<td>818</td>
-		<td>+ 2</td>
+		<td>820</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -927,8 +927,8 @@
 		<td>145</td>
 		<td>145</td>
 		<td>145</td>
-		<td>147</td>
-		<td>+ 2</td>
+		<td>149</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -938,8 +938,8 @@
 		<td>66</td>
 		<td>67</td>
 		<td>71</td>
-		<td>71</td>
-		<td></td>
+		<td>73</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23754</td>
-		<td>12</td>
+		<td>23768</td>
+		<td>26</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>33</td>
 		<td>5</td>
 		<td>45</td>
-		<td>18</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>9</td>
 		<td>4</td>
 		<td>12</td>
-		<td>7</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5234</td>
-		<td>1385</td>
+		<td>5237</td>
+		<td>1387</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>121</td>
-		<td>43.26</td>
-		<td>11.45</td>
+		<td>43.28</td>
+		<td>11.46</td>
 		<td></td>
 		<td></td>
 	</tr>
