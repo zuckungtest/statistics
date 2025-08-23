@@ -109,8 +109,8 @@
 		<td>438</td>
 		<td>438</td>
 		<td>438</td>
-		<td>438</td>
-		<td></td>
+		<td>440</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23798</td>
-		<td>30</td>
+		<td>23800</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
@@ -817,8 +817,8 @@
 		<td>438</td>
 		<td>438</td>
 		<td>438</td>
-		<td>438</td>
-		<td></td>
+		<td>440</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23798</td>
-		<td>30</td>
+		<td>23800</td>
+		<td>32</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>5</td>
 		<td>45</td>
 		<td>24</td>
-		<td>7</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5247</td>
+		<td>5255</td>
 		<td>1392</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>122</td>
-		<td>43.01</td>
+		<td>43.07</td>
 		<td>11.41</td>
 		<td></td>
 		<td></td>
