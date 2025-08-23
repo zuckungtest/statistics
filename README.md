@@ -296,8 +296,8 @@
 		<td>671</td>
 		<td>675</td>
 		<td>679</td>
-		<td>679</td>
-		<td></td>
+		<td>681</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23800</td>
-		<td>32</td>
+		<td>23802</td>
+		<td>34</td>
 	</tr>
 </table>
 </sub></sup>
@@ -623,6 +623,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>664</td>
+		<td>667</td>
+		<td>671</td>
+		<td>671</td>
+		<td>675</td>
+		<td>679</td>
+		<td>681</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
 		<td>better.starts</td>
 		<td>679</td>
 		<td>680</td>
@@ -631,17 +642,6 @@
 		<td>681</td>
 		<td>681</td>
 		<td>681</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>664</td>
-		<td>667</td>
-		<td>671</td>
-		<td>671</td>
-		<td>675</td>
-		<td>679</td>
-		<td>679</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23800</td>
-		<td>32</td>
+		<td>23802</td>
+		<td>34</td>
 	</tr>
 </table>
 </sub></sup>
