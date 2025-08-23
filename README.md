@@ -153,8 +153,8 @@
 		<td>889</td>
 		<td>890</td>
 		<td>890</td>
-		<td>890</td>
-		<td></td>
+		<td>892</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -219,8 +219,8 @@
 		<td>488</td>
 		<td>488</td>
 		<td>488</td>
-		<td>488</td>
-		<td></td>
+		<td>490</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -241,8 +241,8 @@
 		<td>547</td>
 		<td>547</td>
 		<td>547</td>
-		<td>547</td>
-		<td></td>
+		<td>549</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -263,8 +263,8 @@
 		<td>567</td>
 		<td>567</td>
 		<td>567</td>
-		<td>568</td>
-		<td>+ 1</td>
+		<td>571</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>398</td>
 		<td>398</td>
 		<td>398</td>
-		<td>398</td>
-		<td></td>
+		<td>400</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -285,8 +285,8 @@
 		<td>425</td>
 		<td>427</td>
 		<td>427</td>
-		<td>428</td>
-		<td>+ 1</td>
+		<td>431</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -318,8 +318,8 @@
 		<td>794</td>
 		<td>797</td>
 		<td>797</td>
-		<td>798</td>
-		<td>+ 1</td>
+		<td>800</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -395,8 +395,8 @@
 		<td>67</td>
 		<td>71</td>
 		<td>73</td>
-		<td>73</td>
-		<td></td>
+		<td>75</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -406,8 +406,8 @@
 		<td>706</td>
 		<td>707</td>
 		<td>707</td>
-		<td>707</td>
-		<td></td>
+		<td>710</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23777</td>
-		<td>9</td>
+		<td>23798</td>
+		<td>30</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>889</td>
 		<td>890</td>
 		<td>890</td>
-		<td>890</td>
-		<td></td>
+		<td>892</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -575,8 +575,8 @@
 		<td>794</td>
 		<td>797</td>
 		<td>797</td>
-		<td>798</td>
-		<td>+ 1</td>
+		<td>800</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -619,8 +619,8 @@
 		<td>706</td>
 		<td>707</td>
 		<td>707</td>
-		<td>707</td>
-		<td></td>
+		<td>710</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -740,8 +740,8 @@
 		<td>567</td>
 		<td>567</td>
 		<td>567</td>
-		<td>568</td>
-		<td>+ 1</td>
+		<td>571</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -751,8 +751,8 @@
 		<td>547</td>
 		<td>547</td>
 		<td>547</td>
-		<td>547</td>
-		<td></td>
+		<td>549</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -795,8 +795,8 @@
 		<td>488</td>
 		<td>488</td>
 		<td>488</td>
-		<td>488</td>
-		<td></td>
+		<td>490</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -839,8 +839,8 @@
 		<td>425</td>
 		<td>427</td>
 		<td>427</td>
-		<td>428</td>
-		<td>+ 1</td>
+		<td>431</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -861,8 +861,8 @@
 		<td>398</td>
 		<td>398</td>
 		<td>398</td>
-		<td>398</td>
-		<td></td>
+		<td>400</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -938,8 +938,8 @@
 		<td>67</td>
 		<td>71</td>
 		<td>73</td>
-		<td>73</td>
-		<td></td>
+		<td>75</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23777</td>
-		<td>9</td>
+		<td>23798</td>
+		<td>30</td>
 	</tr>
 </table>
 </sub></sup>
@@ -958,7 +958,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-08-14</td>
 		<td>2025-08-15</td>
 		<td>2025-08-16</td>
 		<td>2025-08-17</td>
@@ -967,10 +966,10 @@
 		<td>2025-08-20</td>
 		<td>2025-08-21</td>
 		<td>2025-08-22</td>
+		<td>2025-08-23</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>32</td>
 		<td>74</td>
 		<td>22</td>
 		<td>28</td>
@@ -979,10 +978,10 @@
 		<td>5</td>
 		<td>45</td>
 		<td>24</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>11</td>
 		<td>10</td>
 		<td>11</td>
 		<td>13</td>
@@ -991,6 +990,7 @@
 		<td>4</td>
 		<td>12</td>
 		<td>11</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5240</td>
-		<td>1389</td>
+		<td>5247</td>
+		<td>1392</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>122</td>
-		<td>42.95</td>
-		<td>11.39</td>
+		<td>43.01</td>
+		<td>11.41</td>
 		<td></td>
 		<td></td>
 	</tr>
