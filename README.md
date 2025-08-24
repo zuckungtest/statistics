@@ -32,8 +32,8 @@
 		<td>625</td>
 		<td>625</td>
 		<td>625</td>
-		<td>627</td>
-		<td>+ 2</td>
+		<td>629</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -98,8 +98,8 @@
 		<td>724</td>
 		<td>724</td>
 		<td>725</td>
-		<td>728</td>
-		<td>+ 3</td>
+		<td>730</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -109,8 +109,8 @@
 		<td>438</td>
 		<td>438</td>
 		<td>440</td>
-		<td>442</td>
-		<td>+ 2</td>
+		<td>446</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -120,8 +120,8 @@
 		<td>578</td>
 		<td>578</td>
 		<td>578</td>
-		<td>582</td>
-		<td>+ 4</td>
+		<td>584</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -252,8 +252,8 @@
 		<td>777</td>
 		<td>777</td>
 		<td>777</td>
-		<td>780</td>
-		<td>+ 3</td>
+		<td>782</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -351,8 +351,8 @@
 		<td>495</td>
 		<td>495</td>
 		<td>495</td>
-		<td>496</td>
-		<td>+ 1</td>
+		<td>498</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -384,8 +384,8 @@
 		<td>816</td>
 		<td>820</td>
 		<td>820</td>
-		<td>821</td>
-		<td>+ 1</td>
+		<td>823</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23882</td>
-		<td>80</td>
+		<td>23898</td>
+		<td>96</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>816</td>
 		<td>820</td>
 		<td>820</td>
-		<td>821</td>
-		<td>+ 1</td>
+		<td>823</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -586,8 +586,8 @@
 		<td>777</td>
 		<td>777</td>
 		<td>777</td>
-		<td>780</td>
-		<td>+ 3</td>
+		<td>782</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -608,8 +608,8 @@
 		<td>724</td>
 		<td>724</td>
 		<td>725</td>
-		<td>728</td>
-		<td>+ 3</td>
+		<td>730</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -685,8 +685,8 @@
 		<td>625</td>
 		<td>625</td>
 		<td>625</td>
-		<td>627</td>
-		<td>+ 2</td>
+		<td>629</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -729,8 +729,8 @@
 		<td>578</td>
 		<td>578</td>
 		<td>578</td>
-		<td>582</td>
-		<td>+ 4</td>
+		<td>584</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -784,8 +784,8 @@
 		<td>495</td>
 		<td>495</td>
 		<td>495</td>
-		<td>496</td>
-		<td>+ 1</td>
+		<td>498</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -817,8 +817,8 @@
 		<td>438</td>
 		<td>438</td>
 		<td>440</td>
-		<td>442</td>
-		<td>+ 2</td>
+		<td>446</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23882</td>
-		<td>80</td>
+		<td>23898</td>
+		<td>96</td>
 	</tr>
 </table>
 </sub></sup>
