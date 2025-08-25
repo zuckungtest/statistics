@@ -21,8 +21,8 @@
 		<td>1011</td>
 		<td>1012</td>
 		<td>1016</td>
-		<td>1021</td>
-		<td>+ 5</td>
+		<td>1023</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -76,8 +76,8 @@
 		<td>916</td>
 		<td>917</td>
 		<td>921</td>
-		<td>925</td>
-		<td>+ 4</td>
+		<td>927</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>438</td>
 		<td>440</td>
 		<td>446</td>
-		<td>448</td>
-		<td>+ 2</td>
+		<td>450</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -395,8 +395,8 @@
 		<td>73</td>
 		<td>75</td>
 		<td>77</td>
-		<td>82</td>
-		<td>+ 5</td>
+		<td>84</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24000</td>
-		<td>73</td>
+		<td>24008</td>
+		<td>81</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1011</td>
 		<td>1012</td>
 		<td>1016</td>
-		<td>1021</td>
-		<td>+ 5</td>
+		<td>1023</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>916</td>
 		<td>917</td>
 		<td>921</td>
-		<td>925</td>
-		<td>+ 4</td>
+		<td>927</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -806,8 +806,8 @@
 		<td>438</td>
 		<td>440</td>
 		<td>446</td>
-		<td>448</td>
-		<td>+ 2</td>
+		<td>450</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -938,8 +938,8 @@
 		<td>73</td>
 		<td>75</td>
 		<td>77</td>
-		<td>82</td>
-		<td>+ 5</td>
+		<td>84</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24000</td>
-		<td>73</td>
+		<td>24008</td>
+		<td>81</td>
 	</tr>
 </table>
 </sub></sup>
