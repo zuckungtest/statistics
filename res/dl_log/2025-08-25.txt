@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.25-additional.command.buttons.radial | downloads: 6
+v1.0.25-additional.command.buttons.radial | downloads: 8
 v1.1.9-galactic.capital.investment | downloads: 37
 v1.0.1-ship.merging | downloads: 67
 v1.0.0-ship.merging | downloads: 12
@@ -253,12 +253,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 252
-# TOTAL DOWNLOADS: 25952
+# TOTAL DOWNLOADS: 25954
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1018
+additional.command.buttons.radial 1020
 automata.destruction.0percent 631
 automata.in.human.space 512
 avgi.licenses 229
