@@ -153,8 +153,8 @@
 		<td>890</td>
 		<td>892</td>
 		<td>894</td>
-		<td>895</td>
-		<td>+ 1</td>
+		<td>897</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -186,8 +186,8 @@
 		<td>850</td>
 		<td>851</td>
 		<td>857</td>
-		<td>862</td>
-		<td>+ 5</td>
+		<td>864</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24008</td>
-		<td>81</td>
+		<td>24012</td>
+		<td>85</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>890</td>
 		<td>892</td>
 		<td>894</td>
-		<td>895</td>
-		<td>+ 1</td>
+		<td>897</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -553,8 +553,8 @@
 		<td>850</td>
 		<td>851</td>
 		<td>857</td>
-		<td>862</td>
-		<td>+ 5</td>
+		<td>864</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24008</td>
-		<td>81</td>
+		<td>24012</td>
+		<td>85</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>24</td>
 		<td>53</td>
 		<td>49</td>
-		<td>9</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>11</td>
 		<td>11</td>
 		<td>11</td>
-		<td>6</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5351</td>
-		<td>1417</td>
+		<td>5361</td>
+		<td>1418</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>124</td>
-		<td>43.15</td>
-		<td>11.43</td>
+		<td>43.23</td>
+		<td>11.44</td>
 		<td></td>
 		<td></td>
 	</tr>
