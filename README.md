@@ -186,8 +186,8 @@
 		<td>850</td>
 		<td>851</td>
 		<td>857</td>
-		<td>859</td>
-		<td>+ 2</td>
+		<td>861</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -428,8 +428,8 @@
 		<td>419</td>
 		<td>420</td>
 		<td>421</td>
-		<td>421</td>
-		<td></td>
+		<td>423</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -461,8 +461,8 @@
 		<td>668</td>
 		<td>668</td>
 		<td>669</td>
-		<td>669</td>
-		<td></td>
+		<td>671</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23935</td>
-		<td>8</td>
+		<td>23941</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>850</td>
 		<td>851</td>
 		<td>857</td>
-		<td>859</td>
-		<td>+ 2</td>
+		<td>861</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -652,8 +652,8 @@
 		<td>668</td>
 		<td>668</td>
 		<td>669</td>
-		<td>669</td>
-		<td></td>
+		<td>671</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -850,8 +850,8 @@
 		<td>419</td>
 		<td>420</td>
 		<td>421</td>
-		<td>421</td>
-		<td></td>
+		<td>423</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>23935</td>
-		<td>8</td>
+		<td>23941</td>
+		<td>14</td>
 	</tr>
 </table>
 </sub></sup>
