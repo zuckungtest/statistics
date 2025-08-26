@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.5-landing.images | downloads: 1
 v1.0.3-landing.images.highres | downloads: 1
-v1.0.25-additional.command.buttons.radial | downloads: 11
+v1.0.25-additional.command.buttons.radial | downloads: 12
 v1.1.9-galactic.capital.investment | downloads: 38
 v1.0.1-ship.merging | downloads: 72
 v1.0.0-ship.merging | downloads: 12
@@ -10,7 +10,7 @@ v1.0.11-uniques | downloads: 66
 v1.0.8-combat.ai | downloads: 95
 v1.0.7-combat.ai | downloads: 54
 v1.0.6-combat.ai | downloads: 10
-v1.0.0-boss.loot | downloads: 157
+v1.0.0-boss.loot | downloads: 158
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 55
 v1.0.7-mission.helper | downloads: 220
@@ -20,9 +20,9 @@ v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 89
 v1.0.5-show.reputation | downloads: 155
 v1.0.3-paint.your.ships | downloads: 129
-v1.1.9-captureable.person.ships | downloads: 122
-v1.0.9-bunrodea.missions | downloads: 204
-v1.0.5-better.starts | downloads: 141
+v1.1.9-captureable.person.ships | downloads: 123
+v1.0.9-bunrodea.missions | downloads: 205
+v1.0.5-better.starts | downloads: 142
 v1.0.4-control.station | downloads: 156
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
@@ -103,7 +103,7 @@ v1.0.11-additional.command.buttons.radial | downloads: 1
 v1.1.6-captureable.person.ships | downloads: 89
 v1.0.6-uniques | downloads: 73
 v1.0.3-navy.licenses | downloads: 362
-v1.0.6-coalition.shopping | downloads: 540
+v1.0.6-coalition.shopping | downloads: 541
 v1.0.5-snowfeather.robotics | downloads: 304
 v1.0.4-snowfeather.robotics | downloads: 3
 v1.0.2-kor.efret.shipyard | downloads: 612
@@ -127,7 +127,7 @@ v1.0.2-quarg.farm | downloads: 190
 v1.0.2-landing.images.highres | downloads: 334
 v1.0.5-uniques | downloads: 82
 v1.0.3-too.many.asteroids | downloads: 235
-v1.0.1-automata.in.human.space | downloads: 453
+v1.0.1-automata.in.human.space | downloads: 454
 v1.0.4-uniques | downloads: 12
 v1.0.3-uniques | downloads: 5
 v1.0.5-coalition.shopping | downloads: 92
@@ -191,7 +191,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 631
+v1.0.1-automata.destruction.0percent | downloads: 632
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -255,20 +255,20 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 254
-# TOTAL DOWNLOADS: 26025
+# TOTAL DOWNLOADS: 26033
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1023
-automata.destruction.0percent 632
-automata.in.human.space 514
+additional.command.buttons.radial 1024
+automata.destruction.0percent 633
+automata.in.human.space 515
 avgi.licenses 229
-better.starts 685
-boss.loot 157
-bunrodea.missions 927
-captureable.person.ships 645
-coalition.shopping 734
+better.starts 686
+boss.loot 158
+bunrodea.missions 928
+captureable.person.ships 646
+coalition.shopping 735
 combat.ai 450
 control.station 585
 devil-run.unhidden 66
