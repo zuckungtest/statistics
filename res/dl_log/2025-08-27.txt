@@ -44,7 +44,7 @@ v1.0.3-more.person.ships | downloads: 127
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
-v1.0.1-outfits.weapon.slot | downloads: 123
+v1.0.1-outfits.weapon.slot | downloads: 125
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
@@ -255,7 +255,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 254
-# TOTAL DOWNLOADS: 26122
+# TOTAL DOWNLOADS: 26124
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -295,7 +295,7 @@ more.boarding.missions 806
 more.person.ships 540
 navy.licenses 575
 no.more.mereti.mines 449
-outfits.weapon.slot 501
+outfits.weapon.slot 503
 paint.your.ships 594
 pirate.warlords 3
 planet.map 346
