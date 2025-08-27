@@ -3,14 +3,14 @@ v1.0.5-landing.images | downloads: 3
 v1.0.3-landing.images.highres | downloads: 1
 v1.0.25-additional.command.buttons.radial | downloads: 14
 v1.1.9-galactic.capital.investment | downloads: 38
-v1.0.1-ship.merging | downloads: 76
+v1.0.1-ship.merging | downloads: 78
 v1.0.0-ship.merging | downloads: 12
 v1.0.24-additional.command.buttons.radial | downloads: 58
 v1.0.11-uniques | downloads: 69
 v1.0.8-combat.ai | downloads: 97
 v1.0.7-combat.ai | downloads: 54
 v1.0.6-combat.ai | downloads: 10
-v1.0.0-boss.loot | downloads: 160
+v1.0.0-boss.loot | downloads: 162
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 56
 v1.0.7-mission.helper | downloads: 222
@@ -21,7 +21,7 @@ v1.0.7-human.labels | downloads: 90
 v1.0.5-show.reputation | downloads: 159
 v1.0.3-paint.your.ships | downloads: 130
 v1.1.9-captureable.person.ships | downloads: 124
-v1.0.9-bunrodea.missions | downloads: 206
+v1.0.9-bunrodea.missions | downloads: 208
 v1.0.5-better.starts | downloads: 144
 v1.0.4-control.station | downloads: 158
 v1.0.6-mission.helper | downloads: 64
@@ -255,7 +255,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 254
-# TOTAL DOWNLOADS: 26111
+# TOTAL DOWNLOADS: 26117
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -265,8 +265,8 @@ automata.destruction.0percent 635
 automata.in.human.space 517
 avgi.licenses 229
 better.starts 688
-boss.loot 160
-bunrodea.missions 929
+boss.loot 162
+bunrodea.missions 931
 captureable.person.ships 647
 coalition.shopping 736
 combat.ai 452
@@ -302,7 +302,7 @@ planet.map 346
 planet.pluto 190
 quarg.farm 826
 real.fluff 93
-ship.merging 88
+ship.merging 90
 show.reputation 720
 snowfeather.robotics 648
 space.fauna 425
