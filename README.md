@@ -32,8 +32,8 @@
 		<td>631</td>
 		<td>632</td>
 		<td>635</td>
-		<td>635</td>
-		<td></td>
+		<td>636</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -76,8 +76,8 @@
 		<td>921</td>
 		<td>927</td>
 		<td>929</td>
-		<td>931</td>
-		<td>+ 2</td>
+		<td>932</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>857</td>
 		<td>864</td>
 		<td>866</td>
-		<td>866</td>
-		<td></td>
+		<td>867</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24108</td>
-		<td>10</td>
+		<td>24111</td>
+		<td>13</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>921</td>
 		<td>927</td>
 		<td>929</td>
-		<td>931</td>
-		<td>+ 2</td>
+		<td>932</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -553,8 +553,8 @@
 		<td>857</td>
 		<td>864</td>
 		<td>866</td>
-		<td>866</td>
-		<td></td>
+		<td>867</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -685,8 +685,8 @@
 		<td>631</td>
 		<td>632</td>
 		<td>635</td>
-		<td>635</td>
-		<td></td>
+		<td>636</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24108</td>
-		<td>10</td>
+		<td>24111</td>
+		<td>13</td>
 	</tr>
 </table>
 </sub></sup>
