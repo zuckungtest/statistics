@@ -351,8 +351,8 @@
 		<td>498</td>
 		<td>499</td>
 		<td>501</td>
-		<td>501</td>
-		<td></td>
+		<td>503</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24111</td>
-		<td>13</td>
+		<td>24113</td>
+		<td>15</td>
 	</tr>
 </table>
 </sub></sup>
@@ -784,8 +784,8 @@
 		<td>498</td>
 		<td>499</td>
 		<td>501</td>
-		<td>501</td>
-		<td></td>
+		<td>503</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24111</td>
-		<td>13</td>
+		<td>24113</td>
+		<td>15</td>
 	</tr>
 </table>
 </sub></sup>
