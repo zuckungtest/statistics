@@ -285,8 +285,8 @@
 		<td>438</td>
 		<td>441</td>
 		<td>447</td>
-		<td>449</td>
-		<td>+ 2</td>
+		<td>451</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -395,8 +395,8 @@
 		<td>84</td>
 		<td>88</td>
 		<td>96</td>
-		<td>98</td>
-		<td>+ 2</td>
+		<td>100</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -428,8 +428,8 @@
 		<td>424</td>
 		<td>425</td>
 		<td>425</td>
-		<td>425</td>
-		<td></td>
+		<td>427</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24261</td>
-		<td>18</td>
+		<td>24267</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
@@ -828,8 +828,8 @@
 		<td>438</td>
 		<td>441</td>
 		<td>447</td>
-		<td>449</td>
-		<td>+ 2</td>
+		<td>451</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -850,8 +850,8 @@
 		<td>424</td>
 		<td>425</td>
 		<td>425</td>
-		<td>425</td>
-		<td></td>
+		<td>427</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -938,8 +938,8 @@
 		<td>84</td>
 		<td>88</td>
 		<td>96</td>
-		<td>98</td>
-		<td>+ 2</td>
+		<td>100</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24261</td>
-		<td>18</td>
+		<td>24267</td>
+		<td>24</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>28</td>
 		<td>15</td>
 		<td>29</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>11</td>
 		<td>8</td>
 		<td>16</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5415</td>
-		<td>1447</td>
+		<td>5416</td>
+		<td>1448</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>127</td>
-		<td>42.64</td>
-		<td>11.39</td>
+		<td>42.65</td>
+		<td>11.40</td>
 		<td></td>
 		<td></td>
 	</tr>
