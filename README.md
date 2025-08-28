@@ -65,8 +65,8 @@
 		<td>157</td>
 		<td>160</td>
 		<td>164</td>
-		<td>164</td>
-		<td></td>
+		<td>166</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -186,8 +186,8 @@
 		<td>864</td>
 		<td>866</td>
 		<td>875</td>
-		<td>875</td>
-		<td></td>
+		<td>877</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24269</td>
-		<td>26</td>
+		<td>24273</td>
+		<td>30</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>864</td>
 		<td>866</td>
 		<td>875</td>
-		<td>875</td>
-		<td></td>
+		<td>877</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -927,8 +927,8 @@
 		<td>157</td>
 		<td>160</td>
 		<td>164</td>
-		<td>164</td>
-		<td></td>
+		<td>166</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24269</td>
-		<td>26</td>
+		<td>24273</td>
+		<td>30</td>
 	</tr>
 </table>
 </sub></sup>
