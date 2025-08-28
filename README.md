@@ -21,8 +21,8 @@
 		<td>1023</td>
 		<td>1026</td>
 		<td>1032</td>
-		<td>1032</td>
-		<td></td>
+		<td>1034</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -164,8 +164,8 @@
 		<td>181</td>
 		<td>182</td>
 		<td>182</td>
-		<td>184</td>
-		<td>+ 2</td>
+		<td>186</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -263,8 +263,8 @@
 		<td>576</td>
 		<td>578</td>
 		<td>582</td>
-		<td>582</td>
-		<td></td>
+		<td>584</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24274</td>
-		<td>31</td>
+		<td>24280</td>
+		<td>37</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1023</td>
 		<td>1026</td>
 		<td>1032</td>
-		<td>1032</td>
-		<td></td>
+		<td>1034</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -740,8 +740,8 @@
 		<td>576</td>
 		<td>578</td>
 		<td>582</td>
-		<td>582</td>
-		<td></td>
+		<td>584</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -916,8 +916,8 @@
 		<td>181</td>
 		<td>182</td>
 		<td>182</td>
-		<td>184</td>
-		<td>+ 2</td>
+		<td>186</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>24274</td>
-		<td>31</td>
+		<td>24280</td>
+		<td>37</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>28</td>
 		<td>15</td>
 		<td>29</td>
-		<td>17</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>11</td>
 		<td>8</td>
 		<td>16</td>
-		<td>6</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5431</td>
-		<td>1452</td>
+		<td>5433</td>
+		<td>1454</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>127</td>
-		<td>42.76</td>
-		<td>11.43</td>
+		<td>42.78</td>
+		<td>11.45</td>
 		<td></td>
 		<td></td>
 	</tr>
