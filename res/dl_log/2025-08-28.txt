@@ -12,7 +12,7 @@ v1.0.7-combat.ai | downloads: 54
 v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 164
 v1.0.5-combat.ai | downloads: 51
-v1.0.2-flare.play | downloads: 56
+v1.0.2-flare.play | downloads: 58
 v1.0.7-mission.helper | downloads: 230
 v1.0.9-expert.crew.members | downloads: 168
 v1.0.10-uniques | downloads: 93
@@ -255,7 +255,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 254
-# TOTAL DOWNLOADS: 26278
+# TOTAL DOWNLOADS: 26280
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -275,7 +275,7 @@ devil-run.unhidden 66
 disable.person.ships 287
 disable.spaceport.repeatables 439
 expert.crew.members 909
-flare.play 182
+flare.play 184
 free.worlds.5.years.later 369
 galactic.capital.investment 1048
 gegno.pirates 875
