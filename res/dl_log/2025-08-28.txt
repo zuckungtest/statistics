@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.5-landing.images | downloads: 7
+v1.0.5-landing.images | downloads: 9
 v1.0.3-landing.images.highres | downloads: 1
-v1.0.25-additional.command.buttons.radial | downloads: 20
+v1.0.25-additional.command.buttons.radial | downloads: 22
 v1.1.9-galactic.capital.investment | downloads: 42
 v1.0.1-ship.merging | downloads: 88
 v1.0.0-ship.merging | downloads: 12
@@ -12,7 +12,7 @@ v1.0.7-combat.ai | downloads: 54
 v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 166
 v1.0.5-combat.ai | downloads: 51
-v1.0.2-flare.play | downloads: 58
+v1.0.2-flare.play | downloads: 60
 v1.0.7-mission.helper | downloads: 230
 v1.0.9-expert.crew.members | downloads: 168
 v1.0.10-uniques | downloads: 93
@@ -255,12 +255,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 254
-# TOTAL DOWNLOADS: 26285
+# TOTAL DOWNLOADS: 26291
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1032
+additional.command.buttons.radial 1034
 automata.destruction.0percent 642
 automata.in.human.space 521
 avgi.licenses 229
@@ -275,7 +275,7 @@ devil-run.unhidden 66
 disable.person.ships 287
 disable.spaceport.repeatables 439
 expert.crew.members 909
-flare.play 184
+flare.play 186
 free.worlds.5.years.later 369
 galactic.capital.investment 1048
 gegno.pirates 877
@@ -285,7 +285,7 @@ human.labels 499
 jump.gates 633
 kestrel.unlocks 559
 kor.efret.shipyard 792
-landing.images 582
+landing.images 584
 landing.images.android 349
 landing.images.highres 403
 licenses 451
