@@ -30,14 +30,14 @@ v1.0.0-boss.loot | downloads: 185
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 77
 v1.0.7-mission.helper | downloads: 251
-v1.0.9-expert.crew.members | downloads: 185
+v1.0.9-expert.crew.members | downloads: 187
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
-v1.0.7-human.labels | downloads: 111
+v1.0.7-human.labels | downloads: 113
 v1.0.5-show.reputation | downloads: 184
-v1.0.3-paint.your.ships | downloads: 149
-v1.1.9-captureable.person.ships | downloads: 143
-v1.0.9-bunrodea.missions | downloads: 236
+v1.0.3-paint.your.ships | downloads: 151
+v1.1.9-captureable.person.ships | downloads: 145
+v1.0.9-bunrodea.missions | downloads: 238
 v1.0.5-better.starts | downloads: 167
 v1.0.4-control.station | downloads: 181
 v1.0.6-mission.helper | downloads: 64
@@ -79,7 +79,7 @@ v1.0.8-bunrodea.missions | downloads: 203
 v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
 v1.0.19-additional.command.buttons.radial | downloads: 120
-v1.0.1-highrollers.ltd | downloads: 222
+v1.0.1-highrollers.ltd | downloads: 224
 v1.0.3-gegno.pirates | downloads: 457
 v1.0.0-highrollers.ltd | downloads: 11
 v1.0.18-additional.command.buttons.radial | downloads: 32
@@ -271,7 +271,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 270
-# TOTAL DOWNLOADS: 27024
+# TOTAL DOWNLOADS: 27036
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -282,22 +282,22 @@ automata.in.human.space 538
 avgi.licenses 229
 better.starts 711
 boss.loot 185
-bunrodea.missions 959
-captureable.person.ships 666
+bunrodea.missions 961
+captureable.person.ships 668
 coalition.shopping 763
 combat.ai 469
 control.station 610
 devil-run.unhidden 66
 disable.person.ships 304
 disable.spaceport.repeatables 456
-expert.crew.members 926
+expert.crew.members 928
 flare.play 203
 free.worlds.5.years.later 369
 galactic.capital.investment 1067
 gegno.pirates 896
 hai.side.mission.unlocker 611
-highrollers.ltd 244
-human.labels 516
+highrollers.ltd 246
+human.labels 518
 jump.gates 650
 kestrel.unlocks 576
 kor.efret.shipyard 809
@@ -312,7 +312,7 @@ more.person.ships 559
 navy.licenses 575
 no.more.mereti.mines 468
 outfits.weapon.slot 522
-paint.your.ships 613
+paint.your.ships 615
 pirate.warlords 3
 planet.map 363
 planet.pluto 190
