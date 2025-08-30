@@ -87,8 +87,8 @@
 		<td>649</td>
 		<td>649</td>
 		<td>668</td>
-		<td>672</td>
-		<td>+ 4</td>
+		<td>674</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25064</td>
-		<td>37</td>
+		<td>25066</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
@@ -656,6 +656,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>643</td>
+		<td>645</td>
+		<td>647</td>
+		<td>649</td>
+		<td>649</td>
+		<td>668</td>
+		<td>674</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>644</td>
 		<td>645</td>
@@ -665,17 +676,6 @@
 		<td>669</td>
 		<td>672</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>643</td>
-		<td>645</td>
-		<td>647</td>
-		<td>649</td>
-		<td>649</td>
-		<td>668</td>
-		<td>672</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25064</td>
-		<td>37</td>
+		<td>25066</td>
+		<td>39</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>29</td>
 		<td>23</td>
 		<td>97</td>
-		<td>15</td>
+		<td>17</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>16</td>
 		<td>10</td>
 		<td>8</td>
-		<td>5</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5549</td>
-		<td>1469</td>
+		<td>5551</td>
+		<td>1471</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>129</td>
-		<td>43.02</td>
-		<td>11.39</td>
+		<td>43.03</td>
+		<td>11.40</td>
 		<td></td>
 		<td></td>
 	</tr>
