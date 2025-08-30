@@ -329,8 +329,8 @@
 		<td>540</td>
 		<td>542</td>
 		<td>559</td>
-		<td>561</td>
-		<td>+ 2</td>
+		<td>563</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25066</td>
-		<td>39</td>
+		<td>25068</td>
+		<td>41</td>
 	</tr>
 </table>
 </sub></sup>
@@ -762,8 +762,8 @@
 		<td>540</td>
 		<td>542</td>
 		<td>559</td>
-		<td>561</td>
-		<td>+ 2</td>
+		<td>563</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25066</td>
-		<td>39</td>
+		<td>25068</td>
+		<td>41</td>
 	</tr>
 </table>
 </sub></sup>
