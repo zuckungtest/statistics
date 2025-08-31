@@ -17,9 +17,9 @@ v1.0.2-automata.in.human.space | downloads: 19
 v1.0.2-automata.destruction.0percent | downloads: 2
 v1.0.1-kestrel.unlocks | downloads: 1
 v1.0.1-disable.person.ships | downloads: 1
-v1.0.5-landing.images | downloads: 29
-v1.0.3-landing.images.highres | downloads: 21
-v1.0.25-additional.command.buttons.radial | downloads: 45
+v1.0.5-landing.images | downloads: 31
+v1.0.3-landing.images.highres | downloads: 23
+v1.0.25-additional.command.buttons.radial | downloads: 48
 v1.1.9-galactic.capital.investment | downloads: 69
 v1.0.1-ship.merging | downloads: 116
 v1.0.0-ship.merging | downloads: 12
@@ -40,7 +40,7 @@ v1.0.5-show.reputation | downloads: 187
 v1.0.3-paint.your.ships | downloads: 154
 v1.1.9-captureable.person.ships | downloads: 155
 v1.0.9-bunrodea.missions | downloads: 244
-v1.0.5-better.starts | downloads: 171
+v1.0.5-better.starts | downloads: 173
 v1.0.4-control.station | downloads: 182
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
@@ -273,16 +273,16 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 27250
+# TOTAL DOWNLOADS: 27259
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1057
+additional.command.buttons.radial 1060
 automata.destruction.0percent 665
 automata.in.human.space 542
 avgi.licenses 229
-better.starts 715
+better.starts 717
 boss.loot 194
 bunrodea.missions 967
 captureable.person.ships 678
@@ -303,9 +303,9 @@ human.labels 521
 jump.gates 653
 kestrel.unlocks 582
 kor.efret.shipyard 814
-landing.images 604
+landing.images 606
 landing.images.android 349
-landing.images.highres 423
+landing.images.highres 425
 licenses 477
 mission.helper 724
 more.arfectas 768
