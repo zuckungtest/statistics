@@ -21,8 +21,8 @@
 		<td>1034</td>
 		<td>1051</td>
 		<td>1053</td>
-		<td>1057</td>
-		<td>+ 4</td>
+		<td>1060</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>694</td>
 		<td>711</td>
 		<td>711</td>
-		<td>715</td>
-		<td>+ 4</td>
+		<td>717</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -263,8 +263,8 @@
 		<td>584</td>
 		<td>601</td>
 		<td>601</td>
-		<td>604</td>
-		<td>+ 3</td>
+		<td>606</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>403</td>
 		<td>420</td>
 		<td>420</td>
-		<td>423</td>
-		<td>+ 3</td>
+		<td>425</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25239</td>
-		<td>143</td>
+		<td>25248</td>
+		<td>152</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1034</td>
 		<td>1051</td>
 		<td>1053</td>
-		<td>1057</td>
-		<td>+ 4</td>
+		<td>1060</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -641,8 +641,8 @@
 		<td>694</td>
 		<td>711</td>
 		<td>711</td>
-		<td>715</td>
-		<td>+ 4</td>
+		<td>717</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -740,8 +740,8 @@
 		<td>584</td>
 		<td>601</td>
 		<td>601</td>
-		<td>604</td>
-		<td>+ 3</td>
+		<td>606</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -861,8 +861,8 @@
 		<td>403</td>
 		<td>420</td>
 		<td>420</td>
-		<td>423</td>
-		<td>+ 3</td>
+		<td>425</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25239</td>
-		<td>143</td>
+		<td>25248</td>
+		<td>152</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>23</td>
 		<td>97</td>
 		<td>49</td>
-		<td>45</td>
+		<td>47</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>10</td>
 		<td>8</td>
 		<td>9</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5628</td>
-		<td>1483</td>
+		<td>5630</td>
+		<td>1484</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>130</td>
-		<td>43.29</td>
-		<td>11.41</td>
+		<td>43.31</td>
+		<td>11.42</td>
 		<td></td>
 		<td></td>
 	</tr>
