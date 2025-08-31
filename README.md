@@ -32,8 +32,8 @@
 		<td>642</td>
 		<td>659</td>
 		<td>661</td>
-		<td>665</td>
-		<td>+ 4</td>
+		<td>667</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -153,8 +153,8 @@
 		<td>909</td>
 		<td>928</td>
 		<td>932</td>
-		<td>936</td>
-		<td>+ 4</td>
+		<td>938</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25248</td>
-		<td>152</td>
+		<td>25252</td>
+		<td>156</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>909</td>
 		<td>928</td>
 		<td>932</td>
-		<td>936</td>
-		<td>+ 4</td>
+		<td>938</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -685,8 +685,8 @@
 		<td>642</td>
 		<td>659</td>
 		<td>661</td>
-		<td>665</td>
-		<td>+ 4</td>
+		<td>667</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25248</td>
-		<td>152</td>
+		<td>25252</td>
+		<td>156</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>23</td>
 		<td>97</td>
 		<td>49</td>
-		<td>47</td>
+		<td>57</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>10</td>
 		<td>8</td>
 		<td>9</td>
-		<td>11</td>
+		<td>13</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5630</td>
-		<td>1484</td>
+		<td>5640</td>
+		<td>1486</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>130</td>
-		<td>43.31</td>
-		<td>11.42</td>
+		<td>43.38</td>
+		<td>11.43</td>
 		<td></td>
 		<td></td>
 	</tr>
