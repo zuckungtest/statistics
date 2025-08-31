@@ -32,7 +32,7 @@ v1.0.0-boss.loot | downloads: 191
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 81
 v1.0.7-mission.helper | downloads: 256
-v1.0.9-expert.crew.members | downloads: 195
+v1.0.9-expert.crew.members | downloads: 197
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 116
@@ -209,7 +209,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 662
+v1.0.1-automata.destruction.0percent | downloads: 664
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -273,13 +273,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 27259
+# TOTAL DOWNLOADS: 27263
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1060
-automata.destruction.0percent 665
+automata.destruction.0percent 667
 automata.in.human.space 542
 avgi.licenses 229
 better.starts 717
@@ -292,7 +292,7 @@ control.station 614
 devil-run.unhidden 66
 disable.person.ships 308
 disable.spaceport.repeatables 460
-expert.crew.members 936
+expert.crew.members 938
 flare.play 207
 free.worlds.5.years.later 369
 galactic.capital.investment 1075
