@@ -241,8 +241,8 @@
 		<td>559</td>
 		<td>576</td>
 		<td>580</td>
-		<td>581</td>
-		<td>+ 1</td>
+		<td>582</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25237</td>
-		<td>141</td>
+		<td>25238</td>
+		<td>142</td>
 	</tr>
 </table>
 </sub></sup>
@@ -751,8 +751,8 @@
 		<td>559</td>
 		<td>576</td>
 		<td>580</td>
-		<td>581</td>
-		<td>+ 1</td>
+		<td>582</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25237</td>
-		<td>141</td>
+		<td>25238</td>
+		<td>142</td>
 	</tr>
 </table>
 </sub></sup>
