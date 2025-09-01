@@ -21,8 +21,8 @@
 		<td>1051</td>
 		<td>1053</td>
 		<td>1060</td>
-		<td>1060</td>
-		<td></td>
+		<td>1062</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>185</td>
 		<td>189</td>
 		<td>194</td>
-		<td>196</td>
-		<td>+ 2</td>
+		<td>198</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>961</td>
 		<td>963</td>
 		<td>967</td>
-		<td>969</td>
-		<td>+ 2</td>
+		<td>971</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>469</td>
 		<td>473</td>
 		<td>478</td>
-		<td>480</td>
-		<td>+ 2</td>
+		<td>482</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -120,8 +120,8 @@
 		<td>610</td>
 		<td>610</td>
 		<td>615</td>
-		<td>617</td>
-		<td>+ 2</td>
+		<td>619</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25334</td>
-		<td>58</td>
+		<td>25344</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1051</td>
 		<td>1053</td>
 		<td>1060</td>
-		<td>1060</td>
-		<td></td>
+		<td>1062</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>961</td>
 		<td>963</td>
 		<td>967</td>
-		<td>969</td>
-		<td>+ 2</td>
+		<td>971</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -729,8 +729,8 @@
 		<td>610</td>
 		<td>610</td>
 		<td>615</td>
-		<td>617</td>
-		<td>+ 2</td>
+		<td>619</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -799,23 +799,23 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>licenses</td>
-		<td>441</td>
-		<td>447</td>
-		<td>453</td>
-		<td>470</td>
-		<td>474</td>
-		<td>478</td>
-		<td>480</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>combat.ai</td>
 		<td>452</td>
 		<td>452</td>
 		<td>452</td>
 		<td>469</td>
 		<td>473</td>
+		<td>478</td>
+		<td>482</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>licenses</td>
+		<td>441</td>
+		<td>447</td>
+		<td>453</td>
+		<td>470</td>
+		<td>474</td>
 		<td>478</td>
 		<td>480</td>
 		<td>+ 2</td>
@@ -927,8 +927,8 @@
 		<td>185</td>
 		<td>189</td>
 		<td>194</td>
-		<td>196</td>
-		<td>+ 2</td>
+		<td>198</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25334</td>
-		<td>58</td>
+		<td>25344</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
