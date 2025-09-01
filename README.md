@@ -230,8 +230,8 @@
 		<td>650</td>
 		<td>650</td>
 		<td>654</td>
-		<td>656</td>
-		<td>+ 2</td>
+		<td>658</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -373,8 +373,8 @@
 		<td>363</td>
 		<td>363</td>
 		<td>366</td>
-		<td>366</td>
-		<td></td>
+		<td>368</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25322</td>
-		<td>46</td>
+		<td>25326</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
@@ -696,8 +696,8 @@
 		<td>650</td>
 		<td>650</td>
 		<td>654</td>
-		<td>656</td>
-		<td>+ 2</td>
+		<td>658</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -883,8 +883,8 @@
 		<td>363</td>
 		<td>363</td>
 		<td>366</td>
-		<td>366</td>
-		<td></td>
+		<td>368</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25322</td>
-		<td>46</td>
+		<td>25326</td>
+		<td>50</td>
 	</tr>
 </table>
 </sub></sup>
