@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.5-control.station | downloads: 6
-v1.0.1-boss.loot | downloads: 5
+v1.0.5-control.station | downloads: 8
+v1.0.1-boss.loot | downloads: 7
 v1.1.3-space.fauna | downloads: 8
 v1.1.2-disable.spaceport.repeatables | downloads: 1
 v1.0.7-coalition.shopping | downloads: 18
@@ -19,13 +19,13 @@ v1.0.1-kestrel.unlocks | downloads: 5
 v1.0.1-disable.person.ships | downloads: 1
 v1.0.5-landing.images | downloads: 34
 v1.0.3-landing.images.highres | downloads: 25
-v1.0.25-additional.command.buttons.radial | downloads: 48
+v1.0.25-additional.command.buttons.radial | downloads: 50
 v1.1.9-galactic.capital.investment | downloads: 71
 v1.0.1-ship.merging | downloads: 118
 v1.0.0-ship.merging | downloads: 12
 v1.0.24-additional.command.buttons.radial | downloads: 58
 v1.0.11-uniques | downloads: 97
-v1.0.8-combat.ai | downloads: 125
+v1.0.8-combat.ai | downloads: 127
 v1.0.7-combat.ai | downloads: 54
 v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 191
@@ -39,7 +39,7 @@ v1.0.7-human.labels | downloads: 117
 v1.0.5-show.reputation | downloads: 188
 v1.0.3-paint.your.ships | downloads: 155
 v1.1.9-captureable.person.ships | downloads: 155
-v1.0.9-bunrodea.missions | downloads: 246
+v1.0.9-bunrodea.missions | downloads: 248
 v1.0.5-better.starts | downloads: 178
 v1.0.4-control.station | downloads: 182
 v1.0.6-mission.helper | downloads: 64
@@ -273,22 +273,22 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 27345
+# TOTAL DOWNLOADS: 27355
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1060
+additional.command.buttons.radial 1062
 automata.destruction.0percent 669
 automata.in.human.space 544
 avgi.licenses 229
 better.starts 722
-boss.loot 196
-bunrodea.missions 969
+boss.loot 198
+bunrodea.missions 971
 captureable.person.ships 678
 coalition.shopping 769
-combat.ai 480
-control.station 617
+combat.ai 482
+control.station 619
 devil-run.unhidden 66
 disable.person.ships 309
 disable.spaceport.repeatables 461
