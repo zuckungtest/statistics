@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.5-control.station | downloads: 4
+v1.0.5-control.station | downloads: 6
 v1.0.1-boss.loot | downloads: 5
 v1.1.3-space.fauna | downloads: 8
 v1.1.2-disable.spaceport.repeatables | downloads: 1
@@ -15,7 +15,7 @@ v1.0.3-kor.efret.shipyard | downloads: 13
 v1.0.2-highrollers.ltd | downloads: 15
 v1.0.2-automata.in.human.space | downloads: 21
 v1.0.2-automata.destruction.0percent | downloads: 2
-v1.0.1-kestrel.unlocks | downloads: 3
+v1.0.1-kestrel.unlocks | downloads: 5
 v1.0.1-disable.person.ships | downloads: 1
 v1.0.5-landing.images | downloads: 34
 v1.0.3-landing.images.highres | downloads: 25
@@ -273,7 +273,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 27339
+# TOTAL DOWNLOADS: 27343
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -288,7 +288,7 @@ bunrodea.missions 969
 captureable.person.ships 678
 coalition.shopping 769
 combat.ai 480
-control.station 615
+control.station 617
 devil-run.unhidden 66
 disable.person.ships 309
 disable.spaceport.repeatables 461
@@ -301,7 +301,7 @@ hai.side.mission.unlocker 623
 highrollers.ltd 250
 human.labels 522
 jump.gates 658
-kestrel.unlocks 584
+kestrel.unlocks 586
 kor.efret.shipyard 814
 landing.images 609
 landing.images.android 349
