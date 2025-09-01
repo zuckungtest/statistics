@@ -120,8 +120,8 @@
 		<td>610</td>
 		<td>610</td>
 		<td>615</td>
-		<td>615</td>
-		<td></td>
+		<td>617</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -241,8 +241,8 @@
 		<td>576</td>
 		<td>580</td>
 		<td>582</td>
-		<td>584</td>
-		<td>+ 2</td>
+		<td>586</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25328</td>
-		<td>52</td>
+		<td>25332</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -729,8 +729,8 @@
 		<td>610</td>
 		<td>610</td>
 		<td>615</td>
-		<td>615</td>
-		<td></td>
+		<td>617</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -751,8 +751,8 @@
 		<td>576</td>
 		<td>580</td>
 		<td>582</td>
-		<td>584</td>
-		<td>+ 2</td>
+		<td>586</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25328</td>
-		<td>52</td>
+		<td>25332</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
