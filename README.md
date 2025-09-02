@@ -65,8 +65,8 @@
 		<td>189</td>
 		<td>194</td>
 		<td>198</td>
-		<td>199</td>
-		<td>+ 1</td>
+		<td>201</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -241,8 +241,8 @@
 		<td>580</td>
 		<td>582</td>
 		<td>586</td>
-		<td>586</td>
-		<td></td>
+		<td>588</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25404</td>
-		<td>60</td>
+		<td>25408</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
@@ -751,8 +751,8 @@
 		<td>580</td>
 		<td>582</td>
 		<td>586</td>
-		<td>586</td>
-		<td></td>
+		<td>588</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -927,8 +927,8 @@
 		<td>189</td>
 		<td>194</td>
 		<td>198</td>
-		<td>199</td>
-		<td>+ 1</td>
+		<td>201</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25404</td>
-		<td>60</td>
+		<td>25408</td>
+		<td>64</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>49</td>
 		<td>69</td>
 		<td>84</td>
-		<td>23</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>9</td>
 		<td>16</td>
 		<td>12</td>
-		<td>8</td>
+		<td>10</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5759</td>
-		<td>1509</td>
+		<td>5761</td>
+		<td>1511</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>132</td>
-		<td>43.63</td>
-		<td>11.43</td>
+		<td>43.64</td>
+		<td>11.45</td>
 		<td></td>
 		<td></td>
 	</tr>
