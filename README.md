@@ -65,8 +65,8 @@
 		<td>189</td>
 		<td>194</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>199</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -142,8 +142,8 @@
 		<td>456</td>
 		<td>461</td>
 		<td>461</td>
-		<td>461</td>
-		<td></td>
+		<td>462</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -373,8 +373,8 @@
 		<td>363</td>
 		<td>366</td>
 		<td>368</td>
-		<td>368</td>
-		<td></td>
+		<td>369</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -450,8 +450,8 @@
 		<td>400</td>
 		<td>404</td>
 		<td>404</td>
-		<td>404</td>
-		<td></td>
+		<td>405</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25344</td>
-		<td>0</td>
+		<td>25348</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
@@ -839,8 +839,8 @@
 		<td>456</td>
 		<td>461</td>
 		<td>461</td>
-		<td>461</td>
-		<td></td>
+		<td>462</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -872,8 +872,8 @@
 		<td>400</td>
 		<td>404</td>
 		<td>404</td>
-		<td>404</td>
-		<td></td>
+		<td>405</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -883,8 +883,8 @@
 		<td>363</td>
 		<td>366</td>
 		<td>368</td>
-		<td>368</td>
-		<td></td>
+		<td>369</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td>189</td>
 		<td>194</td>
 		<td>198</td>
-		<td>198</td>
-		<td></td>
+		<td>199</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25344</td>
-		<td>0</td>
+		<td>25348</td>
+		<td>4</td>
 	</tr>
 </table>
 </sub></sup>
