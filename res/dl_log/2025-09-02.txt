@@ -1,15 +1,15 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.5-control.station | downloads: 8
-v1.0.1-boss.loot | downloads: 7
+v1.0.1-boss.loot | downloads: 8
 v1.1.3-space.fauna | downloads: 8
-v1.1.2-disable.spaceport.repeatables | downloads: 1
+v1.1.2-disable.spaceport.repeatables | downloads: 2
 v1.0.7-coalition.shopping | downloads: 18
 v1.0.5-too.many.asteroids | downloads: 1
-v1.0.4-planet.map | downloads: 2
+v1.0.4-planet.map | downloads: 3
 v1.0.4-no.more.mereti.mines | downloads: 8
 v1.0.4-jump.gates | downloads: 17
 v1.0.4-gegno.pirates | downloads: 20
-v1.0.3-tribute.republic | downloads: 6
+v1.0.3-tribute.republic | downloads: 7
 v1.0.3-more.arfectas | downloads: 3
 v1.0.3-kor.efret.shipyard | downloads: 13
 v1.0.2-highrollers.ltd | downloads: 15
@@ -273,7 +273,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 27355
+# TOTAL DOWNLOADS: 27359
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -283,7 +283,7 @@ automata.destruction.0percent 669
 automata.in.human.space 544
 avgi.licenses 229
 better.starts 722
-boss.loot 198
+boss.loot 199
 bunrodea.missions 971
 captureable.person.ships 678
 coalition.shopping 769
@@ -291,7 +291,7 @@ combat.ai 482
 control.station 619
 devil-run.unhidden 66
 disable.person.ships 309
-disable.spaceport.repeatables 461
+disable.spaceport.repeatables 462
 expert.crew.members 940
 flare.play 208
 free.worlds.5.years.later 369
@@ -316,7 +316,7 @@ no.more.mereti.mines 472
 outfits.weapon.slot 532
 paint.your.ships 619
 pirate.warlords 3
-planet.map 368
+planet.map 369
 planet.pluto 190
 quarg.farm 855
 real.fluff 93
@@ -325,6 +325,6 @@ show.reputation 749
 snowfeather.robotics 678
 space.fauna 451
 too.many.asteroids 902
-tribute.republic 404
+tribute.republic 405
 unique.fix 44
 uniques 704
