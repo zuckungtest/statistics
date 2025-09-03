@@ -175,8 +175,8 @@
 		<td>1075</td>
 		<td>1077</td>
 		<td>1079</td>
-		<td>1079</td>
-		<td></td>
+		<td>1081</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25416</td>
-		<td>8</td>
+		<td>25418</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1075</td>
 		<td>1077</td>
 		<td>1079</td>
-		<td>1079</td>
-		<td></td>
+		<td>1081</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25416</td>
-		<td>8</td>
+		<td>25418</td>
+		<td>10</td>
 	</tr>
 </table>
 </sub></sup>
