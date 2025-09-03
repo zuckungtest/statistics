@@ -54,8 +54,8 @@
 		<td>718</td>
 		<td>722</td>
 		<td>724</td>
-		<td>724</td>
-		<td></td>
+		<td>726</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -296,8 +296,8 @@
 		<td>726</td>
 		<td>728</td>
 		<td>730</td>
-		<td>730</td>
-		<td></td>
+		<td>734</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25410</td>
-		<td>2</td>
+		<td>25416</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>726</td>
 		<td>728</td>
 		<td>730</td>
-		<td>730</td>
-		<td></td>
+		<td>734</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -641,8 +641,8 @@
 		<td>718</td>
 		<td>722</td>
 		<td>724</td>
-		<td>724</td>
-		<td></td>
+		<td>726</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25410</td>
-		<td>2</td>
+		<td>25416</td>
+		<td>8</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>69</td>
 		<td>84</td>
 		<td>32</td>
-		<td>21</td>
+		<td>22</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>16</td>
 		<td>12</td>
 		<td>10</td>
-		<td>3</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5789</td>
-		<td>1514</td>
+		<td>5790</td>
+		<td>1515</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1019,7 +1019,7 @@
 	<tr>
 		<td>133</td>
 		<td>43.53</td>
-		<td>11.38</td>
+		<td>11.39</td>
 		<td></td>
 		<td></td>
 	</tr>
