@@ -21,8 +21,8 @@
 		<td>1060</td>
 		<td>1062</td>
 		<td>1064</td>
-		<td>1064</td>
-		<td></td>
+		<td>1066</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>667</td>
 		<td>669</td>
 		<td>671</td>
-		<td>671</td>
-		<td></td>
+		<td>673</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>718</td>
 		<td>722</td>
 		<td>724</td>
-		<td>726</td>
-		<td>+ 2</td>
+		<td>728</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -142,8 +142,8 @@
 		<td>461</td>
 		<td>461</td>
 		<td>462</td>
-		<td>462</td>
-		<td></td>
+		<td>464</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -241,8 +241,8 @@
 		<td>582</td>
 		<td>586</td>
 		<td>588</td>
-		<td>588</td>
-		<td></td>
+		<td>590</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -439,8 +439,8 @@
 		<td>902</td>
 		<td>902</td>
 		<td>906</td>
-		<td>906</td>
-		<td></td>
+		<td>908</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25418</td>
-		<td>10</td>
+		<td>25430</td>
+		<td>22</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1060</td>
 		<td>1062</td>
 		<td>1064</td>
-		<td>1064</td>
-		<td></td>
+		<td>1066</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>902</td>
 		<td>902</td>
 		<td>906</td>
-		<td>906</td>
-		<td></td>
+		<td>908</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -641,8 +641,8 @@
 		<td>718</td>
 		<td>722</td>
 		<td>724</td>
-		<td>726</td>
-		<td>+ 2</td>
+		<td>728</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -685,8 +685,8 @@
 		<td>667</td>
 		<td>669</td>
 		<td>671</td>
-		<td>671</td>
-		<td></td>
+		<td>673</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -751,8 +751,8 @@
 		<td>582</td>
 		<td>586</td>
 		<td>588</td>
-		<td>588</td>
-		<td></td>
+		<td>590</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -839,8 +839,8 @@
 		<td>461</td>
 		<td>461</td>
 		<td>462</td>
-		<td>462</td>
-		<td></td>
+		<td>464</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25418</td>
-		<td>10</td>
+		<td>25430</td>
+		<td>22</td>
 	</tr>
 </table>
 </sub></sup>
