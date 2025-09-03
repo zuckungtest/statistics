@@ -15,11 +15,11 @@ v1.0.3-kor.efret.shipyard | downloads: 13
 v1.0.2-highrollers.ltd | downloads: 15
 v1.0.2-automata.in.human.space | downloads: 21
 v1.0.2-automata.destruction.0percent | downloads: 2
-v1.0.1-kestrel.unlocks | downloads: 7
+v1.0.1-kestrel.unlocks | downloads: 9
 v1.0.1-disable.person.ships | downloads: 1
 v1.0.5-landing.images | downloads: 34
 v1.0.3-landing.images.highres | downloads: 25
-v1.0.25-additional.command.buttons.radial | downloads: 52
+v1.0.25-additional.command.buttons.radial | downloads: 54
 v1.1.9-galactic.capital.investment | downloads: 75
 v1.0.1-ship.merging | downloads: 120
 v1.0.0-ship.merging | downloads: 12
@@ -40,7 +40,7 @@ v1.0.5-show.reputation | downloads: 190
 v1.0.3-paint.your.ships | downloads: 155
 v1.1.9-captureable.person.ships | downloads: 157
 v1.0.9-bunrodea.missions | downloads: 250
-v1.0.5-better.starts | downloads: 182
+v1.0.5-better.starts | downloads: 184
 v1.0.4-control.station | downloads: 182
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
@@ -105,7 +105,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 574
+v1.0.4-too.many.asteroids | downloads: 576
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -209,12 +209,12 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 668
+v1.0.1-automata.destruction.0percent | downloads: 670
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
-v1.1.1-disable.spaceport.repeatables | downloads: 459
+v1.1.1-disable.spaceport.repeatables | downloads: 461
 v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 386
 v1.0.0-control.station | downloads: 1
@@ -273,16 +273,16 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 27429
+# TOTAL DOWNLOADS: 27441
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1064
-automata.destruction.0percent 671
+additional.command.buttons.radial 1066
+automata.destruction.0percent 673
 automata.in.human.space 544
 avgi.licenses 229
-better.starts 726
+better.starts 728
 boss.loot 203
 bunrodea.missions 973
 captureable.person.ships 680
@@ -291,7 +291,7 @@ combat.ai 486
 control.station 621
 devil-run.unhidden 66
 disable.person.ships 309
-disable.spaceport.repeatables 462
+disable.spaceport.repeatables 464
 expert.crew.members 942
 flare.play 208
 free.worlds.5.years.later 369
@@ -301,7 +301,7 @@ hai.side.mission.unlocker 625
 highrollers.ltd 250
 human.labels 522
 jump.gates 660
-kestrel.unlocks 588
+kestrel.unlocks 590
 kor.efret.shipyard 814
 landing.images 609
 landing.images.android 349
@@ -324,7 +324,7 @@ ship.merging 132
 show.reputation 751
 snowfeather.robotics 678
 space.fauna 451
-too.many.asteroids 906
+too.many.asteroids 908
 tribute.republic 405
 unique.fix 44
 uniques 706
