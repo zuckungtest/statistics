@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.5-control.station | downloads: 14
-v1.0.1-boss.loot | downloads: 17
+v1.0.1-boss.loot | downloads: 19
 v1.1.3-space.fauna | downloads: 13
 v1.1.2-disable.spaceport.repeatables | downloads: 2
 v1.0.7-coalition.shopping | downloads: 27
@@ -19,7 +19,7 @@ v1.0.1-kestrel.unlocks | downloads: 16
 v1.0.1-disable.person.ships | downloads: 1
 v1.0.5-landing.images | downloads: 36
 v1.0.3-landing.images.highres | downloads: 30
-v1.0.25-additional.command.buttons.radial | downloads: 56
+v1.0.25-additional.command.buttons.radial | downloads: 62
 v1.1.9-galactic.capital.investment | downloads: 79
 v1.0.1-ship.merging | downloads: 125
 v1.0.0-ship.merging | downloads: 12
@@ -273,17 +273,17 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 27619
+# TOTAL DOWNLOADS: 27627
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1068
+additional.command.buttons.radial 1074
 automata.destruction.0percent 679
 automata.in.human.space 546
 avgi.licenses 229
 better.starts 730
-boss.loot 208
+boss.loot 210
 bunrodea.missions 978
 captureable.person.ships 685
 coalition.shopping 778
