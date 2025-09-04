@@ -296,8 +296,8 @@
 		<td>728</td>
 		<td>730</td>
 		<td>734</td>
-		<td>735</td>
-		<td>+ 1</td>
+		<td>740</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25436</td>
-		<td>6</td>
+		<td>25441</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>728</td>
 		<td>730</td>
 		<td>734</td>
-		<td>735</td>
-		<td>+ 1</td>
+		<td>740</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25436</td>
-		<td>6</td>
+		<td>25441</td>
+		<td>11</td>
 	</tr>
 </table>
 </sub></sup>
