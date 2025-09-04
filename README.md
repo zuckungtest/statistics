@@ -175,8 +175,8 @@
 		<td>1077</td>
 		<td>1079</td>
 		<td>1081</td>
-		<td>1081</td>
-		<td></td>
+		<td>1083</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>623</td>
 		<td>625</td>
 		<td>625</td>
-		<td>625</td>
-		<td></td>
+		<td>627</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -241,8 +241,8 @@
 		<td>586</td>
 		<td>588</td>
 		<td>590</td>
-		<td>590</td>
-		<td></td>
+		<td>592</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -252,8 +252,8 @@
 		<td>814</td>
 		<td>814</td>
 		<td>814</td>
-		<td>814</td>
-		<td></td>
+		<td>816</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25441</td>
-		<td>11</td>
+		<td>25449</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1077</td>
 		<td>1079</td>
 		<td>1081</td>
-		<td>1081</td>
-		<td></td>
+		<td>1083</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -586,8 +586,8 @@
 		<td>814</td>
 		<td>814</td>
 		<td>814</td>
-		<td>814</td>
-		<td></td>
+		<td>816</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -707,8 +707,8 @@
 		<td>623</td>
 		<td>625</td>
 		<td>625</td>
-		<td>625</td>
-		<td></td>
+		<td>627</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -751,8 +751,8 @@
 		<td>586</td>
 		<td>588</td>
 		<td>590</td>
-		<td>590</td>
-		<td></td>
+		<td>592</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25441</td>
-		<td>11</td>
+		<td>25449</td>
+		<td>19</td>
 	</tr>
 </table>
 </sub></sup>
