@@ -21,8 +21,8 @@
 		<td>1062</td>
 		<td>1064</td>
 		<td>1066</td>
-		<td>1068</td>
-		<td>+ 2</td>
+		<td>1074</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>198</td>
 		<td>201</td>
 		<td>203</td>
-		<td>208</td>
-		<td>+ 5</td>
+		<td>210</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25608</td>
-		<td>178</td>
+		<td>25616</td>
+		<td>186</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1062</td>
 		<td>1064</td>
 		<td>1066</td>
-		<td>1068</td>
-		<td>+ 2</td>
+		<td>1074</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -927,8 +927,8 @@
 		<td>198</td>
 		<td>201</td>
 		<td>203</td>
-		<td>208</td>
-		<td>+ 5</td>
+		<td>210</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25608</td>
-		<td>178</td>
+		<td>25616</td>
+		<td>186</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>84</td>
 		<td>32</td>
 		<td>37</td>
-		<td>112</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>12</td>
 		<td>10</td>
 		<td>11</td>
-		<td>5</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5917</td>
-		<td>1527</td>
+		<td>5930</td>
+		<td>1529</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>134</td>
-		<td>44.16</td>
-		<td>11.40</td>
+		<td>44.25</td>
+		<td>11.41</td>
 		<td></td>
 		<td></td>
 	</tr>
