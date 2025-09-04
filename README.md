@@ -120,8 +120,8 @@
 		<td>619</td>
 		<td>621</td>
 		<td>621</td>
-		<td>621</td>
-		<td></td>
+		<td>623</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -153,8 +153,8 @@
 		<td>940</td>
 		<td>942</td>
 		<td>942</td>
-		<td>942</td>
-		<td></td>
+		<td>944</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25457</td>
-		<td>27</td>
+		<td>25461</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>940</td>
 		<td>942</td>
 		<td>942</td>
-		<td>942</td>
-		<td></td>
+		<td>944</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -729,8 +729,8 @@
 		<td>619</td>
 		<td>621</td>
 		<td>621</td>
-		<td>621</td>
-		<td></td>
+		<td>623</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25457</td>
-		<td>27</td>
+		<td>25461</td>
+		<td>31</td>
 	</tr>
 </table>
 </sub></sup>
