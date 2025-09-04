@@ -296,8 +296,8 @@
 		<td>728</td>
 		<td>730</td>
 		<td>734</td>
-		<td>753</td>
-		<td>+ 19</td>
+		<td>754</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25607</td>
-		<td>177</td>
+		<td>25608</td>
+		<td>178</td>
 	</tr>
 </table>
 </sub></sup>
@@ -612,6 +612,17 @@
 		<td>+ 5</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>721</td>
+		<td>721</td>
+		<td>726</td>
+		<td>728</td>
+		<td>730</td>
+		<td>734</td>
+		<td>754</td>
+		<td>+ 20</td>
+	</tr>
+	<tr>
 		<td>show.reputation</td>
 		<td>745</td>
 		<td>745</td>
@@ -621,17 +632,6 @@
 		<td>751</td>
 		<td>753</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>721</td>
-		<td>721</td>
-		<td>726</td>
-		<td>728</td>
-		<td>730</td>
-		<td>734</td>
-		<td>753</td>
-		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25607</td>
-		<td>177</td>
+		<td>25608</td>
+		<td>178</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>84</td>
 		<td>32</td>
 		<td>37</td>
-		<td>77</td>
+		<td>112</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5882</td>
+		<td>5917</td>
 		<td>1527</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>134</td>
-		<td>43.90</td>
+		<td>44.16</td>
 		<td>11.40</td>
 		<td></td>
 		<td></td>
