@@ -54,8 +54,8 @@
 		<td>724</td>
 		<td>728</td>
 		<td>730</td>
-		<td>749</td>
-		<td>+ 19</td>
+		<td>750</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -340,8 +340,8 @@
 		<td>472</td>
 		<td>472</td>
 		<td>474</td>
-		<td>493</td>
-		<td>+ 19</td>
+		<td>494</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -384,8 +384,8 @@
 		<td>858</td>
 		<td>858</td>
 		<td>863</td>
-		<td>883</td>
-		<td>+ 20</td>
+		<td>885</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26452</td>
-		<td>832</td>
+		<td>26456</td>
+		<td>836</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>858</td>
 		<td>858</td>
 		<td>863</td>
-		<td>883</td>
-		<td>+ 20</td>
+		<td>885</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -641,8 +641,8 @@
 		<td>724</td>
 		<td>728</td>
 		<td>730</td>
-		<td>749</td>
-		<td>+ 19</td>
+		<td>750</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -828,8 +828,8 @@
 		<td>472</td>
 		<td>472</td>
 		<td>474</td>
-		<td>493</td>
-		<td>+ 19</td>
+		<td>494</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26452</td>
-		<td>832</td>
+		<td>26456</td>
+		<td>836</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>32</td>
 		<td>37</td>
 		<td>132</td>
-		<td>24</td>
+		<td>27</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5961</td>
+		<td>5964</td>
 		<td>1546</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>135</td>
-		<td>44.16</td>
+		<td>44.18</td>
 		<td>11.45</td>
 		<td></td>
 		<td></td>
