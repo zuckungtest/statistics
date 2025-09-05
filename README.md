@@ -54,8 +54,8 @@
 		<td>724</td>
 		<td>728</td>
 		<td>730</td>
-		<td>751</td>
-		<td>+ 21</td>
+		<td>752</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26530</td>
-		<td>910</td>
+		<td>26531</td>
+		<td>911</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>724</td>
 		<td>728</td>
 		<td>730</td>
-		<td>751</td>
-		<td>+ 21</td>
+		<td>752</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26530</td>
-		<td>910</td>
+		<td>26531</td>
+		<td>911</td>
 	</tr>
 </table>
 </sub></sup>
