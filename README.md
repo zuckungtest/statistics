@@ -21,8 +21,8 @@
 		<td>1064</td>
 		<td>1066</td>
 		<td>1074</td>
-		<td>1074</td>
-		<td></td>
+		<td>1077</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -164,8 +164,8 @@
 		<td>208</td>
 		<td>208</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -219,8 +219,8 @@
 		<td>522</td>
 		<td>522</td>
 		<td>527</td>
-		<td>527</td>
-		<td></td>
+		<td>530</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -230,8 +230,8 @@
 		<td>660</td>
 		<td>660</td>
 		<td>662</td>
-		<td>662</td>
-		<td></td>
+		<td>665</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -296,8 +296,8 @@
 		<td>730</td>
 		<td>734</td>
 		<td>756</td>
-		<td>762</td>
-		<td>+ 6</td>
+		<td>764</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -362,8 +362,8 @@
 		<td>619</td>
 		<td>619</td>
 		<td>628</td>
-		<td>628</td>
-		<td></td>
+		<td>630</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25628</td>
-		<td>8</td>
+		<td>25643</td>
+		<td>23</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1064</td>
 		<td>1066</td>
 		<td>1074</td>
-		<td>1074</td>
-		<td></td>
+		<td>1077</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -619,8 +619,8 @@
 		<td>730</td>
 		<td>734</td>
 		<td>756</td>
-		<td>762</td>
-		<td>+ 6</td>
+		<td>764</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -696,8 +696,19 @@
 		<td>660</td>
 		<td>660</td>
 		<td>662</td>
-		<td>662</td>
-		<td></td>
+		<td>665</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
+		<td>paint.your.ships</td>
+		<td>615</td>
+		<td>619</td>
+		<td>619</td>
+		<td>619</td>
+		<td>619</td>
+		<td>628</td>
+		<td>630</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -708,17 +719,6 @@
 		<td>625</td>
 		<td>629</td>
 		<td>629</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>paint.your.ships</td>
-		<td>615</td>
-		<td>619</td>
-		<td>619</td>
-		<td>619</td>
-		<td>619</td>
-		<td>628</td>
-		<td>628</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -795,8 +795,8 @@
 		<td>522</td>
 		<td>522</td>
 		<td>527</td>
-		<td>527</td>
-		<td></td>
+		<td>530</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -916,8 +916,8 @@
 		<td>208</td>
 		<td>208</td>
 		<td>210</td>
-		<td>210</td>
-		<td></td>
+		<td>212</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25628</td>
-		<td>8</td>
+		<td>25643</td>
+		<td>23</td>
 	</tr>
 </table>
 </sub></sup>
