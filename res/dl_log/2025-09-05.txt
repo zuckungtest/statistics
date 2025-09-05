@@ -40,7 +40,7 @@ v1.0.5-show.reputation | downloads: 210
 v1.0.3-paint.your.ships | downloads: 186
 v1.1.9-captureable.person.ships | downloads: 182
 v1.0.9-bunrodea.missions | downloads: 275
-v1.0.5-better.starts | downloads: 205
+v1.0.5-better.starts | downloads: 206
 v1.0.4-control.station | downloads: 183
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
@@ -55,7 +55,7 @@ v1.1.5-more.boarding.missions | downloads: 270
 v1.1.5-hai.side.mission.unlocker | downloads: 216
 v1.0.6-snowfeather.robotics | downloads: 236
 v1.0.6-human.labels | downloads: 41
-v1.0.5-quarg.farm | downloads: 292
+v1.0.5-quarg.farm | downloads: 294
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 180
@@ -153,7 +153,7 @@ v1.0.4-coalition.shopping | downloads: 1
 v1.0.2-uniques | downloads: 19
 v1.1.4-hai.side.mission.unlocker | downloads: 356
 v1.0.6-additional.command.buttons.radial | downloads: 48
-v1.0.3-no.more.mereti.mines | downloads: 408
+v1.0.3-no.more.mereti.mines | downloads: 409
 v1.0.1-paint.your.ships | downloads: 413
 v1.0.0-paint.your.ships | downloads: 4
 v1.0.5-additional.command.buttons.radial | downloads: 18
@@ -273,7 +273,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 28463
+# TOTAL DOWNLOADS: 28467
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -282,7 +282,7 @@ additional.command.buttons.radial 1095
 automata.destruction.0percent 700
 automata.in.human.space 566
 avgi.licenses 229
-better.starts 749
+better.starts 750
 boss.loot 230
 bunrodea.missions 998
 captureable.person.ships 705
@@ -312,13 +312,13 @@ more.arfectas 798
 more.boarding.missions 863
 more.person.ships 593
 navy.licenses 575
-no.more.mereti.mines 493
+no.more.mereti.mines 494
 outfits.weapon.slot 553
 paint.your.ships 650
 pirate.warlords 3
 planet.map 391
 planet.pluto 190
-quarg.farm 883
+quarg.farm 885
 real.fluff 93
 ship.merging 159
 show.reputation 771
