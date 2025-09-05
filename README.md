@@ -43,8 +43,8 @@
 		<td>544</td>
 		<td>544</td>
 		<td>546</td>
-		<td>546</td>
-		<td></td>
+		<td>547</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -109,8 +109,8 @@
 		<td>486</td>
 		<td>486</td>
 		<td>491</td>
-		<td>491</td>
-		<td></td>
+		<td>492</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>942</td>
 		<td>942</td>
 		<td>949</td>
-		<td>950</td>
-		<td>+ 1</td>
+		<td>951</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -417,8 +417,8 @@
 		<td>678</td>
 		<td>678</td>
 		<td>680</td>
-		<td>680</td>
-		<td></td>
+		<td>681</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25645</td>
-		<td>25</td>
+		<td>25649</td>
+		<td>29</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>942</td>
 		<td>942</td>
 		<td>949</td>
-		<td>950</td>
-		<td>+ 1</td>
+		<td>951</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -674,8 +674,8 @@
 		<td>678</td>
 		<td>678</td>
 		<td>680</td>
-		<td>680</td>
-		<td></td>
+		<td>681</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -773,8 +773,8 @@
 		<td>544</td>
 		<td>544</td>
 		<td>546</td>
-		<td>546</td>
-		<td></td>
+		<td>547</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -806,8 +806,8 @@
 		<td>486</td>
 		<td>486</td>
 		<td>491</td>
-		<td>491</td>
-		<td></td>
+		<td>492</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>25645</td>
-		<td>25</td>
+		<td>25649</td>
+		<td>29</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>32</td>
 		<td>37</td>
 		<td>132</td>
-		<td>18</td>
+		<td>19</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>5955</td>
+		<td>5956</td>
 		<td>1543</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>135</td>
-		<td>44.11</td>
+		<td>44.12</td>
 		<td>11.43</td>
 		<td></td>
 		<td></td>
