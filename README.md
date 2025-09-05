@@ -65,8 +65,8 @@
 		<td>201</td>
 		<td>203</td>
 		<td>210</td>
-		<td>230</td>
-		<td>+ 20</td>
+		<td>232</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26487</td>
-		<td>867</td>
+		<td>26489</td>
+		<td>869</td>
 	</tr>
 </table>
 </sub></sup>
@@ -909,6 +909,17 @@
 		<td>+ 20</td>
 	</tr>
 	<tr>
+		<td>boss.loot</td>
+		<td>189</td>
+		<td>194</td>
+		<td>198</td>
+		<td>201</td>
+		<td>203</td>
+		<td>210</td>
+		<td>232</td>
+		<td>+ 22</td>
+	</tr>
+	<tr>
 		<td>flare.play</td>
 		<td>203</td>
 		<td>208</td>
@@ -918,17 +929,6 @@
 		<td>210</td>
 		<td>231</td>
 		<td>+ 21</td>
-	</tr>
-	<tr>
-		<td>boss.loot</td>
-		<td>189</td>
-		<td>194</td>
-		<td>198</td>
-		<td>201</td>
-		<td>203</td>
-		<td>210</td>
-		<td>230</td>
-		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26487</td>
-		<td>867</td>
+		<td>26489</td>
+		<td>869</td>
 	</tr>
 </table>
 </sub></sup>
