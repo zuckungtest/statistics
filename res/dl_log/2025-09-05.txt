@@ -7,7 +7,7 @@ v1.0.7-coalition.shopping | downloads: 27
 v1.0.5-too.many.asteroids | downloads: 1
 v1.0.4-planet.map | downloads: 3
 v1.0.4-no.more.mereti.mines | downloads: 10
-v1.0.4-jump.gates | downloads: 21
+v1.0.4-jump.gates | downloads: 24
 v1.0.4-gegno.pirates | downloads: 24
 v1.0.3-tribute.republic | downloads: 9
 v1.0.3-more.arfectas | downloads: 3
@@ -19,7 +19,7 @@ v1.0.1-kestrel.unlocks | downloads: 16
 v1.0.1-disable.person.ships | downloads: 1
 v1.0.5-landing.images | downloads: 36
 v1.0.3-landing.images.highres | downloads: 30
-v1.0.25-additional.command.buttons.radial | downloads: 62
+v1.0.25-additional.command.buttons.radial | downloads: 65
 v1.1.9-galactic.capital.investment | downloads: 79
 v1.0.1-ship.merging | downloads: 127
 v1.0.0-ship.merging | downloads: 12
@@ -30,14 +30,14 @@ v1.0.7-combat.ai | downloads: 54
 v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 191
 v1.0.5-combat.ai | downloads: 51
-v1.0.2-flare.play | downloads: 84
-v1.0.7-mission.helper | downloads: 294
+v1.0.2-flare.play | downloads: 86
+v1.0.7-mission.helper | downloads: 296
 v1.0.9-expert.crew.members | downloads: 209
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
-v1.0.7-human.labels | downloads: 122
+v1.0.7-human.labels | downloads: 125
 v1.0.5-show.reputation | downloads: 192
-v1.0.3-paint.your.ships | downloads: 164
+v1.0.3-paint.your.ships | downloads: 166
 v1.1.9-captureable.person.ships | downloads: 162
 v1.0.9-bunrodea.missions | downloads: 255
 v1.0.5-better.starts | downloads: 186
@@ -273,12 +273,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 27639
+# TOTAL DOWNLOADS: 27654
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1074
+additional.command.buttons.radial 1077
 automata.destruction.0percent 679
 automata.in.human.space 546
 avgi.licenses 229
@@ -293,28 +293,28 @@ devil-run.unhidden 66
 disable.person.ships 312
 disable.spaceport.repeatables 466
 expert.crew.members 950
-flare.play 210
+flare.play 212
 free.worlds.5.years.later 369
 galactic.capital.investment 1085
 gegno.pirates 906
 hai.side.mission.unlocker 629
 highrollers.ltd 255
-human.labels 527
-jump.gates 662
+human.labels 530
+jump.gates 665
 kestrel.unlocks 597
 kor.efret.shipyard 818
 landing.images 611
 landing.images.android 349
 landing.images.highres 432
 licenses 489
-mission.helper 762
+mission.helper 764
 more.arfectas 778
 more.boarding.missions 843
 more.person.ships 573
 navy.licenses 575
 no.more.mereti.mines 474
 outfits.weapon.slot 534
-paint.your.ships 628
+paint.your.ships 630
 pirate.warlords 3
 planet.map 371
 planet.pluto 190
