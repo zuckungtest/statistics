@@ -31,7 +31,7 @@ v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 191
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 112
-v1.0.7-mission.helper | downloads: 325
+v1.0.7-mission.helper | downloads: 326
 v1.0.9-expert.crew.members | downloads: 236
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
@@ -76,7 +76,7 @@ v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 162
-v1.0.3-planet.map | downloads: 170
+v1.0.3-planet.map | downloads: 171
 v1.0.8-bunrodea.missions | downloads: 203
 v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
@@ -273,7 +273,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 28768
+# TOTAL DOWNLOADS: 28770
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -307,7 +307,7 @@ landing.images 636
 landing.images.android 349
 landing.images.highres 458
 licenses 519
-mission.helper 793
+mission.helper 794
 more.arfectas 807
 more.boarding.missions 871
 more.person.ships 600
@@ -316,7 +316,7 @@ no.more.mereti.mines 499
 outfits.weapon.slot 558
 paint.your.ships 657
 pirate.warlords 3
-planet.map 396
+planet.map 397
 planet.pluto 190
 quarg.farm 892
 real.fluff 93
