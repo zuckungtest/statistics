@@ -307,8 +307,8 @@
 		<td>773</td>
 		<td>778</td>
 		<td>801</td>
-		<td>807</td>
-		<td>+ 6</td>
+		<td>808</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26759</td>
-		<td>226</td>
+		<td>26760</td>
+		<td>227</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>773</td>
 		<td>778</td>
 		<td>801</td>
-		<td>807</td>
-		<td>+ 6</td>
+		<td>808</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26759</td>
-		<td>226</td>
+		<td>26760</td>
+		<td>227</td>
 	</tr>
 </table>
 </sub></sup>
