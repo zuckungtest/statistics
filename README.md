@@ -296,8 +296,8 @@
 		<td>734</td>
 		<td>756</td>
 		<td>789</td>
-		<td>793</td>
-		<td>+ 4</td>
+		<td>794</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -373,8 +373,8 @@
 		<td>369</td>
 		<td>371</td>
 		<td>392</td>
-		<td>396</td>
-		<td>+ 4</td>
+		<td>397</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26757</td>
-		<td>224</td>
+		<td>26759</td>
+		<td>226</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>734</td>
 		<td>756</td>
 		<td>789</td>
-		<td>793</td>
-		<td>+ 4</td>
+		<td>794</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -883,8 +883,8 @@
 		<td>369</td>
 		<td>371</td>
 		<td>392</td>
-		<td>396</td>
-		<td>+ 4</td>
+		<td>397</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26757</td>
-		<td>224</td>
+		<td>26759</td>
+		<td>226</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>37</td>
 		<td>132</td>
 		<td>37</td>
-		<td>74</td>
+		<td>77</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>11</td>
 		<td>11</td>
 		<td>16</td>
-		<td>13</td>
+		<td>14</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6048</td>
-		<td>1562</td>
+		<td>6051</td>
+		<td>1563</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>136</td>
-		<td>44.47</td>
+		<td>44.49</td>
 		<td>11.49</td>
 		<td></td>
 		<td></td>
