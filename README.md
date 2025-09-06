@@ -65,8 +65,8 @@
 		<td>203</td>
 		<td>210</td>
 		<td>233</td>
-		<td>242</td>
-		<td>+ 9</td>
+		<td>243</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>486</td>
 		<td>491</td>
 		<td>511</td>
-		<td>516</td>
-		<td>+ 5</td>
+		<td>518</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -285,8 +285,8 @@
 		<td>484</td>
 		<td>489</td>
 		<td>511</td>
-		<td>517</td>
-		<td>+ 6</td>
+		<td>519</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -395,8 +395,8 @@
 		<td>132</td>
 		<td>139</td>
 		<td>162</td>
-		<td>167</td>
-		<td>+ 5</td>
+		<td>169</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -406,8 +406,8 @@
 		<td>751</td>
 		<td>753</td>
 		<td>773</td>
-		<td>779</td>
-		<td>+ 6</td>
+		<td>781</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26748</td>
-		<td>215</td>
+		<td>26757</td>
+		<td>224</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>751</td>
 		<td>753</td>
 		<td>773</td>
-		<td>779</td>
-		<td>+ 6</td>
+		<td>781</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -806,8 +806,8 @@
 		<td>484</td>
 		<td>489</td>
 		<td>511</td>
-		<td>517</td>
-		<td>+ 6</td>
+		<td>519</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -817,8 +817,8 @@
 		<td>486</td>
 		<td>491</td>
 		<td>511</td>
-		<td>516</td>
-		<td>+ 5</td>
+		<td>518</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -916,8 +916,8 @@
 		<td>203</td>
 		<td>210</td>
 		<td>233</td>
-		<td>242</td>
-		<td>+ 9</td>
+		<td>243</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -938,8 +938,8 @@
 		<td>132</td>
 		<td>139</td>
 		<td>162</td>
-		<td>167</td>
-		<td>+ 5</td>
+		<td>169</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26748</td>
-		<td>215</td>
+		<td>26757</td>
+		<td>224</td>
 	</tr>
 </table>
 </sub></sup>
