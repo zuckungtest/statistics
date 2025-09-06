@@ -175,8 +175,8 @@
 		<td>1081</td>
 		<td>1085</td>
 		<td>1107</td>
-		<td>1112</td>
-		<td>+ 5</td>
+		<td>1113</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>590</td>
 		<td>597</td>
 		<td>619</td>
-		<td>622</td>
-		<td>+ 3</td>
+		<td>623</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -428,8 +428,8 @@
 		<td>451</td>
 		<td>456</td>
 		<td>479</td>
-		<td>482</td>
-		<td>+ 3</td>
+		<td>483</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26699</td>
-		<td>166</td>
+		<td>26702</td>
+		<td>169</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1081</td>
 		<td>1085</td>
 		<td>1107</td>
-		<td>1112</td>
-		<td>+ 5</td>
+		<td>1113</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -751,8 +751,8 @@
 		<td>590</td>
 		<td>597</td>
 		<td>619</td>
-		<td>622</td>
-		<td>+ 3</td>
+		<td>623</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -850,8 +850,8 @@
 		<td>451</td>
 		<td>456</td>
 		<td>479</td>
-		<td>482</td>
-		<td>+ 3</td>
+		<td>483</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26699</td>
-		<td>166</td>
+		<td>26702</td>
+		<td>169</td>
 	</tr>
 </table>
 </sub></sup>
