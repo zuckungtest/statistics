@@ -54,8 +54,8 @@
 		<td>728</td>
 		<td>730</td>
 		<td>752</td>
-		<td>754</td>
-		<td>+ 2</td>
+		<td>755</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>203</td>
 		<td>210</td>
 		<td>233</td>
-		<td>239</td>
-		<td>+ 6</td>
+		<td>240</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26654</td>
-		<td>121</td>
+		<td>26656</td>
+		<td>123</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>728</td>
 		<td>730</td>
 		<td>752</td>
-		<td>754</td>
-		<td>+ 2</td>
+		<td>755</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -916,8 +916,8 @@
 		<td>203</td>
 		<td>210</td>
 		<td>233</td>
-		<td>239</td>
-		<td>+ 6</td>
+		<td>240</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26654</td>
-		<td>121</td>
+		<td>26656</td>
+		<td>123</td>
 	</tr>
 </table>
 </sub></sup>
