@@ -98,8 +98,8 @@
 		<td>773</td>
 		<td>778</td>
 		<td>802</td>
-		<td>807</td>
-		<td>+ 5</td>
+		<td>808</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26702</td>
-		<td>169</td>
+		<td>26703</td>
+		<td>170</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>773</td>
 		<td>778</td>
 		<td>802</td>
-		<td>807</td>
-		<td>+ 5</td>
+		<td>808</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26702</td>
-		<td>169</td>
+		<td>26703</td>
+		<td>170</td>
 	</tr>
 </table>
 </sub></sup>
