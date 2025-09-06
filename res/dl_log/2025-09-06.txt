@@ -9,7 +9,7 @@ v1.0.4-planet.map | downloads: 14
 v1.0.4-no.more.mereti.mines | downloads: 35
 v1.0.4-jump.gates | downloads: 51
 v1.0.4-gegno.pirates | downloads: 54
-v1.0.3-tribute.republic | downloads: 34
+v1.0.3-tribute.republic | downloads: 36
 v1.0.3-more.arfectas | downloads: 17
 v1.0.3-kor.efret.shipyard | downloads: 47
 v1.0.2-highrollers.ltd | downloads: 46
@@ -273,7 +273,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 28875
+# TOTAL DOWNLOADS: 28877
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -325,6 +325,6 @@ show.reputation 784
 snowfeather.robotics 708
 space.fauna 485
 too.many.asteroids 943
-tribute.republic 432
+tribute.republic 434
 unique.fix 44
 uniques 739
