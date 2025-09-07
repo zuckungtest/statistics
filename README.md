@@ -65,8 +65,8 @@
 		<td>210</td>
 		<td>233</td>
 		<td>248</td>
-		<td>252</td>
-		<td>+ 4</td>
+		<td>254</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26992</td>
-		<td>126</td>
+		<td>26994</td>
+		<td>128</td>
 	</tr>
 </table>
 </sub></sup>
@@ -916,8 +916,8 @@
 		<td>210</td>
 		<td>233</td>
 		<td>248</td>
-		<td>252</td>
-		<td>+ 4</td>
+		<td>254</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26992</td>
-		<td>126</td>
+		<td>26994</td>
+		<td>128</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>132</td>
 		<td>37</td>
 		<td>103</td>
-		<td>50</td>
+		<td>54</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6127</td>
+		<td>6131</td>
 		<td>1581</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>137</td>
-		<td>44.72</td>
+		<td>44.75</td>
 		<td>11.54</td>
 		<td></td>
 		<td></td>
