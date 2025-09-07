@@ -21,8 +21,8 @@
 		<td>1074</td>
 		<td>1096</td>
 		<td>1105</td>
-		<td>1117</td>
-		<td>+ 12</td>
+		<td>1118</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -87,8 +87,8 @@
 		<td>685</td>
 		<td>706</td>
 		<td>711</td>
-		<td>721</td>
-		<td>+ 10</td>
+		<td>722</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>778</td>
 		<td>802</td>
 		<td>812</td>
-		<td>827</td>
-		<td>+ 15</td>
+		<td>828</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -263,8 +263,8 @@
 		<td>611</td>
 		<td>632</td>
 		<td>639</td>
-		<td>648</td>
-		<td>+ 9</td>
+		<td>650</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>432</td>
 		<td>454</td>
 		<td>461</td>
-		<td>469</td>
-		<td>+ 8</td>
+		<td>471</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27301</td>
-		<td>435</td>
+		<td>27308</td>
+		<td>442</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1074</td>
 		<td>1096</td>
 		<td>1105</td>
-		<td>1117</td>
-		<td>+ 12</td>
+		<td>1118</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -597,8 +597,8 @@
 		<td>778</td>
 		<td>802</td>
 		<td>812</td>
-		<td>827</td>
-		<td>+ 15</td>
+		<td>828</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -663,8 +663,8 @@
 		<td>685</td>
 		<td>706</td>
 		<td>711</td>
-		<td>721</td>
-		<td>+ 10</td>
+		<td>722</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -740,8 +740,8 @@
 		<td>611</td>
 		<td>632</td>
 		<td>639</td>
-		<td>648</td>
-		<td>+ 9</td>
+		<td>650</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -861,8 +861,8 @@
 		<td>432</td>
 		<td>454</td>
 		<td>461</td>
-		<td>469</td>
-		<td>+ 8</td>
+		<td>471</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27301</td>
-		<td>435</td>
+		<td>27308</td>
+		<td>442</td>
 	</tr>
 </table>
 </sub></sup>
