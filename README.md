@@ -32,8 +32,8 @@
 		<td>679</td>
 		<td>702</td>
 		<td>707</td>
-		<td>709</td>
-		<td>+ 2</td>
+		<td>711</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -87,8 +87,8 @@
 		<td>685</td>
 		<td>706</td>
 		<td>711</td>
-		<td>713</td>
-		<td>+ 2</td>
+		<td>715</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -252,8 +252,8 @@
 		<td>818</td>
 		<td>841</td>
 		<td>848</td>
-		<td>850</td>
-		<td>+ 2</td>
+		<td>852</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -439,8 +439,8 @@
 		<td>910</td>
 		<td>933</td>
 		<td>943</td>
-		<td>945</td>
-		<td>+ 2</td>
+		<td>947</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26984</td>
-		<td>118</td>
+		<td>26992</td>
+		<td>126</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>910</td>
 		<td>933</td>
 		<td>943</td>
-		<td>945</td>
-		<td>+ 2</td>
+		<td>947</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -586,8 +586,8 @@
 		<td>818</td>
 		<td>841</td>
 		<td>848</td>
-		<td>850</td>
-		<td>+ 2</td>
+		<td>852</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -663,8 +663,19 @@
 		<td>685</td>
 		<td>706</td>
 		<td>711</td>
-		<td>713</td>
-		<td>+ 2</td>
+		<td>715</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>669</td>
+		<td>671</td>
+		<td>673</td>
+		<td>679</td>
+		<td>702</td>
+		<td>707</td>
+		<td>711</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -675,17 +686,6 @@
 		<td>701</td>
 		<td>708</td>
 		<td>710</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>669</td>
-		<td>671</td>
-		<td>673</td>
-		<td>679</td>
-		<td>702</td>
-		<td>707</td>
-		<td>709</td>
 		<td>+ 2</td>
 	</tr>
 	<tr>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26984</td>
-		<td>118</td>
+		<td>26992</td>
+		<td>126</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>132</td>
 		<td>37</td>
 		<td>103</td>
-		<td>47</td>
+		<td>50</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>11</td>
 		<td>16</td>
 		<td>21</td>
-		<td>9</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6124</td>
-		<td>1579</td>
+		<td>6127</td>
+		<td>1581</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>137</td>
-		<td>44.70</td>
-		<td>11.53</td>
+		<td>44.72</td>
+		<td>11.54</td>
 		<td></td>
 		<td></td>
 	</tr>
