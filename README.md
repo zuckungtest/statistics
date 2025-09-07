@@ -263,8 +263,8 @@
 		<td>611</td>
 		<td>632</td>
 		<td>639</td>
-		<td>641</td>
-		<td>+ 2</td>
+		<td>643</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26982</td>
-		<td>116</td>
+		<td>26984</td>
+		<td>118</td>
 	</tr>
 </table>
 </sub></sup>
@@ -740,8 +740,8 @@
 		<td>611</td>
 		<td>632</td>
 		<td>639</td>
-		<td>641</td>
-		<td>+ 2</td>
+		<td>643</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>26982</td>
-		<td>116</td>
+		<td>26984</td>
+		<td>118</td>
 	</tr>
 </table>
 </sub></sup>
