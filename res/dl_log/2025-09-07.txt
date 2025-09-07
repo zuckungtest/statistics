@@ -11,7 +11,7 @@ v1.0.4-jump.gates | downloads: 54
 v1.0.4-gegno.pirates | downloads: 59
 v1.0.3-tribute.republic | downloads: 38
 v1.0.3-more.arfectas | downloads: 19
-v1.0.3-kor.efret.shipyard | downloads: 49
+v1.0.3-kor.efret.shipyard | downloads: 51
 v1.0.2-highrollers.ltd | downloads: 48
 v1.0.2-automata.in.human.space | downloads: 52
 v1.0.2-automata.destruction.0percent | downloads: 29
@@ -38,7 +38,7 @@ v1.0.8-expert.crew.members | downloads: 18
 v1.0.7-human.labels | downloads: 158
 v1.0.5-show.reputation | downloads: 227
 v1.0.3-paint.your.ships | downloads: 196
-v1.1.9-captureable.person.ships | downloads: 190
+v1.1.9-captureable.person.ships | downloads: 192
 v1.0.9-bunrodea.missions | downloads: 291
 v1.0.5-better.starts | downloads: 220
 v1.0.4-control.station | downloads: 183
@@ -105,7 +105,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 600
+v1.0.4-too.many.asteroids | downloads: 602
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -209,7 +209,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 679
+v1.0.1-automata.destruction.0percent | downloads: 681
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -273,19 +273,19 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 28995
+# TOTAL DOWNLOADS: 29003
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1111
-automata.destruction.0percent 709
+automata.destruction.0percent 711
 automata.in.human.space 576
 avgi.licenses 229
 better.starts 764
 boss.loot 252
 bunrodea.missions 1014
-captureable.person.ships 713
+captureable.person.ships 715
 coalition.shopping 814
 combat.ai 525
 control.station 657
@@ -302,7 +302,7 @@ highrollers.ltd 284
 human.labels 563
 jump.gates 695
 kestrel.unlocks 627
-kor.efret.shipyard 850
+kor.efret.shipyard 852
 landing.images 643
 landing.images.android 349
 landing.images.highres 463
@@ -324,7 +324,7 @@ ship.merging 176
 show.reputation 788
 snowfeather.robotics 710
 space.fauna 487
-too.many.asteroids 945
+too.many.asteroids 947
 tribute.republic 436
 unique.fix 44
 uniques 741
