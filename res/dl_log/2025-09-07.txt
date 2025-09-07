@@ -1,9 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.5-control.station | downloads: 45
-v1.0.1-boss.loot | downloads: 63
+v1.0.5-control.station | downloads: 47
+v1.0.1-boss.loot | downloads: 65
 v1.1.3-space.fauna | downloads: 43
 v1.1.2-disable.spaceport.repeatables | downloads: 29
-v1.0.7-coalition.shopping | downloads: 62
+v1.0.7-coalition.shopping | downloads: 64
 v1.0.5-too.many.asteroids | downloads: 14
 v1.0.4-planet.map | downloads: 17
 v1.0.4-no.more.mereti.mines | downloads: 37
@@ -11,7 +11,7 @@ v1.0.4-jump.gates | downloads: 54
 v1.0.4-gegno.pirates | downloads: 59
 v1.0.3-tribute.republic | downloads: 38
 v1.0.3-more.arfectas | downloads: 19
-v1.0.3-kor.efret.shipyard | downloads: 51
+v1.0.3-kor.efret.shipyard | downloads: 53
 v1.0.2-highrollers.ltd | downloads: 48
 v1.0.2-automata.in.human.space | downloads: 52
 v1.0.2-automata.destruction.0percent | downloads: 29
@@ -39,7 +39,7 @@ v1.0.7-human.labels | downloads: 158
 v1.0.5-show.reputation | downloads: 227
 v1.0.3-paint.your.ships | downloads: 196
 v1.1.9-captureable.person.ships | downloads: 192
-v1.0.9-bunrodea.missions | downloads: 291
+v1.0.9-bunrodea.missions | downloads: 293
 v1.0.5-better.starts | downloads: 220
 v1.0.4-control.station | downloads: 183
 v1.0.6-mission.helper | downloads: 64
@@ -55,7 +55,7 @@ v1.1.5-more.boarding.missions | downloads: 285
 v1.1.5-hai.side.mission.unlocker | downloads: 227
 v1.0.6-snowfeather.robotics | downloads: 246
 v1.0.6-human.labels | downloads: 41
-v1.0.5-quarg.farm | downloads: 308
+v1.0.5-quarg.farm | downloads: 310
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 190
@@ -273,7 +273,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 29005
+# TOTAL DOWNLOADS: 29017
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -283,12 +283,12 @@ automata.destruction.0percent 711
 automata.in.human.space 576
 avgi.licenses 229
 better.starts 764
-boss.loot 254
-bunrodea.missions 1014
+boss.loot 256
+bunrodea.missions 1016
 captureable.person.ships 715
-coalition.shopping 814
+coalition.shopping 816
 combat.ai 525
-control.station 657
+control.station 659
 devil-run.unhidden 66
 disable.person.ships 345
 disable.spaceport.repeatables 498
@@ -302,7 +302,7 @@ highrollers.ltd 284
 human.labels 563
 jump.gates 695
 kestrel.unlocks 627
-kor.efret.shipyard 852
+kor.efret.shipyard 854
 landing.images 643
 landing.images.android 349
 landing.images.highres 463
@@ -318,7 +318,7 @@ paint.your.ships 660
 pirate.warlords 3
 planet.map 401
 planet.pluto 190
-quarg.farm 899
+quarg.farm 901
 real.fluff 93
 ship.merging 176
 show.reputation 788
