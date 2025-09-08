@@ -6,7 +6,7 @@ v1.1.2-disable.spaceport.repeatables | downloads: 49
 v1.0.7-coalition.shopping | downloads: 90
 v1.0.5-too.many.asteroids | downloads: 36
 v1.0.4-planet.map | downloads: 37
-v1.0.4-no.more.mereti.mines | downloads: 60
+v1.0.4-no.more.mereti.mines | downloads: 62
 v1.0.4-jump.gates | downloads: 75
 v1.0.4-gegno.pirates | downloads: 79
 v1.0.3-tribute.republic | downloads: 57
@@ -209,7 +209,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 685
+v1.0.1-automata.destruction.0percent | downloads: 687
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -273,13 +273,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 29946
+# TOTAL DOWNLOADS: 29950
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1136
-automata.destruction.0percent 735
+automata.destruction.0percent 737
 automata.in.human.space 596
 avgi.licenses 229
 better.starts 792
@@ -312,7 +312,7 @@ more.arfectas 837
 more.boarding.missions 906
 more.person.ships 624
 navy.licenses 575
-no.more.mereti.mines 525
+no.more.mereti.mines 527
 outfits.weapon.slot 588
 paint.your.ships 680
 pirate.warlords 3
