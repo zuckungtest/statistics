@@ -109,8 +109,8 @@
 		<td>511</td>
 		<td>521</td>
 		<td>532</td>
-		<td>534</td>
-		<td>+ 2</td>
+		<td>536</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27401</td>
-		<td>92</td>
+		<td>27403</td>
+		<td>94</td>
 	</tr>
 </table>
 </sub></sup>
@@ -817,8 +817,8 @@
 		<td>511</td>
 		<td>521</td>
 		<td>532</td>
-		<td>534</td>
-		<td>+ 2</td>
+		<td>536</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27401</td>
-		<td>92</td>
+		<td>27403</td>
+		<td>94</td>
 	</tr>
 </table>
 </sub></sup>
