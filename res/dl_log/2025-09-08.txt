@@ -4,7 +4,7 @@ v1.0.1-boss.loot | downloads: 80
 v1.1.3-space.fauna | downloads: 53
 v1.1.2-disable.spaceport.repeatables | downloads: 39
 v1.0.7-coalition.shopping | downloads: 80
-v1.0.5-too.many.asteroids | downloads: 24
+v1.0.5-too.many.asteroids | downloads: 26
 v1.0.4-planet.map | downloads: 27
 v1.0.4-no.more.mereti.mines | downloads: 50
 v1.0.4-jump.gates | downloads: 65
@@ -15,7 +15,7 @@ v1.0.3-kor.efret.shipyard | downloads: 65
 v1.0.2-highrollers.ltd | downloads: 58
 v1.0.2-automata.in.human.space | downloads: 62
 v1.0.2-automata.destruction.0percent | downloads: 39
-v1.0.1-kestrel.unlocks | downloads: 55
+v1.0.1-kestrel.unlocks | downloads: 57
 v1.0.1-disable.person.ships | downloads: 33
 v1.0.5-landing.images | downloads: 79
 v1.0.3-landing.images.highres | downloads: 72
@@ -31,7 +31,7 @@ v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 191
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 125
-v1.0.7-mission.helper | downloads: 350
+v1.0.7-mission.helper | downloads: 352
 v1.0.9-expert.crew.members | downloads: 259
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
@@ -40,7 +40,7 @@ v1.0.5-show.reputation | downloads: 241
 v1.0.3-paint.your.ships | downloads: 206
 v1.1.9-captureable.person.ships | downloads: 203
 v1.0.9-bunrodea.missions | downloads: 306
-v1.0.5-better.starts | downloads: 236
+v1.0.5-better.starts | downloads: 238
 v1.0.4-control.station | downloads: 183
 v1.0.6-mission.helper | downloads: 64
 v1.0.5-mission.helper | downloads: 9
@@ -273,7 +273,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 29528
+# TOTAL DOWNLOADS: 29536
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -282,7 +282,7 @@ additional.command.buttons.radial 1126
 automata.destruction.0percent 725
 automata.in.human.space 586
 avgi.licenses 229
-better.starts 780
+better.starts 782
 boss.loot 271
 bunrodea.missions 1029
 captureable.person.ships 726
@@ -301,13 +301,13 @@ hai.side.mission.unlocker 669
 highrollers.ltd 294
 human.labels 575
 jump.gates 706
-kestrel.unlocks 637
+kestrel.unlocks 639
 kor.efret.shipyard 866
 landing.images 654
 landing.images.android 349
 landing.images.highres 475
 licenses 541
-mission.helper 818
+mission.helper 820
 more.arfectas 827
 more.boarding.missions 896
 more.person.ships 614
@@ -324,7 +324,7 @@ ship.merging 191
 show.reputation 802
 snowfeather.robotics 726
 space.fauna 497
-too.many.asteroids 958
+too.many.asteroids 960
 tribute.republic 445
 unique.fix 44
 uniques 751
