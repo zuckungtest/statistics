@@ -21,8 +21,8 @@
 		<td>1096</td>
 		<td>1105</td>
 		<td>1118</td>
-		<td>1120</td>
-		<td>+ 2</td>
+		<td>1122</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>702</td>
 		<td>707</td>
 		<td>717</td>
-		<td>719</td>
-		<td>+ 2</td>
+		<td>723</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -340,8 +340,8 @@
 		<td>495</td>
 		<td>500</td>
 		<td>507</td>
-		<td>509</td>
-		<td>+ 2</td>
+		<td>511</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27403</td>
-		<td>94</td>
+		<td>27411</td>
+		<td>102</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1096</td>
 		<td>1105</td>
 		<td>1118</td>
-		<td>1120</td>
-		<td>+ 2</td>
+		<td>1122</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -667,6 +667,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>671</td>
+		<td>673</td>
+		<td>679</td>
+		<td>702</td>
+		<td>707</td>
+		<td>717</td>
+		<td>723</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>678</td>
 		<td>678</td>
@@ -676,17 +687,6 @@
 		<td>719</td>
 		<td>722</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>671</td>
-		<td>673</td>
-		<td>679</td>
-		<td>702</td>
-		<td>707</td>
-		<td>717</td>
-		<td>719</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -828,8 +828,8 @@
 		<td>495</td>
 		<td>500</td>
 		<td>507</td>
-		<td>509</td>
-		<td>+ 2</td>
+		<td>511</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27403</td>
-		<td>94</td>
+		<td>27411</td>
+		<td>102</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>37</td>
 		<td>103</td>
 		<td>109</td>
-		<td>69</td>
+		<td>76</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>16</td>
 		<td>21</td>
 		<td>20</td>
-		<td>8</td>
+		<td>10</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6255</td>
-		<td>1598</td>
+		<td>6262</td>
+		<td>1600</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>138</td>
-		<td>45.33</td>
-		<td>11.58</td>
+		<td>45.38</td>
+		<td>11.59</td>
 		<td></td>
 		<td></td>
 	</tr>
