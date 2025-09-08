@@ -296,8 +296,8 @@
 		<td>789</td>
 		<td>799</td>
 		<td>811</td>
-		<td>830</td>
-		<td>+ 19</td>
+		<td>832</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>801</td>
 		<td>811</td>
 		<td>823</td>
-		<td>837</td>
-		<td>+ 14</td>
+		<td>839</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -439,8 +439,8 @@
 		<td>933</td>
 		<td>943</td>
 		<td>953</td>
-		<td>970</td>
-		<td>+ 17</td>
+		<td>972</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27939</td>
-		<td>630</td>
+		<td>27945</td>
+		<td>636</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>933</td>
 		<td>943</td>
 		<td>953</td>
-		<td>970</td>
-		<td>+ 17</td>
+		<td>972</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -608,8 +608,8 @@
 		<td>801</td>
 		<td>811</td>
 		<td>823</td>
-		<td>837</td>
-		<td>+ 14</td>
+		<td>839</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -619,8 +619,8 @@
 		<td>789</td>
 		<td>799</td>
 		<td>811</td>
-		<td>830</td>
-		<td>+ 19</td>
+		<td>832</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27939</td>
-		<td>630</td>
+		<td>27945</td>
+		<td>636</td>
 	</tr>
 </table>
 </sub></sup>
