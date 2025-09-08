@@ -32,8 +32,8 @@
 		<td>702</td>
 		<td>707</td>
 		<td>717</td>
-		<td>735</td>
-		<td>+ 18</td>
+		<td>737</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -340,8 +340,8 @@
 		<td>495</td>
 		<td>500</td>
 		<td>507</td>
-		<td>525</td>
-		<td>+ 18</td>
+		<td>527</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27935</td>
-		<td>626</td>
+		<td>27939</td>
+		<td>630</td>
 	</tr>
 </table>
 </sub></sup>
@@ -656,6 +656,17 @@
 		<td>+ 14</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>671</td>
+		<td>673</td>
+		<td>679</td>
+		<td>702</td>
+		<td>707</td>
+		<td>717</td>
+		<td>737</td>
+		<td>+ 20</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>678</td>
 		<td>678</td>
@@ -676,17 +687,6 @@
 		<td>722</td>
 		<td>736</td>
 		<td>+ 14</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>671</td>
-		<td>673</td>
-		<td>679</td>
-		<td>702</td>
-		<td>707</td>
-		<td>717</td>
-		<td>735</td>
-		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -828,8 +828,8 @@
 		<td>495</td>
 		<td>500</td>
 		<td>507</td>
-		<td>525</td>
-		<td>+ 18</td>
+		<td>527</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27935</td>
-		<td>626</td>
+		<td>27939</td>
+		<td>630</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>37</td>
 		<td>103</td>
 		<td>109</td>
-		<td>101</td>
+		<td>103</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6287</td>
+		<td>6289</td>
 		<td>1608</td>
 		<td>214</td>
 		<td>21</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>138</td>
-		<td>45.56</td>
+		<td>45.57</td>
 		<td>11.65</td>
 		<td></td>
 		<td></td>
