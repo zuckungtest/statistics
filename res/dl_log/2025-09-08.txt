@@ -6,7 +6,7 @@ v1.1.2-disable.spaceport.repeatables | downloads: 37
 v1.0.7-coalition.shopping | downloads: 78
 v1.0.5-too.many.asteroids | downloads: 22
 v1.0.4-planet.map | downloads: 25
-v1.0.4-no.more.mereti.mines | downloads: 46
+v1.0.4-no.more.mereti.mines | downloads: 48
 v1.0.4-jump.gates | downloads: 63
 v1.0.4-gegno.pirates | downloads: 67
 v1.0.3-tribute.republic | downloads: 45
@@ -39,7 +39,7 @@ v1.0.7-human.labels | downloads: 168
 v1.0.5-show.reputation | downloads: 237
 v1.0.3-paint.your.ships | downloads: 204
 v1.1.9-captureable.person.ships | downloads: 201
-v1.0.9-bunrodea.missions | downloads: 302
+v1.0.9-bunrodea.missions | downloads: 304
 v1.0.5-better.starts | downloads: 230
 v1.0.4-control.station | downloads: 183
 v1.0.6-mission.helper | downloads: 64
@@ -51,9 +51,9 @@ v1.0.1-free.worlds.5.years.later | downloads: 9
 v1.0.23-additional.command.buttons.radial | downloads: 166
 v1.1.8-captureable.person.ships | downloads: 45
 v1.1.7-galactic.capital.investment | downloads: 26
-v1.1.5-more.boarding.missions | downloads: 299
+v1.1.5-more.boarding.missions | downloads: 301
 v1.1.5-hai.side.mission.unlocker | downloads: 236
-v1.0.6-snowfeather.robotics | downloads: 258
+v1.0.6-snowfeather.robotics | downloads: 260
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 320
 v1.0.4-show.reputation | downloads: 54
@@ -273,7 +273,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 29422
+# TOTAL DOWNLOADS: 29430
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -284,7 +284,7 @@ automata.in.human.space 584
 avgi.licenses 229
 better.starts 774
 boss.loot 267
-bunrodea.missions 1025
+bunrodea.missions 1027
 captureable.person.ships 724
 coalition.shopping 830
 combat.ai 536
@@ -309,10 +309,10 @@ landing.images.highres 473
 licenses 539
 mission.helper 814
 more.arfectas 825
-more.boarding.missions 892
+more.boarding.missions 894
 more.person.ships 612
 navy.licenses 575
-no.more.mereti.mines 511
+no.more.mereti.mines 513
 outfits.weapon.slot 576
 paint.your.ships 668
 pirate.warlords 3
@@ -322,7 +322,7 @@ quarg.farm 911
 real.fluff 93
 ship.merging 187
 show.reputation 798
-snowfeather.robotics 722
+snowfeather.robotics 724
 space.fauna 495
 too.many.asteroids 956
 tribute.republic 443
