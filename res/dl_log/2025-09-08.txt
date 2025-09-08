@@ -4,7 +4,7 @@ v1.0.1-boss.loot | downloads: 90
 v1.1.3-space.fauna | downloads: 63
 v1.1.2-disable.spaceport.repeatables | downloads: 49
 v1.0.7-coalition.shopping | downloads: 90
-v1.0.5-too.many.asteroids | downloads: 36
+v1.0.5-too.many.asteroids | downloads: 38
 v1.0.4-planet.map | downloads: 37
 v1.0.4-no.more.mereti.mines | downloads: 62
 v1.0.4-jump.gates | downloads: 75
@@ -31,7 +31,7 @@ v1.0.6-combat.ai | downloads: 10
 v1.0.0-boss.loot | downloads: 191
 v1.0.5-combat.ai | downloads: 51
 v1.0.2-flare.play | downloads: 135
-v1.0.7-mission.helper | downloads: 362
+v1.0.7-mission.helper | downloads: 364
 v1.0.9-expert.crew.members | downloads: 269
 v1.0.10-uniques | downloads: 93
 v1.0.8-expert.crew.members | downloads: 18
@@ -238,7 +238,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 796
+v1.0.2-more.arfectas | downloads: 798
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -273,7 +273,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 29950
+# TOTAL DOWNLOADS: 29956
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -307,8 +307,8 @@ landing.images 664
 landing.images.android 349
 landing.images.highres 485
 licenses 551
-mission.helper 830
-more.arfectas 837
+mission.helper 832
+more.arfectas 839
 more.boarding.missions 906
 more.person.ships 624
 navy.licenses 575
@@ -324,7 +324,7 @@ ship.merging 201
 show.reputation 812
 snowfeather.robotics 736
 space.fauna 507
-too.many.asteroids 970
+too.many.asteroids 972
 tribute.republic 455
 unique.fix 44
 uniques 761
