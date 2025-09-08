@@ -54,8 +54,8 @@
 		<td>752</td>
 		<td>762</td>
 		<td>772</td>
-		<td>780</td>
-		<td>+ 8</td>
+		<td>782</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -241,8 +241,8 @@
 		<td>619</td>
 		<td>625</td>
 		<td>633</td>
-		<td>637</td>
-		<td>+ 4</td>
+		<td>639</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -296,8 +296,8 @@
 		<td>789</td>
 		<td>799</td>
 		<td>811</td>
-		<td>818</td>
-		<td>+ 7</td>
+		<td>820</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -439,8 +439,8 @@
 		<td>933</td>
 		<td>943</td>
 		<td>953</td>
-		<td>958</td>
-		<td>+ 5</td>
+		<td>960</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27517</td>
-		<td>208</td>
+		<td>27525</td>
+		<td>216</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>933</td>
 		<td>943</td>
 		<td>953</td>
-		<td>958</td>
-		<td>+ 5</td>
+		<td>960</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -619,8 +619,8 @@
 		<td>789</td>
 		<td>799</td>
 		<td>811</td>
-		<td>818</td>
-		<td>+ 7</td>
+		<td>820</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -641,8 +641,8 @@
 		<td>752</td>
 		<td>762</td>
 		<td>772</td>
-		<td>780</td>
-		<td>+ 8</td>
+		<td>782</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -751,8 +751,8 @@
 		<td>619</td>
 		<td>625</td>
 		<td>633</td>
-		<td>637</td>
-		<td>+ 4</td>
+		<td>639</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>27517</td>
-		<td>208</td>
+		<td>27525</td>
+		<td>216</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>37</td>
 		<td>103</td>
 		<td>109</td>
-		<td>91</td>
+		<td>95</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>16</td>
 		<td>21</td>
 		<td>20</td>
-		<td>15</td>
+		<td>16</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6277</td>
-		<td>1605</td>
+		<td>6281</td>
+		<td>1606</td>
 		<td>214</td>
 		<td>21</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>138</td>
-		<td>45.49</td>
-		<td>11.63</td>
+		<td>45.51</td>
+		<td>11.64</td>
 		<td></td>
 		<td></td>
 	</tr>
