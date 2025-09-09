@@ -439,8 +439,8 @@
 		<td>943</td>
 		<td>953</td>
 		<td>974</td>
-		<td>983</td>
-		<td>+ 9</td>
+		<td>985</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28354</td>
-		<td>285</td>
+		<td>28356</td>
+		<td>287</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>943</td>
 		<td>953</td>
 		<td>974</td>
-		<td>983</td>
-		<td>+ 9</td>
+		<td>985</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28354</td>
-		<td>285</td>
+		<td>28356</td>
+		<td>287</td>
 	</tr>
 </table>
 </sub></sup>
