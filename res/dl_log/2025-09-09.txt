@@ -31,13 +31,13 @@ v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 140
-v1.0.7-mission.helper | downloads: 374
+v1.0.7-mission.helper | downloads: 376
 v1.0.9-expert.crew.members | downloads: 276
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 192
 v1.0.5-show.reputation | downloads: 263
-v1.0.3-paint.your.ships | downloads: 225
+v1.0.3-paint.your.ships | downloads: 227
 v1.1.9-captureable.person.ships | downloads: 221
 v1.0.9-bunrodea.missions | downloads: 326
 v1.0.5-better.starts | downloads: 258
@@ -209,7 +209,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 691
+v1.0.1-automata.destruction.0percent | downloads: 693
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -273,13 +273,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 30283
+# TOTAL DOWNLOADS: 30289
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1140
-automata.destruction.0percent 744
+automata.destruction.0percent 746
 automata.in.human.space 605
 avgi.licenses 229
 better.starts 802
@@ -307,14 +307,14 @@ landing.images 667
 landing.images.android 349
 landing.images.highres 491
 licenses 557
-mission.helper 844
+mission.helper 846
 more.arfectas 850
 more.boarding.missions 916
 more.person.ships 631
 navy.licenses 575
 no.more.mereti.mines 531
 outfits.weapon.slot 593
-paint.your.ships 689
+paint.your.ships 691
 pirate.warlords 3
 planet.map 428
 planet.pluto 190
