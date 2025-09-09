@@ -32,8 +32,8 @@
 		<td>707</td>
 		<td>717</td>
 		<td>738</td>
-		<td>744</td>
-		<td>+ 6</td>
+		<td>746</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -296,8 +296,8 @@
 		<td>799</td>
 		<td>811</td>
 		<td>837</td>
-		<td>844</td>
-		<td>+ 7</td>
+		<td>846</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -362,8 +362,8 @@
 		<td>658</td>
 		<td>666</td>
 		<td>685</td>
-		<td>689</td>
-		<td>+ 4</td>
+		<td>691</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28271</td>
-		<td>202</td>
+		<td>28277</td>
+		<td>208</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>799</td>
 		<td>811</td>
 		<td>837</td>
-		<td>844</td>
-		<td>+ 7</td>
+		<td>846</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -656,6 +656,17 @@
 		<td>+ 5</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>673</td>
+		<td>679</td>
+		<td>702</td>
+		<td>707</td>
+		<td>717</td>
+		<td>738</td>
+		<td>746</td>
+		<td>+ 8</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>680</td>
 		<td>685</td>
@@ -665,17 +676,6 @@
 		<td>738</td>
 		<td>745</td>
 		<td>+ 7</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>673</td>
-		<td>679</td>
-		<td>702</td>
-		<td>707</td>
-		<td>717</td>
-		<td>738</td>
-		<td>744</td>
-		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -718,8 +718,8 @@
 		<td>658</td>
 		<td>666</td>
 		<td>685</td>
-		<td>689</td>
-		<td>+ 4</td>
+		<td>691</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28271</td>
-		<td>202</td>
+		<td>28277</td>
+		<td>208</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>103</td>
 		<td>109</td>
 		<td>128</td>
-		<td>40</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>21</td>
 		<td>20</td>
 		<td>26</td>
-		<td>6</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6354</td>
-		<td>1622</td>
+		<td>6381</td>
+		<td>1625</td>
 		<td>214</td>
 		<td>26</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>139</td>
-		<td>45.71</td>
-		<td>11.67</td>
+		<td>45.91</td>
+		<td>11.69</td>
 		<td></td>
 		<td></td>
 	</tr>
