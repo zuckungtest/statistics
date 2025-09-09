@@ -12,14 +12,14 @@ v1.0.4-gegno.pirates | downloads: 89
 v1.0.3-tribute.republic | downloads: 64
 v1.0.3-more.arfectas | downloads: 43
 v1.0.3-kor.efret.shipyard | downloads: 88
-v1.0.2-highrollers.ltd | downloads: 78
+v1.0.2-highrollers.ltd | downloads: 80
 v1.0.2-automata.in.human.space | downloads: 82
 v1.0.2-automata.destruction.0percent | downloads: 53
 v1.0.1-kestrel.unlocks | downloads: 73
 v1.0.1-disable.person.ships | downloads: 47
 v1.0.5-landing.images | downloads: 95
 v1.0.3-landing.images.highres | downloads: 91
-v1.0.25-additional.command.buttons.radial | downloads: 126
+v1.0.25-additional.command.buttons.radial | downloads: 128
 v1.1.9-galactic.capital.investment | downloads: 148
 v1.0.1-ship.merging | downloads: 196
 v1.0.0-ship.merging | downloads: 13
@@ -40,7 +40,7 @@ v1.0.5-show.reputation | downloads: 266
 v1.0.3-paint.your.ships | downloads: 228
 v1.1.9-captureable.person.ships | downloads: 222
 v1.0.9-bunrodea.missions | downloads: 327
-v1.0.5-better.starts | downloads: 259
+v1.0.5-better.starts | downloads: 261
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -62,7 +62,7 @@ v1.0.3-more.person.ships | downloads: 221
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
-v1.0.1-outfits.weapon.slot | downloads: 218
+v1.0.1-outfits.weapon.slot | downloads: 220
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
@@ -273,16 +273,16 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 30358
+# TOTAL DOWNLOADS: 30366
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1141
+additional.command.buttons.radial 1143
 automata.destruction.0percent 749
 automata.in.human.space 606
 avgi.licenses 229
-better.starts 803
+better.starts 805
 boss.loot 295
 bunrodea.missions 1050
 captureable.person.ships 746
@@ -298,7 +298,7 @@ free.worlds.5.years.later 370
 galactic.capital.investment 1157
 gegno.pirates 971
 hai.side.mission.unlocker 684
-highrollers.ltd 314
+highrollers.ltd 316
 human.labels 598
 jump.gates 726
 kestrel.unlocks 655
@@ -313,7 +313,7 @@ more.boarding.missions 919
 more.person.ships 634
 navy.licenses 575
 no.more.mereti.mines 534
-outfits.weapon.slot 596
+outfits.weapon.slot 598
 paint.your.ships 692
 pirate.warlords 3
 planet.map 429
