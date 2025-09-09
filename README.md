@@ -120,8 +120,8 @@
 		<td>655</td>
 		<td>668</td>
 		<td>687</td>
-		<td>699</td>
-		<td>+ 12</td>
+		<td>701</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28498</td>
-		<td>429</td>
+		<td>28500</td>
+		<td>431</td>
 	</tr>
 </table>
 </sub></sup>
@@ -707,8 +707,8 @@
 		<td>655</td>
 		<td>668</td>
 		<td>687</td>
-		<td>699</td>
-		<td>+ 12</td>
+		<td>701</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28498</td>
-		<td>429</td>
+		<td>28500</td>
+		<td>431</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>103</td>
 		<td>109</td>
 		<td>128</td>
-		<td>125</td>
+		<td>128</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>21</td>
 		<td>20</td>
 		<td>26</td>
-		<td>30</td>
+		<td>31</td>
 	</tr>
 </table>
 <br>
@@ -1004,10 +1004,10 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6439</td>
-		<td>1646</td>
+		<td>6442</td>
+		<td>1647</td>
 		<td>214</td>
-		<td>30</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>days since start</td>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>139</td>
-		<td>46.32</td>
-		<td>11.84</td>
+		<td>46.35</td>
+		<td>11.85</td>
 		<td></td>
 		<td></td>
 	</tr>
