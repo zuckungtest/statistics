@@ -32,8 +32,8 @@
 		<td>707</td>
 		<td>717</td>
 		<td>738</td>
-		<td>746</td>
-		<td>+ 8</td>
+		<td>748</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -252,8 +252,8 @@
 		<td>848</td>
 		<td>861</td>
 		<td>882</td>
-		<td>886</td>
-		<td>+ 4</td>
+		<td>888</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28301</td>
-		<td>232</td>
+		<td>28305</td>
+		<td>236</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>848</td>
 		<td>861</td>
 		<td>882</td>
-		<td>886</td>
-		<td>+ 4</td>
+		<td>888</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -663,8 +663,8 @@
 		<td>707</td>
 		<td>717</td>
 		<td>738</td>
-		<td>746</td>
-		<td>+ 8</td>
+		<td>748</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28301</td>
-		<td>232</td>
+		<td>28305</td>
+		<td>236</td>
 	</tr>
 </table>
 </sub></sup>
