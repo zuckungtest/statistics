@@ -12,7 +12,7 @@ v1.0.4-gegno.pirates | downloads: 99
 v1.0.3-tribute.republic | downloads: 74
 v1.0.3-more.arfectas | downloads: 49
 v1.0.3-kor.efret.shipyard | downloads: 98
-v1.0.2-highrollers.ltd | downloads: 95
+v1.0.2-highrollers.ltd | downloads: 96
 v1.0.2-automata.in.human.space | downloads: 92
 v1.0.2-automata.destruction.0percent | downloads: 59
 v1.0.1-kestrel.unlocks | downloads: 83
@@ -25,7 +25,7 @@ v1.0.1-ship.merging | downloads: 211
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 172
-v1.0.8-combat.ai | downloads: 212
+v1.0.8-combat.ai | downloads: 215
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
@@ -38,7 +38,7 @@ v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 203
 v1.0.5-show.reputation | downloads: 278
 v1.0.3-paint.your.ships | downloads: 239
-v1.1.9-captureable.person.ships | downloads: 230
+v1.1.9-captureable.person.ships | downloads: 233
 v1.0.9-bunrodea.missions | downloads: 337
 v1.0.5-better.starts | downloads: 270
 v1.0.4-control.station | downloads: 184
@@ -273,7 +273,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 30783
+# TOTAL DOWNLOADS: 30790
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -285,9 +285,9 @@ avgi.licenses 229
 better.starts 814
 boss.loot 304
 bunrodea.missions 1060
-captureable.person.ships 754
+captureable.person.ships 757
 coalition.shopping 862
-combat.ai 572
+combat.ai 575
 control.station 712
 devil-run.unhidden 66
 disable.person.ships 379
@@ -298,7 +298,7 @@ free.worlds.5.years.later 370
 galactic.capital.investment 1169
 gegno.pirates 981
 hai.side.mission.unlocker 692
-highrollers.ltd 331
+highrollers.ltd 332
 human.labels 608
 jump.gates 734
 kestrel.unlocks 665
