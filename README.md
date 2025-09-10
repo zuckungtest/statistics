@@ -54,8 +54,8 @@
 		<td>772</td>
 		<td>798</td>
 		<td>808</td>
-		<td>824</td>
-		<td>+ 16</td>
+		<td>826</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -175,8 +175,8 @@
 		<td>1129</td>
 		<td>1149</td>
 		<td>1160</td>
-		<td>1172</td>
-		<td>+ 12</td>
+		<td>1174</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -263,8 +263,8 @@
 		<td>650</td>
 		<td>666</td>
 		<td>673</td>
-		<td>683</td>
-		<td>+ 10</td>
+		<td>685</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>471</td>
 		<td>487</td>
 		<td>499</td>
-		<td>506</td>
-		<td>+ 7</td>
+		<td>508</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -285,8 +285,8 @@
 		<td>536</td>
 		<td>554</td>
 		<td>563</td>
-		<td>575</td>
-		<td>+ 12</td>
+		<td>577</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>811</td>
 		<td>837</td>
 		<td>852</td>
-		<td>864</td>
-		<td>+ 12</td>
+		<td>866</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -318,8 +318,8 @@
 		<td>890</td>
 		<td>912</td>
 		<td>922</td>
-		<td>937</td>
-		<td>+ 15</td>
+		<td>939</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -329,8 +329,8 @@
 		<td>609</td>
 		<td>626</td>
 		<td>637</td>
-		<td>645</td>
-		<td>+ 8</td>
+		<td>647</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -439,8 +439,8 @@
 		<td>953</td>
 		<td>974</td>
 		<td>992</td>
-		<td>1000</td>
-		<td>+ 8</td>
+		<td>1002</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28950</td>
-		<td>450</td>
+		<td>28968</td>
+		<td>468</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1129</td>
 		<td>1149</td>
 		<td>1160</td>
-		<td>1172</td>
-		<td>+ 12</td>
+		<td>1174</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>953</td>
 		<td>974</td>
 		<td>992</td>
-		<td>1000</td>
-		<td>+ 8</td>
+		<td>1002</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>890</td>
 		<td>912</td>
 		<td>922</td>
-		<td>937</td>
-		<td>+ 15</td>
+		<td>939</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -619,8 +619,8 @@
 		<td>811</td>
 		<td>837</td>
 		<td>852</td>
-		<td>864</td>
-		<td>+ 12</td>
+		<td>866</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -641,8 +641,8 @@
 		<td>772</td>
 		<td>798</td>
 		<td>808</td>
-		<td>824</td>
-		<td>+ 16</td>
+		<td>826</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -740,8 +740,8 @@
 		<td>650</td>
 		<td>666</td>
 		<td>673</td>
-		<td>683</td>
-		<td>+ 10</td>
+		<td>685</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -762,8 +762,8 @@
 		<td>609</td>
 		<td>626</td>
 		<td>637</td>
-		<td>645</td>
-		<td>+ 8</td>
+		<td>647</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -817,8 +817,8 @@
 		<td>536</td>
 		<td>554</td>
 		<td>563</td>
-		<td>575</td>
-		<td>+ 12</td>
+		<td>577</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -861,8 +861,8 @@
 		<td>471</td>
 		<td>487</td>
 		<td>499</td>
-		<td>506</td>
-		<td>+ 7</td>
+		<td>508</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28950</td>
-		<td>450</td>
+		<td>28968</td>
+		<td>468</td>
 	</tr>
 </table>
 </sub></sup>
