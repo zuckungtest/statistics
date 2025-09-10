@@ -87,8 +87,8 @@
 		<td>722</td>
 		<td>738</td>
 		<td>749</td>
-		<td>754</td>
-		<td>+ 5</td>
+		<td>757</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -109,8 +109,8 @@
 		<td>532</td>
 		<td>550</td>
 		<td>567</td>
-		<td>572</td>
-		<td>+ 5</td>
+		<td>575</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -208,8 +208,8 @@
 		<td>290</td>
 		<td>307</td>
 		<td>319</td>
-		<td>331</td>
-		<td>+ 12</td>
+		<td>332</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28771</td>
-		<td>271</td>
+		<td>28778</td>
+		<td>278</td>
 	</tr>
 </table>
 </sub></sup>
@@ -674,8 +674,8 @@
 		<td>722</td>
 		<td>738</td>
 		<td>749</td>
-		<td>754</td>
-		<td>+ 5</td>
+		<td>757</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -806,8 +806,8 @@
 		<td>532</td>
 		<td>550</td>
 		<td>567</td>
-		<td>572</td>
-		<td>+ 5</td>
+		<td>575</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -905,8 +905,8 @@
 		<td>290</td>
 		<td>307</td>
 		<td>319</td>
-		<td>331</td>
-		<td>+ 12</td>
+		<td>332</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28771</td>
-		<td>271</td>
+		<td>28778</td>
+		<td>278</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>109</td>
 		<td>128</td>
 		<td>140</td>
-		<td>45</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>20</td>
 		<td>26</td>
 		<td>33</td>
-		<td>12</td>
+		<td>17</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6499</td>
-		<td>1661</td>
+		<td>6513</td>
+		<td>1666</td>
 		<td>214</td>
 		<td>33</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>140</td>
-		<td>46.42</td>
-		<td>11.86</td>
+		<td>46.52</td>
+		<td>11.90</td>
 		<td></td>
 		<td></td>
 	</tr>
