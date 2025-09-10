@@ -120,8 +120,8 @@
 		<td>668</td>
 		<td>687</td>
 		<td>701</td>
-		<td>707</td>
-		<td>+ 6</td>
+		<td>709</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>247</td>
 		<td>262</td>
 		<td>270</td>
-		<td>275</td>
-		<td>+ 5</td>
+		<td>277</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -219,8 +219,8 @@
 		<td>571</td>
 		<td>591</td>
 		<td>601</td>
-		<td>605</td>
-		<td>+ 4</td>
+		<td>607</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28706</td>
-		<td>206</td>
+		<td>28712</td>
+		<td>212</td>
 	</tr>
 </table>
 </sub></sup>
@@ -707,8 +707,8 @@
 		<td>668</td>
 		<td>687</td>
 		<td>701</td>
-		<td>707</td>
-		<td>+ 6</td>
+		<td>709</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -795,8 +795,8 @@
 		<td>571</td>
 		<td>591</td>
 		<td>601</td>
-		<td>605</td>
-		<td>+ 4</td>
+		<td>607</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -927,8 +927,8 @@
 		<td>247</td>
 		<td>262</td>
 		<td>270</td>
-		<td>275</td>
-		<td>+ 5</td>
+		<td>277</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28706</td>
-		<td>206</td>
+		<td>28712</td>
+		<td>212</td>
 	</tr>
 </table>
 </sub></sup>
