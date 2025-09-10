@@ -43,8 +43,8 @@
 		<td>582</td>
 		<td>599</td>
 		<td>609</td>
-		<td>616</td>
-		<td>+ 7</td>
+		<td>618</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -219,8 +219,8 @@
 		<td>571</td>
 		<td>591</td>
 		<td>601</td>
-		<td>609</td>
-		<td>+ 8</td>
+		<td>611</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -373,8 +373,8 @@
 		<td>409</td>
 		<td>424</td>
 		<td>432</td>
-		<td>439</td>
-		<td>+ 7</td>
+		<td>441</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -417,8 +417,8 @@
 		<td>719</td>
 		<td>738</td>
 		<td>745</td>
-		<td>750</td>
-		<td>+ 5</td>
+		<td>752</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28835</td>
-		<td>335</td>
+		<td>28843</td>
+		<td>343</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>719</td>
 		<td>738</td>
 		<td>745</td>
-		<td>750</td>
-		<td>+ 5</td>
+		<td>752</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -773,8 +773,19 @@
 		<td>582</td>
 		<td>599</td>
 		<td>609</td>
-		<td>616</td>
-		<td>+ 7</td>
+		<td>618</td>
+		<td>+ 9</td>
+	</tr>
+	<tr>
+		<td>human.labels</td>
+		<td>527</td>
+		<td>552</td>
+		<td>561</td>
+		<td>571</td>
+		<td>591</td>
+		<td>601</td>
+		<td>611</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -785,17 +796,6 @@
 		<td>589</td>
 		<td>602</td>
 		<td>610</td>
-		<td>+ 8</td>
-	</tr>
-	<tr>
-		<td>human.labels</td>
-		<td>527</td>
-		<td>552</td>
-		<td>561</td>
-		<td>571</td>
-		<td>591</td>
-		<td>601</td>
-		<td>609</td>
 		<td>+ 8</td>
 	</tr>
 	<tr>
@@ -883,8 +883,8 @@
 		<td>409</td>
 		<td>424</td>
 		<td>432</td>
-		<td>439</td>
-		<td>+ 7</td>
+		<td>441</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>28835</td>
-		<td>335</td>
+		<td>28843</td>
+		<td>343</td>
 	</tr>
 </table>
 </sub></sup>
