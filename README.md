@@ -21,8 +21,8 @@
 		<td>1137</td>
 		<td>1146</td>
 		<td>1156</td>
-		<td>1157</td>
-		<td>+ 1</td>
+		<td>1159</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -175,8 +175,8 @@
 		<td>1149</td>
 		<td>1160</td>
 		<td>1176</td>
-		<td>1181</td>
-		<td>+ 5</td>
+		<td>1182</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -318,8 +318,8 @@
 		<td>912</td>
 		<td>922</td>
 		<td>939</td>
-		<td>942</td>
-		<td>+ 3</td>
+		<td>943</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29057</td>
-		<td>75</td>
+		<td>29061</td>
+		<td>79</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1149</td>
 		<td>1160</td>
 		<td>1176</td>
-		<td>1181</td>
-		<td>+ 5</td>
+		<td>1182</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>1137</td>
 		<td>1146</td>
 		<td>1156</td>
-		<td>1157</td>
-		<td>+ 1</td>
+		<td>1159</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -575,8 +575,8 @@
 		<td>912</td>
 		<td>922</td>
 		<td>939</td>
-		<td>942</td>
-		<td>+ 3</td>
+		<td>943</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29057</td>
-		<td>75</td>
+		<td>29061</td>
+		<td>79</td>
 	</tr>
 </table>
 </sub></sup>
