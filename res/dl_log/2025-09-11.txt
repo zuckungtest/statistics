@@ -25,13 +25,13 @@ v1.0.1-ship.merging | downloads: 226
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 185
-v1.0.8-combat.ai | downloads: 224
+v1.0.8-combat.ai | downloads: 226
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 162
-v1.0.7-mission.helper | downloads: 401
+v1.0.7-mission.helper | downloads: 403
 v1.0.9-expert.crew.members | downloads: 308
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
@@ -55,7 +55,7 @@ v1.1.5-more.boarding.missions | downloads: 354
 v1.1.5-hai.side.mission.unlocker | downloads: 269
 v1.0.6-snowfeather.robotics | downloads: 298
 v1.0.6-human.labels | downloads: 41
-v1.0.5-quarg.farm | downloads: 359
+v1.0.5-quarg.farm | downloads: 361
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
 v1.0.3-more.person.ships | downloads: 237
@@ -238,7 +238,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 814
+v1.0.2-more.arfectas | downloads: 816
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -273,7 +273,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 31244
+# TOTAL DOWNLOADS: 31252
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -287,7 +287,7 @@ boss.loot 314
 bunrodea.missions 1071
 captureable.person.ships 769
 coalition.shopping 874
-combat.ai 584
+combat.ai 586
 control.station 727
 devil-run.unhidden 66
 disable.person.ships 383
@@ -307,8 +307,8 @@ landing.images 690
 landing.images.android 349
 landing.images.highres 513
 licenses 584
-mission.helper 871
-more.arfectas 869
+mission.helper 873
+more.arfectas 871
 more.boarding.missions 947
 more.person.ships 650
 navy.licenses 575
@@ -318,7 +318,7 @@ paint.your.ships 719
 pirate.warlords 3
 planet.map 447
 planet.pluto 190
-quarg.farm 950
+quarg.farm 952
 real.fluff 93
 ship.merging 239
 show.reputation 851
