@@ -19,8 +19,8 @@ v1.0.1-kestrel.unlocks | downloads: 85
 v1.0.1-disable.person.ships | downloads: 55
 v1.0.5-landing.images | downloads: 111
 v1.0.3-landing.images.highres | downloads: 106
-v1.0.25-additional.command.buttons.radial | downloads: 142
-v1.1.9-galactic.capital.investment | downloads: 172
+v1.0.25-additional.command.buttons.radial | downloads: 144
+v1.1.9-galactic.capital.investment | downloads: 173
 v1.0.1-ship.merging | downloads: 224
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
@@ -51,7 +51,7 @@ v1.0.1-free.worlds.5.years.later | downloads: 10
 v1.0.23-additional.command.buttons.radial | downloads: 167
 v1.1.8-captureable.person.ships | downloads: 46
 v1.1.7-galactic.capital.investment | downloads: 27
-v1.1.5-more.boarding.missions | downloads: 349
+v1.1.5-more.boarding.missions | downloads: 350
 v1.1.5-hai.side.mission.unlocker | downloads: 267
 v1.0.6-snowfeather.robotics | downloads: 294
 v1.0.6-human.labels | downloads: 41
@@ -273,12 +273,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 31069
+# TOTAL DOWNLOADS: 31073
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1157
+additional.command.buttons.radial 1159
 automata.destruction.0percent 761
 automata.in.human.space 622
 avgi.licenses 229
@@ -295,7 +295,7 @@ disable.spaceport.repeatables 537
 expert.crew.members 1042
 flare.play 284
 free.worlds.5.years.later 370
-galactic.capital.investment 1181
+galactic.capital.investment 1182
 gegno.pirates 990
 hai.side.mission.unlocker 698
 highrollers.ltd 334
@@ -309,7 +309,7 @@ landing.images.highres 509
 licenses 578
 mission.helper 869
 more.arfectas 867
-more.boarding.missions 942
+more.boarding.missions 943
 more.person.ships 648
 navy.licenses 575
 no.more.mereti.mines 544
