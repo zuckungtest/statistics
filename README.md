@@ -120,8 +120,8 @@
 		<td>701</td>
 		<td>721</td>
 		<td>734</td>
-		<td>738</td>
-		<td>+ 4</td>
+		<td>739</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -219,8 +219,8 @@
 		<td>601</td>
 		<td>614</td>
 		<td>621</td>
-		<td>625</td>
-		<td>+ 4</td>
+		<td>626</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -230,8 +230,8 @@
 		<td>729</td>
 		<td>737</td>
 		<td>752</td>
-		<td>758</td>
-		<td>+ 6</td>
+		<td>759</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29583</td>
-		<td>181</td>
+		<td>29586</td>
+		<td>184</td>
 	</tr>
 </table>
 </sub></sup>
@@ -696,8 +696,8 @@
 		<td>729</td>
 		<td>737</td>
 		<td>752</td>
-		<td>758</td>
-		<td>+ 6</td>
+		<td>759</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -707,8 +707,8 @@
 		<td>701</td>
 		<td>721</td>
 		<td>734</td>
-		<td>738</td>
-		<td>+ 4</td>
+		<td>739</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -784,8 +784,8 @@
 		<td>601</td>
 		<td>614</td>
 		<td>621</td>
-		<td>625</td>
-		<td>+ 4</td>
+		<td>626</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29583</td>
-		<td>181</td>
+		<td>29586</td>
+		<td>184</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>140</td>
 		<td>171</td>
 		<td>230</td>
-		<td>90</td>
+		<td>113</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>33</td>
 		<td>32</td>
 		<td>36</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6945</td>
-		<td>1728</td>
+		<td>6968</td>
+		<td>1729</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>142</td>
-		<td>48.91</td>
-		<td>12.17</td>
+		<td>49.07</td>
+		<td>12.18</td>
 		<td></td>
 		<td></td>
 	</tr>
