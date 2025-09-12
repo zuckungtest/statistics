@@ -32,8 +32,8 @@
 		<td>752</td>
 		<td>760</td>
 		<td>767</td>
-		<td>770</td>
-		<td>+ 3</td>
+		<td>772</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>609</td>
 		<td>621</td>
 		<td>628</td>
-		<td>629</td>
-		<td>+ 1</td>
+		<td>631</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -142,8 +142,8 @@
 		<td>530</td>
 		<td>536</td>
 		<td>541</td>
-		<td>542</td>
-		<td>+ 1</td>
+		<td>544</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -230,8 +230,8 @@
 		<td>729</td>
 		<td>737</td>
 		<td>752</td>
-		<td>753</td>
-		<td>+ 1</td>
+		<td>755</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -329,8 +329,8 @@
 		<td>637</td>
 		<td>647</td>
 		<td>652</td>
-		<td>653</td>
-		<td>+ 1</td>
+		<td>655</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29455</td>
-		<td>53</td>
+		<td>29465</td>
+		<td>63</td>
 	</tr>
 </table>
 </sub></sup>
@@ -674,8 +674,8 @@
 		<td>752</td>
 		<td>760</td>
 		<td>767</td>
-		<td>770</td>
-		<td>+ 3</td>
+		<td>772</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -696,8 +696,8 @@
 		<td>729</td>
 		<td>737</td>
 		<td>752</td>
-		<td>753</td>
-		<td>+ 1</td>
+		<td>755</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -762,8 +762,8 @@
 		<td>637</td>
 		<td>647</td>
 		<td>652</td>
-		<td>653</td>
-		<td>+ 1</td>
+		<td>655</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -773,8 +773,8 @@
 		<td>609</td>
 		<td>621</td>
 		<td>628</td>
-		<td>629</td>
-		<td>+ 1</td>
+		<td>631</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -839,8 +839,8 @@
 		<td>530</td>
 		<td>536</td>
 		<td>541</td>
-		<td>542</td>
-		<td>+ 1</td>
+		<td>544</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29455</td>
-		<td>53</td>
+		<td>29465</td>
+		<td>63</td>
 	</tr>
 </table>
 </sub></sup>
