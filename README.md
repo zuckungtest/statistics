@@ -296,8 +296,8 @@
 		<td>852</td>
 		<td>868</td>
 		<td>879</td>
-		<td>883</td>
-		<td>+ 4</td>
+		<td>884</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29586</td>
-		<td>184</td>
+		<td>29587</td>
+		<td>185</td>
 	</tr>
 </table>
 </sub></sup>
@@ -590,6 +590,17 @@
 		<td>+ 7</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>799</td>
+		<td>811</td>
+		<td>837</td>
+		<td>852</td>
+		<td>868</td>
+		<td>879</td>
+		<td>884</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>coalition.shopping</td>
 		<td>812</td>
 		<td>828</td>
@@ -599,17 +610,6 @@
 		<td>878</td>
 		<td>884</td>
 		<td>+ 6</td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>799</td>
-		<td>811</td>
-		<td>837</td>
-		<td>852</td>
-		<td>868</td>
-		<td>879</td>
-		<td>883</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29586</td>
-		<td>184</td>
+		<td>29587</td>
+		<td>185</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>140</td>
 		<td>171</td>
 		<td>230</td>
-		<td>113</td>
+		<td>114</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6968</td>
+		<td>6969</td>
 		<td>1729</td>
 		<td>230</td>
 		<td>36</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>142</td>
-		<td>49.07</td>
+		<td>49.08</td>
 		<td>12.18</td>
 		<td></td>
 		<td></td>
