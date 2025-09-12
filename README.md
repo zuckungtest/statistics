@@ -32,8 +32,8 @@
 		<td>752</td>
 		<td>760</td>
 		<td>767</td>
-		<td>774</td>
-		<td>+ 7</td>
+		<td>775</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -65,8 +65,8 @@
 		<td>298</td>
 		<td>310</td>
 		<td>319</td>
-		<td>323</td>
-		<td>+ 4</td>
+		<td>324</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -395,8 +395,8 @@
 		<td>212</td>
 		<td>230</td>
 		<td>247</td>
-		<td>251</td>
-		<td>+ 4</td>
+		<td>253</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29579</td>
-		<td>177</td>
+		<td>29583</td>
+		<td>181</td>
 	</tr>
 </table>
 </sub></sup>
@@ -674,8 +674,8 @@
 		<td>752</td>
 		<td>760</td>
 		<td>767</td>
-		<td>774</td>
-		<td>+ 7</td>
+		<td>775</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -916,8 +916,8 @@
 		<td>298</td>
 		<td>310</td>
 		<td>319</td>
-		<td>323</td>
-		<td>+ 4</td>
+		<td>324</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -938,8 +938,8 @@
 		<td>212</td>
 		<td>230</td>
 		<td>247</td>
-		<td>251</td>
-		<td>+ 4</td>
+		<td>253</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29579</td>
-		<td>177</td>
+		<td>29583</td>
+		<td>181</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>140</td>
 		<td>171</td>
 		<td>230</td>
-		<td>52</td>
+		<td>90</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>33</td>
 		<td>32</td>
 		<td>36</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>6907</td>
-		<td>1727</td>
+		<td>6945</td>
+		<td>1728</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>142</td>
-		<td>48.64</td>
-		<td>12.16</td>
+		<td>48.91</td>
+		<td>12.17</td>
 		<td></td>
 		<td></td>
 	</tr>
