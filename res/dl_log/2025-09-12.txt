@@ -7,7 +7,7 @@ v1.0.7-coalition.shopping | downloads: 132
 v1.0.5-too.many.asteroids | downloads: 58
 v1.0.4-planet.map | downloads: 56
 v1.0.4-no.more.mereti.mines | downloads: 88
-v1.0.4-jump.gates | downloads: 118
+v1.0.4-jump.gates | downloads: 120
 v1.0.4-gegno.pirates | downloads: 129
 v1.0.3-tribute.republic | downloads: 85
 v1.0.3-more.arfectas | downloads: 58
@@ -31,8 +31,8 @@ v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 167
-v1.0.7-mission.helper | downloads: 414
-v1.0.9-expert.crew.members | downloads: 315
+v1.0.7-mission.helper | downloads: 416
+v1.0.9-expert.crew.members | downloads: 317
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 221
@@ -58,7 +58,7 @@ v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 374
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
-v1.0.3-more.person.ships | downloads: 244
+v1.0.3-more.person.ships | downloads: 246
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
@@ -209,7 +209,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 705
+v1.0.1-automata.destruction.0percent | downloads: 707
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -273,13 +273,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 272
-# TOTAL DOWNLOADS: 31599
+# TOTAL DOWNLOADS: 31609
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1168
-automata.destruction.0percent 775
+automata.destruction.0percent 777
 automata.in.human.space 634
 avgi.licenses 229
 better.starts 841
@@ -292,7 +292,7 @@ control.station 739
 devil-run.unhidden 66
 disable.person.ships 388
 disable.spaceport.repeatables 546
-expert.crew.members 1057
+expert.crew.members 1059
 flare.play 293
 free.worlds.5.years.later 370
 galactic.capital.investment 1197
@@ -300,17 +300,17 @@ gegno.pirates 1011
 hai.side.mission.unlocker 706
 highrollers.ltd 345
 human.labels 626
-jump.gates 759
+jump.gates 761
 kestrel.unlocks 681
 kor.efret.shipyard 921
 landing.images 698
 landing.images.android 349
 landing.images.highres 521
 licenses 594
-mission.helper 884
+mission.helper 886
 more.arfectas 878
 more.boarding.missions 956
-more.person.ships 657
+more.person.ships 659
 navy.licenses 575
 no.more.mereti.mines 553
 outfits.weapon.slot 621
