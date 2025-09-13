@@ -9,7 +9,7 @@ v1.0.5-too.many.asteroids | downloads: 65
 v1.0.4-planet.map | downloads: 64
 v1.0.4-no.more.mereti.mines | downloads: 97
 v1.0.4-jump.gates | downloads: 134
-v1.0.4-gegno.pirates | downloads: 139
+v1.0.4-gegno.pirates | downloads: 141
 v1.0.3-tribute.republic | downloads: 94
 v1.0.3-more.arfectas | downloads: 65
 v1.0.3-kor.efret.shipyard | downloads: 133
@@ -20,7 +20,7 @@ v1.0.1-kestrel.unlocks | downloads: 112
 v1.0.1-disable.person.ships | downloads: 69
 v1.0.5-landing.images | downloads: 135
 v1.0.3-landing.images.highres | downloads: 129
-v1.0.25-additional.command.buttons.radial | downloads: 167
+v1.0.25-additional.command.buttons.radial | downloads: 169
 v1.1.9-galactic.capital.investment | downloads: 207
 v1.0.1-ship.merging | downloads: 251
 v1.0.0-ship.merging | downloads: 13
@@ -54,7 +54,7 @@ v1.1.8-captureable.person.ships | downloads: 46
 v1.1.7-galactic.capital.investment | downloads: 27
 v1.1.5-more.boarding.missions | downloads: 380
 v1.1.5-hai.side.mission.unlocker | downloads: 284
-v1.0.6-snowfeather.robotics | downloads: 319
+v1.0.6-snowfeather.robotics | downloads: 320
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 390
 v1.0.4-show.reputation | downloads: 54
@@ -210,7 +210,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 711
+v1.0.1-automata.destruction.0percent | downloads: 713
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -262,7 +262,7 @@ v1.0-kor.efret.shipyard | downloads: 155
 v1.0-gegno.pirates | downloads: 1
 v1.0-free.worlds.5.years.later | downloads: 360
 v1.0-expert.crew.members | downloads: 4
-v1.0-disable.person.ships | downloads: 328
+v1.0-disable.person.ships | downloads: 330
 v1.0-devil-run.unhidden | downloads: 1
 v1.0-coalition.shopping | downloads: 1
 v1.0-bunrodea.missions | downloads: 4
@@ -274,13 +274,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 273
-# TOTAL DOWNLOADS: 32099
+# TOTAL DOWNLOADS: 32108
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1182
-automata.destruction.0percent 789
+additional.command.buttons.radial 1184
+automata.destruction.0percent 791
 automata.in.human.space 644
 avgi.licenses 229
 better.starts 857
@@ -291,13 +291,13 @@ coalition.shopping 901
 combat.ai 606
 control.station 756
 devil-run.unhidden 66
-disable.person.ships 397
+disable.person.ships 399
 disable.spaceport.repeatables 556
 expert.crew.members 1071
 flare.play 301
 free.worlds.5.years.later 370
 galactic.capital.investment 1216
-gegno.pirates 1021
+gegno.pirates 1023
 hai.side.mission.unlocker 715
 highrollers.ltd 360
 human.labels 638
@@ -323,7 +323,7 @@ quarg.farm 981
 real.fluff 93
 ship.merging 264
 show.reputation 871
-snowfeather.robotics 783
+snowfeather.robotics 784
 space.fauna 547
 too.many.asteroids 1030
 tribute.republic 492
