@@ -153,8 +153,8 @@
 		<td>1039</td>
 		<td>1054</td>
 		<td>1063</td>
-		<td>1073</td>
-		<td>+ 10</td>
+		<td>1074</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -274,8 +274,8 @@
 		<td>508</td>
 		<td>515</td>
 		<td>528</td>
-		<td>534</td>
-		<td>+ 6</td>
+		<td>535</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -461,8 +461,8 @@
 		<td>786</td>
 		<td>800</td>
 		<td>807</td>
-		<td>815</td>
-		<td>+ 8</td>
+		<td>816</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30183</td>
-		<td>378</td>
+		<td>30186</td>
+		<td>381</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>1039</td>
 		<td>1054</td>
 		<td>1063</td>
-		<td>1073</td>
-		<td>+ 10</td>
+		<td>1074</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -652,8 +652,8 @@
 		<td>786</td>
 		<td>800</td>
 		<td>807</td>
-		<td>815</td>
-		<td>+ 8</td>
+		<td>816</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -861,8 +861,8 @@
 		<td>508</td>
 		<td>515</td>
 		<td>528</td>
-		<td>534</td>
-		<td>+ 6</td>
+		<td>535</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30183</td>
-		<td>378</td>
+		<td>30186</td>
+		<td>381</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>171</td>
 		<td>230</td>
 		<td>150</td>
-		<td>111</td>
+		<td>116</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7116</td>
+		<td>7121</td>
 		<td>1759</td>
 		<td>230</td>
 		<td>36</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>143</td>
-		<td>49.76</td>
+		<td>49.80</td>
 		<td>12.30</td>
 		<td></td>
 		<td></td>
