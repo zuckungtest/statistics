@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.12-uniques | downloads: 3
+v1.0.12-uniques | downloads: 4
 v1.0.5-control.station | downloads: 145
 v1.0.1-boss.loot | downloads: 145
 v1.1.3-space.fauna | downloads: 105
@@ -19,7 +19,7 @@ v1.0.2-automata.destruction.0percent | downloads: 79
 v1.0.1-kestrel.unlocks | downloads: 114
 v1.0.1-disable.person.ships | downloads: 71
 v1.0.5-landing.images | downloads: 137
-v1.0.3-landing.images.highres | downloads: 131
+v1.0.3-landing.images.highres | downloads: 132
 v1.0.25-additional.command.buttons.radial | downloads: 172
 v1.1.9-galactic.capital.investment | downloads: 209
 v1.0.1-ship.merging | downloads: 255
@@ -33,7 +33,7 @@ v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 177
 v1.0.7-mission.helper | downloads: 428
-v1.0.9-expert.crew.members | downloads: 331
+v1.0.9-expert.crew.members | downloads: 332
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 235
@@ -274,7 +274,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 273
-# TOTAL DOWNLOADS: 32195
+# TOTAL DOWNLOADS: 32198
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -293,7 +293,7 @@ control.station 758
 devil-run.unhidden 66
 disable.person.ships 401
 disable.spaceport.repeatables 558
-expert.crew.members 1073
+expert.crew.members 1074
 flare.play 303
 free.worlds.5.years.later 370
 galactic.capital.investment 1218
@@ -306,7 +306,7 @@ kestrel.unlocks 696
 kor.efret.shipyard 936
 landing.images 712
 landing.images.android 349
-landing.images.highres 534
+landing.images.highres 535
 licenses 608
 mission.helper 898
 more.arfectas 891
@@ -328,4 +328,4 @@ space.fauna 549
 too.many.asteroids 1032
 tribute.republic 494
 unique.fix 44
-uniques 815
+uniques 816
