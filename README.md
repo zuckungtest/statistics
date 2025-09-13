@@ -21,8 +21,8 @@
 		<td>1156</td>
 		<td>1165</td>
 		<td>1172</td>
-		<td>1182</td>
-		<td>+ 10</td>
+		<td>1184</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>760</td>
 		<td>767</td>
 		<td>781</td>
-		<td>789</td>
-		<td>+ 8</td>
+		<td>791</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -131,8 +131,8 @@
 		<td>380</td>
 		<td>385</td>
 		<td>392</td>
-		<td>397</td>
-		<td>+ 5</td>
+		<td>399</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -186,8 +186,8 @@
 		<td>989</td>
 		<td>1006</td>
 		<td>1015</td>
-		<td>1021</td>
-		<td>+ 6</td>
+		<td>1023</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -417,8 +417,8 @@
 		<td>757</td>
 		<td>768</td>
 		<td>778</td>
-		<td>783</td>
-		<td>+ 5</td>
+		<td>784</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30087</td>
-		<td>282</td>
+		<td>30096</td>
+		<td>291</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1156</td>
 		<td>1165</td>
 		<td>1172</td>
-		<td>1182</td>
-		<td>+ 10</td>
+		<td>1184</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>989</td>
 		<td>1006</td>
 		<td>1015</td>
-		<td>1021</td>
-		<td>+ 6</td>
+		<td>1023</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -656,6 +656,17 @@
 		<td>+ 6</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>717</td>
+		<td>738</td>
+		<td>752</td>
+		<td>760</td>
+		<td>767</td>
+		<td>781</td>
+		<td>791</td>
+		<td>+ 10</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>722</td>
 		<td>738</td>
@@ -667,17 +678,6 @@
 		<td>+ 6</td>
 	</tr>
 	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>717</td>
-		<td>738</td>
-		<td>752</td>
-		<td>760</td>
-		<td>767</td>
-		<td>781</td>
-		<td>789</td>
-		<td>+ 8</td>
-	</tr>
-	<tr>
 		<td>snowfeather.robotics</td>
 		<td>719</td>
 		<td>738</td>
@@ -685,8 +685,8 @@
 		<td>757</td>
 		<td>768</td>
 		<td>778</td>
-		<td>783</td>
-		<td>+ 5</td>
+		<td>784</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -894,8 +894,8 @@
 		<td>380</td>
 		<td>385</td>
 		<td>392</td>
-		<td>397</td>
-		<td>+ 5</td>
+		<td>399</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30087</td>
-		<td>282</td>
+		<td>30096</td>
+		<td>291</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>171</td>
 		<td>230</td>
 		<td>150</td>
-		<td>73</td>
+		<td>100</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>32</td>
 		<td>36</td>
 		<td>19</td>
-		<td>17</td>
+		<td>18</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7078</td>
-		<td>1753</td>
+		<td>7105</td>
+		<td>1754</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>143</td>
-		<td>49.50</td>
-		<td>12.26</td>
+		<td>49.69</td>
+		<td>12.27</td>
 		<td></td>
 		<td></td>
 	</tr>
