@@ -21,8 +21,8 @@
 		<td>1156</td>
 		<td>1165</td>
 		<td>1172</td>
-		<td>1173</td>
-		<td>+ 1</td>
+		<td>1175</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -142,8 +142,8 @@
 		<td>536</td>
 		<td>541</td>
 		<td>550</td>
-		<td>552</td>
-		<td>+ 2</td>
+		<td>553</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -318,8 +318,8 @@
 		<td>939</td>
 		<td>953</td>
 		<td>962</td>
-		<td>965</td>
-		<td>+ 3</td>
+		<td>966</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -362,8 +362,8 @@
 		<td>708</td>
 		<td>725</td>
 		<td>732</td>
-		<td>733</td>
-		<td>+ 1</td>
+		<td>734</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -450,8 +450,8 @@
 		<td>475</td>
 		<td>480</td>
 		<td>487</td>
-		<td>488</td>
-		<td>+ 1</td>
+		<td>489</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29891</td>
-		<td>86</td>
+		<td>29897</td>
+		<td>92</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1156</td>
 		<td>1165</td>
 		<td>1172</td>
-		<td>1173</td>
-		<td>+ 1</td>
+		<td>1175</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -575,8 +575,8 @@
 		<td>939</td>
 		<td>953</td>
 		<td>962</td>
-		<td>965</td>
-		<td>+ 3</td>
+		<td>966</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -718,8 +718,8 @@
 		<td>708</td>
 		<td>725</td>
 		<td>732</td>
-		<td>733</td>
-		<td>+ 1</td>
+		<td>734</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -839,8 +839,8 @@
 		<td>536</td>
 		<td>541</td>
 		<td>550</td>
-		<td>552</td>
-		<td>+ 2</td>
+		<td>553</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -872,8 +872,8 @@
 		<td>475</td>
 		<td>480</td>
 		<td>487</td>
-		<td>488</td>
-		<td>+ 1</td>
+		<td>489</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>29891</td>
-		<td>86</td>
+		<td>29897</td>
+		<td>92</td>
 	</tr>
 </table>
 </sub></sup>
