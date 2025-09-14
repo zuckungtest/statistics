@@ -21,8 +21,8 @@
 		<td>1165</td>
 		<td>1172</td>
 		<td>1188</td>
-		<td>1193</td>
-		<td>+ 5</td>
+		<td>1195</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>591</td>
 		<td>599</td>
 		<td>612</td>
-		<td>617</td>
-		<td>+ 5</td>
+		<td>619</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>1054</td>
 		<td>1063</td>
 		<td>1077</td>
-		<td>1083</td>
-		<td>+ 6</td>
+		<td>1085</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -230,8 +230,8 @@
 		<td>752</td>
 		<td>767</td>
 		<td>780</td>
-		<td>785</td>
-		<td>+ 5</td>
+		<td>787</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -395,8 +395,8 @@
 		<td>247</td>
 		<td>257</td>
 		<td>270</td>
-		<td>275</td>
-		<td>+ 5</td>
+		<td>277</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -439,8 +439,8 @@
 		<td>1018</td>
 		<td>1026</td>
 		<td>1034</td>
-		<td>1038</td>
-		<td>+ 4</td>
+		<td>1040</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30519</td>
-		<td>221</td>
+		<td>30531</td>
+		<td>233</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1165</td>
 		<td>1172</td>
 		<td>1188</td>
-		<td>1193</td>
-		<td>+ 5</td>
+		<td>1195</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>1054</td>
 		<td>1063</td>
 		<td>1077</td>
-		<td>1083</td>
-		<td>+ 6</td>
+		<td>1085</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -542,8 +542,8 @@
 		<td>1018</td>
 		<td>1026</td>
 		<td>1034</td>
-		<td>1038</td>
-		<td>+ 4</td>
+		<td>1040</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -696,8 +696,8 @@
 		<td>752</td>
 		<td>767</td>
 		<td>780</td>
-		<td>785</td>
-		<td>+ 5</td>
+		<td>787</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -817,8 +817,8 @@
 		<td>591</td>
 		<td>599</td>
 		<td>612</td>
-		<td>617</td>
-		<td>+ 5</td>
+		<td>619</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -938,8 +938,8 @@
 		<td>247</td>
 		<td>257</td>
 		<td>270</td>
-		<td>275</td>
-		<td>+ 5</td>
+		<td>277</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30519</td>
-		<td>221</td>
+		<td>30531</td>
+		<td>233</td>
 	</tr>
 </table>
 </sub></sup>
