@@ -18,8 +18,8 @@ v1.0.2-automata.in.human.space | downloads: 131
 v1.0.2-automata.destruction.0percent | downloads: 84
 v1.0.1-kestrel.unlocks | downloads: 120
 v1.0.1-disable.person.ships | downloads: 75
-v1.0.5-landing.images | downloads: 142
-v1.0.3-landing.images.highres | downloads: 139
+v1.0.5-landing.images | downloads: 144
+v1.0.3-landing.images.highres | downloads: 141
 v1.0.25-additional.command.buttons.radial | downloads: 177
 v1.1.9-galactic.capital.investment | downloads: 218
 v1.0.1-ship.merging | downloads: 260
@@ -274,7 +274,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 273
-# TOTAL DOWNLOADS: 32468
+# TOTAL DOWNLOADS: 32472
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -304,9 +304,9 @@ human.labels 645
 jump.gates 783
 kestrel.unlocks 702
 kor.efret.shipyard 946
-landing.images 717
+landing.images 719
 landing.images.android 349
-landing.images.highres 542
+landing.images.highres 544
 licenses 622
 mission.helper 906
 more.arfectas 898
