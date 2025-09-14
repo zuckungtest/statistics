@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.12-uniques | downloads: 16
-v1.0.5-control.station | downloads: 154
+v1.0.12-uniques | downloads: 18
+v1.0.5-control.station | downloads: 156
 v1.0.1-boss.loot | downloads: 157
 v1.1.3-space.fauna | downloads: 113
 v1.1.2-disable.spaceport.repeatables | downloads: 87
@@ -274,7 +274,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 273
-# TOTAL DOWNLOADS: 32627
+# TOTAL DOWNLOADS: 32631
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -289,7 +289,7 @@ bunrodea.missions 1109
 captureable.person.ships 799
 coalition.shopping 916
 combat.ai 621
-control.station 767
+control.station 769
 devil-run.unhidden 66
 disable.person.ships 407
 disable.spaceport.repeatables 567
@@ -328,4 +328,4 @@ space.fauna 557
 too.many.asteroids 1041
 tribute.republic 500
 unique.fix 44
-uniques 828
+uniques 830
