@@ -54,8 +54,8 @@
 		<td>837</td>
 		<td>848</td>
 		<td>861</td>
-		<td>866</td>
-		<td>+ 5</td>
+		<td>867</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -406,8 +406,8 @@
 		<td>855</td>
 		<td>867</td>
 		<td>875</td>
-		<td>879</td>
-		<td>+ 4</td>
+		<td>880</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -428,8 +428,8 @@
 		<td>531</td>
 		<td>539</td>
 		<td>551</td>
-		<td>553</td>
-		<td>+ 2</td>
+		<td>554</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -439,8 +439,8 @@
 		<td>1018</td>
 		<td>1026</td>
 		<td>1034</td>
-		<td>1036</td>
-		<td>+ 2</td>
+		<td>1037</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30448</td>
-		<td>150</td>
+		<td>30452</td>
+		<td>154</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1018</td>
 		<td>1026</td>
 		<td>1034</td>
-		<td>1036</td>
-		<td>+ 2</td>
+		<td>1037</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -630,8 +630,8 @@
 		<td>855</td>
 		<td>867</td>
 		<td>875</td>
-		<td>879</td>
-		<td>+ 4</td>
+		<td>880</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -641,8 +641,8 @@
 		<td>837</td>
 		<td>848</td>
 		<td>861</td>
-		<td>866</td>
-		<td>+ 5</td>
+		<td>867</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -850,8 +850,8 @@
 		<td>531</td>
 		<td>539</td>
 		<td>551</td>
-		<td>553</td>
-		<td>+ 2</td>
+		<td>554</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30448</td>
-		<td>150</td>
+		<td>30452</td>
+		<td>154</td>
 	</tr>
 </table>
 </sub></sup>
