@@ -120,8 +120,8 @@
 		<td>734</td>
 		<td>747</td>
 		<td>760</td>
-		<td>767</td>
-		<td>+ 7</td>
+		<td>769</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -461,8 +461,8 @@
 		<td>800</td>
 		<td>807</td>
 		<td>820</td>
-		<td>828</td>
-		<td>+ 8</td>
+		<td>830</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30615</td>
-		<td>317</td>
+		<td>30619</td>
+		<td>321</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>800</td>
 		<td>807</td>
 		<td>820</td>
-		<td>828</td>
-		<td>+ 8</td>
+		<td>830</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -707,8 +707,8 @@
 		<td>734</td>
 		<td>747</td>
 		<td>760</td>
-		<td>767</td>
-		<td>+ 7</td>
+		<td>769</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30615</td>
-		<td>317</td>
+		<td>30619</td>
+		<td>321</td>
 	</tr>
 </table>
 </sub></sup>
