@@ -252,8 +252,8 @@
 		<td>914</td>
 		<td>925</td>
 		<td>940</td>
-		<td>944</td>
-		<td>+ 4</td>
+		<td>946</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -461,8 +461,8 @@
 		<td>800</td>
 		<td>807</td>
 		<td>820</td>
-		<td>822</td>
-		<td>+ 2</td>
+		<td>824</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30452</td>
-		<td>154</td>
+		<td>30456</td>
+		<td>158</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>914</td>
 		<td>925</td>
 		<td>940</td>
-		<td>944</td>
-		<td>+ 4</td>
+		<td>946</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -652,8 +652,8 @@
 		<td>800</td>
 		<td>807</td>
 		<td>820</td>
-		<td>822</td>
-		<td>+ 2</td>
+		<td>824</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30452</td>
-		<td>154</td>
+		<td>30456</td>
+		<td>158</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>230</td>
 		<td>150</td>
 		<td>126</td>
-		<td>16</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>36</td>
 		<td>19</td>
 		<td>27</td>
-		<td>10</td>
+		<td>15</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7147</td>
-		<td>1773</td>
+		<td>7161</td>
+		<td>1778</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>144</td>
-		<td>49.63</td>
-		<td>12.31</td>
+		<td>49.73</td>
+		<td>12.35</td>
 		<td></td>
 		<td></td>
 	</tr>
