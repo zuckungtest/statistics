@@ -6,7 +6,7 @@ v1.0.5-control.station | downloads: 163
 v1.0.1-boss.loot | downloads: 163
 v1.1.3-space.fauna | downloads: 120
 v1.1.2-disable.spaceport.repeatables | downloads: 90
-v1.0.7-coalition.shopping | downloads: 171
+v1.0.7-coalition.shopping | downloads: 173
 v1.0.5-too.many.asteroids | downloads: 77
 v1.0.4-planet.map | downloads: 76
 v1.0.4-no.more.mereti.mines | downloads: 111
@@ -14,7 +14,7 @@ v1.0.4-jump.gates | downloads: 152
 v1.0.4-gegno.pirates | downloads: 165
 v1.0.3-tribute.republic | downloads: 107
 v1.0.3-more.arfectas | downloads: 78
-v1.0.3-kor.efret.shipyard | downloads: 155
+v1.0.3-kor.efret.shipyard | downloads: 157
 v1.0.2-highrollers.ltd | downloads: 144
 v1.0.2-automata.in.human.space | downloads: 140
 v1.0.2-automata.destruction.0percent | downloads: 89
@@ -34,15 +34,15 @@ v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 196
-v1.0.7-mission.helper | downloads: 449
+v1.0.7-mission.helper | downloads: 450
 v1.0.9-expert.crew.members | downloads: 352
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 252
-v1.0.5-show.reputation | downloads: 329
+v1.0.5-show.reputation | downloads: 330
 v1.0.3-paint.your.ships | downloads: 291
 v1.1.9-captureable.person.ships | downloads: 284
-v1.0.9-bunrodea.missions | downloads: 394
+v1.0.9-bunrodea.missions | downloads: 396
 v1.0.5-better.starts | downloads: 336
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
@@ -212,7 +212,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 718
+v1.0.1-automata.destruction.0percent | downloads: 720
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -276,20 +276,20 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 275
-# TOTAL DOWNLOADS: 32904
+# TOTAL DOWNLOADS: 32914
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1204
-automata.destruction.0percent 808
+automata.destruction.0percent 810
 automata.in.human.space 664
 avgi.licenses 229
 better.starts 880
 boss.loot 355
-bunrodea.missions 1117
+bunrodea.missions 1119
 captureable.person.ships 808
-coalition.shopping 923
+coalition.shopping 925
 combat.ai 628
 control.station 776
 devil-run.unhidden 66
@@ -305,12 +305,12 @@ highrollers.ltd 380
 human.labels 657
 jump.gates 793
 kestrel.unlocks 714
-kor.efret.shipyard 956
+kor.efret.shipyard 958
 landing.images 731
 landing.images.android 349
 landing.images.highres 552
 licenses 635
-mission.helper 919
+mission.helper 920
 more.arfectas 910
 more.boarding.missions 993
 more.person.ships 685
@@ -324,7 +324,7 @@ planet.pluto 190
 quarg.farm 999
 real.fluff 93
 ship.merging 284
-show.reputation 890
+show.reputation 891
 snowfeather.robotics 801
 space.fauna 564
 too.many.asteroids 1046
