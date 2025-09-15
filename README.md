@@ -32,8 +32,8 @@
 		<td>781</td>
 		<td>795</td>
 		<td>803</td>
-		<td>808</td>
-		<td>+ 5</td>
+		<td>810</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -76,8 +76,8 @@
 		<td>1084</td>
 		<td>1097</td>
 		<td>1109</td>
-		<td>1117</td>
-		<td>+ 8</td>
+		<td>1119</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>890</td>
 		<td>907</td>
 		<td>916</td>
-		<td>923</td>
-		<td>+ 7</td>
+		<td>925</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -252,8 +252,8 @@
 		<td>925</td>
 		<td>940</td>
 		<td>949</td>
-		<td>956</td>
-		<td>+ 7</td>
+		<td>958</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>890</td>
 		<td>902</td>
 		<td>912</td>
-		<td>919</td>
-		<td>+ 7</td>
+		<td>920</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -406,8 +406,8 @@
 		<td>867</td>
 		<td>875</td>
 		<td>884</td>
-		<td>890</td>
-		<td>+ 6</td>
+		<td>891</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30892</td>
-		<td>273</td>
+		<td>30902</td>
+		<td>283</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1084</td>
 		<td>1097</td>
 		<td>1109</td>
-		<td>1117</td>
-		<td>+ 8</td>
+		<td>1119</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -586,8 +586,8 @@
 		<td>925</td>
 		<td>940</td>
 		<td>949</td>
-		<td>956</td>
-		<td>+ 7</td>
+		<td>958</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -597,8 +597,8 @@
 		<td>890</td>
 		<td>907</td>
 		<td>916</td>
-		<td>923</td>
-		<td>+ 7</td>
+		<td>925</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -608,8 +608,8 @@
 		<td>890</td>
 		<td>902</td>
 		<td>912</td>
-		<td>919</td>
-		<td>+ 7</td>
+		<td>920</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -630,8 +630,8 @@
 		<td>867</td>
 		<td>875</td>
 		<td>884</td>
-		<td>890</td>
-		<td>+ 6</td>
+		<td>891</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -656,6 +656,17 @@
 		<td>+ 9</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>752</td>
+		<td>760</td>
+		<td>767</td>
+		<td>781</td>
+		<td>795</td>
+		<td>803</td>
+		<td>810</td>
+		<td>+ 7</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>749</td>
 		<td>764</td>
@@ -665,17 +676,6 @@
 		<td>799</td>
 		<td>808</td>
 		<td>+ 9</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>752</td>
-		<td>760</td>
-		<td>767</td>
-		<td>781</td>
-		<td>795</td>
-		<td>803</td>
-		<td>808</td>
-		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30892</td>
-		<td>273</td>
+		<td>30902</td>
+		<td>283</td>
 	</tr>
 </table>
 </sub></sup>
