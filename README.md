@@ -54,8 +54,8 @@
 		<td>848</td>
 		<td>861</td>
 		<td>871</td>
-		<td>874</td>
-		<td>+ 3</td>
+		<td>876</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -76,8 +76,8 @@
 		<td>1084</td>
 		<td>1097</td>
 		<td>1109</td>
-		<td>1110</td>
-		<td>+ 1</td>
+		<td>1112</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>599</td>
 		<td>612</td>
 		<td>621</td>
-		<td>622</td>
-		<td>+ 1</td>
+		<td>624</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>1208</td>
 		<td>1221</td>
 		<td>1231</td>
-		<td>1232</td>
-		<td>+ 1</td>
+		<td>1234</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>687</td>
 		<td>698</td>
 		<td>705</td>
-		<td>708</td>
-		<td>+ 3</td>
+		<td>710</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30682</td>
-		<td>63</td>
+		<td>30692</td>
+		<td>73</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1208</td>
 		<td>1221</td>
 		<td>1231</td>
-		<td>1232</td>
-		<td>+ 1</td>
+		<td>1234</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -520,8 +520,8 @@
 		<td>1084</td>
 		<td>1097</td>
 		<td>1109</td>
-		<td>1110</td>
-		<td>+ 1</td>
+		<td>1112</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -641,8 +641,8 @@
 		<td>848</td>
 		<td>861</td>
 		<td>871</td>
-		<td>874</td>
-		<td>+ 3</td>
+		<td>876</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -751,8 +751,8 @@
 		<td>687</td>
 		<td>698</td>
 		<td>705</td>
-		<td>708</td>
-		<td>+ 3</td>
+		<td>710</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -817,8 +817,8 @@
 		<td>599</td>
 		<td>612</td>
 		<td>621</td>
-		<td>622</td>
-		<td>+ 1</td>
+		<td>624</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>30682</td>
-		<td>63</td>
+		<td>30692</td>
+		<td>73</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>150</td>
 		<td>126</td>
 		<td>58</td>
-		<td>1</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>27</td>
 		<td>22</td>
-		<td>1</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7190</td>
-		<td>1786</td>
+		<td>7195</td>
+		<td>1788</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>145</td>
-		<td>49.59</td>
-		<td>12.32</td>
+		<td>49.62</td>
+		<td>12.33</td>
 		<td></td>
 		<td></td>
 	</tr>
