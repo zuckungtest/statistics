@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.12-uniques | downloads: 21
+v1.0.12-uniques | downloads: 23
 v1.0.5-control.station | downloads: 158
 v1.0.1-boss.loot | downloads: 159
 v1.1.3-space.fauna | downloads: 115
@@ -274,7 +274,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 273
-# TOTAL DOWNLOADS: 32746
+# TOTAL DOWNLOADS: 32748
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -328,4 +328,4 @@ space.fauna 559
 too.many.asteroids 1043
 tribute.republic 502
 unique.fix 44
-uniques 833
+uniques 835
