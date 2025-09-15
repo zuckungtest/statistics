@@ -54,8 +54,8 @@
 		<td>848</td>
 		<td>861</td>
 		<td>871</td>
-		<td>885</td>
-		<td>+ 14</td>
+		<td>887</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -109,8 +109,8 @@
 		<td>599</td>
 		<td>612</td>
 		<td>621</td>
-		<td>634</td>
-		<td>+ 13</td>
+		<td>636</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>1063</td>
 		<td>1077</td>
 		<td>1087</td>
-		<td>1101</td>
-		<td>+ 14</td>
+		<td>1103</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>1208</td>
 		<td>1221</td>
 		<td>1231</td>
-		<td>1244</td>
-		<td>+ 13</td>
+		<td>1250</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>767</td>
 		<td>780</td>
 		<td>788</td>
-		<td>799</td>
-		<td>+ 11</td>
+		<td>801</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -252,8 +252,8 @@
 		<td>925</td>
 		<td>940</td>
 		<td>949</td>
-		<td>964</td>
-		<td>+ 15</td>
+		<td>966</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -395,8 +395,8 @@
 		<td>257</td>
 		<td>270</td>
 		<td>279</td>
-		<td>294</td>
-		<td>+ 15</td>
+		<td>298</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -439,8 +439,8 @@
 		<td>1026</td>
 		<td>1034</td>
 		<td>1041</td>
-		<td>1051</td>
-		<td>+ 10</td>
+		<td>1053</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>807</td>
 		<td>820</td>
 		<td>830</td>
-		<td>845</td>
-		<td>+ 15</td>
+		<td>847</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31129</td>
-		<td>510</td>
+		<td>31153</td>
+		<td>534</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1208</td>
 		<td>1221</td>
 		<td>1231</td>
-		<td>1244</td>
-		<td>+ 13</td>
+		<td>1250</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,19 @@
 		<td>1063</td>
 		<td>1077</td>
 		<td>1087</td>
-		<td>1101</td>
-		<td>+ 14</td>
+		<td>1103</td>
+		<td>+ 16</td>
+	</tr>
+	<tr>
+		<td>too.many.asteroids</td>
+		<td>992</td>
+		<td>1002</td>
+		<td>1018</td>
+		<td>1026</td>
+		<td>1034</td>
+		<td>1041</td>
+		<td>1053</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -544,17 +555,6 @@
 		<td>1040</td>
 		<td>1053</td>
 		<td>+ 13</td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>992</td>
-		<td>1002</td>
-		<td>1018</td>
-		<td>1026</td>
-		<td>1034</td>
-		<td>1041</td>
-		<td>1051</td>
-		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -586,8 +586,8 @@
 		<td>925</td>
 		<td>940</td>
 		<td>949</td>
-		<td>964</td>
-		<td>+ 15</td>
+		<td>966</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -641,8 +641,8 @@
 		<td>848</td>
 		<td>861</td>
 		<td>871</td>
-		<td>885</td>
-		<td>+ 14</td>
+		<td>887</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -652,8 +652,8 @@
 		<td>807</td>
 		<td>820</td>
 		<td>830</td>
-		<td>845</td>
-		<td>+ 15</td>
+		<td>847</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -696,8 +696,8 @@
 		<td>767</td>
 		<td>780</td>
 		<td>788</td>
-		<td>799</td>
-		<td>+ 11</td>
+		<td>801</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -817,8 +817,8 @@
 		<td>599</td>
 		<td>612</td>
 		<td>621</td>
-		<td>634</td>
-		<td>+ 13</td>
+		<td>636</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -938,8 +938,8 @@
 		<td>257</td>
 		<td>270</td>
 		<td>279</td>
-		<td>294</td>
-		<td>+ 15</td>
+		<td>298</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31129</td>
-		<td>510</td>
+		<td>31153</td>
+		<td>534</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>150</td>
 		<td>126</td>
 		<td>58</td>
-		<td>71</td>
+		<td>83</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>27</td>
 		<td>22</td>
-		<td>16</td>
+		<td>18</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7260</td>
-		<td>1801</td>
+		<td>7272</td>
+		<td>1803</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>145</td>
-		<td>50.07</td>
-		<td>12.42</td>
+		<td>50.15</td>
+		<td>12.43</td>
 		<td></td>
 		<td></td>
 	</tr>
