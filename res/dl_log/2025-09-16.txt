@@ -18,7 +18,7 @@ v1.0.3-kor.efret.shipyard | downloads: 175
 v1.0.2-highrollers.ltd | downloads: 157
 v1.0.2-automata.in.human.space | downloads: 155
 v1.0.2-automata.destruction.0percent | downloads: 100
-v1.0.1-kestrel.unlocks | downloads: 143
+v1.0.1-kestrel.unlocks | downloads: 146
 v1.0.1-disable.person.ships | downloads: 90
 v1.0.5-landing.images | downloads: 172
 v1.0.3-landing.images.highres | downloads: 162
@@ -61,7 +61,7 @@ v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 407
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
-v1.0.3-more.person.ships | downloads: 287
+v1.0.3-more.person.ships | downloads: 289
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
@@ -79,7 +79,7 @@ v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 162
-v1.0.3-planet.map | downloads: 194
+v1.0.3-planet.map | downloads: 196
 v1.0.8-bunrodea.missions | downloads: 203
 v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
@@ -276,7 +276,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 275
-# TOTAL DOWNLOADS: 33569
+# TOTAL DOWNLOADS: 33576
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -304,7 +304,7 @@ hai.side.mission.unlocker 744
 highrollers.ltd 393
 human.labels 669
 jump.gates 811
-kestrel.unlocks 725
+kestrel.unlocks 728
 kor.efret.shipyard 976
 landing.images 747
 landing.images.android 349
@@ -313,13 +313,13 @@ licenses 652
 mission.helper 950
 more.arfectas 929
 more.boarding.missions 1008
-more.person.ships 700
+more.person.ships 702
 navy.licenses 575
 no.more.mereti.mines 587
 outfits.weapon.slot 659
 paint.your.ships 771
 pirate.warlords 3
-planet.map 494
+planet.map 496
 planet.pluto 190
 quarg.farm 1023
 real.fluff 93
