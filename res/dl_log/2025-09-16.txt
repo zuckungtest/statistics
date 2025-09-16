@@ -1,9 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.6-quarg.farm | downloads: 16
+v1.0.6-quarg.farm | downloads: 18
 v1.0.2-ship.merging | downloads: 22
 v1.0.12-uniques | downloads: 38
 v1.0.5-control.station | downloads: 173
-v1.0.1-boss.loot | downloads: 173
+v1.0.1-boss.loot | downloads: 174
 v1.1.3-space.fauna | downloads: 128
 v1.1.2-disable.spaceport.repeatables | downloads: 97
 v1.0.7-coalition.shopping | downloads: 182
@@ -276,7 +276,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 275
-# TOTAL DOWNLOADS: 33320
+# TOTAL DOWNLOADS: 33323
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -286,7 +286,7 @@ automata.destruction.0percent 818
 automata.in.human.space 672
 avgi.licenses 229
 better.starts 890
-boss.loot 365
+boss.loot 366
 bunrodea.missions 1126
 captureable.person.ships 816
 coalition.shopping 934
@@ -321,7 +321,7 @@ paint.your.ships 764
 pirate.warlords 3
 planet.map 488
 planet.pluto 190
-quarg.farm 1014
+quarg.farm 1016
 real.fluff 93
 ship.merging 306
 show.reputation 899
