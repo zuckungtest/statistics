@@ -21,8 +21,8 @@
 		<td>1188</td>
 		<td>1196</td>
 		<td>1210</td>
-		<td>1212</td>
-		<td>+ 2</td>
+		<td>1214</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>861</td>
 		<td>871</td>
 		<td>889</td>
-		<td>891</td>
-		<td>+ 2</td>
+		<td>893</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -263,8 +263,8 @@
 		<td>714</td>
 		<td>721</td>
 		<td>740</td>
-		<td>743</td>
-		<td>+ 3</td>
+		<td>745</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -285,8 +285,8 @@
 		<td>612</td>
 		<td>628</td>
 		<td>642</td>
-		<td>644</td>
-		<td>+ 2</td>
+		<td>646</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>902</td>
 		<td>912</td>
 		<td>930</td>
-		<td>937</td>
-		<td>+ 7</td>
+		<td>939</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -428,8 +428,8 @@
 		<td>551</td>
 		<td>557</td>
 		<td>571</td>
-		<td>573</td>
-		<td>+ 2</td>
+		<td>575</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -439,8 +439,8 @@
 		<td>1034</td>
 		<td>1041</td>
 		<td>1054</td>
-		<td>1058</td>
-		<td>+ 4</td>
+		<td>1060</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31365</td>
-		<td>118</td>
+		<td>31379</td>
+		<td>132</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1188</td>
 		<td>1196</td>
 		<td>1210</td>
-		<td>1212</td>
-		<td>+ 2</td>
+		<td>1214</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -535,6 +535,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>too.many.asteroids</td>
+		<td>1002</td>
+		<td>1018</td>
+		<td>1026</td>
+		<td>1034</td>
+		<td>1041</td>
+		<td>1054</td>
+		<td>1060</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>gegno.pirates</td>
 		<td>989</td>
 		<td>1006</td>
@@ -544,17 +555,6 @@
 		<td>1057</td>
 		<td>1059</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>too.many.asteroids</td>
-		<td>1002</td>
-		<td>1018</td>
-		<td>1026</td>
-		<td>1034</td>
-		<td>1041</td>
-		<td>1054</td>
-		<td>1058</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -597,8 +597,8 @@
 		<td>902</td>
 		<td>912</td>
 		<td>930</td>
-		<td>937</td>
-		<td>+ 7</td>
+		<td>939</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -641,8 +641,8 @@
 		<td>861</td>
 		<td>871</td>
 		<td>889</td>
-		<td>891</td>
-		<td>+ 2</td>
+		<td>893</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -729,8 +729,8 @@
 		<td>714</td>
 		<td>721</td>
 		<td>740</td>
-		<td>743</td>
-		<td>+ 3</td>
+		<td>745</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -806,8 +806,8 @@
 		<td>612</td>
 		<td>628</td>
 		<td>642</td>
-		<td>644</td>
-		<td>+ 2</td>
+		<td>646</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -850,8 +850,8 @@
 		<td>551</td>
 		<td>557</td>
 		<td>571</td>
-		<td>573</td>
-		<td>+ 2</td>
+		<td>575</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31365</td>
-		<td>118</td>
+		<td>31379</td>
+		<td>132</td>
 	</tr>
 </table>
 </sub></sup>
