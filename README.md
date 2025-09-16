@@ -241,8 +241,8 @@
 		<td>698</td>
 		<td>705</td>
 		<td>721</td>
-		<td>725</td>
-		<td>+ 4</td>
+		<td>728</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -329,8 +329,8 @@
 		<td>673</td>
 		<td>678</td>
 		<td>692</td>
-		<td>700</td>
-		<td>+ 8</td>
+		<td>702</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -373,8 +373,8 @@
 		<td>471</td>
 		<td>476</td>
 		<td>487</td>
-		<td>494</td>
-		<td>+ 7</td>
+		<td>496</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31557</td>
-		<td>310</td>
+		<td>31564</td>
+		<td>317</td>
 	</tr>
 </table>
 </sub></sup>
@@ -751,8 +751,8 @@
 		<td>698</td>
 		<td>705</td>
 		<td>721</td>
-		<td>725</td>
-		<td>+ 4</td>
+		<td>728</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -762,8 +762,8 @@
 		<td>673</td>
 		<td>678</td>
 		<td>692</td>
-		<td>700</td>
-		<td>+ 8</td>
+		<td>702</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -883,8 +883,8 @@
 		<td>471</td>
 		<td>476</td>
 		<td>487</td>
-		<td>494</td>
-		<td>+ 7</td>
+		<td>496</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31557</td>
-		<td>310</td>
+		<td>31564</td>
+		<td>317</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>126</td>
 		<td>58</td>
 		<td>93</td>
-		<td>60</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>27</td>
 		<td>22</td>
 		<td>23</td>
-		<td>22</td>
+		<td>23</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7342</td>
-		<td>1830</td>
+		<td>7347</td>
+		<td>1831</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>146</td>
-		<td>50.29</td>
-		<td>12.53</td>
+		<td>50.32</td>
+		<td>12.54</td>
 		<td></td>
 		<td></td>
 	</tr>
