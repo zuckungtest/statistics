@@ -43,8 +43,8 @@
 		<td>650</td>
 		<td>659</td>
 		<td>670</td>
-		<td>674</td>
-		<td>+ 4</td>
+		<td>676</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -109,8 +109,8 @@
 		<td>612</td>
 		<td>621</td>
 		<td>640</td>
-		<td>643</td>
-		<td>+ 3</td>
+		<td>645</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>1077</td>
 		<td>1087</td>
 		<td>1104</td>
-		<td>1107</td>
-		<td>+ 3</td>
+		<td>1109</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -230,8 +230,8 @@
 		<td>780</td>
 		<td>788</td>
 		<td>805</td>
-		<td>808</td>
-		<td>+ 3</td>
+		<td>810</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -296,8 +296,8 @@
 		<td>902</td>
 		<td>912</td>
 		<td>930</td>
-		<td>940</td>
-		<td>+ 10</td>
+		<td>942</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>895</td>
 		<td>903</td>
 		<td>921</td>
-		<td>924</td>
-		<td>+ 3</td>
+		<td>926</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31434</td>
-		<td>187</td>
+		<td>31446</td>
+		<td>199</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>1077</td>
 		<td>1087</td>
 		<td>1104</td>
-		<td>1107</td>
-		<td>+ 3</td>
+		<td>1109</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -597,8 +597,8 @@
 		<td>902</td>
 		<td>912</td>
 		<td>930</td>
-		<td>940</td>
-		<td>+ 10</td>
+		<td>942</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>895</td>
 		<td>903</td>
 		<td>921</td>
-		<td>924</td>
-		<td>+ 3</td>
+		<td>926</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -696,8 +696,8 @@
 		<td>780</td>
 		<td>788</td>
 		<td>805</td>
-		<td>808</td>
-		<td>+ 3</td>
+		<td>810</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -773,8 +773,8 @@
 		<td>650</td>
 		<td>659</td>
 		<td>670</td>
-		<td>674</td>
-		<td>+ 4</td>
+		<td>676</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -817,8 +817,8 @@
 		<td>612</td>
 		<td>621</td>
 		<td>640</td>
-		<td>643</td>
-		<td>+ 3</td>
+		<td>645</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31434</td>
-		<td>187</td>
+		<td>31446</td>
+		<td>199</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>126</td>
 		<td>58</td>
 		<td>93</td>
-		<td>34</td>
+		<td>39</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>27</td>
 		<td>22</td>
 		<td>23</td>
-		<td>14</td>
+		<td>17</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7316</td>
-		<td>1822</td>
+		<td>7321</td>
+		<td>1825</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>146</td>
-		<td>50.11</td>
-		<td>12.48</td>
+		<td>50.14</td>
+		<td>12.50</td>
 		<td></td>
 		<td></td>
 	</tr>
