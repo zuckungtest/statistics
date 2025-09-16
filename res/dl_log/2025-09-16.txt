@@ -1,21 +1,21 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.6-quarg.farm | downloads: 20
-v1.0.2-ship.merging | downloads: 27
-v1.0.12-uniques | downloads: 40
+v1.0.6-quarg.farm | downloads: 22
+v1.0.2-ship.merging | downloads: 29
+v1.0.12-uniques | downloads: 41
 v1.0.5-control.station | downloads: 177
-v1.0.1-boss.loot | downloads: 176
+v1.0.1-boss.loot | downloads: 178
 v1.1.3-space.fauna | downloads: 132
 v1.1.2-disable.spaceport.repeatables | downloads: 99
 v1.0.7-coalition.shopping | downloads: 184
 v1.0.5-too.many.asteroids | downloads: 86
-v1.0.4-planet.map | downloads: 85
+v1.0.4-planet.map | downloads: 86
 v1.0.4-no.more.mereti.mines | downloads: 121
 v1.0.4-jump.gates | downloads: 167
 v1.0.4-gegno.pirates | downloads: 178
 v1.0.3-tribute.republic | downloads: 118
 v1.0.3-more.arfectas | downloads: 87
 v1.0.3-kor.efret.shipyard | downloads: 172
-v1.0.2-highrollers.ltd | downloads: 155
+v1.0.2-highrollers.ltd | downloads: 156
 v1.0.2-automata.in.human.space | downloads: 150
 v1.0.2-automata.destruction.0percent | downloads: 99
 v1.0.1-kestrel.unlocks | downloads: 142
@@ -43,7 +43,7 @@ v1.0.5-show.reputation | downloads: 342
 v1.0.3-paint.your.ships | downloads: 304
 v1.1.9-captureable.person.ships | downloads: 294
 v1.0.9-bunrodea.missions | downloads: 405
-v1.0.5-better.starts | downloads: 350
+v1.0.5-better.starts | downloads: 352
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -276,7 +276,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 275
-# TOTAL DOWNLOADS: 33435
+# TOTAL DOWNLOADS: 33446
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -285,8 +285,8 @@ additional.command.buttons.radial 1215
 automata.destruction.0percent 820
 automata.in.human.space 674
 avgi.licenses 229
-better.starts 894
-boss.loot 368
+better.starts 896
+boss.loot 370
 bunrodea.missions 1128
 captureable.person.ships 818
 coalition.shopping 936
@@ -301,7 +301,7 @@ free.worlds.5.years.later 370
 galactic.capital.investment 1254
 gegno.pirates 1060
 hai.side.mission.unlocker 741
-highrollers.ltd 391
+highrollers.ltd 392
 human.labels 668
 jump.gates 808
 kestrel.unlocks 724
@@ -319,15 +319,15 @@ no.more.mereti.mines 586
 outfits.weapon.slot 658
 paint.your.ships 768
 pirate.warlords 3
-planet.map 490
+planet.map 491
 planet.pluto 190
-quarg.farm 1018
+quarg.farm 1020
 real.fluff 93
-ship.merging 311
+ship.merging 313
 show.reputation 903
 snowfeather.robotics 811
 space.fauna 576
 too.many.asteroids 1061
 tribute.republic 516
 unique.fix 44
-uniques 853
+uniques 854
