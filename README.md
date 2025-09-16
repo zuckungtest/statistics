@@ -340,8 +340,8 @@
 		<td>566</td>
 		<td>571</td>
 		<td>582</td>
-		<td>585</td>
-		<td>+ 3</td>
+		<td>586</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31422</td>
-		<td>175</td>
+		<td>31423</td>
+		<td>176</td>
 	</tr>
 </table>
 </sub></sup>
@@ -828,8 +828,8 @@
 		<td>566</td>
 		<td>571</td>
 		<td>582</td>
-		<td>585</td>
-		<td>+ 3</td>
+		<td>586</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31422</td>
-		<td>175</td>
+		<td>31423</td>
+		<td>176</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>126</td>
 		<td>58</td>
 		<td>93</td>
-		<td>22</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>27</td>
 		<td>22</td>
 		<td>23</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7304</td>
-		<td>1819</td>
+		<td>7307</td>
+		<td>1820</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>146</td>
-		<td>50.03</td>
-		<td>12.46</td>
+		<td>50.05</td>
+		<td>12.47</td>
 		<td></td>
 		<td></td>
 	</tr>
