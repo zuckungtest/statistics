@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.6-quarg.farm | downloads: 18
-v1.0.2-ship.merging | downloads: 22
+v1.0.2-ship.merging | downloads: 24
 v1.0.12-uniques | downloads: 38
 v1.0.5-control.station | downloads: 173
 v1.0.1-boss.loot | downloads: 174
@@ -12,7 +12,7 @@ v1.0.4-planet.map | downloads: 83
 v1.0.4-no.more.mereti.mines | downloads: 118
 v1.0.4-jump.gates | downloads: 165
 v1.0.4-gegno.pirates | downloads: 176
-v1.0.3-tribute.republic | downloads: 114
+v1.0.3-tribute.republic | downloads: 116
 v1.0.3-more.arfectas | downloads: 85
 v1.0.3-kor.efret.shipyard | downloads: 170
 v1.0.2-highrollers.ltd | downloads: 153
@@ -276,7 +276,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 275
-# TOTAL DOWNLOADS: 33323
+# TOTAL DOWNLOADS: 33327
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -323,11 +323,11 @@ planet.map 488
 planet.pluto 190
 quarg.farm 1016
 real.fluff 93
-ship.merging 306
+ship.merging 308
 show.reputation 899
 snowfeather.robotics 809
 space.fauna 572
 too.many.asteroids 1055
-tribute.republic 512
+tribute.republic 514
 unique.fix 44
 uniques 851
