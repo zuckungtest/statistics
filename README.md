@@ -395,8 +395,8 @@
 		<td>270</td>
 		<td>279</td>
 		<td>302</td>
-		<td>306</td>
-		<td>+ 4</td>
+		<td>308</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td>496</td>
 		<td>500</td>
 		<td>511</td>
-		<td>512</td>
-		<td>+ 1</td>
+		<td>514</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31311</td>
-		<td>64</td>
+		<td>31315</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
@@ -872,8 +872,8 @@
 		<td>496</td>
 		<td>500</td>
 		<td>511</td>
-		<td>512</td>
-		<td>+ 1</td>
+		<td>514</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -938,8 +938,8 @@
 		<td>270</td>
 		<td>279</td>
 		<td>302</td>
-		<td>306</td>
-		<td>+ 4</td>
+		<td>308</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31311</td>
-		<td>64</td>
+		<td>31315</td>
+		<td>68</td>
 	</tr>
 </table>
 </sub></sup>
