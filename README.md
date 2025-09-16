@@ -362,8 +362,8 @@
 		<td>746</td>
 		<td>750</td>
 		<td>763</td>
-		<td>765</td>
-		<td>+ 2</td>
+		<td>767</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31379</td>
-		<td>132</td>
+		<td>31381</td>
+		<td>134</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>746</td>
 		<td>750</td>
 		<td>763</td>
-		<td>765</td>
-		<td>+ 2</td>
+		<td>767</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31379</td>
-		<td>132</td>
+		<td>31381</td>
+		<td>134</td>
 	</tr>
 </table>
 </sub></sup>
