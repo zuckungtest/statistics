@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.6-quarg.farm | downloads: 19
-v1.0.2-ship.merging | downloads: 25
+v1.0.2-ship.merging | downloads: 26
 v1.0.12-uniques | downloads: 39
 v1.0.5-control.station | downloads: 176
 v1.0.1-boss.loot | downloads: 175
@@ -276,7 +276,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 275
-# TOTAL DOWNLOADS: 33376
+# TOTAL DOWNLOADS: 33377
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -323,7 +323,7 @@ planet.map 489
 planet.pluto 190
 quarg.farm 1017
 real.fluff 93
-ship.merging 309
+ship.merging 310
 show.reputation 902
 snowfeather.robotics 810
 space.fauna 573
