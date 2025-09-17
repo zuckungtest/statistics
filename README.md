@@ -43,8 +43,8 @@
 		<td>659</td>
 		<td>670</td>
 		<td>679</td>
-		<td>684</td>
-		<td>+ 5</td>
+		<td>685</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>349</td>
 		<td>364</td>
 		<td>373</td>
-		<td>378</td>
-		<td>+ 5</td>
+		<td>379</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>1109</td>
 		<td>1125</td>
 		<td>1131</td>
-		<td>1136</td>
-		<td>+ 5</td>
+		<td>1137</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>799</td>
 		<td>814</td>
 		<td>821</td>
-		<td>826</td>
-		<td>+ 5</td>
+		<td>827</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -109,8 +109,8 @@
 		<td>621</td>
 		<td>640</td>
 		<td>648</td>
-		<td>655</td>
-		<td>+ 7</td>
+		<td>656</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>1087</td>
 		<td>1104</td>
 		<td>1112</td>
-		<td>1117</td>
-		<td>+ 5</td>
+		<td>1118</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31812</td>
-		<td>248</td>
+		<td>31818</td>
+		<td>254</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1109</td>
 		<td>1125</td>
 		<td>1131</td>
-		<td>1136</td>
-		<td>+ 5</td>
+		<td>1137</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -531,8 +531,8 @@
 		<td>1087</td>
 		<td>1104</td>
 		<td>1112</td>
-		<td>1117</td>
-		<td>+ 5</td>
+		<td>1118</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -663,8 +663,8 @@
 		<td>799</td>
 		<td>814</td>
 		<td>821</td>
-		<td>826</td>
-		<td>+ 5</td>
+		<td>827</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -773,8 +773,8 @@
 		<td>659</td>
 		<td>670</td>
 		<td>679</td>
-		<td>684</td>
-		<td>+ 5</td>
+		<td>685</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -817,8 +817,8 @@
 		<td>621</td>
 		<td>640</td>
 		<td>648</td>
-		<td>655</td>
-		<td>+ 7</td>
+		<td>656</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -916,8 +916,8 @@
 		<td>349</td>
 		<td>364</td>
 		<td>373</td>
-		<td>378</td>
-		<td>+ 5</td>
+		<td>379</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31812</td>
-		<td>248</td>
+		<td>31818</td>
+		<td>254</td>
 	</tr>
 </table>
 </sub></sup>
