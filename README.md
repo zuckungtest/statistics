@@ -109,8 +109,8 @@
 		<td>621</td>
 		<td>640</td>
 		<td>648</td>
-		<td>650</td>
-		<td>+ 2</td>
+		<td>652</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -175,8 +175,8 @@
 		<td>1231</td>
 		<td>1251</td>
 		<td>1257</td>
-		<td>1261</td>
-		<td>+ 4</td>
+		<td>1263</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -395,8 +395,8 @@
 		<td>279</td>
 		<td>302</td>
 		<td>321</td>
-		<td>325</td>
-		<td>+ 4</td>
+		<td>327</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -428,8 +428,8 @@
 		<td>557</td>
 		<td>571</td>
 		<td>577</td>
-		<td>579</td>
-		<td>+ 2</td>
+		<td>581</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31681</td>
-		<td>117</td>
+		<td>31689</td>
+		<td>125</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1231</td>
 		<td>1251</td>
 		<td>1257</td>
-		<td>1261</td>
-		<td>+ 4</td>
+		<td>1263</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -817,8 +817,8 @@
 		<td>621</td>
 		<td>640</td>
 		<td>648</td>
-		<td>650</td>
-		<td>+ 2</td>
+		<td>652</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -850,8 +850,8 @@
 		<td>557</td>
 		<td>571</td>
 		<td>577</td>
-		<td>579</td>
-		<td>+ 2</td>
+		<td>581</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -938,8 +938,8 @@
 		<td>279</td>
 		<td>302</td>
 		<td>321</td>
-		<td>325</td>
-		<td>+ 4</td>
+		<td>327</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31681</td>
-		<td>117</td>
+		<td>31689</td>
+		<td>125</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>58</td>
 		<td>93</td>
 		<td>79</td>
-		<td>70</td>
+		<td>71</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>22</td>
 		<td>23</td>
 		<td>28</td>
-		<td>6</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7431</td>
-		<td>1842</td>
+		<td>7432</td>
+		<td>1843</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>147</td>
-		<td>50.55</td>
-		<td>12.53</td>
+		<td>50.56</td>
+		<td>12.54</td>
 		<td></td>
 		<td></td>
 	</tr>
