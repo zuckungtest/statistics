@@ -153,8 +153,8 @@
 		<td>1087</td>
 		<td>1104</td>
 		<td>1112</td>
-		<td>1118</td>
-		<td>+ 6</td>
+		<td>1119</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>1231</td>
 		<td>1251</td>
 		<td>1257</td>
-		<td>1266</td>
-		<td>+ 9</td>
+		<td>1267</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>724</td>
 		<td>738</td>
 		<td>744</td>
-		<td>749</td>
-		<td>+ 5</td>
+		<td>750</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -230,8 +230,8 @@
 		<td>788</td>
 		<td>805</td>
 		<td>811</td>
-		<td>816</td>
-		<td>+ 5</td>
+		<td>817</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -373,8 +373,8 @@
 		<td>476</td>
 		<td>487</td>
 		<td>496</td>
-		<td>501</td>
-		<td>+ 5</td>
+		<td>502</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31818</td>
-		<td>254</td>
+		<td>31823</td>
+		<td>259</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1231</td>
 		<td>1251</td>
 		<td>1257</td>
-		<td>1266</td>
-		<td>+ 9</td>
+		<td>1267</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>1087</td>
 		<td>1104</td>
 		<td>1112</td>
-		<td>1118</td>
-		<td>+ 6</td>
+		<td>1119</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -696,8 +696,8 @@
 		<td>788</td>
 		<td>805</td>
 		<td>811</td>
-		<td>816</td>
-		<td>+ 5</td>
+		<td>817</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -740,8 +740,8 @@
 		<td>724</td>
 		<td>738</td>
 		<td>744</td>
-		<td>749</td>
-		<td>+ 5</td>
+		<td>750</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -883,8 +883,8 @@
 		<td>476</td>
 		<td>487</td>
 		<td>496</td>
-		<td>501</td>
-		<td>+ 5</td>
+		<td>502</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>31818</td>
-		<td>254</td>
+		<td>31823</td>
+		<td>259</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>58</td>
 		<td>93</td>
 		<td>79</td>
-		<td>89</td>
+		<td>95</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>22</td>
 		<td>23</td>
 		<td>28</td>
-		<td>11</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7450</td>
-		<td>1847</td>
+		<td>7456</td>
+		<td>1848</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>147</td>
-		<td>50.68</td>
-		<td>12.56</td>
+		<td>50.72</td>
+		<td>12.57</td>
 		<td></td>
 		<td></td>
 	</tr>
