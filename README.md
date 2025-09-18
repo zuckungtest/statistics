@@ -296,8 +296,8 @@
 		<td>930</td>
 		<td>950</td>
 		<td>965</td>
-		<td>980</td>
-		<td>+ 15</td>
+		<td>981</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -439,8 +439,8 @@
 		<td>1054</td>
 		<td>1064</td>
 		<td>1073</td>
-		<td>1082</td>
-		<td>+ 9</td>
+		<td>1083</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32330</td>
-		<td>386</td>
+		<td>32332</td>
+		<td>388</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>1054</td>
 		<td>1064</td>
 		<td>1073</td>
-		<td>1082</td>
-		<td>+ 9</td>
+		<td>1083</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -597,8 +597,8 @@
 		<td>930</td>
 		<td>950</td>
 		<td>965</td>
-		<td>980</td>
-		<td>+ 15</td>
+		<td>981</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32330</td>
-		<td>386</td>
+		<td>32332</td>
+		<td>388</td>
 	</tr>
 </table>
 </sub></sup>
