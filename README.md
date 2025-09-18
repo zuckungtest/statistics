@@ -241,8 +241,8 @@
 		<td>721</td>
 		<td>728</td>
 		<td>735</td>
-		<td>741</td>
-		<td>+ 6</td>
+		<td>743</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -296,8 +296,8 @@
 		<td>930</td>
 		<td>950</td>
 		<td>965</td>
-		<td>975</td>
-		<td>+ 10</td>
+		<td>977</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32151</td>
-		<td>207</td>
+		<td>32155</td>
+		<td>211</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>930</td>
 		<td>950</td>
 		<td>965</td>
-		<td>975</td>
-		<td>+ 10</td>
+		<td>977</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -751,8 +751,8 @@
 		<td>721</td>
 		<td>728</td>
 		<td>735</td>
-		<td>741</td>
-		<td>+ 6</td>
+		<td>743</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32151</td>
-		<td>207</td>
+		<td>32155</td>
+		<td>211</td>
 	</tr>
 </table>
 </sub></sup>
