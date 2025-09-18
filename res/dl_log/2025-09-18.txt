@@ -2,7 +2,7 @@
 v1.0.6-quarg.farm | downloads: 45
 v1.0.2-ship.merging | downloads: 54
 v1.0.12-uniques | downloads: 59
-v1.0.5-control.station | downloads: 198
+v1.0.5-control.station | downloads: 200
 v1.0.1-boss.loot | downloads: 197
 v1.1.3-space.fauna | downloads: 145
 v1.1.2-disable.spaceport.repeatables | downloads: 110
@@ -22,13 +22,13 @@ v1.0.1-kestrel.unlocks | downloads: 162
 v1.0.1-disable.person.ships | downloads: 100
 v1.0.5-landing.images | downloads: 184
 v1.0.3-landing.images.highres | downloads: 172
-v1.0.25-additional.command.buttons.radial | downloads: 217
+v1.0.25-additional.command.buttons.radial | downloads: 219
 v1.1.9-galactic.capital.investment | downloads: 274
 v1.0.1-ship.merging | downloads: 271
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 205
-v1.0.8-combat.ai | downloads: 309
+v1.0.8-combat.ai | downloads: 311
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
@@ -276,12 +276,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 275
-# TOTAL DOWNLOADS: 34228
+# TOTAL DOWNLOADS: 34234
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1232
+additional.command.buttons.radial 1234
 automata.destruction.0percent 837
 automata.in.human.space 697
 avgi.licenses 229
@@ -290,8 +290,8 @@ boss.loot 389
 bunrodea.missions 1149
 captureable.person.ships 835
 coalition.shopping 953
-combat.ai 669
-control.station 811
+combat.ai 671
+control.station 813
 devil-run.unhidden 66
 disable.person.ships 434
 disable.spaceport.repeatables 599
