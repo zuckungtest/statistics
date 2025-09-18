@@ -362,8 +362,8 @@
 		<td>763</td>
 		<td>771</td>
 		<td>780</td>
-		<td>781</td>
-		<td>+ 1</td>
+		<td>783</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32024</td>
-		<td>80</td>
+		<td>32026</td>
+		<td>82</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>763</td>
 		<td>771</td>
 		<td>780</td>
-		<td>781</td>
-		<td>+ 1</td>
+		<td>783</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32024</td>
-		<td>80</td>
+		<td>32026</td>
+		<td>82</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>93</td>
 		<td>79</td>
 		<td>139</td>
-		<td>6</td>
+		<td>22</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>23</td>
 		<td>28</td>
 		<td>19</td>
-		<td>3</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7506</td>
-		<td>1858</td>
+		<td>7522</td>
+		<td>1862</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>148</td>
-		<td>50.72</td>
-		<td>12.55</td>
+		<td>50.82</td>
+		<td>12.58</td>
 		<td></td>
 		<td></td>
 	</tr>
