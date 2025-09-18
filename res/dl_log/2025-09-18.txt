@@ -35,7 +35,7 @@ v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 221
-v1.0.7-mission.helper | downloads: 510
+v1.0.7-mission.helper | downloads: 511
 v1.0.9-expert.crew.members | downloads: 395
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
@@ -109,7 +109,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 653
+v1.0.4-too.many.asteroids | downloads: 654
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 34342
+# TOTAL DOWNLOADS: 34344
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -311,7 +311,7 @@ landing.images 761
 landing.images.android 349
 landing.images.highres 577
 licenses 671
-mission.helper 980
+mission.helper 981
 more.arfectas 952
 more.boarding.missions 1029
 more.person.ships 717
@@ -328,7 +328,7 @@ ship.merging 343
 show.reputation 928
 snowfeather.robotics 836
 space.fauna 593
-too.many.asteroids 1082
+too.many.asteroids 1083
 tribute.republic 531
 unique.fix 44
 uniques 874
