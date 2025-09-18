@@ -186,8 +186,8 @@
 		<td>1057</td>
 		<td>1063</td>
 		<td>1071</td>
-		<td>1085</td>
-		<td>+ 14</td>
+		<td>1087</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -450,8 +450,8 @@
 		<td>511</td>
 		<td>517</td>
 		<td>524</td>
-		<td>532</td>
-		<td>+ 8</td>
+		<td>534</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32373</td>
-		<td>429</td>
+		<td>32377</td>
+		<td>433</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1057</td>
 		<td>1063</td>
 		<td>1071</td>
-		<td>1085</td>
-		<td>+ 14</td>
+		<td>1087</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -872,8 +872,8 @@
 		<td>511</td>
 		<td>517</td>
 		<td>524</td>
-		<td>532</td>
-		<td>+ 8</td>
+		<td>534</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32373</td>
-		<td>429</td>
+		<td>32377</td>
+		<td>433</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>93</td>
 		<td>79</td>
 		<td>139</td>
-		<td>66</td>
+		<td>116</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>23</td>
 		<td>28</td>
 		<td>19</td>
-		<td>19</td>
+		<td>21</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7566</td>
-		<td>1874</td>
+		<td>7616</td>
+		<td>1876</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>148</td>
-		<td>51.12</td>
-		<td>12.66</td>
+		<td>51.46</td>
+		<td>12.68</td>
 		<td></td>
 		<td></td>
 	</tr>
