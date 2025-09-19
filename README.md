@@ -109,8 +109,8 @@
 		<td>648</td>
 		<td>661</td>
 		<td>676</td>
-		<td>680</td>
-		<td>+ 4</td>
+		<td>682</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -186,8 +186,8 @@
 		<td>1063</td>
 		<td>1071</td>
 		<td>1087</td>
-		<td>1095</td>
-		<td>+ 8</td>
+		<td>1097</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -208,8 +208,8 @@
 		<td>393</td>
 		<td>402</td>
 		<td>410</td>
-		<td>414</td>
-		<td>+ 4</td>
+		<td>416</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32641</td>
-		<td>264</td>
+		<td>32647</td>
+		<td>270</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1063</td>
 		<td>1071</td>
 		<td>1087</td>
-		<td>1095</td>
-		<td>+ 8</td>
+		<td>1097</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -806,8 +806,8 @@
 		<td>648</td>
 		<td>661</td>
 		<td>676</td>
-		<td>680</td>
-		<td>+ 4</td>
+		<td>682</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -905,8 +905,8 @@
 		<td>393</td>
 		<td>402</td>
 		<td>410</td>
-		<td>414</td>
-		<td>+ 4</td>
+		<td>416</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32641</td>
-		<td>264</td>
+		<td>32647</td>
+		<td>270</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>79</td>
 		<td>139</td>
 		<td>117</td>
-		<td>233</td>
+		<td>245</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>28</td>
 		<td>19</td>
 		<td>22</td>
-		<td>15</td>
+		<td>18</td>
 	</tr>
 </table>
 <br>
@@ -1004,9 +1004,9 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7850</td>
-		<td>1892</td>
-		<td>233</td>
+		<td>7862</td>
+		<td>1895</td>
+		<td>245</td>
 		<td>36</td>
 	</tr>
 	<tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>149</td>
-		<td>52.68</td>
-		<td>12.70</td>
+		<td>52.77</td>
+		<td>12.72</td>
 		<td></td>
 		<td></td>
 	</tr>
