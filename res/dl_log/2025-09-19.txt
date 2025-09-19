@@ -2,10 +2,10 @@
 v1.0.3-flare.play | downloads: 3
 v1.0.6-quarg.farm | downloads: 51
 v1.0.2-ship.merging | downloads: 63
-v1.0.12-uniques | downloads: 63
+v1.0.12-uniques | downloads: 65
 v1.0.5-control.station | downloads: 206
 v1.0.1-boss.loot | downloads: 201
-v1.1.3-space.fauna | downloads: 151
+v1.1.3-space.fauna | downloads: 153
 v1.1.2-disable.spaceport.repeatables | downloads: 113
 v1.0.7-coalition.shopping | downloads: 205
 v1.0.5-too.many.asteroids | downloads: 100
@@ -44,7 +44,7 @@ v1.0.5-show.reputation | downloads: 369
 v1.0.3-paint.your.ships | downloads: 325
 v1.1.9-captureable.person.ships | downloads: 315
 v1.0.9-bunrodea.missions | downloads: 430
-v1.0.5-better.starts | downloads: 377
+v1.0.5-better.starts | downloads: 379
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 34438
+# TOTAL DOWNLOADS: 34444
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -286,7 +286,7 @@ additional.command.buttons.radial 1239
 automata.destruction.0percent 841
 automata.in.human.space 701
 avgi.licenses 229
-better.starts 921
+better.starts 923
 boss.loot 393
 bunrodea.missions 1153
 captureable.person.ships 839
@@ -327,8 +327,8 @@ real.fluff 93
 ship.merging 347
 show.reputation 930
 snowfeather.robotics 838
-space.fauna 595
+space.fauna 597
 too.many.asteroids 1085
 tribute.republic 535
 unique.fix 44
-uniques 876
+uniques 878
