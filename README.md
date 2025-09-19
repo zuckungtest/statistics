@@ -54,8 +54,8 @@
 		<td>899</td>
 		<td>908</td>
 		<td>918</td>
-		<td>921</td>
-		<td>+ 3</td>
+		<td>923</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -428,8 +428,8 @@
 		<td>577</td>
 		<td>586</td>
 		<td>594</td>
-		<td>595</td>
-		<td>+ 1</td>
+		<td>597</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -461,8 +461,8 @@
 		<td>858</td>
 		<td>867</td>
 		<td>875</td>
-		<td>876</td>
-		<td>+ 1</td>
+		<td>878</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32426</td>
-		<td>49</td>
+		<td>32432</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>899</td>
 		<td>908</td>
 		<td>918</td>
-		<td>921</td>
-		<td>+ 3</td>
+		<td>923</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -652,8 +652,8 @@
 		<td>858</td>
 		<td>867</td>
 		<td>875</td>
-		<td>876</td>
-		<td>+ 1</td>
+		<td>878</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -850,8 +850,8 @@
 		<td>577</td>
 		<td>586</td>
 		<td>594</td>
-		<td>595</td>
-		<td>+ 1</td>
+		<td>597</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32426</td>
-		<td>49</td>
+		<td>32432</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>79</td>
 		<td>139</td>
 		<td>117</td>
-		<td>19</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>28</td>
 		<td>19</td>
 		<td>22</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7636</td>
-		<td>1881</td>
+		<td>7642</td>
+		<td>1882</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>149</td>
-		<td>51.25</td>
-		<td>12.62</td>
+		<td>51.29</td>
+		<td>12.63</td>
 		<td></td>
 		<td></td>
 	</tr>
