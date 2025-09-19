@@ -76,8 +76,8 @@
 		<td>1131</td>
 		<td>1140</td>
 		<td>1152</td>
-		<td>1157</td>
-		<td>+ 5</td>
+		<td>1158</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>939</td>
 		<td>946</td>
 		<td>956</td>
-		<td>959</td>
-		<td>+ 3</td>
+		<td>960</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -164,8 +164,8 @@
 		<td>332</td>
 		<td>343</td>
 		<td>349</td>
-		<td>352</td>
-		<td>+ 3</td>
+		<td>353</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -186,8 +186,8 @@
 		<td>1063</td>
 		<td>1071</td>
 		<td>1087</td>
-		<td>1093</td>
-		<td>+ 6</td>
+		<td>1094</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -252,8 +252,8 @@
 		<td>976</td>
 		<td>987</td>
 		<td>997</td>
-		<td>1004</td>
-		<td>+ 7</td>
+		<td>1005</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -274,8 +274,8 @@
 		<td>565</td>
 		<td>572</td>
 		<td>578</td>
-		<td>581</td>
-		<td>+ 3</td>
+		<td>582</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -417,8 +417,8 @@
 		<td>814</td>
 		<td>825</td>
 		<td>837</td>
-		<td>846</td>
-		<td>+ 9</td>
+		<td>847</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32582</td>
-		<td>205</td>
+		<td>32589</td>
+		<td>212</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1131</td>
 		<td>1140</td>
 		<td>1152</td>
-		<td>1157</td>
-		<td>+ 5</td>
+		<td>1158</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>1063</td>
 		<td>1071</td>
 		<td>1087</td>
-		<td>1093</td>
-		<td>+ 6</td>
+		<td>1094</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -586,8 +586,8 @@
 		<td>976</td>
 		<td>987</td>
 		<td>997</td>
-		<td>1004</td>
-		<td>+ 7</td>
+		<td>1005</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -608,8 +608,8 @@
 		<td>939</td>
 		<td>946</td>
 		<td>956</td>
-		<td>959</td>
-		<td>+ 3</td>
+		<td>960</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -663,8 +663,8 @@
 		<td>814</td>
 		<td>825</td>
 		<td>837</td>
-		<td>846</td>
-		<td>+ 9</td>
+		<td>847</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -861,8 +861,8 @@
 		<td>565</td>
 		<td>572</td>
 		<td>578</td>
-		<td>581</td>
-		<td>+ 3</td>
+		<td>582</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -938,8 +938,8 @@
 		<td>332</td>
 		<td>343</td>
 		<td>349</td>
-		<td>352</td>
-		<td>+ 3</td>
+		<td>353</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32582</td>
-		<td>205</td>
+		<td>32589</td>
+		<td>212</td>
 	</tr>
 </table>
 </sub></sup>
