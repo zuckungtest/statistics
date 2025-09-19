@@ -43,8 +43,8 @@
 		<td>679</td>
 		<td>687</td>
 		<td>700</td>
-		<td>707</td>
-		<td>+ 7</td>
+		<td>709</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -175,8 +175,8 @@
 		<td>1257</td>
 		<td>1271</td>
 		<td>1287</td>
-		<td>1294</td>
-		<td>+ 7</td>
+		<td>1296</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -351,8 +351,8 @@
 		<td>659</td>
 		<td>668</td>
 		<td>678</td>
-		<td>681</td>
-		<td>+ 3</td>
+		<td>683</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -384,8 +384,8 @@
 		<td>1023</td>
 		<td>1036</td>
 		<td>1048</td>
-		<td>1051</td>
-		<td>+ 3</td>
+		<td>1053</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -428,8 +428,8 @@
 		<td>577</td>
 		<td>586</td>
 		<td>594</td>
-		<td>601</td>
-		<td>+ 7</td>
+		<td>603</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32589</td>
-		<td>212</td>
+		<td>32599</td>
+		<td>222</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1257</td>
 		<td>1271</td>
 		<td>1287</td>
-		<td>1294</td>
-		<td>+ 7</td>
+		<td>1296</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -564,8 +564,8 @@
 		<td>1023</td>
 		<td>1036</td>
 		<td>1048</td>
-		<td>1051</td>
-		<td>+ 3</td>
+		<td>1053</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -773,8 +773,8 @@
 		<td>679</td>
 		<td>687</td>
 		<td>700</td>
-		<td>707</td>
-		<td>+ 7</td>
+		<td>709</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -795,8 +795,8 @@
 		<td>659</td>
 		<td>668</td>
 		<td>678</td>
-		<td>681</td>
-		<td>+ 3</td>
+		<td>683</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -850,8 +850,8 @@
 		<td>577</td>
 		<td>586</td>
 		<td>594</td>
-		<td>601</td>
-		<td>+ 7</td>
+		<td>603</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32589</td>
-		<td>212</td>
+		<td>32599</td>
+		<td>222</td>
 	</tr>
 </table>
 </sub></sup>
