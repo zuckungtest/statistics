@@ -43,8 +43,8 @@
 		<td>679</td>
 		<td>687</td>
 		<td>700</td>
-		<td>703</td>
-		<td>+ 3</td>
+		<td>705</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -252,8 +252,8 @@
 		<td>976</td>
 		<td>987</td>
 		<td>997</td>
-		<td>1000</td>
-		<td>+ 3</td>
+		<td>1002</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -428,8 +428,8 @@
 		<td>577</td>
 		<td>586</td>
 		<td>594</td>
-		<td>597</td>
-		<td>+ 3</td>
+		<td>599</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -461,8 +461,8 @@
 		<td>858</td>
 		<td>867</td>
 		<td>875</td>
-		<td>878</td>
-		<td>+ 3</td>
+		<td>882</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32447</td>
-		<td>70</td>
+		<td>32457</td>
+		<td>80</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>976</td>
 		<td>987</td>
 		<td>997</td>
-		<td>1000</td>
-		<td>+ 3</td>
+		<td>1002</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -652,8 +652,8 @@
 		<td>858</td>
 		<td>867</td>
 		<td>875</td>
-		<td>878</td>
-		<td>+ 3</td>
+		<td>882</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -773,8 +773,8 @@
 		<td>679</td>
 		<td>687</td>
 		<td>700</td>
-		<td>703</td>
-		<td>+ 3</td>
+		<td>705</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -850,8 +850,8 @@
 		<td>577</td>
 		<td>586</td>
 		<td>594</td>
-		<td>597</td>
-		<td>+ 3</td>
+		<td>599</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32447</td>
-		<td>70</td>
+		<td>32457</td>
+		<td>80</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>79</td>
 		<td>139</td>
 		<td>117</td>
-		<td>25</td>
+		<td>196</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>28</td>
 		<td>19</td>
 		<td>22</td>
-		<td>5</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7642</td>
-		<td>1882</td>
+		<td>7813</td>
+		<td>1885</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>149</td>
-		<td>51.29</td>
-		<td>12.63</td>
+		<td>52.44</td>
+		<td>12.65</td>
 		<td></td>
 		<td></td>
 	</tr>
