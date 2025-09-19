@@ -417,8 +417,8 @@
 		<td>814</td>
 		<td>825</td>
 		<td>837</td>
-		<td>843</td>
-		<td>+ 6</td>
+		<td>845</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32510</td>
-		<td>133</td>
+		<td>32512</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>814</td>
 		<td>825</td>
 		<td>837</td>
-		<td>843</td>
-		<td>+ 6</td>
+		<td>845</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32510</td>
-		<td>133</td>
+		<td>32512</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>79</td>
 		<td>139</td>
 		<td>117</td>
-		<td>196</td>
+		<td>204</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>28</td>
 		<td>19</td>
 		<td>22</td>
-		<td>8</td>
+		<td>10</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7813</td>
-		<td>1885</td>
+		<td>7821</td>
+		<td>1887</td>
 		<td>230</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>149</td>
-		<td>52.44</td>
-		<td>12.65</td>
+		<td>52.49</td>
+		<td>12.66</td>
 		<td></td>
 		<td></td>
 	</tr>
