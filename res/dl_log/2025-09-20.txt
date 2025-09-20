@@ -1,10 +1,10 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-flare.play | downloads: 11
-v1.0.6-quarg.farm | downloads: 62
+v1.0.6-quarg.farm | downloads: 63
 v1.0.2-ship.merging | downloads: 74
 v1.0.12-uniques | downloads: 77
 v1.0.5-control.station | downloads: 215
-v1.0.1-boss.loot | downloads: 214
+v1.0.1-boss.loot | downloads: 215
 v1.1.3-space.fauna | downloads: 164
 v1.1.2-disable.spaceport.repeatables | downloads: 118
 v1.0.7-coalition.shopping | downloads: 214
@@ -55,14 +55,14 @@ v1.0.1-free.worlds.5.years.later | downloads: 10
 v1.0.23-additional.command.buttons.radial | downloads: 167
 v1.1.8-captureable.person.ships | downloads: 46
 v1.1.7-galactic.capital.investment | downloads: 27
-v1.1.5-more.boarding.missions | downloads: 450
+v1.1.5-more.boarding.missions | downloads: 451
 v1.1.5-hai.side.mission.unlocker | downloads: 337
 v1.0.6-snowfeather.robotics | downloads: 388
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 407
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
-v1.0.3-more.person.ships | downloads: 315
+v1.0.3-more.person.ships | downloads: 316
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
@@ -242,7 +242,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 853
+v1.0.2-more.arfectas | downloads: 854
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 34830
+# TOTAL DOWNLOADS: 34835
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -287,7 +287,7 @@ automata.destruction.0percent 850
 automata.in.human.space 714
 avgi.licenses 229
 better.starts 933
-boss.loot 406
+boss.loot 407
 bunrodea.missions 1165
 captureable.person.ships 846
 coalition.shopping 966
@@ -312,9 +312,9 @@ landing.images.android 349
 landing.images.highres 585
 licenses 684
 mission.helper 998
-more.arfectas 961
-more.boarding.missions 1043
-more.person.ships 728
+more.arfectas 962
+more.boarding.missions 1044
+more.person.ships 729
 navy.licenses 575
 no.more.mereti.mines 611
 outfits.weapon.slot 688
@@ -322,7 +322,7 @@ paint.your.ships 796
 pirate.warlords 3
 planet.map 518
 planet.pluto 190
-quarg.farm 1060
+quarg.farm 1061
 real.fluff 93
 ship.merging 358
 show.reputation 937
