@@ -54,8 +54,8 @@
 		<td>908</td>
 		<td>918</td>
 		<td>930</td>
-		<td>931</td>
-		<td>+ 1</td>
+		<td>932</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -98,8 +98,8 @@
 		<td>946</td>
 		<td>956</td>
 		<td>963</td>
-		<td>964</td>
-		<td>+ 1</td>
+		<td>965</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -175,8 +175,8 @@
 		<td>1271</td>
 		<td>1287</td>
 		<td>1299</td>
-		<td>1300</td>
-		<td>+ 1</td>
+		<td>1301</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -252,8 +252,8 @@
 		<td>987</td>
 		<td>997</td>
 		<td>1008</td>
-		<td>1009</td>
-		<td>+ 1</td>
+		<td>1010</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -461,8 +461,8 @@
 		<td>867</td>
 		<td>875</td>
 		<td>887</td>
-		<td>888</td>
-		<td>+ 1</td>
+		<td>889</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32772</td>
-		<td>55</td>
+		<td>32777</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1271</td>
 		<td>1287</td>
 		<td>1299</td>
-		<td>1300</td>
-		<td>+ 1</td>
+		<td>1301</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -586,8 +586,8 @@
 		<td>987</td>
 		<td>997</td>
 		<td>1008</td>
-		<td>1009</td>
-		<td>+ 1</td>
+		<td>1010</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -608,8 +608,8 @@
 		<td>946</td>
 		<td>956</td>
 		<td>963</td>
-		<td>964</td>
-		<td>+ 1</td>
+		<td>965</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -641,8 +641,8 @@
 		<td>908</td>
 		<td>918</td>
 		<td>930</td>
-		<td>931</td>
-		<td>+ 1</td>
+		<td>932</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -652,8 +652,8 @@
 		<td>867</td>
 		<td>875</td>
 		<td>887</td>
-		<td>888</td>
-		<td>+ 1</td>
+		<td>889</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32772</td>
-		<td>55</td>
+		<td>32777</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
