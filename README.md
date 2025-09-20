@@ -274,8 +274,8 @@
 		<td>572</td>
 		<td>578</td>
 		<td>583</td>
-		<td>586</td>
-		<td>+ 3</td>
+		<td>588</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32868</td>
-		<td>151</td>
+		<td>32870</td>
+		<td>153</td>
 	</tr>
 </table>
 </sub></sup>
@@ -861,8 +861,8 @@
 		<td>572</td>
 		<td>578</td>
 		<td>583</td>
-		<td>586</td>
-		<td>+ 3</td>
+		<td>588</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32868</td>
-		<td>151</td>
+		<td>32870</td>
+		<td>153</td>
 	</tr>
 </table>
 </sub></sup>
