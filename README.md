@@ -307,8 +307,8 @@
 		<td>943</td>
 		<td>953</td>
 		<td>959</td>
-		<td>962</td>
-		<td>+ 3</td>
+		<td>964</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>1036</td>
 		<td>1048</td>
 		<td>1056</td>
-		<td>1061</td>
-		<td>+ 5</td>
+		<td>1063</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32823</td>
-		<td>106</td>
+		<td>32827</td>
+		<td>110</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>1036</td>
 		<td>1048</td>
 		<td>1056</td>
-		<td>1061</td>
-		<td>+ 5</td>
+		<td>1063</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -619,8 +619,8 @@
 		<td>943</td>
 		<td>953</td>
 		<td>959</td>
-		<td>962</td>
-		<td>+ 3</td>
+		<td>964</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32823</td>
-		<td>106</td>
+		<td>32827</td>
+		<td>110</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>139</td>
 		<td>117</td>
 		<td>284</td>
-		<td>56</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>22</td>
 		<td>19</td>
-		<td>8</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7957</td>
-		<td>1904</td>
+		<td>7960</td>
+		<td>1907</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>150</td>
-		<td>53.05</td>
-		<td>12.69</td>
+		<td>53.07</td>
+		<td>12.71</td>
 		<td></td>
 		<td></td>
 	</tr>
