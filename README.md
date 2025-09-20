@@ -76,8 +76,8 @@
 		<td>1140</td>
 		<td>1152</td>
 		<td>1161</td>
-		<td>1162</td>
-		<td>+ 1</td>
+		<td>1164</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>661</td>
 		<td>676</td>
 		<td>684</td>
-		<td>685</td>
-		<td>+ 1</td>
+		<td>687</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>1123</td>
 		<td>1138</td>
 		<td>1148</td>
-		<td>1149</td>
-		<td>+ 1</td>
+		<td>1151</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -285,8 +285,8 @@
 		<td>661</td>
 		<td>672</td>
 		<td>680</td>
-		<td>681</td>
-		<td>+ 1</td>
+		<td>683</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -318,8 +318,8 @@
 		<td>1017</td>
 		<td>1030</td>
 		<td>1039</td>
-		<td>1040</td>
-		<td>+ 1</td>
+		<td>1042</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32762</td>
-		<td>45</td>
+		<td>32772</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1140</td>
 		<td>1152</td>
 		<td>1161</td>
-		<td>1162</td>
-		<td>+ 1</td>
+		<td>1164</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -531,8 +531,8 @@
 		<td>1123</td>
 		<td>1138</td>
 		<td>1148</td>
-		<td>1149</td>
-		<td>+ 1</td>
+		<td>1151</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -575,8 +575,8 @@
 		<td>1017</td>
 		<td>1030</td>
 		<td>1039</td>
-		<td>1040</td>
-		<td>+ 1</td>
+		<td>1042</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -806,8 +806,8 @@
 		<td>661</td>
 		<td>676</td>
 		<td>684</td>
-		<td>685</td>
-		<td>+ 1</td>
+		<td>687</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -817,8 +817,8 @@
 		<td>661</td>
 		<td>672</td>
 		<td>680</td>
-		<td>681</td>
-		<td>+ 1</td>
+		<td>683</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32762</td>
-		<td>45</td>
+		<td>32772</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
