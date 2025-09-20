@@ -12,7 +12,7 @@ v1.0.5-too.many.asteroids | downloads: 107
 v1.0.4-planet.map | downloads: 108
 v1.0.4-no.more.mereti.mines | downloads: 148
 v1.0.4-jump.gates | downloads: 201
-v1.0.4-gegno.pirates | downloads: 221
+v1.0.4-gegno.pirates | downloads: 223
 v1.0.3-tribute.republic | downloads: 144
 v1.0.3-more.arfectas | downloads: 108
 v1.0.3-kor.efret.shipyard | downloads: 212
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 34935
+# TOTAL DOWNLOADS: 34937
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -300,7 +300,7 @@ expert.crew.members 1154
 flare.play 360
 free.worlds.5.years.later 370
 galactic.capital.investment 1304
-gegno.pirates 1103
+gegno.pirates 1105
 hai.side.mission.unlocker 770
 highrollers.ltd 422
 human.labels 698
