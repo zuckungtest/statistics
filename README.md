@@ -54,8 +54,8 @@
 		<td>908</td>
 		<td>918</td>
 		<td>930</td>
-		<td>934</td>
-		<td>+ 4</td>
+		<td>936</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -219,8 +219,8 @@
 		<td>676</td>
 		<td>684</td>
 		<td>692</td>
-		<td>695</td>
-		<td>+ 3</td>
+		<td>697</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -263,8 +263,8 @@
 		<td>754</td>
 		<td>762</td>
 		<td>768</td>
-		<td>771</td>
-		<td>+ 3</td>
+		<td>773</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -351,8 +351,8 @@
 		<td>668</td>
 		<td>678</td>
 		<td>686</td>
-		<td>689</td>
-		<td>+ 3</td>
+		<td>691</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -439,8 +439,8 @@
 		<td>1073</td>
 		<td>1084</td>
 		<td>1090</td>
-		<td>1093</td>
-		<td>+ 3</td>
+		<td>1095</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32870</td>
-		<td>153</td>
+		<td>32880</td>
+		<td>163</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>1073</td>
 		<td>1084</td>
 		<td>1090</td>
-		<td>1093</td>
-		<td>+ 3</td>
+		<td>1095</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -641,8 +641,8 @@
 		<td>908</td>
 		<td>918</td>
 		<td>930</td>
-		<td>934</td>
-		<td>+ 4</td>
+		<td>936</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -729,8 +729,8 @@
 		<td>754</td>
 		<td>762</td>
 		<td>768</td>
-		<td>771</td>
-		<td>+ 3</td>
+		<td>773</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -784,8 +784,8 @@
 		<td>676</td>
 		<td>684</td>
 		<td>692</td>
-		<td>695</td>
-		<td>+ 3</td>
+		<td>697</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -795,8 +795,8 @@
 		<td>668</td>
 		<td>678</td>
 		<td>686</td>
-		<td>689</td>
-		<td>+ 3</td>
+		<td>691</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32870</td>
-		<td>153</td>
+		<td>32880</td>
+		<td>163</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>139</td>
 		<td>117</td>
 		<td>284</td>
-		<td>63</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>22</td>
 		<td>19</td>
-		<td>13</td>
+		<td>15</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7964</td>
-		<td>1909</td>
+		<td>7968</td>
+		<td>1911</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>150</td>
-		<td>53.09</td>
-		<td>12.73</td>
+		<td>53.12</td>
+		<td>12.74</td>
 		<td></td>
 		<td></td>
 	</tr>
