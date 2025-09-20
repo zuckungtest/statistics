@@ -186,8 +186,8 @@
 		<td>1071</td>
 		<td>1087</td>
 		<td>1099</td>
-		<td>1103</td>
-		<td>+ 4</td>
+		<td>1105</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32923</td>
-		<td>206</td>
+		<td>32925</td>
+		<td>208</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1071</td>
 		<td>1087</td>
 		<td>1099</td>
-		<td>1103</td>
-		<td>+ 4</td>
+		<td>1105</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32923</td>
-		<td>206</td>
+		<td>32925</td>
+		<td>208</td>
 	</tr>
 </table>
 </sub></sup>
