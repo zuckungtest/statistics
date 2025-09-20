@@ -439,8 +439,8 @@
 		<td>1073</td>
 		<td>1084</td>
 		<td>1090</td>
-		<td>1096</td>
-		<td>+ 6</td>
+		<td>1098</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>867</td>
 		<td>875</td>
 		<td>887</td>
-		<td>892</td>
-		<td>+ 5</td>
+		<td>894</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32941</td>
-		<td>224</td>
+		<td>32945</td>
+		<td>228</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>1073</td>
 		<td>1084</td>
 		<td>1090</td>
-		<td>1096</td>
-		<td>+ 6</td>
+		<td>1098</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -652,8 +652,8 @@
 		<td>867</td>
 		<td>875</td>
 		<td>887</td>
-		<td>892</td>
-		<td>+ 5</td>
+		<td>894</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>32941</td>
-		<td>224</td>
+		<td>32945</td>
+		<td>228</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>139</td>
 		<td>117</td>
 		<td>284</td>
-		<td>76</td>
+		<td>77</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>22</td>
 		<td>19</td>
-		<td>18</td>
+		<td>19</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>7977</td>
-		<td>1914</td>
+		<td>7978</td>
+		<td>1915</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>150</td>
-		<td>53.18</td>
-		<td>12.76</td>
+		<td>53.19</td>
+		<td>12.77</td>
 		<td></td>
 		<td></td>
 	</tr>
