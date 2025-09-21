@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-flare.play | downloads: 26
+v1.0.3-flare.play | downloads: 27
 v1.0.6-quarg.farm | downloads: 81
 v1.0.2-ship.merging | downloads: 85
 v1.0.12-uniques | downloads: 89
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 35399
+# TOTAL DOWNLOADS: 35400
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -297,7 +297,7 @@ devil-run.unhidden 66
 disable.person.ships 451
 disable.spaceport.repeatables 617
 expert.crew.members 1167
-flare.play 373
+flare.play 374
 free.worlds.5.years.later 370
 galactic.capital.investment 1317
 gegno.pirates 1119
