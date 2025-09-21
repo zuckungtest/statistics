@@ -296,8 +296,8 @@
 		<td>982</td>
 		<td>996</td>
 		<td>1002</td>
-		<td>1008</td>
-		<td>+ 6</td>
+		<td>1010</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33122</td>
-		<td>177</td>
+		<td>33124</td>
+		<td>179</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>982</td>
 		<td>996</td>
 		<td>1002</td>
-		<td>1008</td>
-		<td>+ 6</td>
+		<td>1010</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33122</td>
-		<td>177</td>
+		<td>33124</td>
+		<td>179</td>
 	</tr>
 </table>
 </sub></sup>
