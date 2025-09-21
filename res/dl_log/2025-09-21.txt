@@ -1,50 +1,50 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-flare.play | downloads: 25
+v1.0.3-flare.play | downloads: 26
 v1.0.6-quarg.farm | downloads: 81
-v1.0.2-ship.merging | downloads: 84
+v1.0.2-ship.merging | downloads: 85
 v1.0.12-uniques | downloads: 89
-v1.0.5-control.station | downloads: 228
-v1.0.1-boss.loot | downloads: 228
+v1.0.5-control.station | downloads: 229
+v1.0.1-boss.loot | downloads: 229
 v1.1.3-space.fauna | downloads: 175
 v1.1.2-disable.spaceport.repeatables | downloads: 127
 v1.0.7-coalition.shopping | downloads: 226
 v1.0.5-too.many.asteroids | downloads: 113
 v1.0.4-planet.map | downloads: 114
 v1.0.4-no.more.mereti.mines | downloads: 156
-v1.0.4-jump.gates | downloads: 207
-v1.0.4-gegno.pirates | downloads: 236
+v1.0.4-jump.gates | downloads: 208
+v1.0.4-gegno.pirates | downloads: 237
 v1.0.3-tribute.republic | downloads: 150
-v1.0.3-more.arfectas | downloads: 115
-v1.0.3-kor.efret.shipyard | downloads: 218
-v1.0.2-highrollers.ltd | downloads: 192
-v1.0.2-automata.in.human.space | downloads: 203
+v1.0.3-more.arfectas | downloads: 116
+v1.0.3-kor.efret.shipyard | downloads: 221
+v1.0.2-highrollers.ltd | downloads: 193
+v1.0.2-automata.in.human.space | downloads: 205
 v1.0.2-automata.destruction.0percent | downloads: 126
-v1.0.1-kestrel.unlocks | downloads: 187
+v1.0.1-kestrel.unlocks | downloads: 188
 v1.0.1-disable.person.ships | downloads: 116
 v1.0.5-landing.images | downloads: 214
-v1.0.3-landing.images.highres | downloads: 195
+v1.0.3-landing.images.highres | downloads: 196
 v1.0.25-additional.command.buttons.radial | downloads: 248
-v1.1.9-galactic.capital.investment | downloads: 307
+v1.1.9-galactic.capital.investment | downloads: 308
 v1.0.1-ship.merging | downloads: 271
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 205
-v1.0.8-combat.ai | downloads: 347
+v1.0.8-combat.ai | downloads: 348
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 221
-v1.0.7-mission.helper | downloads: 549
-v1.0.9-expert.crew.members | downloads: 424
+v1.0.7-mission.helper | downloads: 550
+v1.0.9-expert.crew.members | downloads: 425
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 299
 v1.0.5-show.reputation | downloads: 394
 v1.0.3-paint.your.ships | downloads: 345
-v1.1.9-captureable.person.ships | downloads: 334
-v1.0.9-bunrodea.missions | downloads: 461
-v1.0.5-better.starts | downloads: 408
+v1.1.9-captureable.person.ships | downloads: 335
+v1.0.9-bunrodea.missions | downloads: 462
+v1.0.5-better.starts | downloads: 409
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -56,13 +56,13 @@ v1.0.23-additional.command.buttons.radial | downloads: 167
 v1.1.8-captureable.person.ships | downloads: 46
 v1.1.7-galactic.capital.investment | downloads: 27
 v1.1.5-more.boarding.missions | downloads: 464
-v1.1.5-hai.side.mission.unlocker | downloads: 351
-v1.0.6-snowfeather.robotics | downloads: 401
+v1.1.5-hai.side.mission.unlocker | downloads: 352
+v1.0.6-snowfeather.robotics | downloads: 402
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 407
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
-v1.0.3-more.person.ships | downloads: 324
+v1.0.3-more.person.ships | downloads: 325
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
@@ -109,7 +109,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 664
+v1.0.4-too.many.asteroids | downloads: 666
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -277,44 +277,44 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 35372
+# TOTAL DOWNLOADS: 35399
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1263
 automata.destruction.0percent 864
-automata.in.human.space 727
+automata.in.human.space 729
 avgi.licenses 229
-better.starts 952
-boss.loot 420
-bunrodea.missions 1184
-captureable.person.ships 858
+better.starts 953
+boss.loot 421
+bunrodea.missions 1185
+captureable.person.ships 859
 coalition.shopping 978
-combat.ai 707
-control.station 841
+combat.ai 708
+control.station 842
 devil-run.unhidden 66
 disable.person.ships 451
 disable.spaceport.repeatables 617
-expert.crew.members 1166
-flare.play 372
+expert.crew.members 1167
+flare.play 373
 free.worlds.5.years.later 370
-galactic.capital.investment 1316
-gegno.pirates 1118
-hai.side.mission.unlocker 782
-highrollers.ltd 428
+galactic.capital.investment 1317
+gegno.pirates 1119
+hai.side.mission.unlocker 783
+highrollers.ltd 429
 human.labels 704
-jump.gates 848
-kestrel.unlocks 769
-kor.efret.shipyard 1019
+jump.gates 849
+kestrel.unlocks 770
+kor.efret.shipyard 1022
 landing.images 789
 landing.images.android 349
-landing.images.highres 598
+landing.images.highres 599
 licenses 699
-mission.helper 1019
-more.arfectas 977
+mission.helper 1020
+more.arfectas 978
 more.boarding.missions 1057
-more.person.ships 737
+more.person.ships 738
 navy.licenses 575
 no.more.mereti.mines 621
 outfits.weapon.slot 700
@@ -324,11 +324,11 @@ planet.map 526
 planet.pluto 190
 quarg.farm 1079
 real.fluff 93
-ship.merging 368
+ship.merging 369
 show.reputation 955
-snowfeather.robotics 865
+snowfeather.robotics 866
 space.fauna 619
-too.many.asteroids 1108
+too.many.asteroids 1110
 tribute.republic 548
 unique.fix 44
 uniques 902
