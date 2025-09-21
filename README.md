@@ -120,8 +120,8 @@
 		<td>818</td>
 		<td>826</td>
 		<td>830</td>
-		<td>839</td>
-		<td>+ 9</td>
+		<td>840</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -362,8 +362,8 @@
 		<td>788</td>
 		<td>794</td>
 		<td>798</td>
-		<td>807</td>
-		<td>+ 9</td>
+		<td>808</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -406,8 +406,8 @@
 		<td>929</td>
 		<td>935</td>
 		<td>939</td>
-		<td>950</td>
-		<td>+ 11</td>
+		<td>951</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -428,8 +428,8 @@
 		<td>594</td>
 		<td>606</td>
 		<td>610</td>
-		<td>615</td>
-		<td>+ 5</td>
+		<td>616</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33266</td>
-		<td>321</td>
+		<td>33270</td>
+		<td>325</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>929</td>
 		<td>935</td>
 		<td>939</td>
-		<td>950</td>
-		<td>+ 11</td>
+		<td>951</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -707,8 +707,8 @@
 		<td>818</td>
 		<td>826</td>
 		<td>830</td>
-		<td>839</td>
-		<td>+ 9</td>
+		<td>840</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -718,8 +718,8 @@
 		<td>788</td>
 		<td>794</td>
 		<td>798</td>
-		<td>807</td>
-		<td>+ 9</td>
+		<td>808</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -839,8 +839,8 @@
 		<td>594</td>
 		<td>606</td>
 		<td>610</td>
-		<td>615</td>
-		<td>+ 5</td>
+		<td>616</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33266</td>
-		<td>321</td>
+		<td>33270</td>
+		<td>325</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>117</td>
 		<td>284</td>
 		<td>77</td>
-		<td>79</td>
+		<td>93</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>22</td>
 		<td>19</td>
 		<td>19</td>
-		<td>21</td>
+		<td>24</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8057</td>
-		<td>1936</td>
+		<td>8071</td>
+		<td>1939</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>151</td>
-		<td>53.36</td>
-		<td>12.82</td>
+		<td>53.45</td>
+		<td>12.84</td>
 		<td></td>
 		<td></td>
 	</tr>
