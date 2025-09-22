@@ -13,7 +13,7 @@ v1.0.4-planet.map | downloads: 116
 v1.0.4-no.more.mereti.mines | downloads: 160
 v1.0.4-jump.gates | downloads: 212
 v1.0.4-gegno.pirates | downloads: 240
-v1.0.3-tribute.republic | downloads: 153
+v1.0.3-tribute.republic | downloads: 155
 v1.0.3-more.arfectas | downloads: 120
 v1.0.3-kor.efret.shipyard | downloads: 224
 v1.0.2-highrollers.ltd | downloads: 195
@@ -44,7 +44,7 @@ v1.0.5-show.reputation | downloads: 396
 v1.0.3-paint.your.ships | downloads: 348
 v1.1.9-captureable.person.ships | downloads: 340
 v1.0.9-bunrodea.missions | downloads: 465
-v1.0.5-better.starts | downloads: 411
+v1.0.5-better.starts | downloads: 413
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -66,11 +66,11 @@ v1.0.3-more.person.ships | downloads: 327
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
-v1.0.1-outfits.weapon.slot | downloads: 324
+v1.0.1-outfits.weapon.slot | downloads: 326
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 702
+v1.0.1-licenses | downloads: 704
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 35517
+# TOTAL DOWNLOADS: 35525
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -286,7 +286,7 @@ additional.command.buttons.radial 1269
 automata.destruction.0percent 867
 automata.in.human.space 731
 avgi.licenses 229
-better.starts 955
+better.starts 957
 boss.loot 425
 bunrodea.missions 1188
 captureable.person.ships 864
@@ -310,14 +310,14 @@ kor.efret.shipyard 1025
 landing.images 791
 landing.images.android 349
 landing.images.highres 601
-licenses 704
+licenses 706
 mission.helper 1022
 more.arfectas 982
 more.boarding.missions 1061
 more.person.ships 740
 navy.licenses 575
 no.more.mereti.mines 625
-outfits.weapon.slot 702
+outfits.weapon.slot 704
 paint.your.ships 812
 pirate.warlords 3
 planet.map 528
@@ -329,6 +329,6 @@ show.reputation 957
 snowfeather.robotics 868
 space.fauna 621
 too.many.asteroids 1112
-tribute.republic 551
+tribute.republic 553
 unique.fix 44
 uniques 904
