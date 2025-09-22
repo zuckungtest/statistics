@@ -10,8 +10,8 @@ v1.1.2-disable.spaceport.repeatables | downloads: 128
 v1.0.7-coalition.shopping | downloads: 229
 v1.0.5-too.many.asteroids | downloads: 114
 v1.0.4-planet.map | downloads: 115
-v1.0.4-no.more.mereti.mines | downloads: 157
-v1.0.4-jump.gates | downloads: 209
+v1.0.4-no.more.mereti.mines | downloads: 159
+v1.0.4-jump.gates | downloads: 211
 v1.0.4-gegno.pirates | downloads: 239
 v1.0.3-tribute.republic | downloads: 152
 v1.0.3-more.arfectas | downloads: 119
@@ -42,7 +42,7 @@ v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 300
 v1.0.5-show.reputation | downloads: 395
 v1.0.3-paint.your.ships | downloads: 347
-v1.1.9-captureable.person.ships | downloads: 337
+v1.1.9-captureable.person.ships | downloads: 339
 v1.0.9-bunrodea.missions | downloads: 464
 v1.0.5-better.starts | downloads: 410
 v1.0.4-control.station | downloads: 184
@@ -55,7 +55,7 @@ v1.0.1-free.worlds.5.years.later | downloads: 10
 v1.0.23-additional.command.buttons.radial | downloads: 167
 v1.1.8-captureable.person.ships | downloads: 46
 v1.1.7-galactic.capital.investment | downloads: 27
-v1.1.5-more.boarding.missions | downloads: 465
+v1.1.5-more.boarding.missions | downloads: 467
 v1.1.5-hai.side.mission.unlocker | downloads: 353
 v1.0.6-snowfeather.robotics | downloads: 403
 v1.0.6-human.labels | downloads: 41
@@ -70,7 +70,7 @@ v1.0.1-outfits.weapon.slot | downloads: 323
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 699
+v1.0.1-licenses | downloads: 701
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 35460
+# TOTAL DOWNLOADS: 35470
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -289,7 +289,7 @@ avgi.licenses 229
 better.starts 954
 boss.loot 424
 bunrodea.missions 1187
-captureable.person.ships 861
+captureable.person.ships 863
 coalition.shopping 981
 combat.ai 710
 control.station 844
@@ -304,19 +304,19 @@ gegno.pirates 1121
 hai.side.mission.unlocker 784
 highrollers.ltd 430
 human.labels 705
-jump.gates 850
+jump.gates 852
 kestrel.unlocks 771
 kor.efret.shipyard 1024
 landing.images 790
 landing.images.android 349
 landing.images.highres 600
-licenses 701
+licenses 703
 mission.helper 1021
 more.arfectas 981
-more.boarding.missions 1058
+more.boarding.missions 1060
 more.person.ships 739
 navy.licenses 575
-no.more.mereti.mines 622
+no.more.mereti.mines 624
 outfits.weapon.slot 701
 paint.your.ships 811
 pirate.warlords 3
