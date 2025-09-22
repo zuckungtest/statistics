@@ -87,8 +87,8 @@
 		<td>844</td>
 		<td>848</td>
 		<td>859</td>
-		<td>861</td>
-		<td>+ 2</td>
+		<td>863</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -230,8 +230,8 @@
 		<td>838</td>
 		<td>842</td>
 		<td>849</td>
-		<td>850</td>
-		<td>+ 1</td>
+		<td>852</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -285,8 +285,8 @@
 		<td>680</td>
 		<td>686</td>
 		<td>699</td>
-		<td>701</td>
-		<td>+ 2</td>
+		<td>703</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -318,8 +318,8 @@
 		<td>1039</td>
 		<td>1046</td>
 		<td>1057</td>
-		<td>1058</td>
-		<td>+ 1</td>
+		<td>1060</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -340,8 +340,8 @@
 		<td>609</td>
 		<td>613</td>
 		<td>621</td>
-		<td>622</td>
-		<td>+ 1</td>
+		<td>624</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33448</td>
-		<td>60</td>
+		<td>33458</td>
+		<td>70</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>1039</td>
 		<td>1046</td>
 		<td>1057</td>
-		<td>1058</td>
-		<td>+ 1</td>
+		<td>1060</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -685,8 +685,8 @@
 		<td>844</td>
 		<td>848</td>
 		<td>859</td>
-		<td>861</td>
-		<td>+ 2</td>
+		<td>863</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -696,8 +696,8 @@
 		<td>838</td>
 		<td>842</td>
 		<td>849</td>
-		<td>850</td>
-		<td>+ 1</td>
+		<td>852</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -799,6 +799,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>licenses</td>
+		<td>652</td>
+		<td>661</td>
+		<td>672</td>
+		<td>680</td>
+		<td>686</td>
+		<td>699</td>
+		<td>703</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>659</td>
 		<td>668</td>
@@ -810,17 +821,6 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>licenses</td>
-		<td>652</td>
-		<td>661</td>
-		<td>672</td>
-		<td>680</td>
-		<td>686</td>
-		<td>699</td>
-		<td>701</td>
-		<td>+ 2</td>
-	</tr>
-	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>587</td>
 		<td>594</td>
@@ -828,8 +828,8 @@
 		<td>609</td>
 		<td>613</td>
 		<td>621</td>
-		<td>622</td>
-		<td>+ 1</td>
+		<td>624</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33448</td>
-		<td>60</td>
+		<td>33458</td>
+		<td>70</td>
 	</tr>
 </table>
 </sub></sup>
