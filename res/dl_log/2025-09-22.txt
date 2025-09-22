@@ -40,7 +40,7 @@ v1.0.9-expert.crew.members | downloads: 430
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 303
-v1.0.5-show.reputation | downloads: 398
+v1.0.5-show.reputation | downloads: 400
 v1.0.3-paint.your.ships | downloads: 351
 v1.1.9-captureable.person.ships | downloads: 342
 v1.0.9-bunrodea.missions | downloads: 467
@@ -218,7 +218,7 @@ v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
 v1.1.3-hai.side.mission.unlocker | downloads: 71
-v1.1.1-disable.spaceport.repeatables | downloads: 491
+v1.1.1-disable.spaceport.repeatables | downloads: 493
 v1.0.0-quarg.farm | downloads: 1
 v1.0.1-control.station | downloads: 386
 v1.0.0-control.station | downloads: 1
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 35643
+# TOTAL DOWNLOADS: 35647
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -295,7 +295,7 @@ combat.ai 714
 control.station 847
 devil-run.unhidden 66
 disable.person.ships 455
-disable.spaceport.repeatables 624
+disable.spaceport.repeatables 626
 expert.crew.members 1172
 flare.play 379
 free.worlds.5.years.later 370
@@ -325,7 +325,7 @@ planet.pluto 190
 quarg.farm 1086
 real.fluff 93
 ship.merging 377
-show.reputation 959
+show.reputation 961
 snowfeather.robotics 871
 space.fauna 623
 too.many.asteroids 1114
