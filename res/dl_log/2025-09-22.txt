@@ -23,7 +23,7 @@ v1.0.1-kestrel.unlocks | downloads: 190
 v1.0.1-disable.person.ships | downloads: 118
 v1.0.5-landing.images | downloads: 216
 v1.0.3-landing.images.highres | downloads: 198
-v1.0.25-additional.command.buttons.radial | downloads: 252
+v1.0.25-additional.command.buttons.radial | downloads: 254
 v1.1.9-galactic.capital.investment | downloads: 311
 v1.0.1-ship.merging | downloads: 271
 v1.0.0-ship.merging | downloads: 13
@@ -277,12 +277,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 35515
+# TOTAL DOWNLOADS: 35517
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1267
+additional.command.buttons.radial 1269
 automata.destruction.0percent 867
 automata.in.human.space 731
 avgi.licenses 229
