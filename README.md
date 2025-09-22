@@ -285,8 +285,8 @@
 		<td>680</td>
 		<td>686</td>
 		<td>699</td>
-		<td>706</td>
-		<td>+ 7</td>
+		<td>707</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>996</td>
 		<td>1002</td>
 		<td>1020</td>
-		<td>1022</td>
-		<td>+ 2</td>
+		<td>1023</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33513</td>
-		<td>125</td>
+		<td>33515</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>996</td>
 		<td>1002</td>
 		<td>1020</td>
-		<td>1022</td>
-		<td>+ 2</td>
+		<td>1023</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -795,8 +795,8 @@
 		<td>680</td>
 		<td>686</td>
 		<td>699</td>
-		<td>706</td>
-		<td>+ 7</td>
+		<td>707</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33513</td>
-		<td>125</td>
+		<td>33515</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
