@@ -120,8 +120,8 @@
 		<td>826</td>
 		<td>830</td>
 		<td>842</td>
-		<td>843</td>
-		<td>+ 1</td>
+		<td>844</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -307,8 +307,8 @@
 		<td>959</td>
 		<td>966</td>
 		<td>978</td>
-		<td>980</td>
-		<td>+ 2</td>
+		<td>981</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33446</td>
-		<td>58</td>
+		<td>33448</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
@@ -601,6 +601,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>more.arfectas</td>
+		<td>929</td>
+		<td>943</td>
+		<td>953</td>
+		<td>959</td>
+		<td>966</td>
+		<td>978</td>
+		<td>981</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>coalition.shopping</td>
 		<td>939</td>
 		<td>946</td>
@@ -610,17 +621,6 @@
 		<td>978</td>
 		<td>981</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>more.arfectas</td>
-		<td>929</td>
-		<td>943</td>
-		<td>953</td>
-		<td>959</td>
-		<td>966</td>
-		<td>978</td>
-		<td>980</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -707,8 +707,8 @@
 		<td>826</td>
 		<td>830</td>
 		<td>842</td>
-		<td>843</td>
-		<td>+ 1</td>
+		<td>844</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33446</td>
-		<td>58</td>
+		<td>33448</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
