@@ -54,8 +54,8 @@
 		<td>930</td>
 		<td>939</td>
 		<td>953</td>
-		<td>955</td>
-		<td>+ 2</td>
+		<td>957</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -285,8 +285,8 @@
 		<td>680</td>
 		<td>686</td>
 		<td>699</td>
-		<td>704</td>
-		<td>+ 5</td>
+		<td>706</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -351,8 +351,8 @@
 		<td>686</td>
 		<td>692</td>
 		<td>700</td>
-		<td>702</td>
-		<td>+ 2</td>
+		<td>704</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -450,8 +450,8 @@
 		<td>538</td>
 		<td>542</td>
 		<td>548</td>
-		<td>551</td>
-		<td>+ 3</td>
+		<td>553</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33505</td>
-		<td>117</td>
+		<td>33513</td>
+		<td>125</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>930</td>
 		<td>939</td>
 		<td>953</td>
-		<td>955</td>
-		<td>+ 2</td>
+		<td>957</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -788,6 +788,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>licenses</td>
+		<td>652</td>
+		<td>661</td>
+		<td>672</td>
+		<td>680</td>
+		<td>686</td>
+		<td>699</td>
+		<td>706</td>
+		<td>+ 7</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>669</td>
 		<td>676</td>
@@ -799,17 +810,6 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
-		<td>licenses</td>
-		<td>652</td>
-		<td>661</td>
-		<td>672</td>
-		<td>680</td>
-		<td>686</td>
-		<td>699</td>
-		<td>704</td>
-		<td>+ 5</td>
-	</tr>
-	<tr>
 		<td>outfits.weapon.slot</td>
 		<td>659</td>
 		<td>668</td>
@@ -817,8 +817,8 @@
 		<td>686</td>
 		<td>692</td>
 		<td>700</td>
-		<td>702</td>
-		<td>+ 2</td>
+		<td>704</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -872,8 +872,8 @@
 		<td>538</td>
 		<td>542</td>
 		<td>548</td>
-		<td>551</td>
-		<td>+ 3</td>
+		<td>553</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33505</td>
-		<td>117</td>
+		<td>33513</td>
+		<td>125</td>
 	</tr>
 </table>
 </sub></sup>
