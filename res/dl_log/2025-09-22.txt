@@ -35,7 +35,7 @@ v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 221
-v1.0.7-mission.helper | downloads: 552
+v1.0.7-mission.helper | downloads: 553
 v1.0.9-expert.crew.members | downloads: 428
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
@@ -70,7 +70,7 @@ v1.0.1-outfits.weapon.slot | downloads: 326
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 704
+v1.0.1-licenses | downloads: 705
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 35525
+# TOTAL DOWNLOADS: 35527
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -310,8 +310,8 @@ kor.efret.shipyard 1025
 landing.images 791
 landing.images.android 349
 landing.images.highres 601
-licenses 706
-mission.helper 1022
+licenses 707
+mission.helper 1023
 more.arfectas 982
 more.boarding.missions 1061
 more.person.ships 740
