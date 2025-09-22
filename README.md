@@ -65,8 +65,8 @@
 		<td>402</td>
 		<td>409</td>
 		<td>421</td>
-		<td>427</td>
-		<td>+ 6</td>
+		<td>429</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -230,8 +230,8 @@
 		<td>838</td>
 		<td>842</td>
 		<td>849</td>
-		<td>856</td>
-		<td>+ 7</td>
+		<td>858</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -395,8 +395,8 @@
 		<td>356</td>
 		<td>360</td>
 		<td>369</td>
-		<td>375</td>
-		<td>+ 6</td>
+		<td>377</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33625</td>
-		<td>237</td>
+		<td>33631</td>
+		<td>243</td>
 	</tr>
 </table>
 </sub></sup>
@@ -696,8 +696,8 @@
 		<td>838</td>
 		<td>842</td>
 		<td>849</td>
-		<td>856</td>
-		<td>+ 7</td>
+		<td>858</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -916,8 +916,8 @@
 		<td>402</td>
 		<td>409</td>
 		<td>421</td>
-		<td>427</td>
-		<td>+ 6</td>
+		<td>429</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -938,8 +938,8 @@
 		<td>356</td>
 		<td>360</td>
 		<td>369</td>
-		<td>375</td>
-		<td>+ 6</td>
+		<td>377</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33625</td>
-		<td>237</td>
+		<td>33631</td>
+		<td>243</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>284</td>
 		<td>77</td>
 		<td>115</td>
-		<td>47</td>
+		<td>48</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>19</td>
 		<td>33</td>
-		<td>12</td>
+		<td>13</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8140</td>
-		<td>1960</td>
+		<td>8141</td>
+		<td>1961</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>152</td>
-		<td>53.55</td>
-		<td>12.89</td>
+		<td>53.56</td>
+		<td>12.90</td>
 		<td></td>
 		<td></td>
 	</tr>
