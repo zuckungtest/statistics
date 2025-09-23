@@ -373,8 +373,8 @@
 		<td>520</td>
 		<td>526</td>
 		<td>531</td>
-		<td>534</td>
-		<td>+ 3</td>
+		<td>536</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -395,8 +395,8 @@
 		<td>360</td>
 		<td>369</td>
 		<td>378</td>
-		<td>385</td>
-		<td>+ 7</td>
+		<td>387</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33877</td>
-		<td>201</td>
+		<td>33881</td>
+		<td>205</td>
 	</tr>
 </table>
 </sub></sup>
@@ -883,8 +883,8 @@
 		<td>520</td>
 		<td>526</td>
 		<td>531</td>
-		<td>534</td>
-		<td>+ 3</td>
+		<td>536</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -927,8 +927,8 @@
 		<td>360</td>
 		<td>369</td>
 		<td>378</td>
-		<td>385</td>
-		<td>+ 7</td>
+		<td>387</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33877</td>
-		<td>201</td>
+		<td>33881</td>
+		<td>205</td>
 	</tr>
 </table>
 </sub></sup>
