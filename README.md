@@ -54,8 +54,8 @@
 		<td>939</td>
 		<td>953</td>
 		<td>960</td>
-		<td>969</td>
-		<td>+ 9</td>
+		<td>971</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -186,8 +186,8 @@
 		<td>1105</td>
 		<td>1119</td>
 		<td>1125</td>
-		<td>1134</td>
-		<td>+ 9</td>
+		<td>1136</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34067</td>
-		<td>391</td>
+		<td>34071</td>
+		<td>395</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1105</td>
 		<td>1119</td>
 		<td>1125</td>
-		<td>1134</td>
-		<td>+ 9</td>
+		<td>1136</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -641,8 +641,8 @@
 		<td>939</td>
 		<td>953</td>
 		<td>960</td>
-		<td>969</td>
-		<td>+ 9</td>
+		<td>971</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34067</td>
-		<td>391</td>
+		<td>34071</td>
+		<td>395</td>
 	</tr>
 </table>
 </sub></sup>
