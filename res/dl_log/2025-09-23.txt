@@ -4,14 +4,14 @@ v1.0.6-quarg.farm | downloads: 98
 v1.0.2-ship.merging | downloads: 108
 v1.0.12-uniques | downloads: 104
 v1.0.5-control.station | downloads: 244
-v1.0.1-boss.loot | downloads: 248
+v1.0.1-boss.loot | downloads: 250
 v1.1.3-space.fauna | downloads: 187
 v1.1.2-disable.spaceport.repeatables | downloads: 140
 v1.0.7-coalition.shopping | downloads: 245
 v1.0.5-too.many.asteroids | downloads: 123
 v1.0.4-planet.map | downloads: 124
 v1.0.4-no.more.mereti.mines | downloads: 170
-v1.0.4-jump.gates | downloads: 227
+v1.0.4-jump.gates | downloads: 229
 v1.0.4-gegno.pirates | downloads: 252
 v1.0.3-tribute.republic | downloads: 167
 v1.0.3-more.arfectas | downloads: 131
@@ -21,15 +21,15 @@ v1.0.2-automata.in.human.space | downloads: 215
 v1.0.2-automata.destruction.0percent | downloads: 138
 v1.0.1-kestrel.unlocks | downloads: 203
 v1.0.1-disable.person.ships | downloads: 126
-v1.0.5-landing.images | downloads: 226
+v1.0.5-landing.images | downloads: 228
 v1.0.3-landing.images.highres | downloads: 208
-v1.0.25-additional.command.buttons.radial | downloads: 262
+v1.0.25-additional.command.buttons.radial | downloads: 264
 v1.1.9-galactic.capital.investment | downloads: 325
 v1.0.1-ship.merging | downloads: 271
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 205
-v1.0.8-combat.ai | downloads: 367
+v1.0.8-combat.ai | downloads: 369
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
@@ -42,7 +42,7 @@ v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 313
 v1.0.5-show.reputation | downloads: 412
 v1.0.3-paint.your.ships | downloads: 361
-v1.1.9-captureable.person.ships | downloads: 354
+v1.1.9-captureable.person.ships | downloads: 356
 v1.0.9-bunrodea.missions | downloads: 481
 v1.0.5-better.starts | downloads: 425
 v1.0.4-control.station | downloads: 184
@@ -55,7 +55,7 @@ v1.0.1-free.worlds.5.years.later | downloads: 10
 v1.0.23-additional.command.buttons.radial | downloads: 167
 v1.1.8-captureable.person.ships | downloads: 46
 v1.1.7-galactic.capital.investment | downloads: 27
-v1.1.5-more.boarding.missions | downloads: 483
+v1.1.5-more.boarding.missions | downloads: 485
 v1.1.5-hai.side.mission.unlocker | downloads: 366
 v1.0.6-snowfeather.robotics | downloads: 416
 v1.0.6-human.labels | downloads: 41
@@ -109,7 +109,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 670
+v1.0.4-too.many.asteroids | downloads: 672
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -277,21 +277,21 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 36063
+# TOTAL DOWNLOADS: 36079
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1277
+additional.command.buttons.radial 1279
 automata.destruction.0percent 882
 automata.in.human.space 739
 avgi.licenses 229
 better.starts 969
-boss.loot 440
+boss.loot 442
 bunrodea.missions 1204
-captureable.person.ships 878
+captureable.person.ships 880
 coalition.shopping 997
-combat.ai 727
+combat.ai 729
 control.station 857
 devil-run.unhidden 66
 disable.person.ships 461
@@ -304,16 +304,16 @@ gegno.pirates 1134
 hai.side.mission.unlocker 797
 highrollers.ltd 441
 human.labels 718
-jump.gates 868
+jump.gates 870
 kestrel.unlocks 785
 kor.efret.shipyard 1042
-landing.images 801
+landing.images 803
 landing.images.android 349
 landing.images.highres 611
 licenses 728
 mission.helper 1035
 more.arfectas 998
-more.boarding.missions 1076
+more.boarding.missions 1078
 more.person.ships 751
 navy.licenses 575
 no.more.mereti.mines 635
@@ -328,7 +328,7 @@ ship.merging 392
 show.reputation 973
 snowfeather.robotics 880
 space.fauna 631
-too.many.asteroids 1124
+too.many.asteroids 1126
 tribute.republic 565
 unique.fix 44
 uniques 917
