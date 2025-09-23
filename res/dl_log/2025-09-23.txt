@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-flare.play | downloads: 36
 v1.0.6-quarg.farm | downloads: 94
-v1.0.2-ship.merging | downloads: 97
+v1.0.2-ship.merging | downloads: 99
 v1.0.12-uniques | downloads: 98
 v1.0.5-control.station | downloads: 238
 v1.0.1-boss.loot | downloads: 242
@@ -41,7 +41,7 @@ v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 307
 v1.0.5-show.reputation | downloads: 406
-v1.0.3-paint.your.ships | downloads: 355
+v1.0.3-paint.your.ships | downloads: 357
 v1.1.9-captureable.person.ships | downloads: 348
 v1.0.9-bunrodea.missions | downloads: 469
 v1.0.5-better.starts | downloads: 421
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 35803
+# TOTAL DOWNLOADS: 35807
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -318,13 +318,13 @@ more.person.ships 745
 navy.licenses 575
 no.more.mereti.mines 629
 outfits.weapon.slot 709
-paint.your.ships 819
+paint.your.ships 821
 pirate.warlords 3
 planet.map 532
 planet.pluto 190
 quarg.farm 1092
 real.fluff 93
-ship.merging 381
+ship.merging 383
 show.reputation 967
 snowfeather.robotics 874
 space.fauna 627
