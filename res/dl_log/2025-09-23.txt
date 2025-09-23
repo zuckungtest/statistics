@@ -15,11 +15,11 @@ v1.0.4-jump.gates | downloads: 224
 v1.0.4-gegno.pirates | downloads: 249
 v1.0.3-tribute.republic | downloads: 166
 v1.0.3-more.arfectas | downloads: 130
-v1.0.3-kor.efret.shipyard | downloads: 238
+v1.0.3-kor.efret.shipyard | downloads: 240
 v1.0.2-highrollers.ltd | downloads: 204
 v1.0.2-automata.in.human.space | downloads: 214
 v1.0.2-automata.destruction.0percent | downloads: 137
-v1.0.1-kestrel.unlocks | downloads: 200
+v1.0.1-kestrel.unlocks | downloads: 202
 v1.0.1-disable.person.ships | downloads: 125
 v1.0.5-landing.images | downloads: 225
 v1.0.3-landing.images.highres | downloads: 205
@@ -70,7 +70,7 @@ v1.0.1-outfits.weapon.slot | downloads: 336
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 718
+v1.0.1-licenses | downloads: 721
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -213,7 +213,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 741
+v1.0.1-automata.destruction.0percent | downloads: 743
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -277,13 +277,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 35988
+# TOTAL DOWNLOADS: 35997
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1276
-automata.destruction.0percent 879
+automata.destruction.0percent 881
 automata.in.human.space 738
 avgi.licenses 229
 better.starts 968
@@ -305,12 +305,12 @@ hai.side.mission.unlocker 796
 highrollers.ltd 440
 human.labels 717
 jump.gates 865
-kestrel.unlocks 782
-kor.efret.shipyard 1039
+kestrel.unlocks 784
+kor.efret.shipyard 1041
 landing.images 800
 landing.images.android 349
 landing.images.highres 608
-licenses 720
+licenses 723
 mission.helper 1034
 more.arfectas 997
 more.boarding.missions 1073
