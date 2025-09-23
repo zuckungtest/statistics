@@ -362,8 +362,8 @@
 		<td>798</td>
 		<td>809</td>
 		<td>816</td>
-		<td>819</td>
-		<td>+ 3</td>
+		<td>821</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -395,8 +395,8 @@
 		<td>360</td>
 		<td>369</td>
 		<td>378</td>
-		<td>381</td>
-		<td>+ 3</td>
+		<td>383</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33791</td>
-		<td>115</td>
+		<td>33795</td>
+		<td>119</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>798</td>
 		<td>809</td>
 		<td>816</td>
-		<td>819</td>
-		<td>+ 3</td>
+		<td>821</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -920,6 +920,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>ship.merging</td>
+		<td>332</td>
+		<td>344</td>
+		<td>356</td>
+		<td>360</td>
+		<td>369</td>
+		<td>378</td>
+		<td>383</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>flare.play</td>
 		<td>343</td>
 		<td>349</td>
@@ -931,17 +942,6 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
-		<td>ship.merging</td>
-		<td>332</td>
-		<td>344</td>
-		<td>356</td>
-		<td>360</td>
-		<td>369</td>
-		<td>378</td>
-		<td>381</td>
-		<td>+ 3</td>
-	</tr>
-	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33791</td>
-		<td>115</td>
+		<td>33795</td>
+		<td>119</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>77</td>
 		<td>115</td>
 		<td>61</td>
-		<td>48</td>
+		<td>52</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>33</td>
 		<td>18</td>
-		<td>5</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8202</td>
-		<td>1971</td>
+		<td>8206</td>
+		<td>1973</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>153</td>
-		<td>53.61</td>
-		<td>12.88</td>
+		<td>53.63</td>
+		<td>12.90</td>
 		<td></td>
 		<td></td>
 	</tr>
