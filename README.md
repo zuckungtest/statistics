@@ -439,8 +439,8 @@
 		<td>1098</td>
 		<td>1110</td>
 		<td>1115</td>
-		<td>1120</td>
-		<td>+ 5</td>
+		<td>1121</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33986</td>
-		<td>310</td>
+		<td>33987</td>
+		<td>311</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>1098</td>
 		<td>1110</td>
 		<td>1115</td>
-		<td>1120</td>
-		<td>+ 5</td>
+		<td>1121</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>33986</td>
-		<td>310</td>
+		<td>33987</td>
+		<td>311</td>
 	</tr>
 </table>
 </sub></sup>
