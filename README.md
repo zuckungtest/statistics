@@ -164,8 +164,8 @@
 		<td>374</td>
 		<td>380</td>
 		<td>389</td>
-		<td>398</td>
-		<td>+ 9</td>
+		<td>399</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -186,8 +186,8 @@
 		<td>1119</td>
 		<td>1125</td>
 		<td>1136</td>
-		<td>1142</td>
-		<td>+ 6</td>
+		<td>1143</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -307,8 +307,8 @@
 		<td>978</td>
 		<td>989</td>
 		<td>998</td>
-		<td>1006</td>
-		<td>+ 8</td>
+		<td>1008</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34271</td>
-		<td>200</td>
+		<td>34275</td>
+		<td>204</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1119</td>
 		<td>1125</td>
 		<td>1136</td>
-		<td>1142</td>
-		<td>+ 6</td>
+		<td>1143</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -608,8 +608,8 @@
 		<td>978</td>
 		<td>989</td>
 		<td>998</td>
-		<td>1006</td>
-		<td>+ 8</td>
+		<td>1008</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -927,8 +927,8 @@
 		<td>374</td>
 		<td>380</td>
 		<td>389</td>
-		<td>398</td>
-		<td>+ 9</td>
+		<td>399</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34271</td>
-		<td>200</td>
+		<td>34275</td>
+		<td>204</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>115</td>
 		<td>61</td>
 		<td>129</td>
-		<td>59</td>
+		<td>69</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>33</td>
 		<td>18</td>
 		<td>23</td>
-		<td>10</td>
+		<td>15</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8342</td>
-		<td>1999</td>
+		<td>8352</td>
+		<td>2004</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>154</td>
-		<td>54.17</td>
-		<td>12.98</td>
+		<td>54.23</td>
+		<td>13.01</td>
 		<td></td>
 		<td></td>
 	</tr>
