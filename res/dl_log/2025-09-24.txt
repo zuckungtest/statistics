@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-flare.play | downloads: 54
 v1.0.6-quarg.farm | downloads: 105
-v1.0.2-ship.merging | downloads: 117
+v1.0.2-ship.merging | downloads: 119
 v1.0.12-uniques | downloads: 109
 v1.0.5-control.station | downloads: 249
 v1.0.1-boss.loot | downloads: 255
@@ -11,7 +11,7 @@ v1.0.7-coalition.shopping | downloads: 252
 v1.0.5-too.many.asteroids | downloads: 128
 v1.0.4-planet.map | downloads: 128
 v1.0.4-no.more.mereti.mines | downloads: 174
-v1.0.4-jump.gates | downloads: 236
+v1.0.4-jump.gates | downloads: 238
 v1.0.4-gegno.pirates | downloads: 262
 v1.0.3-tribute.republic | downloads: 173
 v1.0.3-more.arfectas | downloads: 138
@@ -42,7 +42,7 @@ v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 318
 v1.0.5-show.reputation | downloads: 419
 v1.0.3-paint.your.ships | downloads: 366
-v1.1.9-captureable.person.ships | downloads: 363
+v1.1.9-captureable.person.ships | downloads: 365
 v1.0.9-bunrodea.missions | downloads: 490
 v1.0.5-better.starts | downloads: 434
 v1.0.4-control.station | downloads: 184
@@ -109,7 +109,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 672
+v1.0.4-too.many.asteroids | downloads: 674
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 36347
+# TOTAL DOWNLOADS: 36355
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -289,7 +289,7 @@ avgi.licenses 229
 better.starts 978
 boss.loot 447
 bunrodea.missions 1213
-captureable.person.ships 887
+captureable.person.ships 889
 coalition.shopping 1004
 combat.ai 734
 control.station 862
@@ -304,7 +304,7 @@ gegno.pirates 1144
 hai.side.mission.unlocker 801
 highrollers.ltd 445
 human.labels 723
-jump.gates 877
+jump.gates 879
 kestrel.unlocks 790
 kor.efret.shipyard 1049
 landing.images 811
@@ -324,11 +324,11 @@ planet.map 545
 planet.pluto 190
 quarg.farm 1103
 real.fluff 93
-ship.merging 401
+ship.merging 403
 show.reputation 980
 snowfeather.robotics 887
 space.fauna 636
-too.many.asteroids 1131
+too.many.asteroids 1133
 tribute.republic 571
 unique.fix 44
 uniques 922
