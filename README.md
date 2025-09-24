@@ -32,8 +32,8 @@
 		<td>864</td>
 		<td>873</td>
 		<td>882</td>
-		<td>893</td>
-		<td>+ 11</td>
+		<td>896</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -164,8 +164,8 @@
 		<td>374</td>
 		<td>380</td>
 		<td>389</td>
-		<td>406</td>
-		<td>+ 17</td>
+		<td>407</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -241,8 +241,8 @@
 		<td>770</td>
 		<td>776</td>
 		<td>785</td>
-		<td>792</td>
-		<td>+ 7</td>
+		<td>794</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34440</td>
-		<td>369</td>
+		<td>34446</td>
+		<td>375</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>864</td>
 		<td>873</td>
 		<td>882</td>
-		<td>893</td>
-		<td>+ 11</td>
+		<td>896</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -751,8 +751,8 @@
 		<td>770</td>
 		<td>776</td>
 		<td>785</td>
-		<td>792</td>
-		<td>+ 7</td>
+		<td>794</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -927,8 +927,8 @@
 		<td>374</td>
 		<td>380</td>
 		<td>389</td>
-		<td>406</td>
-		<td>+ 17</td>
+		<td>407</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34440</td>
-		<td>369</td>
+		<td>34446</td>
+		<td>375</td>
 	</tr>
 </table>
 </sub></sup>
