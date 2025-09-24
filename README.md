@@ -307,8 +307,8 @@
 		<td>978</td>
 		<td>989</td>
 		<td>998</td>
-		<td>1003</td>
-		<td>+ 5</td>
+		<td>1005</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34226</td>
-		<td>155</td>
+		<td>34228</td>
+		<td>157</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>978</td>
 		<td>989</td>
 		<td>998</td>
-		<td>1003</td>
-		<td>+ 5</td>
+		<td>1005</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34226</td>
-		<td>155</td>
+		<td>34228</td>
+		<td>157</td>
 	</tr>
 </table>
 </sub></sup>
