@@ -395,8 +395,8 @@
 		<td>369</td>
 		<td>378</td>
 		<td>392</td>
-		<td>397</td>
-		<td>+ 5</td>
+		<td>399</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34275</td>
-		<td>204</td>
+		<td>34277</td>
+		<td>206</td>
 	</tr>
 </table>
 </sub></sup>
@@ -920,6 +920,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>ship.merging</td>
+		<td>344</td>
+		<td>356</td>
+		<td>360</td>
+		<td>369</td>
+		<td>378</td>
+		<td>392</td>
+		<td>399</td>
+		<td>+ 7</td>
+	</tr>
+	<tr>
 		<td>flare.play</td>
 		<td>349</td>
 		<td>356</td>
@@ -931,17 +942,6 @@
 		<td>+ 10</td>
 	</tr>
 	<tr>
-		<td>ship.merging</td>
-		<td>344</td>
-		<td>356</td>
-		<td>360</td>
-		<td>369</td>
-		<td>378</td>
-		<td>392</td>
-		<td>397</td>
-		<td>+ 5</td>
-	</tr>
-	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34275</td>
-		<td>204</td>
+		<td>34277</td>
+		<td>206</td>
 	</tr>
 </table>
 </sub></sup>
