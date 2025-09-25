@@ -461,8 +461,8 @@
 		<td>908</td>
 		<td>917</td>
 		<td>924</td>
-		<td>929</td>
-		<td>+ 5</td>
+		<td>930</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34572</td>
-		<td>126</td>
+		<td>34573</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>908</td>
 		<td>917</td>
 		<td>924</td>
-		<td>929</td>
-		<td>+ 5</td>
+		<td>930</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34572</td>
-		<td>126</td>
+		<td>34573</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
