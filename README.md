@@ -109,8 +109,8 @@
 		<td>715</td>
 		<td>729</td>
 		<td>736</td>
-		<td>740</td>
-		<td>+ 4</td>
+		<td>742</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34570</td>
-		<td>124</td>
+		<td>34572</td>
+		<td>126</td>
 	</tr>
 </table>
 </sub></sup>
@@ -795,8 +795,8 @@
 		<td>715</td>
 		<td>729</td>
 		<td>736</td>
-		<td>740</td>
-		<td>+ 4</td>
+		<td>742</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34570</td>
-		<td>124</td>
+		<td>34572</td>
+		<td>126</td>
 	</tr>
 </table>
 </sub></sup>
