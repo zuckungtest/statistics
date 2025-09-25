@@ -109,7 +109,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 678
+v1.0.4-too.many.asteroids | downloads: 680
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 36539
+# TOTAL DOWNLOADS: 36541
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -328,7 +328,7 @@ ship.merging 410
 show.reputation 985
 snowfeather.robotics 892
 space.fauna 639
-too.many.asteroids 1138
+too.many.asteroids 1140
 tribute.republic 574
 unique.fix 44
 uniques 928
