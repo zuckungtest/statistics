@@ -2,7 +2,7 @@
 v1.0.3-flare.play | downloads: 62
 v1.0.6-quarg.farm | downloads: 109
 v1.0.2-ship.merging | downloads: 127
-v1.0.12-uniques | downloads: 116
+v1.0.12-uniques | downloads: 117
 v1.0.5-control.station | downloads: 257
 v1.0.1-boss.loot | downloads: 261
 v1.1.3-space.fauna | downloads: 196
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 36584
+# TOTAL DOWNLOADS: 36585
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -331,4 +331,4 @@ space.fauna 640
 too.many.asteroids 1141
 tribute.republic 575
 unique.fix 44
-uniques 929
+uniques 930
