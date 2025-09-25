@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-flare.play | downloads: 64
-v1.0.6-quarg.farm | downloads: 113
-v1.0.2-ship.merging | downloads: 133
+v1.0.3-flare.play | downloads: 65
+v1.0.6-quarg.farm | downloads: 114
+v1.0.2-ship.merging | downloads: 134
 v1.0.12-uniques | downloads: 121
 v1.0.5-control.station | downloads: 265
 v1.0.1-boss.loot | downloads: 263
@@ -21,7 +21,7 @@ v1.0.2-automata.in.human.space | downloads: 228
 v1.0.2-automata.destruction.0percent | downloads: 148
 v1.0.1-kestrel.unlocks | downloads: 218
 v1.0.1-disable.person.ships | downloads: 135
-v1.0.5-landing.images | downloads: 244
+v1.0.5-landing.images | downloads: 245
 v1.0.3-landing.images.highres | downloads: 220
 v1.0.25-additional.command.buttons.radial | downloads: 278
 v1.1.9-galactic.capital.investment | downloads: 346
@@ -29,14 +29,14 @@ v1.0.1-ship.merging | downloads: 271
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 205
-v1.0.8-combat.ai | downloads: 384
+v1.0.8-combat.ai | downloads: 385
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 221
-v1.0.7-mission.helper | downloads: 584
-v1.0.9-expert.crew.members | downloads: 455
+v1.0.7-mission.helper | downloads: 585
+v1.0.9-expert.crew.members | downloads: 456
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 328
@@ -44,7 +44,7 @@ v1.0.5-show.reputation | downloads: 431
 v1.0.3-paint.your.ships | downloads: 376
 v1.1.9-captureable.person.ships | downloads: 373
 v1.0.9-bunrodea.missions | downloads: 502
-v1.0.5-better.starts | downloads: 440
+v1.0.5-better.starts | downloads: 442
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 36736
+# TOTAL DOWNLOADS: 36745
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -286,18 +286,18 @@ additional.command.buttons.radial 1293
 automata.destruction.0percent 900
 automata.in.human.space 752
 avgi.licenses 229
-better.starts 984
+better.starts 986
 boss.loot 455
 bunrodea.missions 1225
 captureable.person.ships 897
 coalition.shopping 1012
-combat.ai 744
+combat.ai 745
 control.station 878
 devil-run.unhidden 66
 disable.person.ships 474
 disable.spaceport.repeatables 652
-expert.crew.members 1197
-flare.play 411
+expert.crew.members 1198
+flare.play 412
 free.worlds.5.years.later 370
 galactic.capital.investment 1355
 gegno.pirates 1154
@@ -307,11 +307,11 @@ human.labels 733
 jump.gates 889
 kestrel.unlocks 800
 kor.efret.shipyard 1059
-landing.images 819
+landing.images 820
 landing.images.android 349
 landing.images.highres 623
 licenses 744
-mission.helper 1054
+mission.helper 1055
 more.arfectas 1015
 more.boarding.missions 1096
 more.person.ships 765
@@ -322,9 +322,9 @@ paint.your.ships 840
 pirate.warlords 3
 planet.map 551
 planet.pluto 190
-quarg.farm 1111
+quarg.farm 1112
 real.fluff 93
-ship.merging 417
+ship.merging 418
 show.reputation 992
 snowfeather.robotics 897
 space.fauna 642
