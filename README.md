@@ -439,8 +439,8 @@
 		<td>1115</td>
 		<td>1126</td>
 		<td>1137</td>
-		<td>1138</td>
-		<td>+ 1</td>
+		<td>1140</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34527</td>
-		<td>81</td>
+		<td>34529</td>
+		<td>83</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>1115</td>
 		<td>1126</td>
 		<td>1137</td>
-		<td>1138</td>
-		<td>+ 1</td>
+		<td>1140</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34527</td>
-		<td>81</td>
+		<td>34529</td>
+		<td>83</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>61</td>
 		<td>129</td>
 		<td>120</td>
-		<td>29</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>18</td>
 		<td>23</td>
 		<td>26</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8432</td>
-		<td>2019</td>
+		<td>8433</td>
+		<td>2020</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>155</td>
-		<td>54.40</td>
+		<td>54.41</td>
 		<td>13.03</td>
 		<td></td>
 		<td></td>
