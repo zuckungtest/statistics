@@ -120,8 +120,8 @@
 		<td>848</td>
 		<td>857</td>
 		<td>864</td>
-		<td>873</td>
-		<td>+ 9</td>
+		<td>875</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34657</td>
-		<td>211</td>
+		<td>34659</td>
+		<td>213</td>
 	</tr>
 </table>
 </sub></sup>
@@ -707,8 +707,8 @@
 		<td>848</td>
 		<td>857</td>
 		<td>864</td>
-		<td>873</td>
-		<td>+ 9</td>
+		<td>875</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34657</td>
-		<td>211</td>
+		<td>34659</td>
+		<td>213</td>
 	</tr>
 </table>
 </sub></sup>
