@@ -87,8 +87,8 @@
 		<td>867</td>
 		<td>880</td>
 		<td>891</td>
-		<td>894</td>
-		<td>+ 3</td>
+		<td>896</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -208,8 +208,8 @@
 		<td>434</td>
 		<td>441</td>
 		<td>447</td>
-		<td>450</td>
-		<td>+ 3</td>
+		<td>452</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -252,8 +252,8 @@
 		<td>1031</td>
 		<td>1042</td>
 		<td>1051</td>
-		<td>1056</td>
-		<td>+ 5</td>
+		<td>1058</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -318,8 +318,8 @@
 		<td>1065</td>
 		<td>1078</td>
 		<td>1086</td>
-		<td>1091</td>
-		<td>+ 5</td>
+		<td>1093</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34659</td>
-		<td>213</td>
+		<td>34667</td>
+		<td>221</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>1065</td>
 		<td>1078</td>
 		<td>1086</td>
-		<td>1091</td>
-		<td>+ 5</td>
+		<td>1093</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -586,8 +586,8 @@
 		<td>1031</td>
 		<td>1042</td>
 		<td>1051</td>
-		<td>1056</td>
-		<td>+ 5</td>
+		<td>1058</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -685,8 +685,8 @@
 		<td>867</td>
 		<td>880</td>
 		<td>891</td>
-		<td>894</td>
-		<td>+ 3</td>
+		<td>896</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -916,8 +916,8 @@
 		<td>434</td>
 		<td>441</td>
 		<td>447</td>
-		<td>450</td>
-		<td>+ 3</td>
+		<td>452</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34659</td>
-		<td>213</td>
+		<td>34667</td>
+		<td>221</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>61</td>
 		<td>129</td>
 		<td>120</td>
-		<td>45</td>
+		<td>77</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>18</td>
 		<td>23</td>
 		<td>26</td>
-		<td>10</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8448</td>
-		<td>2025</td>
+		<td>8480</td>
+		<td>2027</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>155</td>
-		<td>54.50</td>
-		<td>13.06</td>
+		<td>54.71</td>
+		<td>13.08</td>
 		<td></td>
 		<td></td>
 	</tr>
