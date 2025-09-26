@@ -175,8 +175,8 @@
 		<td>1334</td>
 		<td>1346</td>
 		<td>1355</td>
-		<td>1362</td>
-		<td>+ 7</td>
+		<td>1363</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>1136</td>
 		<td>1146</td>
 		<td>1154</td>
-		<td>1157</td>
-		<td>+ 3</td>
+		<td>1158</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34916</td>
-		<td>183</td>
+		<td>34918</td>
+		<td>185</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1334</td>
 		<td>1346</td>
 		<td>1355</td>
-		<td>1362</td>
-		<td>+ 7</td>
+		<td>1363</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>1136</td>
 		<td>1146</td>
 		<td>1154</td>
-		<td>1157</td>
-		<td>+ 3</td>
+		<td>1158</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34916</td>
-		<td>183</td>
+		<td>34918</td>
+		<td>185</td>
 	</tr>
 </table>
 </sub></sup>
