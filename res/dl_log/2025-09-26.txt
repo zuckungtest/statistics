@@ -6,7 +6,7 @@ v1.0.12-uniques | downloads: 125
 v1.0.5-control.station | downloads: 269
 v1.0.1-boss.loot | downloads: 266
 v1.1.3-space.fauna | downloads: 202
-v1.1.2-disable.spaceport.repeatables | downloads: 150
+v1.1.2-disable.spaceport.repeatables | downloads: 151
 v1.0.7-coalition.shopping | downloads: 264
 v1.0.5-too.many.asteroids | downloads: 134
 v1.0.4-planet.map | downloads: 134
@@ -70,7 +70,7 @@ v1.0.1-outfits.weapon.slot | downloads: 351
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 746
+v1.0.1-licenses | downloads: 748
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 36882
+# TOTAL DOWNLOADS: 36885
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -295,7 +295,7 @@ combat.ai 750
 control.station 882
 devil-run.unhidden 66
 disable.person.ships 476
-disable.spaceport.repeatables 654
+disable.spaceport.repeatables 655
 expert.crew.members 1204
 flare.play 414
 free.worlds.5.years.later 370
@@ -310,7 +310,7 @@ kor.efret.shipyard 1061
 landing.images 826
 landing.images.android 349
 landing.images.highres 627
-licenses 748
+licenses 750
 mission.helper 1060
 more.arfectas 1019
 more.boarding.missions 1098
