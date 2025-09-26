@@ -12,7 +12,7 @@ v1.0.5-too.many.asteroids | downloads: 135
 v1.0.4-planet.map | downloads: 135
 v1.0.4-no.more.mereti.mines | downloads: 185
 v1.0.4-jump.gates | downloads: 253
-v1.0.4-gegno.pirates | downloads: 275
+v1.0.4-gegno.pirates | downloads: 276
 v1.0.3-tribute.republic | downloads: 184
 v1.0.3-more.arfectas | downloads: 145
 v1.0.3-kor.efret.shipyard | downloads: 261
@@ -24,7 +24,7 @@ v1.0.1-disable.person.ships | downloads: 138
 v1.0.5-landing.images | downloads: 254
 v1.0.3-landing.images.highres | downloads: 225
 v1.0.25-additional.command.buttons.radial | downloads: 281
-v1.1.9-galactic.capital.investment | downloads: 353
+v1.1.9-galactic.capital.investment | downloads: 354
 v1.0.1-ship.merging | downloads: 271
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 36928
+# TOTAL DOWNLOADS: 36930
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -299,8 +299,8 @@ disable.spaceport.repeatables 656
 expert.crew.members 1205
 flare.play 415
 free.worlds.5.years.later 370
-galactic.capital.investment 1362
-gegno.pirates 1157
+galactic.capital.investment 1363
+gegno.pirates 1158
 hai.side.mission.unlocker 814
 highrollers.ltd 458
 human.labels 738
