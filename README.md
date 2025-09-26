@@ -142,8 +142,8 @@
 		<td>634</td>
 		<td>644</td>
 		<td>652</td>
-		<td>654</td>
-		<td>+ 2</td>
+		<td>655</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -285,8 +285,8 @@
 		<td>728</td>
 		<td>738</td>
 		<td>744</td>
-		<td>748</td>
-		<td>+ 4</td>
+		<td>750</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34870</td>
-		<td>137</td>
+		<td>34873</td>
+		<td>140</td>
 	</tr>
 </table>
 </sub></sup>
@@ -777,6 +777,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>licenses</td>
+		<td>686</td>
+		<td>699</td>
+		<td>710</td>
+		<td>728</td>
+		<td>738</td>
+		<td>744</td>
+		<td>750</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>combat.ai</td>
 		<td>692</td>
 		<td>708</td>
@@ -786,17 +797,6 @@
 		<td>745</td>
 		<td>750</td>
 		<td>+ 5</td>
-	</tr>
-	<tr>
-		<td>licenses</td>
-		<td>686</td>
-		<td>699</td>
-		<td>710</td>
-		<td>728</td>
-		<td>738</td>
-		<td>744</td>
-		<td>748</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -828,8 +828,8 @@
 		<td>634</td>
 		<td>644</td>
 		<td>652</td>
-		<td>654</td>
-		<td>+ 2</td>
+		<td>655</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34870</td>
-		<td>137</td>
+		<td>34873</td>
+		<td>140</td>
 	</tr>
 </table>
 </sub></sup>
