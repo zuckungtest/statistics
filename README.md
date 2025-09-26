@@ -263,8 +263,8 @@
 		<td>803</td>
 		<td>813</td>
 		<td>820</td>
-		<td>826</td>
-		<td>+ 6</td>
+		<td>828</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34873</td>
-		<td>140</td>
+		<td>34875</td>
+		<td>142</td>
 	</tr>
 </table>
 </sub></sup>
@@ -729,8 +729,8 @@
 		<td>803</td>
 		<td>813</td>
 		<td>820</td>
-		<td>826</td>
-		<td>+ 6</td>
+		<td>828</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34873</td>
-		<td>140</td>
+		<td>34875</td>
+		<td>142</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>129</td>
 		<td>120</td>
 		<td>94</td>
-		<td>30</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>23</td>
 		<td>26</td>
 		<td>18</td>
-		<td>6</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8527</td>
-		<td>2039</td>
+		<td>8531</td>
+		<td>2040</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>156</td>
-		<td>54.66</td>
-		<td>13.07</td>
+		<td>54.69</td>
+		<td>13.08</td>
 		<td></td>
 		<td></td>
 	</tr>
