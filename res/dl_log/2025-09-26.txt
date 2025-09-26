@@ -7,7 +7,7 @@ v1.0.5-control.station | downloads: 269
 v1.0.1-boss.loot | downloads: 266
 v1.1.3-space.fauna | downloads: 202
 v1.1.2-disable.spaceport.repeatables | downloads: 150
-v1.0.7-coalition.shopping | downloads: 262
+v1.0.7-coalition.shopping | downloads: 264
 v1.0.5-too.many.asteroids | downloads: 134
 v1.0.4-planet.map | downloads: 134
 v1.0.4-no.more.mereti.mines | downloads: 184
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 36880
+# TOTAL DOWNLOADS: 36882
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -290,7 +290,7 @@ better.starts 990
 boss.loot 458
 bunrodea.missions 1227
 captureable.person.ships 899
-coalition.shopping 1014
+coalition.shopping 1016
 combat.ai 750
 control.station 882
 devil-run.unhidden 66
