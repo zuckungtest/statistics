@@ -109,8 +109,8 @@
 		<td>729</td>
 		<td>736</td>
 		<td>745</td>
-		<td>751</td>
-		<td>+ 6</td>
+		<td>753</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34918</td>
-		<td>185</td>
+		<td>34920</td>
+		<td>187</td>
 	</tr>
 </table>
 </sub></sup>
@@ -777,6 +777,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>combat.ai</td>
+		<td>692</td>
+		<td>708</td>
+		<td>715</td>
+		<td>729</td>
+		<td>736</td>
+		<td>745</td>
+		<td>753</td>
+		<td>+ 8</td>
+	</tr>
+	<tr>
 		<td>licenses</td>
 		<td>686</td>
 		<td>699</td>
@@ -786,17 +797,6 @@
 		<td>744</td>
 		<td>751</td>
 		<td>+ 7</td>
-	</tr>
-	<tr>
-		<td>combat.ai</td>
-		<td>692</td>
-		<td>708</td>
-		<td>715</td>
-		<td>729</td>
-		<td>736</td>
-		<td>745</td>
-		<td>751</td>
-		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>34918</td>
-		<td>185</td>
+		<td>34920</td>
+		<td>187</td>
 	</tr>
 </table>
 </sub></sup>
