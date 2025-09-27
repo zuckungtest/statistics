@@ -175,8 +175,8 @@
 		<td>1346</td>
 		<td>1355</td>
 		<td>1364</td>
-		<td>1375</td>
-		<td>+ 11</td>
+		<td>1376</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -252,8 +252,8 @@
 		<td>1051</td>
 		<td>1059</td>
 		<td>1063</td>
-		<td>1076</td>
-		<td>+ 13</td>
+		<td>1077</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35209</td>
-		<td>246</td>
+		<td>35211</td>
+		<td>248</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1346</td>
 		<td>1355</td>
 		<td>1364</td>
-		<td>1375</td>
-		<td>+ 11</td>
+		<td>1376</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -586,8 +586,8 @@
 		<td>1051</td>
 		<td>1059</td>
 		<td>1063</td>
-		<td>1076</td>
-		<td>+ 13</td>
+		<td>1077</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35209</td>
-		<td>246</td>
+		<td>35211</td>
+		<td>248</td>
 	</tr>
 </table>
 </sub></sup>
