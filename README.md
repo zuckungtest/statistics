@@ -252,8 +252,8 @@
 		<td>1051</td>
 		<td>1059</td>
 		<td>1063</td>
-		<td>1072</td>
-		<td>+ 9</td>
+		<td>1074</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -395,8 +395,8 @@
 		<td>405</td>
 		<td>418</td>
 		<td>422</td>
-		<td>433</td>
-		<td>+ 11</td>
+		<td>434</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35175</td>
-		<td>212</td>
+		<td>35178</td>
+		<td>215</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>1051</td>
 		<td>1059</td>
 		<td>1063</td>
-		<td>1072</td>
-		<td>+ 9</td>
+		<td>1074</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -927,8 +927,8 @@
 		<td>405</td>
 		<td>418</td>
 		<td>422</td>
-		<td>433</td>
-		<td>+ 11</td>
+		<td>434</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35175</td>
-		<td>212</td>
+		<td>35178</td>
+		<td>215</td>
 	</tr>
 </table>
 </sub></sup>
