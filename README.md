@@ -175,8 +175,8 @@
 		<td>1346</td>
 		<td>1355</td>
 		<td>1364</td>
-		<td>1379</td>
-		<td>+ 15</td>
+		<td>1381</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35266</td>
-		<td>303</td>
+		<td>35268</td>
+		<td>305</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1346</td>
 		<td>1355</td>
 		<td>1364</td>
-		<td>1379</td>
-		<td>+ 15</td>
+		<td>1381</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35266</td>
-		<td>303</td>
+		<td>35268</td>
+		<td>305</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>120</td>
 		<td>94</td>
 		<td>69</td>
-		<td>34</td>
+		<td>42</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>26</td>
 		<td>18</td>
 		<td>15</td>
-		<td>16</td>
+		<td>17</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8600</td>
-		<td>2064</td>
+		<td>8608</td>
+		<td>2065</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>157</td>
-		<td>54.78</td>
+		<td>54.83</td>
 		<td>13.15</td>
 		<td></td>
 		<td></td>
