@@ -252,8 +252,8 @@
 		<td>1051</td>
 		<td>1059</td>
 		<td>1063</td>
-		<td>1067</td>
-		<td>+ 4</td>
+		<td>1069</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35084</td>
-		<td>121</td>
+		<td>35086</td>
+		<td>123</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>1051</td>
 		<td>1059</td>
 		<td>1063</td>
-		<td>1067</td>
-		<td>+ 4</td>
+		<td>1069</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35084</td>
-		<td>121</td>
+		<td>35086</td>
+		<td>123</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>120</td>
 		<td>94</td>
 		<td>69</td>
-		<td>4</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8570</td>
+		<td>8572</td>
 		<td>2052</td>
 		<td>284</td>
 		<td>36</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>157</td>
-		<td>54.59</td>
+		<td>54.60</td>
 		<td>13.07</td>
 		<td></td>
 		<td></td>
