@@ -153,8 +153,8 @@
 		<td>1191</td>
 		<td>1198</td>
 		<td>1206</td>
-		<td>1214</td>
-		<td>+ 8</td>
+		<td>1216</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35264</td>
-		<td>301</td>
+		<td>35266</td>
+		<td>303</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>1191</td>
 		<td>1198</td>
 		<td>1206</td>
-		<td>1214</td>
-		<td>+ 8</td>
+		<td>1216</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35264</td>
-		<td>301</td>
+		<td>35266</td>
+		<td>303</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>120</td>
 		<td>94</td>
 		<td>69</td>
-		<td>33</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>26</td>
 		<td>18</td>
 		<td>15</td>
-		<td>15</td>
+		<td>16</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8599</td>
-		<td>2063</td>
+		<td>8600</td>
+		<td>2064</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>157</td>
-		<td>54.77</td>
-		<td>13.14</td>
+		<td>54.78</td>
+		<td>13.15</td>
 		<td></td>
 		<td></td>
 	</tr>
