@@ -23,7 +23,7 @@ v1.0.1-kestrel.unlocks | downloads: 229
 v1.0.1-disable.person.ships | downloads: 142
 v1.0.5-landing.images | downloads: 260
 v1.0.3-landing.images.highres | downloads: 229
-v1.0.25-additional.command.buttons.radial | downloads: 289
+v1.0.25-additional.command.buttons.radial | downloads: 291
 v1.1.9-galactic.capital.investment | downloads: 364
 v1.0.1-ship.merging | downloads: 271
 v1.0.0-ship.merging | downloads: 13
@@ -44,7 +44,7 @@ v1.0.5-show.reputation | downloads: 442
 v1.0.3-paint.your.ships | downloads: 383
 v1.1.9-captureable.person.ships | downloads: 382
 v1.0.9-bunrodea.missions | downloads: 513
-v1.0.5-better.starts | downloads: 451
+v1.0.5-better.starts | downloads: 453
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -277,16 +277,16 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 37183
+# TOTAL DOWNLOADS: 37187
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1304
+additional.command.buttons.radial 1306
 automata.destruction.0percent 909
 automata.in.human.space 761
 avgi.licenses 229
-better.starts 995
+better.starts 997
 boss.loot 463
 bunrodea.missions 1236
 captureable.person.ships 906
