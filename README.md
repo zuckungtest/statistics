@@ -21,8 +21,8 @@
 		<td>1286</td>
 		<td>1293</td>
 		<td>1299</td>
-		<td>1307</td>
-		<td>+ 8</td>
+		<td>1309</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>736</td>
 		<td>745</td>
 		<td>754</td>
-		<td>762</td>
-		<td>+ 8</td>
+		<td>764</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -153,8 +153,8 @@
 		<td>1191</td>
 		<td>1198</td>
 		<td>1206</td>
-		<td>1212</td>
-		<td>+ 6</td>
+		<td>1214</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>1346</td>
 		<td>1355</td>
 		<td>1364</td>
-		<td>1377</td>
-		<td>+ 13</td>
+		<td>1379</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -285,8 +285,8 @@
 		<td>738</td>
 		<td>744</td>
 		<td>752</td>
-		<td>762</td>
-		<td>+ 10</td>
+		<td>764</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td>924</td>
 		<td>934</td>
 		<td>940</td>
-		<td>946</td>
-		<td>+ 6</td>
+		<td>948</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35252</td>
-		<td>289</td>
+		<td>35264</td>
+		<td>301</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1346</td>
 		<td>1355</td>
 		<td>1364</td>
-		<td>1377</td>
-		<td>+ 13</td>
+		<td>1379</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>1286</td>
 		<td>1293</td>
 		<td>1299</td>
-		<td>1307</td>
-		<td>+ 8</td>
+		<td>1309</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>1191</td>
 		<td>1198</td>
 		<td>1206</td>
-		<td>1212</td>
-		<td>+ 6</td>
+		<td>1214</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -652,8 +652,8 @@
 		<td>924</td>
 		<td>934</td>
 		<td>940</td>
-		<td>946</td>
-		<td>+ 6</td>
+		<td>948</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -773,8 +773,8 @@
 		<td>738</td>
 		<td>744</td>
 		<td>752</td>
-		<td>762</td>
-		<td>+ 10</td>
+		<td>764</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -784,8 +784,8 @@
 		<td>736</td>
 		<td>745</td>
 		<td>754</td>
-		<td>762</td>
-		<td>+ 8</td>
+		<td>764</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35252</td>
-		<td>289</td>
+		<td>35264</td>
+		<td>301</td>
 	</tr>
 </table>
 </sub></sup>
