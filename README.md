@@ -395,8 +395,8 @@
 		<td>405</td>
 		<td>418</td>
 		<td>422</td>
-		<td>423</td>
-		<td>+ 1</td>
+		<td>425</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35041</td>
-		<td>78</td>
+		<td>35043</td>
+		<td>80</td>
 	</tr>
 </table>
 </sub></sup>
@@ -927,8 +927,8 @@
 		<td>405</td>
 		<td>418</td>
 		<td>422</td>
-		<td>423</td>
-		<td>+ 1</td>
+		<td>425</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35041</td>
-		<td>78</td>
+		<td>35043</td>
+		<td>80</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>120</td>
 		<td>94</td>
 		<td>69</td>
-		<td>3</td>
+		<td>4</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>26</td>
 		<td>18</td>
 		<td>15</td>
-		<td>3</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8569</td>
-		<td>2051</td>
+		<td>8570</td>
+		<td>2052</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>157</td>
-		<td>54.58</td>
-		<td>13.06</td>
+		<td>54.59</td>
+		<td>13.07</td>
 		<td></td>
 		<td></td>
 	</tr>
