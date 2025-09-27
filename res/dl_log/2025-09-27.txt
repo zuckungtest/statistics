@@ -15,7 +15,7 @@ v1.0.4-jump.gates | downloads: 257
 v1.0.4-gegno.pirates | downloads: 286
 v1.0.3-tribute.republic | downloads: 188
 v1.0.3-more.arfectas | downloads: 149
-v1.0.3-kor.efret.shipyard | downloads: 275
+v1.0.3-kor.efret.shipyard | downloads: 276
 v1.0.2-highrollers.ltd | downloads: 228
 v1.0.2-automata.in.human.space | downloads: 237
 v1.0.2-automata.destruction.0percent | downloads: 155
@@ -24,7 +24,7 @@ v1.0.1-disable.person.ships | downloads: 142
 v1.0.5-landing.images | downloads: 260
 v1.0.3-landing.images.highres | downloads: 229
 v1.0.25-additional.command.buttons.radial | downloads: 291
-v1.1.9-galactic.capital.investment | downloads: 366
+v1.1.9-galactic.capital.investment | downloads: 367
 v1.0.1-ship.merging | downloads: 271
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 37221
+# TOTAL DOWNLOADS: 37223
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -299,14 +299,14 @@ disable.spaceport.repeatables 663
 expert.crew.members 1211
 flare.play 421
 free.worlds.5.years.later 370
-galactic.capital.investment 1375
+galactic.capital.investment 1376
 gegno.pirates 1168
 hai.side.mission.unlocker 822
 highrollers.ltd 464
 human.labels 742
 jump.gates 898
 kestrel.unlocks 813
-kor.efret.shipyard 1076
+kor.efret.shipyard 1077
 landing.images 835
 landing.images.android 349
 landing.images.highres 632
