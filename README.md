@@ -21,8 +21,8 @@
 		<td>1286</td>
 		<td>1293</td>
 		<td>1299</td>
-		<td>1304</td>
-		<td>+ 5</td>
+		<td>1306</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>980</td>
 		<td>986</td>
 		<td>992</td>
-		<td>995</td>
-		<td>+ 3</td>
+		<td>997</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35171</td>
-		<td>208</td>
+		<td>35175</td>
+		<td>212</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1286</td>
 		<td>1293</td>
 		<td>1299</td>
-		<td>1304</td>
-		<td>+ 5</td>
+		<td>1306</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -641,8 +641,8 @@
 		<td>980</td>
 		<td>986</td>
 		<td>992</td>
-		<td>995</td>
-		<td>+ 3</td>
+		<td>997</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35171</td>
-		<td>208</td>
+		<td>35175</td>
+		<td>212</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>120</td>
 		<td>94</td>
 		<td>69</td>
-		<td>20</td>
+		<td>23</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>26</td>
 		<td>18</td>
 		<td>15</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8586</td>
-		<td>2058</td>
+		<td>8589</td>
+		<td>2059</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>157</td>
-		<td>54.69</td>
+		<td>54.71</td>
 		<td>13.11</td>
 		<td></td>
 		<td></td>
