@@ -21,8 +21,8 @@
 		<td>1286</td>
 		<td>1293</td>
 		<td>1299</td>
-		<td>1301</td>
-		<td>+ 2</td>
+		<td>1303</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -87,8 +87,8 @@
 		<td>891</td>
 		<td>897</td>
 		<td>901</td>
-		<td>903</td>
-		<td>+ 2</td>
+		<td>905</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -164,8 +164,8 @@
 		<td>407</td>
 		<td>412</td>
 		<td>416</td>
-		<td>418</td>
-		<td>+ 2</td>
+		<td>420</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -175,8 +175,8 @@
 		<td>1346</td>
 		<td>1355</td>
 		<td>1364</td>
-		<td>1368</td>
-		<td>+ 4</td>
+		<td>1370</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -351,8 +351,8 @@
 		<td>722</td>
 		<td>727</td>
 		<td>731</td>
-		<td>733</td>
-		<td>+ 2</td>
+		<td>735</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -395,8 +395,8 @@
 		<td>405</td>
 		<td>418</td>
 		<td>422</td>
-		<td>426</td>
-		<td>+ 4</td>
+		<td>430</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -439,8 +439,8 @@
 		<td>1137</td>
 		<td>1145</td>
 		<td>1153</td>
-		<td>1157</td>
-		<td>+ 4</td>
+		<td>1159</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35086</td>
-		<td>123</td>
+		<td>35102</td>
+		<td>139</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1346</td>
 		<td>1355</td>
 		<td>1364</td>
-		<td>1368</td>
-		<td>+ 4</td>
+		<td>1370</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>1286</td>
 		<td>1293</td>
 		<td>1299</td>
-		<td>1301</td>
-		<td>+ 2</td>
+		<td>1303</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>1137</td>
 		<td>1145</td>
 		<td>1153</td>
-		<td>1157</td>
-		<td>+ 4</td>
+		<td>1159</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -685,8 +685,8 @@
 		<td>891</td>
 		<td>897</td>
 		<td>901</td>
-		<td>903</td>
-		<td>+ 2</td>
+		<td>905</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -817,8 +817,8 @@
 		<td>722</td>
 		<td>727</td>
 		<td>731</td>
-		<td>733</td>
-		<td>+ 2</td>
+		<td>735</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -927,8 +927,8 @@
 		<td>405</td>
 		<td>418</td>
 		<td>422</td>
-		<td>426</td>
-		<td>+ 4</td>
+		<td>430</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -938,8 +938,8 @@
 		<td>407</td>
 		<td>412</td>
 		<td>416</td>
-		<td>418</td>
-		<td>+ 2</td>
+		<td>420</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35086</td>
-		<td>123</td>
+		<td>35102</td>
+		<td>139</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>120</td>
 		<td>94</td>
 		<td>69</td>
-		<td>6</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>26</td>
 		<td>18</td>
 		<td>15</td>
-		<td>4</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8572</td>
-		<td>2052</td>
+		<td>8577</td>
+		<td>2054</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>157</td>
-		<td>54.60</td>
-		<td>13.07</td>
+		<td>54.63</td>
+		<td>13.08</td>
 		<td></td>
 		<td></td>
 	</tr>
