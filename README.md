@@ -65,8 +65,8 @@
 		<td>455</td>
 		<td>460</td>
 		<td>464</td>
-		<td>468</td>
-		<td>+ 4</td>
+		<td>470</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -98,8 +98,8 @@
 		<td>1012</td>
 		<td>1018</td>
 		<td>1027</td>
-		<td>1031</td>
-		<td>+ 4</td>
+		<td>1032</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -153,8 +153,8 @@
 		<td>1198</td>
 		<td>1206</td>
 		<td>1216</td>
-		<td>1221</td>
-		<td>+ 5</td>
+		<td>1223</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -285,8 +285,8 @@
 		<td>744</td>
 		<td>752</td>
 		<td>764</td>
-		<td>766</td>
-		<td>+ 2</td>
+		<td>767</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -318,8 +318,8 @@
 		<td>1096</td>
 		<td>1100</td>
 		<td>1106</td>
-		<td>1114</td>
-		<td>+ 8</td>
+		<td>1115</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -351,8 +351,8 @@
 		<td>727</td>
 		<td>731</td>
 		<td>737</td>
-		<td>739</td>
-		<td>+ 2</td>
+		<td>740</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -362,8 +362,8 @@
 		<td>840</td>
 		<td>844</td>
 		<td>848</td>
-		<td>850</td>
-		<td>+ 2</td>
+		<td>851</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -384,8 +384,8 @@
 		<td>1112</td>
 		<td>1118</td>
 		<td>1126</td>
-		<td>1132</td>
-		<td>+ 6</td>
+		<td>1133</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -439,8 +439,8 @@
 		<td>1145</td>
 		<td>1153</td>
 		<td>1161</td>
-		<td>1165</td>
-		<td>+ 4</td>
+		<td>1168</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -450,8 +450,8 @@
 		<td>577</td>
 		<td>583</td>
 		<td>587</td>
-		<td>589</td>
-		<td>+ 2</td>
+		<td>591</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -461,8 +461,8 @@
 		<td>934</td>
 		<td>940</td>
 		<td>948</td>
-		<td>951</td>
-		<td>+ 3</td>
+		<td>954</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35438</td>
-		<td>170</td>
+		<td>35456</td>
+		<td>188</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>1198</td>
 		<td>1206</td>
 		<td>1216</td>
-		<td>1221</td>
-		<td>+ 5</td>
+		<td>1223</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -553,8 +553,8 @@
 		<td>1145</td>
 		<td>1153</td>
 		<td>1161</td>
-		<td>1165</td>
-		<td>+ 4</td>
+		<td>1168</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>1112</td>
 		<td>1118</td>
 		<td>1126</td>
-		<td>1132</td>
-		<td>+ 6</td>
+		<td>1133</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -575,8 +575,8 @@
 		<td>1096</td>
 		<td>1100</td>
 		<td>1106</td>
-		<td>1114</td>
-		<td>+ 8</td>
+		<td>1115</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -619,8 +619,8 @@
 		<td>1012</td>
 		<td>1018</td>
 		<td>1027</td>
-		<td>1031</td>
-		<td>+ 4</td>
+		<td>1032</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -652,8 +652,8 @@
 		<td>934</td>
 		<td>940</td>
 		<td>948</td>
-		<td>951</td>
-		<td>+ 3</td>
+		<td>954</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -718,8 +718,8 @@
 		<td>840</td>
 		<td>844</td>
 		<td>848</td>
-		<td>850</td>
-		<td>+ 2</td>
+		<td>851</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -784,8 +784,8 @@
 		<td>744</td>
 		<td>752</td>
 		<td>764</td>
-		<td>766</td>
-		<td>+ 2</td>
+		<td>767</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -817,8 +817,8 @@
 		<td>727</td>
 		<td>731</td>
 		<td>737</td>
-		<td>739</td>
-		<td>+ 2</td>
+		<td>740</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -872,8 +872,8 @@
 		<td>577</td>
 		<td>583</td>
 		<td>587</td>
-		<td>589</td>
-		<td>+ 2</td>
+		<td>591</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -905,8 +905,8 @@
 		<td>455</td>
 		<td>460</td>
 		<td>464</td>
-		<td>468</td>
-		<td>+ 4</td>
+		<td>470</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35438</td>
-		<td>170</td>
+		<td>35456</td>
+		<td>188</td>
 	</tr>
 </table>
 </sub></sup>
