@@ -296,8 +296,8 @@
 		<td>1055</td>
 		<td>1062</td>
 		<td>1070</td>
-		<td>1071</td>
-		<td>+ 1</td>
+		<td>1072</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>897</td>
 		<td>903</td>
 		<td>913</td>
-		<td>918</td>
-		<td>+ 5</td>
+		<td>919</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -428,8 +428,8 @@
 		<td>642</td>
 		<td>648</td>
 		<td>652</td>
-		<td>653</td>
-		<td>+ 1</td>
+		<td>654</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35363</td>
-		<td>95</td>
+		<td>35366</td>
+		<td>98</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>1055</td>
 		<td>1062</td>
 		<td>1070</td>
-		<td>1071</td>
-		<td>+ 1</td>
+		<td>1072</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -663,8 +663,8 @@
 		<td>897</td>
 		<td>903</td>
 		<td>913</td>
-		<td>918</td>
-		<td>+ 5</td>
+		<td>919</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -850,8 +850,8 @@
 		<td>642</td>
 		<td>648</td>
 		<td>652</td>
-		<td>653</td>
-		<td>+ 1</td>
+		<td>654</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35363</td>
-		<td>95</td>
+		<td>35366</td>
+		<td>98</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>94</td>
 		<td>69</td>
 		<td>42</td>
-		<td>32</td>
+		<td>34</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>18</td>
 		<td>15</td>
 		<td>17</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8640</td>
-		<td>2069</td>
+		<td>8642</td>
+		<td>2070</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>158</td>
-		<td>54.68</td>
-		<td>13.09</td>
+		<td>54.70</td>
+		<td>13.10</td>
 		<td></td>
 		<td></td>
 	</tr>
