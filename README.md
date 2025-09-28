@@ -21,8 +21,8 @@
 		<td>1293</td>
 		<td>1299</td>
 		<td>1309</td>
-		<td>1316</td>
-		<td>+ 7</td>
+		<td>1318</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -43,8 +43,8 @@
 		<td>752</td>
 		<td>756</td>
 		<td>762</td>
-		<td>772</td>
-		<td>+ 10</td>
+		<td>774</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>455</td>
 		<td>460</td>
 		<td>464</td>
-		<td>475</td>
-		<td>+ 11</td>
+		<td>477</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>1225</td>
 		<td>1229</td>
 		<td>1239</td>
-		<td>1251</td>
-		<td>+ 12</td>
+		<td>1253</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>897</td>
 		<td>901</td>
 		<td>909</td>
-		<td>919</td>
-		<td>+ 10</td>
+		<td>921</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -109,8 +109,8 @@
 		<td>745</td>
 		<td>754</td>
 		<td>764</td>
-		<td>778</td>
-		<td>+ 14</td>
+		<td>780</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -120,8 +120,8 @@
 		<td>878</td>
 		<td>884</td>
 		<td>890</td>
-		<td>904</td>
-		<td>+ 14</td>
+		<td>906</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>1355</td>
 		<td>1364</td>
 		<td>1381</td>
-		<td>1392</td>
-		<td>+ 11</td>
+		<td>1394</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35710</td>
-		<td>442</td>
+		<td>35726</td>
+		<td>458</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1355</td>
 		<td>1364</td>
 		<td>1381</td>
-		<td>1392</td>
-		<td>+ 11</td>
+		<td>1394</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>1293</td>
 		<td>1299</td>
 		<td>1309</td>
-		<td>1316</td>
-		<td>+ 7</td>
+		<td>1318</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -520,8 +520,8 @@
 		<td>1225</td>
 		<td>1229</td>
 		<td>1239</td>
-		<td>1251</td>
-		<td>+ 12</td>
+		<td>1253</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -667,6 +667,17 @@
 		<td>+ 12</td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>867</td>
+		<td>880</td>
+		<td>891</td>
+		<td>897</td>
+		<td>901</td>
+		<td>909</td>
+		<td>921</td>
+		<td>+ 12</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>873</td>
 		<td>882</td>
@@ -676,17 +687,6 @@
 		<td>910</td>
 		<td>921</td>
 		<td>+ 11</td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>867</td>
-		<td>880</td>
-		<td>891</td>
-		<td>897</td>
-		<td>901</td>
-		<td>909</td>
-		<td>919</td>
-		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -707,8 +707,8 @@
 		<td>878</td>
 		<td>884</td>
 		<td>890</td>
-		<td>904</td>
-		<td>+ 14</td>
+		<td>906</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -773,8 +773,19 @@
 		<td>745</td>
 		<td>754</td>
 		<td>764</td>
-		<td>778</td>
-		<td>+ 14</td>
+		<td>780</td>
+		<td>+ 16</td>
+	</tr>
+	<tr>
+		<td>automata.in.human.space</td>
+		<td>734</td>
+		<td>739</td>
+		<td>748</td>
+		<td>752</td>
+		<td>756</td>
+		<td>762</td>
+		<td>774</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -786,17 +797,6 @@
 		<td>764</td>
 		<td>772</td>
 		<td>+ 8</td>
-	</tr>
-	<tr>
-		<td>automata.in.human.space</td>
-		<td>734</td>
-		<td>739</td>
-		<td>748</td>
-		<td>752</td>
-		<td>756</td>
-		<td>762</td>
-		<td>772</td>
-		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -905,8 +905,8 @@
 		<td>455</td>
 		<td>460</td>
 		<td>464</td>
-		<td>475</td>
-		<td>+ 11</td>
+		<td>477</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35710</td>
-		<td>442</td>
+		<td>35726</td>
+		<td>458</td>
 	</tr>
 </table>
 </sub></sup>
