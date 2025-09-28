@@ -219,8 +219,8 @@
 		<td>733</td>
 		<td>739</td>
 		<td>743</td>
-		<td>746</td>
-		<td>+ 3</td>
+		<td>747</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -340,8 +340,8 @@
 		<td>647</td>
 		<td>651</td>
 		<td>655</td>
-		<td>658</td>
-		<td>+ 3</td>
+		<td>659</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -450,8 +450,8 @@
 		<td>577</td>
 		<td>583</td>
 		<td>587</td>
-		<td>592</td>
-		<td>+ 5</td>
+		<td>593</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35498</td>
-		<td>230</td>
+		<td>35501</td>
+		<td>233</td>
 	</tr>
 </table>
 </sub></sup>
@@ -806,8 +806,8 @@
 		<td>733</td>
 		<td>739</td>
 		<td>743</td>
-		<td>746</td>
-		<td>+ 3</td>
+		<td>747</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -839,8 +839,8 @@
 		<td>647</td>
 		<td>651</td>
 		<td>655</td>
-		<td>658</td>
-		<td>+ 3</td>
+		<td>659</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -872,8 +872,8 @@
 		<td>577</td>
 		<td>583</td>
 		<td>587</td>
-		<td>592</td>
-		<td>+ 5</td>
+		<td>593</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35498</td>
-		<td>230</td>
+		<td>35501</td>
+		<td>233</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>94</td>
 		<td>69</td>
 		<td>42</td>
-		<td>53</td>
+		<td>55</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>18</td>
 		<td>15</td>
 		<td>17</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8661</td>
-		<td>2075</td>
+		<td>8663</td>
+		<td>2076</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>158</td>
-		<td>54.82</td>
-		<td>13.13</td>
+		<td>54.83</td>
+		<td>13.14</td>
 		<td></td>
 		<td></td>
 	</tr>
