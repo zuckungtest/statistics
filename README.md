@@ -186,8 +186,8 @@
 		<td>1154</td>
 		<td>1159</td>
 		<td>1169</td>
-		<td>1175</td>
-		<td>+ 6</td>
+		<td>1177</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -230,8 +230,8 @@
 		<td>889</td>
 		<td>895</td>
 		<td>899</td>
-		<td>903</td>
-		<td>+ 4</td>
+		<td>905</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -241,8 +241,8 @@
 		<td>800</td>
 		<td>806</td>
 		<td>814</td>
-		<td>822</td>
-		<td>+ 8</td>
+		<td>824</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -252,8 +252,8 @@
 		<td>1059</td>
 		<td>1063</td>
 		<td>1078</td>
-		<td>1086</td>
-		<td>+ 8</td>
+		<td>1088</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35428</td>
-		<td>160</td>
+		<td>35436</td>
+		<td>168</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1154</td>
 		<td>1159</td>
 		<td>1169</td>
-		<td>1175</td>
-		<td>+ 6</td>
+		<td>1177</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -586,8 +586,8 @@
 		<td>1059</td>
 		<td>1063</td>
 		<td>1078</td>
-		<td>1086</td>
-		<td>+ 8</td>
+		<td>1088</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -696,8 +696,8 @@
 		<td>889</td>
 		<td>895</td>
 		<td>899</td>
-		<td>903</td>
-		<td>+ 4</td>
+		<td>905</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -751,8 +751,8 @@
 		<td>800</td>
 		<td>806</td>
 		<td>814</td>
-		<td>822</td>
-		<td>+ 8</td>
+		<td>824</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35428</td>
-		<td>160</td>
+		<td>35436</td>
+		<td>168</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>94</td>
 		<td>69</td>
 		<td>42</td>
-		<td>43</td>
+		<td>46</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>18</td>
 		<td>15</td>
 		<td>17</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8651</td>
-		<td>2072</td>
+		<td>8654</td>
+		<td>2073</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>158</td>
-		<td>54.75</td>
-		<td>13.11</td>
+		<td>54.77</td>
+		<td>13.12</td>
 		<td></td>
 		<td></td>
 	</tr>
