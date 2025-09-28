@@ -54,8 +54,8 @@
 		<td>986</td>
 		<td>992</td>
 		<td>998</td>
-		<td>1011</td>
-		<td>+ 13</td>
+		<td>1013</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -120,8 +120,8 @@
 		<td>878</td>
 		<td>884</td>
 		<td>890</td>
-		<td>900</td>
-		<td>+ 10</td>
+		<td>904</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35688</td>
-		<td>420</td>
+		<td>35694</td>
+		<td>426</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>986</td>
 		<td>992</td>
 		<td>998</td>
-		<td>1011</td>
-		<td>+ 13</td>
+		<td>1013</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -707,8 +707,8 @@
 		<td>878</td>
 		<td>884</td>
 		<td>890</td>
-		<td>900</td>
-		<td>+ 10</td>
+		<td>904</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35688</td>
-		<td>420</td>
+		<td>35694</td>
+		<td>426</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>94</td>
 		<td>69</td>
 		<td>42</td>
-		<td>70</td>
+		<td>73</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>18</td>
 		<td>15</td>
 		<td>17</td>
-		<td>18</td>
+		<td>20</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8678</td>
-		<td>2083</td>
+		<td>8681</td>
+		<td>2085</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>158</td>
-		<td>54.92</td>
-		<td>13.18</td>
+		<td>54.94</td>
+		<td>13.20</td>
 		<td></td>
 		<td></td>
 	</tr>
