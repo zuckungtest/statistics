@@ -263,8 +263,8 @@
 		<td>820</td>
 		<td>830</td>
 		<td>836</td>
-		<td>838</td>
-		<td>+ 2</td>
+		<td>840</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35436</td>
-		<td>168</td>
+		<td>35438</td>
+		<td>170</td>
 	</tr>
 </table>
 </sub></sup>
@@ -729,8 +729,8 @@
 		<td>820</td>
 		<td>830</td>
 		<td>836</td>
-		<td>838</td>
-		<td>+ 2</td>
+		<td>840</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35436</td>
-		<td>168</td>
+		<td>35438</td>
+		<td>170</td>
 	</tr>
 </table>
 </sub></sup>
