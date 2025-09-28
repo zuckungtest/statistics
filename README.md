@@ -54,8 +54,8 @@
 		<td>986</td>
 		<td>992</td>
 		<td>998</td>
-		<td>1013</td>
-		<td>+ 15</td>
+		<td>1015</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -241,8 +241,8 @@
 		<td>800</td>
 		<td>806</td>
 		<td>814</td>
-		<td>831</td>
-		<td>+ 17</td>
+		<td>833</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -263,8 +263,8 @@
 		<td>820</td>
 		<td>830</td>
 		<td>836</td>
-		<td>846</td>
-		<td>+ 10</td>
+		<td>848</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -296,8 +296,8 @@
 		<td>1055</td>
 		<td>1062</td>
 		<td>1070</td>
-		<td>1078</td>
-		<td>+ 8</td>
+		<td>1080</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -395,8 +395,8 @@
 		<td>418</td>
 		<td>422</td>
 		<td>435</td>
-		<td>444</td>
-		<td>+ 9</td>
+		<td>446</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -406,8 +406,8 @@
 		<td>992</td>
 		<td>998</td>
 		<td>1006</td>
-		<td>1015</td>
-		<td>+ 9</td>
+		<td>1017</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -428,8 +428,8 @@
 		<td>642</td>
 		<td>648</td>
 		<td>652</td>
-		<td>660</td>
-		<td>+ 8</td>
+		<td>662</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -439,8 +439,8 @@
 		<td>1145</td>
 		<td>1153</td>
 		<td>1161</td>
-		<td>1173</td>
-		<td>+ 12</td>
+		<td>1175</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35694</td>
-		<td>426</td>
+		<td>35710</td>
+		<td>442</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>1145</td>
 		<td>1153</td>
 		<td>1161</td>
-		<td>1173</td>
-		<td>+ 12</td>
+		<td>1175</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -597,8 +597,8 @@
 		<td>1055</td>
 		<td>1062</td>
 		<td>1070</td>
-		<td>1078</td>
-		<td>+ 8</td>
+		<td>1080</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -630,8 +630,8 @@
 		<td>992</td>
 		<td>998</td>
 		<td>1006</td>
-		<td>1015</td>
-		<td>+ 9</td>
+		<td>1017</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -641,8 +641,8 @@
 		<td>986</td>
 		<td>992</td>
 		<td>998</td>
-		<td>1013</td>
-		<td>+ 15</td>
+		<td>1015</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -729,8 +729,8 @@
 		<td>820</td>
 		<td>830</td>
 		<td>836</td>
-		<td>846</td>
-		<td>+ 10</td>
+		<td>848</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -740,8 +740,8 @@
 		<td>800</td>
 		<td>806</td>
 		<td>814</td>
-		<td>831</td>
-		<td>+ 17</td>
+		<td>833</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -850,8 +850,8 @@
 		<td>642</td>
 		<td>648</td>
 		<td>652</td>
-		<td>660</td>
-		<td>+ 8</td>
+		<td>662</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -927,8 +927,8 @@
 		<td>418</td>
 		<td>422</td>
 		<td>435</td>
-		<td>444</td>
-		<td>+ 9</td>
+		<td>446</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35694</td>
-		<td>426</td>
+		<td>35710</td>
+		<td>442</td>
 	</tr>
 </table>
 </sub></sup>
