@@ -54,8 +54,8 @@
 		<td>992</td>
 		<td>998</td>
 		<td>1015</td>
-		<td>1026</td>
-		<td>+ 11</td>
+		<td>1029</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>460</td>
 		<td>464</td>
 		<td>477</td>
-		<td>488</td>
-		<td>+ 11</td>
+		<td>491</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>1229</td>
 		<td>1239</td>
 		<td>1253</td>
-		<td>1262</td>
-		<td>+ 9</td>
+		<td>1265</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>1364</td>
 		<td>1381</td>
 		<td>1394</td>
-		<td>1398</td>
-		<td>+ 4</td>
+		<td>1401</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -208,8 +208,8 @@
 		<td>459</td>
 		<td>465</td>
 		<td>474</td>
-		<td>478</td>
-		<td>+ 4</td>
+		<td>479</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -230,8 +230,8 @@
 		<td>895</td>
 		<td>899</td>
 		<td>912</td>
-		<td>919</td>
-		<td>+ 7</td>
+		<td>920</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -263,8 +263,8 @@
 		<td>830</td>
 		<td>836</td>
 		<td>848</td>
-		<td>854</td>
-		<td>+ 6</td>
+		<td>855</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -318,8 +318,8 @@
 		<td>1100</td>
 		<td>1106</td>
 		<td>1122</td>
-		<td>1129</td>
-		<td>+ 7</td>
+		<td>1130</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36035</td>
-		<td>291</td>
+		<td>36051</td>
+		<td>307</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1364</td>
 		<td>1381</td>
 		<td>1394</td>
-		<td>1398</td>
-		<td>+ 4</td>
+		<td>1401</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -520,8 +520,8 @@
 		<td>1229</td>
 		<td>1239</td>
 		<td>1253</td>
-		<td>1262</td>
-		<td>+ 9</td>
+		<td>1265</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -575,8 +575,8 @@
 		<td>1100</td>
 		<td>1106</td>
 		<td>1122</td>
-		<td>1129</td>
-		<td>+ 7</td>
+		<td>1130</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -630,8 +630,8 @@
 		<td>992</td>
 		<td>998</td>
 		<td>1015</td>
-		<td>1026</td>
-		<td>+ 11</td>
+		<td>1029</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -696,8 +696,8 @@
 		<td>895</td>
 		<td>899</td>
 		<td>912</td>
-		<td>919</td>
-		<td>+ 7</td>
+		<td>920</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -729,8 +729,8 @@
 		<td>830</td>
 		<td>836</td>
 		<td>848</td>
-		<td>854</td>
-		<td>+ 6</td>
+		<td>855</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -905,8 +905,8 @@
 		<td>460</td>
 		<td>464</td>
 		<td>477</td>
-		<td>488</td>
-		<td>+ 11</td>
+		<td>491</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -916,8 +916,8 @@
 		<td>459</td>
 		<td>465</td>
 		<td>474</td>
-		<td>478</td>
-		<td>+ 4</td>
+		<td>479</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36035</td>
-		<td>291</td>
+		<td>36051</td>
+		<td>307</td>
 	</tr>
 </table>
 </sub></sup>
