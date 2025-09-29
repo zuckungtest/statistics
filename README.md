@@ -120,8 +120,8 @@
 		<td>884</td>
 		<td>890</td>
 		<td>906</td>
-		<td>912</td>
-		<td>+ 6</td>
+		<td>913</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>1118</td>
 		<td>1126</td>
 		<td>1140</td>
-		<td>1144</td>
-		<td>+ 4</td>
+		<td>1145</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35952</td>
-		<td>208</td>
+		<td>35954</td>
+		<td>210</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>1118</td>
 		<td>1126</td>
 		<td>1140</td>
-		<td>1144</td>
-		<td>+ 4</td>
+		<td>1145</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -707,8 +707,8 @@
 		<td>884</td>
 		<td>890</td>
 		<td>906</td>
-		<td>912</td>
-		<td>+ 6</td>
+		<td>913</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35952</td>
-		<td>208</td>
+		<td>35954</td>
+		<td>210</td>
 	</tr>
 </table>
 </sub></sup>
