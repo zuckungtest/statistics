@@ -54,8 +54,8 @@
 		<td>992</td>
 		<td>998</td>
 		<td>1015</td>
-		<td>1021</td>
-		<td>+ 6</td>
+		<td>1023</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -120,8 +120,8 @@
 		<td>884</td>
 		<td>890</td>
 		<td>906</td>
-		<td>910</td>
-		<td>+ 4</td>
+		<td>912</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35948</td>
-		<td>204</td>
+		<td>35952</td>
+		<td>208</td>
 	</tr>
 </table>
 </sub></sup>
@@ -623,6 +623,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>better.starts</td>
+		<td>971</td>
+		<td>980</td>
+		<td>986</td>
+		<td>992</td>
+		<td>998</td>
+		<td>1015</td>
+		<td>1023</td>
+		<td>+ 8</td>
+	</tr>
+	<tr>
 		<td>show.reputation</td>
 		<td>973</td>
 		<td>984</td>
@@ -632,17 +643,6 @@
 		<td>1017</td>
 		<td>1022</td>
 		<td>+ 5</td>
-	</tr>
-	<tr>
-		<td>better.starts</td>
-		<td>971</td>
-		<td>980</td>
-		<td>986</td>
-		<td>992</td>
-		<td>998</td>
-		<td>1015</td>
-		<td>1021</td>
-		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -707,8 +707,8 @@
 		<td>884</td>
 		<td>890</td>
 		<td>906</td>
-		<td>910</td>
-		<td>+ 4</td>
+		<td>912</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>35948</td>
-		<td>204</td>
+		<td>35952</td>
+		<td>208</td>
 	</tr>
 </table>
 </sub></sup>
