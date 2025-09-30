@@ -21,8 +21,8 @@
 		<td>1309</td>
 		<td>1318</td>
 		<td>1324</td>
-		<td>1328</td>
-		<td>+ 4</td>
+		<td>1329</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>998</td>
 		<td>1015</td>
 		<td>1029</td>
-		<td>1033</td>
-		<td>+ 4</td>
+		<td>1035</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -340,8 +340,8 @@
 		<td>655</td>
 		<td>663</td>
 		<td>667</td>
-		<td>669</td>
-		<td>+ 2</td>
+		<td>671</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36202</td>
-		<td>151</td>
+		<td>36207</td>
+		<td>156</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1309</td>
 		<td>1318</td>
 		<td>1324</td>
-		<td>1328</td>
-		<td>+ 4</td>
+		<td>1329</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -630,8 +630,8 @@
 		<td>998</td>
 		<td>1015</td>
 		<td>1029</td>
-		<td>1033</td>
-		<td>+ 4</td>
+		<td>1035</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -850,8 +850,8 @@
 		<td>655</td>
 		<td>663</td>
 		<td>667</td>
-		<td>669</td>
-		<td>+ 2</td>
+		<td>671</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36202</td>
-		<td>151</td>
+		<td>36207</td>
+		<td>156</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>42</td>
 		<td>78</td>
 		<td>206</td>
-		<td>75</td>
+		<td>89</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>17</td>
 		<td>23</td>
 		<td>24</td>
-		<td>20</td>
+		<td>22</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8967</td>
-		<td>2132</td>
+		<td>8981</td>
+		<td>2134</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>160</td>
-		<td>56.04</td>
-		<td>13.32</td>
+		<td>56.13</td>
+		<td>13.34</td>
 		<td></td>
 		<td></td>
 	</tr>
