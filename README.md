@@ -120,8 +120,8 @@
 		<td>890</td>
 		<td>906</td>
 		<td>916</td>
-		<td>919</td>
-		<td>+ 3</td>
+		<td>921</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -241,8 +241,8 @@
 		<td>814</td>
 		<td>835</td>
 		<td>842</td>
-		<td>847</td>
-		<td>+ 5</td>
+		<td>850</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -296,8 +296,8 @@
 		<td>1070</td>
 		<td>1080</td>
 		<td>1092</td>
-		<td>1104</td>
-		<td>+ 12</td>
+		<td>1106</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td>948</td>
 		<td>959</td>
 		<td>966</td>
-		<td>971</td>
-		<td>+ 5</td>
+		<td>973</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36251</td>
-		<td>200</td>
+		<td>36260</td>
+		<td>209</td>
 	</tr>
 </table>
 </sub></sup>
@@ -579,6 +579,17 @@
 		<td>+ 5</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>1045</td>
+		<td>1055</td>
+		<td>1062</td>
+		<td>1070</td>
+		<td>1080</td>
+		<td>1092</td>
+		<td>1106</td>
+		<td>+ 14</td>
+	</tr>
+	<tr>
 		<td>kor.efret.shipyard</td>
 		<td>1051</td>
 		<td>1059</td>
@@ -588,17 +599,6 @@
 		<td>1102</td>
 		<td>1105</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>1045</td>
-		<td>1055</td>
-		<td>1062</td>
-		<td>1070</td>
-		<td>1080</td>
-		<td>1092</td>
-		<td>1104</td>
-		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -652,8 +652,8 @@
 		<td>948</td>
 		<td>959</td>
 		<td>966</td>
-		<td>971</td>
-		<td>+ 5</td>
+		<td>973</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -707,8 +707,8 @@
 		<td>890</td>
 		<td>906</td>
 		<td>916</td>
-		<td>919</td>
-		<td>+ 3</td>
+		<td>921</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -740,8 +740,8 @@
 		<td>814</td>
 		<td>835</td>
 		<td>842</td>
-		<td>847</td>
-		<td>+ 5</td>
+		<td>850</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36251</td>
-		<td>200</td>
+		<td>36260</td>
+		<td>209</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>42</td>
 		<td>78</td>
 		<td>206</td>
-		<td>100</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>17</td>
 		<td>23</td>
 		<td>24</td>
-		<td>22</td>
+		<td>25</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8992</td>
-		<td>2134</td>
+		<td>9017</td>
+		<td>2137</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>160</td>
-		<td>56.20</td>
-		<td>13.34</td>
+		<td>56.36</td>
+		<td>13.36</td>
 		<td></td>
 		<td></td>
 	</tr>
