@@ -87,8 +87,8 @@
 		<td>909</td>
 		<td>921</td>
 		<td>927</td>
-		<td>931</td>
-		<td>+ 4</td>
+		<td>933</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>1027</td>
 		<td>1038</td>
 		<td>1043</td>
-		<td>1047</td>
-		<td>+ 4</td>
+		<td>1049</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -461,8 +461,8 @@
 		<td>948</td>
 		<td>959</td>
 		<td>966</td>
-		<td>968</td>
-		<td>+ 2</td>
+		<td>970</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36180</td>
-		<td>129</td>
+		<td>36186</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>1027</td>
 		<td>1038</td>
 		<td>1043</td>
-		<td>1047</td>
-		<td>+ 4</td>
+		<td>1049</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -652,8 +652,8 @@
 		<td>948</td>
 		<td>959</td>
 		<td>966</td>
-		<td>968</td>
-		<td>+ 2</td>
+		<td>970</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -667,6 +667,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>891</td>
+		<td>897</td>
+		<td>901</td>
+		<td>909</td>
+		<td>921</td>
+		<td>927</td>
+		<td>933</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>896</td>
 		<td>900</td>
@@ -676,17 +687,6 @@
 		<td>930</td>
 		<td>932</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>captureable.person.ships</td>
-		<td>891</td>
-		<td>897</td>
-		<td>901</td>
-		<td>909</td>
-		<td>921</td>
-		<td>927</td>
-		<td>931</td>
-		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36180</td>
-		<td>129</td>
+		<td>36186</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>42</td>
 		<td>78</td>
 		<td>206</td>
-		<td>34</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>17</td>
 		<td>23</td>
 		<td>24</td>
-		<td>10</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>8926</td>
-		<td>2122</td>
+		<td>8935</td>
+		<td>2123</td>
 		<td>284</td>
 		<td>36</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>160</td>
-		<td>55.79</td>
-		<td>13.26</td>
+		<td>55.84</td>
+		<td>13.27</td>
 		<td></td>
 		<td></td>
 	</tr>
