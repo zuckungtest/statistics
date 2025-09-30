@@ -65,8 +65,8 @@
 		<td>464</td>
 		<td>477</td>
 		<td>491</td>
-		<td>503</td>
-		<td>+ 12</td>
+		<td>504</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -362,8 +362,8 @@
 		<td>848</td>
 		<td>856</td>
 		<td>860</td>
-		<td>868</td>
-		<td>+ 8</td>
+		<td>869</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36429</td>
-		<td>378</td>
+		<td>36431</td>
+		<td>380</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>848</td>
 		<td>856</td>
 		<td>860</td>
-		<td>868</td>
-		<td>+ 8</td>
+		<td>869</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -894,8 +894,8 @@
 		<td>464</td>
 		<td>477</td>
 		<td>491</td>
-		<td>503</td>
-		<td>+ 12</td>
+		<td>504</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36429</td>
-		<td>378</td>
+		<td>36431</td>
+		<td>380</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>42</td>
 		<td>78</td>
 		<td>206</td>
-		<td>146</td>
+		<td>175</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>17</td>
 		<td>23</td>
 		<td>24</td>
-		<td>34</td>
+		<td>37</td>
 	</tr>
 </table>
 <br>
@@ -1004,10 +1004,10 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9038</td>
-		<td>2146</td>
+		<td>9067</td>
+		<td>2149</td>
 		<td>284</td>
-		<td>36</td>
+		<td>37</td>
 	</tr>
 	<tr>
 		<td>days since start</td>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>160</td>
-		<td>56.49</td>
-		<td>13.41</td>
+		<td>56.67</td>
+		<td>13.43</td>
 		<td></td>
 		<td></td>
 	</tr>
