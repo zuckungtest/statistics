@@ -21,8 +21,8 @@
 		<td>1309</td>
 		<td>1318</td>
 		<td>1324</td>
-		<td>1330</td>
-		<td>+ 6</td>
+		<td>1332</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -285,8 +285,8 @@
 		<td>764</td>
 		<td>774</td>
 		<td>782</td>
-		<td>787</td>
-		<td>+ 5</td>
+		<td>788</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36248</td>
-		<td>197</td>
+		<td>36251</td>
+		<td>200</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1309</td>
 		<td>1318</td>
 		<td>1324</td>
-		<td>1330</td>
-		<td>+ 6</td>
+		<td>1332</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -784,8 +784,8 @@
 		<td>764</td>
 		<td>774</td>
 		<td>782</td>
-		<td>787</td>
-		<td>+ 5</td>
+		<td>788</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36248</td>
-		<td>197</td>
+		<td>36251</td>
+		<td>200</td>
 	</tr>
 </table>
 </sub></sup>
