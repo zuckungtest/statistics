@@ -2,8 +2,8 @@
 v1.0.3-flare.play | downloads: 95
 v1.0.6-quarg.farm | downloads: 155
 v1.0.2-ship.merging | downloads: 178
-v1.0.12-uniques | downloads: 158
-v1.0.5-control.station | downloads: 306
+v1.0.12-uniques | downloads: 160
+v1.0.5-control.station | downloads: 308
 v1.0.1-boss.loot | downloads: 307
 v1.1.3-space.fauna | downloads: 230
 v1.1.2-disable.spaceport.repeatables | downloads: 173
@@ -19,7 +19,7 @@ v1.0.3-kor.efret.shipyard | downloads: 304
 v1.0.2-highrollers.ltd | downloads: 246
 v1.0.2-automata.in.human.space | downloads: 261
 v1.0.2-automata.destruction.0percent | downloads: 175
-v1.0.1-kestrel.unlocks | downloads: 265
+v1.0.1-kestrel.unlocks | downloads: 268
 v1.0.1-disable.person.ships | downloads: 157
 v1.0.5-landing.images | downloads: 283
 v1.0.3-landing.images.highres | downloads: 247
@@ -35,7 +35,7 @@ v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 221
-v1.0.7-mission.helper | downloads: 634
+v1.0.7-mission.helper | downloads: 636
 v1.0.9-expert.crew.members | downloads: 498
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 38263
+# TOTAL DOWNLOADS: 38272
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -292,7 +292,7 @@ bunrodea.missions 1270
 captureable.person.ships 934
 coalition.shopping 1050
 combat.ai 793
-control.station 919
+control.station 921
 devil-run.unhidden 66
 disable.person.ships 498
 disable.spaceport.repeatables 684
@@ -305,13 +305,13 @@ hai.side.mission.unlocker 837
 highrollers.ltd 482
 human.labels 760
 jump.gates 925
-kestrel.unlocks 847
+kestrel.unlocks 850
 kor.efret.shipyard 1105
 landing.images 858
 landing.images.android 349
 landing.images.highres 650
 licenses 788
-mission.helper 1104
+mission.helper 1106
 more.arfectas 1056
 more.boarding.missions 1135
 more.person.ships 791
@@ -331,4 +331,4 @@ space.fauna 674
 too.many.asteroids 1197
 tribute.republic 605
 unique.fix 44
-uniques 971
+uniques 973
