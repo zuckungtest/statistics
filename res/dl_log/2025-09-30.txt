@@ -13,7 +13,7 @@ v1.0.4-planet.map | downloads: 154
 v1.0.4-no.more.mereti.mines | downloads: 207
 v1.0.4-jump.gates | downloads: 284
 v1.0.4-gegno.pirates | downloads: 318
-v1.0.3-tribute.republic | downloads: 207
+v1.0.3-tribute.republic | downloads: 209
 v1.0.3-more.arfectas | downloads: 167
 v1.0.3-kor.efret.shipyard | downloads: 304
 v1.0.2-highrollers.ltd | downloads: 246
@@ -29,18 +29,18 @@ v1.0.1-ship.merging | downloads: 271
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 205
-v1.0.8-combat.ai | downloads: 433
+v1.0.8-combat.ai | downloads: 435
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 221
-v1.0.7-mission.helper | downloads: 636
+v1.0.7-mission.helper | downloads: 638
 v1.0.9-expert.crew.members | downloads: 498
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 355
-v1.0.5-show.reputation | downloads: 469
+v1.0.5-show.reputation | downloads: 471
 v1.0.3-paint.your.ships | downloads: 399
 v1.1.9-captureable.person.ships | downloads: 410
 v1.0.9-bunrodea.missions | downloads: 547
@@ -109,7 +109,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 708
+v1.0.4-too.many.asteroids | downloads: 710
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 38272
+# TOTAL DOWNLOADS: 38282
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -291,7 +291,7 @@ boss.loot 499
 bunrodea.missions 1270
 captureable.person.ships 934
 coalition.shopping 1050
-combat.ai 793
+combat.ai 795
 control.station 921
 devil-run.unhidden 66
 disable.person.ships 498
@@ -311,7 +311,7 @@ landing.images 858
 landing.images.android 349
 landing.images.highres 650
 licenses 788
-mission.helper 1106
+mission.helper 1108
 more.arfectas 1056
 more.boarding.missions 1135
 more.person.ships 791
@@ -325,10 +325,10 @@ planet.pluto 190
 quarg.farm 1153
 real.fluff 93
 ship.merging 462
-show.reputation 1030
+show.reputation 1032
 snowfeather.robotics 935
 space.fauna 674
-too.many.asteroids 1197
-tribute.republic 605
+too.many.asteroids 1199
+tribute.republic 607
 unique.fix 44
 uniques 973
