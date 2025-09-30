@@ -10,7 +10,7 @@ v1.1.2-disable.spaceport.repeatables | downloads: 172
 v1.0.7-coalition.shopping | downloads: 297
 v1.0.5-too.many.asteroids | downloads: 157
 v1.0.4-planet.map | downloads: 153
-v1.0.4-no.more.mereti.mines | downloads: 204
+v1.0.4-no.more.mereti.mines | downloads: 206
 v1.0.4-jump.gates | downloads: 283
 v1.0.4-gegno.pirates | downloads: 317
 v1.0.3-tribute.republic | downloads: 206
@@ -23,7 +23,7 @@ v1.0.1-kestrel.unlocks | downloads: 264
 v1.0.1-disable.person.ships | downloads: 156
 v1.0.5-landing.images | downloads: 282
 v1.0.3-landing.images.highres | downloads: 246
-v1.0.25-additional.command.buttons.radial | downloads: 313
+v1.0.25-additional.command.buttons.radial | downloads: 314
 v1.1.9-galactic.capital.investment | downloads: 394
 v1.0.1-ship.merging | downloads: 271
 v1.0.0-ship.merging | downloads: 13
@@ -44,7 +44,7 @@ v1.0.5-show.reputation | downloads: 468
 v1.0.3-paint.your.ships | downloads: 398
 v1.1.9-captureable.person.ships | downloads: 409
 v1.0.9-bunrodea.missions | downloads: 546
-v1.0.5-better.starts | downloads: 489
+v1.0.5-better.starts | downloads: 491
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -277,16 +277,16 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 38214
+# TOTAL DOWNLOADS: 38219
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1328
+additional.command.buttons.radial 1329
 automata.destruction.0percent 934
 automata.in.human.space 784
 avgi.licenses 229
-better.starts 1033
+better.starts 1035
 boss.loot 498
 bunrodea.missions 1269
 captureable.person.ships 933
@@ -316,7 +316,7 @@ more.arfectas 1055
 more.boarding.missions 1134
 more.person.ships 790
 navy.licenses 575
-no.more.mereti.mines 669
+no.more.mereti.mines 671
 outfits.weapon.slot 756
 paint.your.ships 862
 pirate.warlords 3
