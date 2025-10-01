@@ -70,7 +70,7 @@ v1.0.1-outfits.weapon.slot | downloads: 383
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 796
+v1.0.1-licenses | downloads: 798
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 38553
+# TOTAL DOWNLOADS: 38555
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -310,7 +310,7 @@ kor.efret.shipyard 1111
 landing.images 862
 landing.images.android 349
 landing.images.highres 653
-licenses 798
+licenses 800
 mission.helper 1116
 more.arfectas 1065
 more.boarding.missions 1143
