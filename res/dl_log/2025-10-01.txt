@@ -15,7 +15,7 @@ v1.0.4-jump.gates | downloads: 293
 v1.0.4-gegno.pirates | downloads: 331
 v1.0.3-tribute.republic | downloads: 216
 v1.0.3-more.arfectas | downloads: 173
-v1.0.3-kor.efret.shipyard | downloads: 311
+v1.0.3-kor.efret.shipyard | downloads: 312
 v1.0.2-highrollers.ltd | downloads: 255
 v1.0.2-automata.in.human.space | downloads: 271
 v1.0.2-automata.destruction.0percent | downloads: 181
@@ -44,7 +44,7 @@ v1.0.5-show.reputation | downloads: 482
 v1.0.3-paint.your.ships | downloads: 410
 v1.1.9-captureable.person.ships | downloads: 416
 v1.0.9-bunrodea.missions | downloads: 561
-v1.0.5-better.starts | downloads: 498
+v1.0.5-better.starts | downloads: 499
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 38656
+# TOTAL DOWNLOADS: 38658
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -286,7 +286,7 @@ additional.command.buttons.radial 1339
 automata.destruction.0percent 947
 automata.in.human.space 795
 avgi.licenses 229
-better.starts 1042
+better.starts 1043
 boss.loot 510
 bunrodea.missions 1284
 captureable.person.ships 940
@@ -306,7 +306,7 @@ highrollers.ltd 491
 human.labels 767
 jump.gates 934
 kestrel.unlocks 858
-kor.efret.shipyard 1112
+kor.efret.shipyard 1113
 landing.images 865
 landing.images.android 349
 landing.images.highres 654
