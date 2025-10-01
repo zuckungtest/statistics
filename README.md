@@ -32,8 +32,8 @@
 		<td>921</td>
 		<td>930</td>
 		<td>940</td>
-		<td>941</td>
-		<td>+ 1</td>
+		<td>943</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>774</td>
 		<td>782</td>
 		<td>790</td>
-		<td>791</td>
-		<td>+ 1</td>
+		<td>793</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -54,8 +54,8 @@
 		<td>1015</td>
 		<td>1029</td>
 		<td>1037</td>
-		<td>1038</td>
-		<td>+ 1</td>
+		<td>1040</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>477</td>
 		<td>491</td>
 		<td>504</td>
-		<td>506</td>
-		<td>+ 2</td>
+		<td>508</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -175,8 +175,8 @@
 		<td>1394</td>
 		<td>1401</td>
 		<td>1408</td>
-		<td>1410</td>
-		<td>+ 2</td>
+		<td>1412</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -186,8 +186,8 @@
 		<td>1184</td>
 		<td>1193</td>
 		<td>1204</td>
-		<td>1207</td>
-		<td>+ 3</td>
+		<td>1209</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -285,8 +285,8 @@
 		<td>774</td>
 		<td>782</td>
 		<td>794</td>
-		<td>795</td>
-		<td>+ 1</td>
+		<td>797</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36478</td>
-		<td>47</td>
+		<td>36492</td>
+		<td>61</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1394</td>
 		<td>1401</td>
 		<td>1408</td>
-		<td>1410</td>
-		<td>+ 2</td>
+		<td>1412</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>1184</td>
 		<td>1193</td>
 		<td>1204</td>
-		<td>1207</td>
-		<td>+ 3</td>
+		<td>1209</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -630,8 +630,8 @@
 		<td>1015</td>
 		<td>1029</td>
 		<td>1037</td>
-		<td>1038</td>
-		<td>+ 1</td>
+		<td>1040</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -656,23 +656,23 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>snowfeather.robotics</td>
-		<td>897</td>
-		<td>903</td>
-		<td>913</td>
-		<td>925</td>
-		<td>932</td>
-		<td>940</td>
-		<td>941</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>900</td>
 		<td>904</td>
 		<td>910</td>
 		<td>921</td>
 		<td>930</td>
+		<td>940</td>
+		<td>943</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
+		<td>snowfeather.robotics</td>
+		<td>897</td>
+		<td>903</td>
+		<td>913</td>
+		<td>925</td>
+		<td>932</td>
 		<td>940</td>
 		<td>941</td>
 		<td>+ 1</td>
@@ -766,6 +766,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>licenses</td>
+		<td>744</td>
+		<td>752</td>
+		<td>764</td>
+		<td>774</td>
+		<td>782</td>
+		<td>794</td>
+		<td>797</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>more.person.ships</td>
 		<td>765</td>
 		<td>769</td>
@@ -777,17 +788,6 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>licenses</td>
-		<td>744</td>
-		<td>752</td>
-		<td>764</td>
-		<td>774</td>
-		<td>782</td>
-		<td>794</td>
-		<td>795</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
 		<td>automata.in.human.space</td>
 		<td>752</td>
 		<td>756</td>
@@ -795,8 +795,8 @@
 		<td>774</td>
 		<td>782</td>
 		<td>790</td>
-		<td>791</td>
-		<td>+ 1</td>
+		<td>793</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -894,8 +894,8 @@
 		<td>477</td>
 		<td>491</td>
 		<td>504</td>
-		<td>506</td>
-		<td>+ 2</td>
+		<td>508</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36478</td>
-		<td>47</td>
+		<td>36492</td>
+		<td>61</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>78</td>
 		<td>206</td>
 		<td>177</td>
-		<td>7</td>
+		<td>11</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>23</td>
 		<td>24</td>
 		<td>38</td>
-		<td>4</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9076</td>
-		<td>2154</td>
+		<td>9080</td>
+		<td>2157</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>161</td>
-		<td>56.37</td>
-		<td>13.38</td>
+		<td>56.40</td>
+		<td>13.40</td>
 		<td></td>
 		<td></td>
 	</tr>
