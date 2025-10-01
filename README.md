@@ -307,8 +307,8 @@
 		<td>1042</td>
 		<td>1049</td>
 		<td>1061</td>
-		<td>1063</td>
-		<td>+ 2</td>
+		<td>1065</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>1140</td>
 		<td>1148</td>
 		<td>1157</td>
-		<td>1159</td>
-		<td>+ 2</td>
+		<td>1161</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -395,8 +395,8 @@
 		<td>448</td>
 		<td>459</td>
 		<td>464</td>
-		<td>466</td>
-		<td>+ 2</td>
+		<td>468</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -428,8 +428,8 @@
 		<td>662</td>
 		<td>670</td>
 		<td>682</td>
-		<td>684</td>
-		<td>+ 2</td>
+		<td>686</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36533</td>
-		<td>102</td>
+		<td>36541</td>
+		<td>110</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>1140</td>
 		<td>1148</td>
 		<td>1157</td>
-		<td>1159</td>
-		<td>+ 2</td>
+		<td>1161</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -608,8 +608,8 @@
 		<td>1042</td>
 		<td>1049</td>
 		<td>1061</td>
-		<td>1063</td>
-		<td>+ 2</td>
+		<td>1065</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -839,8 +839,8 @@
 		<td>662</td>
 		<td>670</td>
 		<td>682</td>
-		<td>684</td>
-		<td>+ 2</td>
+		<td>686</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -927,8 +927,8 @@
 		<td>448</td>
 		<td>459</td>
 		<td>464</td>
-		<td>466</td>
-		<td>+ 2</td>
+		<td>468</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36533</td>
-		<td>102</td>
+		<td>36541</td>
+		<td>110</td>
 	</tr>
 </table>
 </sub></sup>
