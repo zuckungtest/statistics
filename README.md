@@ -54,8 +54,8 @@
 		<td>1015</td>
 		<td>1029</td>
 		<td>1037</td>
-		<td>1042</td>
-		<td>+ 5</td>
+		<td>1043</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -252,8 +252,8 @@
 		<td>1095</td>
 		<td>1102</td>
 		<td>1109</td>
-		<td>1112</td>
-		<td>+ 3</td>
+		<td>1113</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36644</td>
-		<td>213</td>
+		<td>36646</td>
+		<td>215</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>1095</td>
 		<td>1102</td>
 		<td>1109</td>
-		<td>1112</td>
-		<td>+ 3</td>
+		<td>1113</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -641,8 +641,8 @@
 		<td>1015</td>
 		<td>1029</td>
 		<td>1037</td>
-		<td>1042</td>
-		<td>+ 5</td>
+		<td>1043</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36644</td>
-		<td>213</td>
+		<td>36646</td>
+		<td>215</td>
 	</tr>
 </table>
 </sub></sup>
