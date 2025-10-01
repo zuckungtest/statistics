@@ -1,19 +1,19 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-flare.play | downloads: 101
-v1.0.6-quarg.farm | downloads: 163
-v1.0.2-ship.merging | downloads: 184
-v1.0.12-uniques | downloads: 168
+v1.0.6-quarg.farm | downloads: 164
+v1.0.2-ship.merging | downloads: 185
+v1.0.12-uniques | downloads: 170
 v1.0.5-control.station | downloads: 312
 v1.0.1-boss.loot | downloads: 317
-v1.1.3-space.fauna | downloads: 242
+v1.1.3-space.fauna | downloads: 244
 v1.1.2-disable.spaceport.repeatables | downloads: 176
 v1.0.7-coalition.shopping | downloads: 306
 v1.0.5-too.many.asteroids | downloads: 162
 v1.0.4-planet.map | downloads: 159
-v1.0.4-no.more.mereti.mines | downloads: 210
+v1.0.4-no.more.mereti.mines | downloads: 212
 v1.0.4-jump.gates | downloads: 290
 v1.0.4-gegno.pirates | downloads: 328
-v1.0.3-tribute.republic | downloads: 213
+v1.0.3-tribute.republic | downloads: 215
 v1.0.3-more.arfectas | downloads: 172
 v1.0.3-kor.efret.shipyard | downloads: 310
 v1.0.2-highrollers.ltd | downloads: 254
@@ -35,12 +35,12 @@ v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 221
-v1.0.7-mission.helper | downloads: 646
+v1.0.7-mission.helper | downloads: 648
 v1.0.9-expert.crew.members | downloads: 507
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 359
-v1.0.5-show.reputation | downloads: 477
+v1.0.5-show.reputation | downloads: 479
 v1.0.3-paint.your.ships | downloads: 407
 v1.1.9-captureable.person.ships | downloads: 415
 v1.0.9-bunrodea.missions | downloads: 557
@@ -62,7 +62,7 @@ v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 407
 v1.0.4-show.reputation | downloads: 54
 v1.0.4-mission.helper | downloads: 34
-v1.0.3-more.person.ships | downloads: 384
+v1.0.3-more.person.ships | downloads: 387
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
@@ -109,7 +109,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 710
+v1.0.4-too.many.asteroids | downloads: 712
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -277,7 +277,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 276
-# TOTAL DOWNLOADS: 38555
+# TOTAL DOWNLOADS: 38574
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -311,24 +311,24 @@ landing.images 862
 landing.images.android 349
 landing.images.highres 653
 licenses 800
-mission.helper 1116
+mission.helper 1118
 more.arfectas 1065
 more.boarding.missions 1143
-more.person.ships 797
+more.person.ships 800
 navy.licenses 575
-no.more.mereti.mines 675
+no.more.mereti.mines 677
 outfits.weapon.slot 761
 paint.your.ships 871
 pirate.warlords 3
 planet.map 578
 planet.pluto 190
-quarg.farm 1161
+quarg.farm 1162
 real.fluff 93
-ship.merging 468
-show.reputation 1038
+ship.merging 469
+show.reputation 1040
 snowfeather.robotics 942
-space.fauna 686
-too.many.asteroids 1203
-tribute.republic 611
+space.fauna 688
+too.many.asteroids 1205
+tribute.republic 613
 unique.fix 44
-uniques 981
+uniques 983
