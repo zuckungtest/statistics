@@ -32,8 +32,8 @@
 		<td>930</td>
 		<td>940</td>
 		<td>954</td>
-		<td>958</td>
-		<td>+ 4</td>
+		<td>960</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -87,8 +87,8 @@
 		<td>927</td>
 		<td>937</td>
 		<td>947</td>
-		<td>951</td>
-		<td>+ 4</td>
+		<td>953</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37077</td>
-		<td>140</td>
+		<td>37081</td>
+		<td>144</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>930</td>
 		<td>940</td>
 		<td>954</td>
-		<td>958</td>
-		<td>+ 4</td>
+		<td>960</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -685,8 +685,8 @@
 		<td>927</td>
 		<td>937</td>
 		<td>947</td>
-		<td>951</td>
-		<td>+ 4</td>
+		<td>953</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37077</td>
-		<td>140</td>
+		<td>37081</td>
+		<td>144</td>
 	</tr>
 </table>
 </sub></sup>
