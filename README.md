@@ -21,8 +21,8 @@
 		<td>1324</td>
 		<td>1334</td>
 		<td>1346</td>
-		<td>1349</td>
-		<td>+ 3</td>
+		<td>1351</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -439,8 +439,8 @@
 		<td>1189</td>
 		<td>1201</td>
 		<td>1215</td>
-		<td>1234</td>
-		<td>+ 19</td>
+		<td>1235</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37241</td>
-		<td>304</td>
+		<td>37244</td>
+		<td>307</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1324</td>
 		<td>1334</td>
 		<td>1346</td>
-		<td>1349</td>
-		<td>+ 3</td>
+		<td>1351</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>1189</td>
 		<td>1201</td>
 		<td>1215</td>
-		<td>1234</td>
-		<td>+ 19</td>
+		<td>1235</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37241</td>
-		<td>304</td>
+		<td>37244</td>
+		<td>307</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>206</td>
 		<td>177</td>
 		<td>82</td>
-		<td>87</td>
+		<td>101</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>24</td>
 		<td>38</td>
 		<td>21</td>
-		<td>17</td>
+		<td>20</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9238</td>
-		<td>2188</td>
+		<td>9252</td>
+		<td>2191</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>162</td>
-		<td>57.02</td>
-		<td>13.51</td>
+		<td>57.11</td>
+		<td>13.52</td>
 		<td></td>
 		<td></td>
 	</tr>
