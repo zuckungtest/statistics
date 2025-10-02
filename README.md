@@ -98,8 +98,8 @@
 		<td>1043</td>
 		<td>1056</td>
 		<td>1066</td>
-		<td>1071</td>
-		<td>+ 5</td>
+		<td>1073</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -252,8 +252,8 @@
 		<td>1102</td>
 		<td>1109</td>
 		<td>1120</td>
-		<td>1124</td>
-		<td>+ 4</td>
+		<td>1126</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -296,8 +296,8 @@
 		<td>1092</td>
 		<td>1114</td>
 		<td>1128</td>
-		<td>1135</td>
-		<td>+ 7</td>
+		<td>1136</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -318,8 +318,8 @@
 		<td>1130</td>
 		<td>1141</td>
 		<td>1151</td>
-		<td>1158</td>
-		<td>+ 7</td>
+		<td>1159</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>1148</td>
 		<td>1157</td>
 		<td>1170</td>
-		<td>1173</td>
-		<td>+ 3</td>
+		<td>1174</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -406,8 +406,8 @@
 		<td>1025</td>
 		<td>1036</td>
 		<td>1050</td>
-		<td>1055</td>
-		<td>+ 5</td>
+		<td>1056</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37154</td>
-		<td>217</td>
+		<td>37162</td>
+		<td>225</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>1148</td>
 		<td>1157</td>
 		<td>1170</td>
-		<td>1173</td>
-		<td>+ 3</td>
+		<td>1174</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -575,8 +575,8 @@
 		<td>1130</td>
 		<td>1141</td>
 		<td>1151</td>
-		<td>1158</td>
-		<td>+ 7</td>
+		<td>1159</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -586,8 +586,8 @@
 		<td>1092</td>
 		<td>1114</td>
 		<td>1128</td>
-		<td>1135</td>
-		<td>+ 7</td>
+		<td>1136</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -597,8 +597,8 @@
 		<td>1102</td>
 		<td>1109</td>
 		<td>1120</td>
-		<td>1124</td>
-		<td>+ 4</td>
+		<td>1126</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -619,8 +619,8 @@
 		<td>1043</td>
 		<td>1056</td>
 		<td>1066</td>
-		<td>1071</td>
-		<td>+ 5</td>
+		<td>1073</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -630,8 +630,8 @@
 		<td>1025</td>
 		<td>1036</td>
 		<td>1050</td>
-		<td>1055</td>
-		<td>+ 5</td>
+		<td>1056</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37154</td>
-		<td>217</td>
+		<td>37162</td>
+		<td>225</td>
 	</tr>
 </table>
 </sub></sup>
