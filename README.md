@@ -439,8 +439,8 @@
 		<td>1189</td>
 		<td>1201</td>
 		<td>1215</td>
-		<td>1228</td>
-		<td>+ 13</td>
+		<td>1230</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37075</td>
-		<td>138</td>
+		<td>37077</td>
+		<td>140</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1189</td>
 		<td>1201</td>
 		<td>1215</td>
-		<td>1228</td>
-		<td>+ 13</td>
+		<td>1230</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37075</td>
-		<td>138</td>
+		<td>37077</td>
+		<td>140</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>206</td>
 		<td>177</td>
 		<td>82</td>
-		<td>22</td>
+		<td>25</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>24</td>
 		<td>38</td>
 		<td>21</td>
-		<td>7</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9173</td>
-		<td>2178</td>
+		<td>9176</td>
+		<td>2180</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>162</td>
-		<td>56.62</td>
-		<td>13.44</td>
+		<td>56.64</td>
+		<td>13.46</td>
 		<td></td>
 		<td></td>
 	</tr>
