@@ -307,8 +307,8 @@
 		<td>1049</td>
 		<td>1061</td>
 		<td>1075</td>
-		<td>1082</td>
-		<td>+ 7</td>
+		<td>1084</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>1148</td>
 		<td>1157</td>
 		<td>1170</td>
-		<td>1179</td>
-		<td>+ 9</td>
+		<td>1181</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37381</td>
-		<td>444</td>
+		<td>37385</td>
+		<td>448</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>1148</td>
 		<td>1157</td>
 		<td>1170</td>
-		<td>1179</td>
-		<td>+ 9</td>
+		<td>1181</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -608,8 +608,8 @@
 		<td>1049</td>
 		<td>1061</td>
 		<td>1075</td>
-		<td>1082</td>
-		<td>+ 7</td>
+		<td>1084</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37381</td>
-		<td>444</td>
+		<td>37385</td>
+		<td>448</td>
 	</tr>
 </table>
 </sub></sup>
