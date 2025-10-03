@@ -186,8 +186,8 @@
 		<td>1204</td>
 		<td>1220</td>
 		<td>1231</td>
-		<td>1234</td>
-		<td>+ 3</td>
+		<td>1236</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37571</td>
-		<td>186</td>
+		<td>37573</td>
+		<td>188</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>1204</td>
 		<td>1220</td>
 		<td>1231</td>
-		<td>1234</td>
-		<td>+ 3</td>
+		<td>1236</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37571</td>
-		<td>186</td>
+		<td>37573</td>
+		<td>188</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>177</td>
 		<td>82</td>
 		<td>145</td>
-		<td>144</td>
+		<td>151</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>38</td>
 		<td>21</td>
 		<td>27</td>
-		<td>12</td>
+		<td>14</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9440</td>
-		<td>2210</td>
+		<td>9447</td>
+		<td>2212</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>163</td>
-		<td>57.91</td>
-		<td>13.56</td>
+		<td>57.96</td>
+		<td>13.57</td>
 		<td></td>
 		<td></td>
 	</tr>
