@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.26-additional.command.buttons.radial | downloads: 12
-v1.0.8-mission.helper | downloads: 18
+v1.0.8-mission.helper | downloads: 20
 v1.0.2-boss.loot | downloads: 18
 v1.0.3-flare.play | downloads: 118
 v1.0.6-quarg.farm | downloads: 184
@@ -27,7 +27,7 @@ v1.0.1-disable.person.ships | downloads: 170
 v1.0.5-landing.images | downloads: 305
 v1.0.3-landing.images.highres | downloads: 263
 v1.0.25-additional.command.buttons.radial | downloads: 329
-v1.1.9-galactic.capital.investment | downloads: 436
+v1.1.9-galactic.capital.investment | downloads: 438
 v1.0.1-ship.merging | downloads: 271
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
@@ -46,7 +46,7 @@ v1.0.7-human.labels | downloads: 379
 v1.0.5-show.reputation | downloads: 502
 v1.0.3-paint.your.ships | downloads: 429
 v1.1.9-captureable.person.ships | downloads: 437
-v1.0.9-bunrodea.missions | downloads: 582
+v1.0.9-bunrodea.missions | downloads: 584
 v1.0.5-better.starts | downloads: 517
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
@@ -280,7 +280,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 279
-# TOTAL DOWNLOADS: 39438
+# TOTAL DOWNLOADS: 39444
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -291,7 +291,7 @@ automata.in.human.space 817
 avgi.licenses 229
 better.starts 1061
 boss.loot 529
-bunrodea.missions 1305
+bunrodea.missions 1307
 captureable.person.ships 961
 coalition.shopping 1081
 combat.ai 827
@@ -302,7 +302,7 @@ disable.spaceport.repeatables 705
 expert.crew.members 1270
 flare.play 465
 free.worlds.5.years.later 370
-galactic.capital.investment 1445
+galactic.capital.investment 1447
 gegno.pirates 1232
 hai.side.mission.unlocker 864
 highrollers.ltd 509
@@ -314,7 +314,7 @@ landing.images 880
 landing.images.android 349
 landing.images.highres 666
 licenses 826
-mission.helper 1142
+mission.helper 1144
 more.arfectas 1085
 more.boarding.missions 1165
 more.person.ships 823
