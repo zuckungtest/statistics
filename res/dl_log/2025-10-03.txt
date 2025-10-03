@@ -6,7 +6,7 @@ v1.0.3-flare.play | downloads: 120
 v1.0.6-quarg.farm | downloads: 187
 v1.0.2-ship.merging | downloads: 207
 v1.0.12-uniques | downloads: 192
-v1.0.5-control.station | downloads: 343
+v1.0.5-control.station | downloads: 345
 v1.0.1-boss.loot | downloads: 319
 v1.1.3-space.fauna | downloads: 261
 v1.1.2-disable.spaceport.repeatables | downloads: 189
@@ -280,7 +280,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 279
-# TOTAL DOWNLOADS: 39586
+# TOTAL DOWNLOADS: 39588
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -295,7 +295,7 @@ bunrodea.missions 1312
 captureable.person.ships 964
 coalition.shopping 1083
 combat.ai 830
-control.station 956
+control.station 958
 devil-run.unhidden 66
 disable.person.ships 520
 disable.spaceport.repeatables 707
