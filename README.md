@@ -54,8 +54,8 @@
 		<td>1037</td>
 		<td>1050</td>
 		<td>1060</td>
-		<td>1065</td>
-		<td>+ 5</td>
+		<td>1069</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -263,8 +263,8 @@
 		<td>860</td>
 		<td>872</td>
 		<td>879</td>
-		<td>883</td>
-		<td>+ 4</td>
+		<td>884</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -285,8 +285,8 @@
 		<td>794</td>
 		<td>808</td>
 		<td>825</td>
-		<td>830</td>
-		<td>+ 5</td>
+		<td>834</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -329,8 +329,8 @@
 		<td>795</td>
 		<td>810</td>
 		<td>822</td>
-		<td>825</td>
-		<td>+ 3</td>
+		<td>826</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -373,8 +373,8 @@
 		<td>576</td>
 		<td>586</td>
 		<td>592</td>
-		<td>595</td>
-		<td>+ 3</td>
+		<td>596</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -384,8 +384,8 @@
 		<td>1157</td>
 		<td>1170</td>
 		<td>1181</td>
-		<td>1184</td>
-		<td>+ 3</td>
+		<td>1187</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37557</td>
-		<td>172</td>
+		<td>37571</td>
+		<td>186</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>1157</td>
 		<td>1170</td>
 		<td>1181</td>
-		<td>1184</td>
-		<td>+ 3</td>
+		<td>1187</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -623,6 +623,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>better.starts</td>
+		<td>998</td>
+		<td>1015</td>
+		<td>1029</td>
+		<td>1037</td>
+		<td>1050</td>
+		<td>1060</td>
+		<td>1069</td>
+		<td>+ 9</td>
+	</tr>
+	<tr>
 		<td>show.reputation</td>
 		<td>1006</td>
 		<td>1017</td>
@@ -632,17 +643,6 @@
 		<td>1062</td>
 		<td>1068</td>
 		<td>+ 6</td>
-	</tr>
-	<tr>
-		<td>better.starts</td>
-		<td>998</td>
-		<td>1015</td>
-		<td>1029</td>
-		<td>1037</td>
-		<td>1050</td>
-		<td>1060</td>
-		<td>1065</td>
-		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -729,8 +729,8 @@
 		<td>860</td>
 		<td>872</td>
 		<td>879</td>
-		<td>883</td>
-		<td>+ 4</td>
+		<td>884</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -762,8 +762,8 @@
 		<td>794</td>
 		<td>808</td>
 		<td>825</td>
-		<td>830</td>
-		<td>+ 5</td>
+		<td>834</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -784,8 +784,8 @@
 		<td>795</td>
 		<td>810</td>
 		<td>822</td>
-		<td>825</td>
-		<td>+ 3</td>
+		<td>826</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -883,8 +883,8 @@
 		<td>576</td>
 		<td>586</td>
 		<td>592</td>
-		<td>595</td>
-		<td>+ 3</td>
+		<td>596</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37557</td>
-		<td>172</td>
+		<td>37571</td>
+		<td>186</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>177</td>
 		<td>82</td>
 		<td>145</td>
-		<td>48</td>
+		<td>144</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>38</td>
 		<td>21</td>
 		<td>27</td>
-		<td>9</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9344</td>
-		<td>2207</td>
+		<td>9440</td>
+		<td>2210</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>163</td>
-		<td>57.33</td>
-		<td>13.54</td>
+		<td>57.91</td>
+		<td>13.56</td>
 		<td></td>
 		<td></td>
 	</tr>
