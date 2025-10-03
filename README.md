@@ -120,8 +120,8 @@
 		<td>923</td>
 		<td>935</td>
 		<td>951</td>
-		<td>953</td>
-		<td>+ 2</td>
+		<td>954</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>1408</td>
 		<td>1423</td>
 		<td>1444</td>
-		<td>1448</td>
-		<td>+ 4</td>
+		<td>1449</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -208,8 +208,8 @@
 		<td>488</td>
 		<td>498</td>
 		<td>508</td>
-		<td>510</td>
-		<td>+ 2</td>
+		<td>511</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -406,8 +406,8 @@
 		<td>1036</td>
 		<td>1050</td>
 		<td>1062</td>
-		<td>1064</td>
-		<td>+ 2</td>
+		<td>1066</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37477</td>
-		<td>92</td>
+		<td>37482</td>
+		<td>97</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1408</td>
 		<td>1423</td>
 		<td>1444</td>
-		<td>1448</td>
-		<td>+ 4</td>
+		<td>1449</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -630,8 +630,8 @@
 		<td>1036</td>
 		<td>1050</td>
 		<td>1062</td>
-		<td>1064</td>
-		<td>+ 2</td>
+		<td>1066</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -707,8 +707,8 @@
 		<td>923</td>
 		<td>935</td>
 		<td>951</td>
-		<td>953</td>
-		<td>+ 2</td>
+		<td>954</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -916,8 +916,8 @@
 		<td>488</td>
 		<td>498</td>
 		<td>508</td>
-		<td>510</td>
-		<td>+ 2</td>
+		<td>511</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37477</td>
-		<td>92</td>
+		<td>37482</td>
+		<td>97</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>177</td>
 		<td>82</td>
 		<td>145</td>
-		<td>36</td>
+		<td>37</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9332</td>
+		<td>9333</td>
 		<td>2203</td>
 		<td>284</td>
 		<td>38</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>163</td>
-		<td>57.25</td>
+		<td>57.26</td>
 		<td>13.52</td>
 		<td></td>
 		<td></td>
