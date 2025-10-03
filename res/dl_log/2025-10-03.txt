@@ -1,10 +1,10 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.26-additional.command.buttons.radial | downloads: 19
+v1.0.26-additional.command.buttons.radial | downloads: 21
 v1.0.8-mission.helper | downloads: 27
 v1.0.2-boss.loot | downloads: 23
 v1.0.3-flare.play | downloads: 121
 v1.0.6-quarg.farm | downloads: 188
-v1.0.2-ship.merging | downloads: 208
+v1.0.2-ship.merging | downloads: 210
 v1.0.12-uniques | downloads: 193
 v1.0.5-control.station | downloads: 346
 v1.0.1-boss.loot | downloads: 319
@@ -15,8 +15,8 @@ v1.0.5-too.many.asteroids | downloads: 179
 v1.0.4-planet.map | downloads: 173
 v1.0.4-no.more.mereti.mines | downloads: 232
 v1.0.4-jump.gates | downloads: 318
-v1.0.4-gegno.pirates | downloads: 355
-v1.0.3-tribute.republic | downloads: 232
+v1.0.4-gegno.pirates | downloads: 357
+v1.0.3-tribute.republic | downloads: 234
 v1.0.3-more.arfectas | downloads: 185
 v1.0.3-kor.efret.shipyard | downloads: 336
 v1.0.2-highrollers.ltd | downloads: 277
@@ -280,12 +280,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 279
-# TOTAL DOWNLOADS: 39633
+# TOTAL DOWNLOADS: 39641
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1363
+additional.command.buttons.radial 1365
 automata.destruction.0percent 971
 automata.in.human.space 820
 avgi.licenses 229
@@ -303,7 +303,7 @@ expert.crew.members 1277
 flare.play 468
 free.worlds.5.years.later 371
 galactic.capital.investment 1456
-gegno.pirates 1237
+gegno.pirates 1239
 hai.side.mission.unlocker 869
 highrollers.ltd 513
 human.labels 788
@@ -327,11 +327,11 @@ planet.map 597
 planet.pluto 190
 quarg.farm 1188
 real.fluff 93
-ship.merging 492
+ship.merging 494
 show.reputation 1069
 snowfeather.robotics 962
 space.fauna 706
 too.many.asteroids 1243
-tribute.republic 630
+tribute.republic 632
 unique.fix 44
 uniques 1007
