@@ -21,8 +21,8 @@
 		<td>1334</td>
 		<td>1346</td>
 		<td>1355</td>
-		<td>1363</td>
-		<td>+ 8</td>
+		<td>1365</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -186,8 +186,8 @@
 		<td>1204</td>
 		<td>1220</td>
 		<td>1231</td>
-		<td>1237</td>
-		<td>+ 6</td>
+		<td>1239</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -395,8 +395,8 @@
 		<td>464</td>
 		<td>479</td>
 		<td>488</td>
-		<td>492</td>
-		<td>+ 4</td>
+		<td>494</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -450,8 +450,8 @@
 		<td>609</td>
 		<td>621</td>
 		<td>626</td>
-		<td>630</td>
-		<td>+ 4</td>
+		<td>632</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37620</td>
-		<td>235</td>
+		<td>37628</td>
+		<td>243</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1334</td>
 		<td>1346</td>
 		<td>1355</td>
-		<td>1363</td>
-		<td>+ 8</td>
+		<td>1365</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>1204</td>
 		<td>1220</td>
 		<td>1231</td>
-		<td>1237</td>
-		<td>+ 6</td>
+		<td>1239</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -872,8 +872,8 @@
 		<td>609</td>
 		<td>621</td>
 		<td>626</td>
-		<td>630</td>
-		<td>+ 4</td>
+		<td>632</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -927,8 +927,8 @@
 		<td>464</td>
 		<td>479</td>
 		<td>488</td>
-		<td>492</td>
-		<td>+ 4</td>
+		<td>494</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37620</td>
-		<td>235</td>
+		<td>37628</td>
+		<td>243</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>177</td>
 		<td>82</td>
 		<td>145</td>
-		<td>155</td>
+		<td>165</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>38</td>
 		<td>21</td>
 		<td>27</td>
-		<td>15</td>
+		<td>17</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9451</td>
-		<td>2213</td>
+		<td>9461</td>
+		<td>2215</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>163</td>
-		<td>57.98</td>
-		<td>13.58</td>
+		<td>58.04</td>
+		<td>13.59</td>
 		<td></td>
 		<td></td>
 	</tr>
