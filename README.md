@@ -21,8 +21,8 @@
 		<td>1334</td>
 		<td>1346</td>
 		<td>1355</td>
-		<td>1360</td>
-		<td>+ 5</td>
+		<td>1361</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>1037</td>
 		<td>1050</td>
 		<td>1060</td>
-		<td>1063</td>
-		<td>+ 3</td>
+		<td>1064</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -153,8 +153,8 @@
 		<td>1247</td>
 		<td>1257</td>
 		<td>1269</td>
-		<td>1272</td>
-		<td>+ 3</td>
+		<td>1273</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>1408</td>
 		<td>1423</td>
 		<td>1444</td>
-		<td>1450</td>
-		<td>+ 6</td>
+		<td>1454</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>929</td>
 		<td>941</td>
 		<td>953</td>
-		<td>956</td>
-		<td>+ 3</td>
+		<td>958</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -296,8 +296,8 @@
 		<td>1114</td>
 		<td>1128</td>
 		<td>1141</td>
-		<td>1146</td>
-		<td>+ 5</td>
+		<td>1150</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37524</td>
-		<td>139</td>
+		<td>37537</td>
+		<td>152</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1408</td>
 		<td>1423</td>
 		<td>1444</td>
-		<td>1450</td>
-		<td>+ 6</td>
+		<td>1454</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -509,8 +509,8 @@
 		<td>1334</td>
 		<td>1346</td>
 		<td>1355</td>
-		<td>1360</td>
-		<td>+ 5</td>
+		<td>1361</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>1247</td>
 		<td>1257</td>
 		<td>1269</td>
-		<td>1272</td>
-		<td>+ 3</td>
+		<td>1273</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -586,8 +586,8 @@
 		<td>1114</td>
 		<td>1128</td>
 		<td>1141</td>
-		<td>1146</td>
-		<td>+ 5</td>
+		<td>1150</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -641,8 +641,8 @@
 		<td>1037</td>
 		<td>1050</td>
 		<td>1060</td>
-		<td>1063</td>
-		<td>+ 3</td>
+		<td>1064</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -696,8 +696,8 @@
 		<td>929</td>
 		<td>941</td>
 		<td>953</td>
-		<td>956</td>
-		<td>+ 3</td>
+		<td>958</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37524</td>
-		<td>139</td>
+		<td>37537</td>
+		<td>152</td>
 	</tr>
 </table>
 </sub></sup>
