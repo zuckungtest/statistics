@@ -76,8 +76,8 @@
 		<td>1276</td>
 		<td>1291</td>
 		<td>1304</td>
-		<td>1305</td>
-		<td>+ 1</td>
+		<td>1307</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>1408</td>
 		<td>1423</td>
 		<td>1444</td>
-		<td>1445</td>
-		<td>+ 1</td>
+		<td>1447</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -296,8 +296,8 @@
 		<td>1114</td>
 		<td>1128</td>
 		<td>1141</td>
-		<td>1142</td>
-		<td>+ 1</td>
+		<td>1144</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37426</td>
-		<td>41</td>
+		<td>37432</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
@@ -498,8 +498,8 @@
 		<td>1408</td>
 		<td>1423</td>
 		<td>1444</td>
-		<td>1445</td>
-		<td>+ 1</td>
+		<td>1447</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -520,8 +520,8 @@
 		<td>1276</td>
 		<td>1291</td>
 		<td>1304</td>
-		<td>1305</td>
-		<td>+ 1</td>
+		<td>1307</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -586,8 +586,8 @@
 		<td>1114</td>
 		<td>1128</td>
 		<td>1141</td>
-		<td>1142</td>
-		<td>+ 1</td>
+		<td>1144</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37426</td>
-		<td>41</td>
+		<td>37432</td>
+		<td>47</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>177</td>
 		<td>82</td>
 		<td>145</td>
-		<td>25</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>38</td>
 		<td>21</td>
 		<td>27</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9321</td>
-		<td>2199</td>
+		<td>9322</td>
+		<td>2200</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>163</td>
-		<td>57.18</td>
-		<td>13.49</td>
+		<td>57.19</td>
+		<td>13.50</td>
 		<td></td>
 		<td></td>
 	</tr>
