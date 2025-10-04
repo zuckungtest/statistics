@@ -274,8 +274,8 @@
 		<td>661</td>
 		<td>665</td>
 		<td>671</td>
-		<td>673</td>
-		<td>+ 2</td>
+		<td>674</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -384,8 +384,8 @@
 		<td>1170</td>
 		<td>1181</td>
 		<td>1190</td>
-		<td>1194</td>
-		<td>+ 4</td>
+		<td>1195</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37783</td>
-		<td>98</td>
+		<td>37785</td>
+		<td>100</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>1170</td>
 		<td>1181</td>
 		<td>1190</td>
-		<td>1194</td>
-		<td>+ 4</td>
+		<td>1195</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -861,8 +861,8 @@
 		<td>661</td>
 		<td>665</td>
 		<td>671</td>
-		<td>673</td>
-		<td>+ 2</td>
+		<td>674</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37783</td>
-		<td>98</td>
+		<td>37785</td>
+		<td>100</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>82</td>
 		<td>145</td>
 		<td>167</td>
-		<td>95</td>
+		<td>96</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>21</td>
 		<td>27</td>
 		<td>19</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9558</td>
-		<td>2225</td>
+		<td>9559</td>
+		<td>2226</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>164</td>
-		<td>58.28</td>
+		<td>58.29</td>
 		<td>13.57</td>
 		<td></td>
 		<td></td>
