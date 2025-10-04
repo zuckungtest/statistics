@@ -43,8 +43,8 @@
 		<td>802</td>
 		<td>816</td>
 		<td>820</td>
-		<td>822</td>
-		<td>+ 2</td>
+		<td>824</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37785</td>
-		<td>100</td>
+		<td>37787</td>
+		<td>102</td>
 	</tr>
 </table>
 </sub></sup>
@@ -795,8 +795,8 @@
 		<td>802</td>
 		<td>816</td>
 		<td>820</td>
-		<td>822</td>
-		<td>+ 2</td>
+		<td>824</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37785</td>
-		<td>100</td>
+		<td>37787</td>
+		<td>102</td>
 	</tr>
 </table>
 </sub></sup>
