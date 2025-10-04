@@ -384,8 +384,8 @@
 		<td>1170</td>
 		<td>1181</td>
 		<td>1190</td>
-		<td>1191</td>
-		<td>+ 1</td>
+		<td>1193</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -406,8 +406,8 @@
 		<td>1050</td>
 		<td>1062</td>
 		<td>1071</td>
-		<td>1072</td>
-		<td>+ 1</td>
+		<td>1074</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37736</td>
-		<td>51</td>
+		<td>37740</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>1170</td>
 		<td>1181</td>
 		<td>1190</td>
-		<td>1191</td>
-		<td>+ 1</td>
+		<td>1193</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -630,8 +630,8 @@
 		<td>1050</td>
 		<td>1062</td>
 		<td>1071</td>
-		<td>1072</td>
-		<td>+ 1</td>
+		<td>1074</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37736</td>
-		<td>51</td>
+		<td>37740</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>82</td>
 		<td>145</td>
 		<td>167</td>
-		<td>75</td>
+		<td>84</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>21</td>
 		<td>27</td>
 		<td>19</td>
-		<td>7</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9538</td>
-		<td>2224</td>
+		<td>9547</td>
+		<td>2225</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>164</td>
-		<td>58.16</td>
-		<td>13.56</td>
+		<td>58.21</td>
+		<td>13.57</td>
 		<td></td>
 		<td></td>
 	</tr>
