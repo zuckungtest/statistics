@@ -3,7 +3,7 @@ v1.0.26-additional.command.buttons.radial | downloads: 23
 v1.0.8-mission.helper | downloads: 30
 v1.0.2-boss.loot | downloads: 26
 v1.0.3-flare.play | downloads: 122
-v1.0.6-quarg.farm | downloads: 191
+v1.0.6-quarg.farm | downloads: 193
 v1.0.2-ship.merging | downloads: 214
 v1.0.12-uniques | downloads: 196
 v1.0.5-control.station | downloads: 349
@@ -43,7 +43,7 @@ v1.0.9-expert.crew.members | downloads: 538
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 386
-v1.0.5-show.reputation | downloads: 511
+v1.0.5-show.reputation | downloads: 513
 v1.0.3-paint.your.ships | downloads: 434
 v1.1.9-captureable.person.ships | downloads: 442
 v1.0.9-bunrodea.missions | downloads: 593
@@ -280,7 +280,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 279
-# TOTAL DOWNLOADS: 39749
+# TOTAL DOWNLOADS: 39753
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -325,10 +325,10 @@ paint.your.ships 898
 pirate.warlords 3
 planet.map 600
 planet.pluto 190
-quarg.farm 1191
+quarg.farm 1193
 real.fluff 93
 ship.merging 500
-show.reputation 1072
+show.reputation 1074
 snowfeather.robotics 966
 space.fauna 710
 too.many.asteroids 1244
