@@ -20,7 +20,7 @@ v1.0.3-tribute.republic | downloads: 238
 v1.0.3-more.arfectas | downloads: 187
 v1.0.3-kor.efret.shipyard | downloads: 340
 v1.0.2-highrollers.ltd | downloads: 282
-v1.0.2-automata.in.human.space | downloads: 298
+v1.0.2-automata.in.human.space | downloads: 300
 v1.0.2-automata.destruction.0percent | downloads: 198
 v1.0.1-kestrel.unlocks | downloads: 301
 v1.0.1-disable.person.ships | downloads: 175
@@ -280,14 +280,14 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 279
-# TOTAL DOWNLOADS: 39798
+# TOTAL DOWNLOADS: 39800
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1368
 automata.destruction.0percent 973
-automata.in.human.space 822
+automata.in.human.space 824
 avgi.licenses 229
 better.starts 1072
 boss.loot 538
