@@ -351,8 +351,8 @@
 		<td>769</td>
 		<td>779</td>
 		<td>785</td>
-		<td>790</td>
-		<td>+ 5</td>
+		<td>791</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -384,8 +384,8 @@
 		<td>1170</td>
 		<td>1181</td>
 		<td>1190</td>
-		<td>1198</td>
-		<td>+ 8</td>
+		<td>1199</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -439,8 +439,8 @@
 		<td>1215</td>
 		<td>1239</td>
 		<td>1243</td>
-		<td>1247</td>
-		<td>+ 4</td>
+		<td>1248</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>993</td>
 		<td>1002</td>
 		<td>1009</td>
-		<td>1013</td>
-		<td>+ 4</td>
+		<td>1014</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37942</td>
-		<td>257</td>
+		<td>37946</td>
+		<td>261</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>1215</td>
 		<td>1239</td>
 		<td>1243</td>
-		<td>1247</td>
-		<td>+ 4</td>
+		<td>1248</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -564,8 +564,8 @@
 		<td>1170</td>
 		<td>1181</td>
 		<td>1190</td>
-		<td>1198</td>
-		<td>+ 8</td>
+		<td>1199</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -652,8 +652,8 @@
 		<td>993</td>
 		<td>1002</td>
 		<td>1009</td>
-		<td>1013</td>
-		<td>+ 4</td>
+		<td>1014</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -817,8 +817,8 @@
 		<td>769</td>
 		<td>779</td>
 		<td>785</td>
-		<td>790</td>
-		<td>+ 5</td>
+		<td>791</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37942</td>
-		<td>257</td>
+		<td>37946</td>
+		<td>261</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>82</td>
 		<td>145</td>
 		<td>167</td>
-		<td>147</td>
+		<td>149</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1004,7 +1004,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9610</td>
+		<td>9612</td>
 		<td>2240</td>
 		<td>284</td>
 		<td>38</td>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>164</td>
-		<td>58.60</td>
+		<td>58.61</td>
 		<td>13.66</td>
 		<td></td>
 		<td></td>
