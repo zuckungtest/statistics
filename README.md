@@ -131,8 +131,8 @@
 		<td>509</td>
 		<td>517</td>
 		<td>521</td>
-		<td>525</td>
-		<td>+ 4</td>
+		<td>526</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37860</td>
-		<td>175</td>
+		<td>37861</td>
+		<td>176</td>
 	</tr>
 </table>
 </sub></sup>
@@ -905,8 +905,8 @@
 		<td>509</td>
 		<td>517</td>
 		<td>521</td>
-		<td>525</td>
-		<td>+ 4</td>
+		<td>526</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37860</td>
-		<td>175</td>
+		<td>37861</td>
+		<td>176</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>82</td>
 		<td>145</td>
 		<td>167</td>
-		<td>105</td>
+		<td>111</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>21</td>
 		<td>27</td>
 		<td>19</td>
-		<td>14</td>
+		<td>16</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9568</td>
-		<td>2231</td>
+		<td>9574</td>
+		<td>2233</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>164</td>
-		<td>58.34</td>
-		<td>13.60</td>
+		<td>58.38</td>
+		<td>13.62</td>
 		<td></td>
 		<td></td>
 	</tr>
