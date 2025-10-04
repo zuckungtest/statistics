@@ -32,8 +32,8 @@
 		<td>954</td>
 		<td>967</td>
 		<td>971</td>
-		<td>975</td>
-		<td>+ 4</td>
+		<td>977</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37921</td>
-		<td>236</td>
+		<td>37923</td>
+		<td>238</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>954</td>
 		<td>967</td>
 		<td>971</td>
-		<td>975</td>
-		<td>+ 4</td>
+		<td>977</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37921</td>
-		<td>236</td>
+		<td>37923</td>
+		<td>238</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>82</td>
 		<td>145</td>
 		<td>167</td>
-		<td>113</td>
+		<td>120</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>21</td>
 		<td>27</td>
 		<td>19</td>
-		<td>18</td>
+		<td>21</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9576</td>
-		<td>2235</td>
+		<td>9583</td>
+		<td>2238</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>164</td>
-		<td>58.39</td>
-		<td>13.63</td>
+		<td>58.43</td>
+		<td>13.65</td>
 		<td></td>
 		<td></td>
 	</tr>
