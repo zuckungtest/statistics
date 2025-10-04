@@ -186,8 +186,8 @@
 		<td>1220</td>
 		<td>1231</td>
 		<td>1241</td>
-		<td>1242</td>
-		<td>+ 1</td>
+		<td>1243</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -208,8 +208,8 @@
 		<td>498</td>
 		<td>508</td>
 		<td>515</td>
-		<td>516</td>
-		<td>+ 1</td>
+		<td>517</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -428,8 +428,8 @@
 		<td>696</td>
 		<td>702</td>
 		<td>708</td>
-		<td>709</td>
-		<td>+ 1</td>
+		<td>710</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37731</td>
-		<td>46</td>
+		<td>37734</td>
+		<td>49</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>1220</td>
 		<td>1231</td>
 		<td>1241</td>
-		<td>1242</td>
-		<td>+ 1</td>
+		<td>1243</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -828,8 +828,8 @@
 		<td>696</td>
 		<td>702</td>
 		<td>708</td>
-		<td>709</td>
-		<td>+ 1</td>
+		<td>710</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -916,8 +916,8 @@
 		<td>498</td>
 		<td>508</td>
 		<td>515</td>
-		<td>516</td>
-		<td>+ 1</td>
+		<td>517</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37731</td>
-		<td>46</td>
+		<td>37734</td>
+		<td>49</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>82</td>
 		<td>145</td>
 		<td>167</td>
-		<td>42</td>
+		<td>75</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>21</td>
 		<td>27</td>
 		<td>19</td>
-		<td>4</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9505</td>
-		<td>2221</td>
+		<td>9538</td>
+		<td>2224</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>164</td>
-		<td>57.96</td>
-		<td>13.54</td>
+		<td>58.16</td>
+		<td>13.56</td>
 		<td></td>
 		<td></td>
 	</tr>
