@@ -186,8 +186,8 @@
 		<td>1220</td>
 		<td>1231</td>
 		<td>1241</td>
-		<td>1243</td>
-		<td>+ 2</td>
+		<td>1245</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37734</td>
-		<td>49</td>
+		<td>37736</td>
+		<td>51</td>
 	</tr>
 </table>
 </sub></sup>
@@ -535,6 +535,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>gegno.pirates</td>
+		<td>1184</td>
+		<td>1193</td>
+		<td>1204</td>
+		<td>1220</td>
+		<td>1231</td>
+		<td>1241</td>
+		<td>1245</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>1175</td>
 		<td>1189</td>
@@ -544,17 +555,6 @@
 		<td>1243</td>
 		<td>1244</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>gegno.pirates</td>
-		<td>1184</td>
-		<td>1193</td>
-		<td>1204</td>
-		<td>1220</td>
-		<td>1231</td>
-		<td>1241</td>
-		<td>1243</td>
-		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37734</td>
-		<td>49</td>
+		<td>37736</td>
+		<td>51</td>
 	</tr>
 </table>
 </sub></sup>
