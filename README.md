@@ -76,8 +76,8 @@
 		<td>1291</td>
 		<td>1304</td>
 		<td>1315</td>
-		<td>1319</td>
-		<td>+ 4</td>
+		<td>1321</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>1066</td>
 		<td>1080</td>
 		<td>1085</td>
-		<td>1089</td>
-		<td>+ 4</td>
+		<td>1091</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -109,8 +109,8 @@
 		<td>811</td>
 		<td>826</td>
 		<td>833</td>
-		<td>837</td>
-		<td>+ 4</td>
+		<td>839</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -120,8 +120,8 @@
 		<td>935</td>
 		<td>951</td>
 		<td>961</td>
-		<td>964</td>
-		<td>+ 3</td>
+		<td>966</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>1220</td>
 		<td>1231</td>
 		<td>1241</td>
-		<td>1251</td>
-		<td>+ 10</td>
+		<td>1253</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -219,8 +219,8 @@
 		<td>774</td>
 		<td>783</td>
 		<td>790</td>
-		<td>794</td>
-		<td>+ 4</td>
+		<td>796</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -241,8 +241,8 @@
 		<td>865</td>
 		<td>875</td>
 		<td>881</td>
-		<td>884</td>
-		<td>+ 3</td>
+		<td>885</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -285,8 +285,8 @@
 		<td>808</td>
 		<td>825</td>
 		<td>837</td>
-		<td>841</td>
-		<td>+ 4</td>
+		<td>843</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>1128</td>
 		<td>1141</td>
 		<td>1153</td>
-		<td>1158</td>
-		<td>+ 5</td>
+		<td>1160</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>1075</td>
 		<td>1084</td>
 		<td>1092</td>
-		<td>1095</td>
-		<td>+ 3</td>
+		<td>1097</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37861</td>
-		<td>176</td>
+		<td>37880</td>
+		<td>195</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1291</td>
 		<td>1304</td>
 		<td>1315</td>
-		<td>1319</td>
-		<td>+ 4</td>
+		<td>1321</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>1220</td>
 		<td>1231</td>
 		<td>1241</td>
-		<td>1251</td>
-		<td>+ 10</td>
+		<td>1253</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -586,8 +586,8 @@
 		<td>1128</td>
 		<td>1141</td>
 		<td>1153</td>
-		<td>1158</td>
-		<td>+ 5</td>
+		<td>1160</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -608,8 +608,8 @@
 		<td>1075</td>
 		<td>1084</td>
 		<td>1092</td>
-		<td>1095</td>
-		<td>+ 3</td>
+		<td>1097</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>1066</td>
 		<td>1080</td>
 		<td>1085</td>
-		<td>1089</td>
-		<td>+ 4</td>
+		<td>1091</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -689,23 +689,23 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
-		<td>jump.gates</td>
-		<td>912</td>
-		<td>920</td>
-		<td>929</td>
-		<td>941</td>
-		<td>953</td>
-		<td>961</td>
-		<td>964</td>
-		<td>+ 3</td>
-	</tr>
-	<tr>
 		<td>control.station</td>
 		<td>906</td>
 		<td>916</td>
 		<td>923</td>
 		<td>935</td>
 		<td>951</td>
+		<td>961</td>
+		<td>966</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
+		<td>jump.gates</td>
+		<td>912</td>
+		<td>920</td>
+		<td>929</td>
+		<td>941</td>
+		<td>953</td>
 		<td>961</td>
 		<td>964</td>
 		<td>+ 3</td>
@@ -740,8 +740,8 @@
 		<td>865</td>
 		<td>875</td>
 		<td>881</td>
-		<td>884</td>
-		<td>+ 3</td>
+		<td>885</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -762,8 +762,8 @@
 		<td>808</td>
 		<td>825</td>
 		<td>837</td>
-		<td>841</td>
-		<td>+ 4</td>
+		<td>843</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -773,8 +773,8 @@
 		<td>811</td>
 		<td>826</td>
 		<td>833</td>
-		<td>837</td>
-		<td>+ 4</td>
+		<td>839</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -806,8 +806,8 @@
 		<td>774</td>
 		<td>783</td>
 		<td>790</td>
-		<td>794</td>
-		<td>+ 4</td>
+		<td>796</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>37861</td>
-		<td>176</td>
+		<td>37880</td>
+		<td>195</td>
 	</tr>
 </table>
 </sub></sup>
