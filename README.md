@@ -417,8 +417,8 @@
 		<td>958</td>
 		<td>964</td>
 		<td>969</td>
-		<td>972</td>
-		<td>+ 3</td>
+		<td>973</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38018</td>
-		<td>72</td>
+		<td>38019</td>
+		<td>73</td>
 	</tr>
 </table>
 </sub></sup>
@@ -667,6 +667,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>932</td>
+		<td>940</td>
+		<td>950</td>
+		<td>958</td>
+		<td>964</td>
+		<td>969</td>
+		<td>973</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>927</td>
 		<td>937</td>
@@ -676,17 +687,6 @@
 		<td>972</td>
 		<td>973</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>932</td>
-		<td>940</td>
-		<td>950</td>
-		<td>958</td>
-		<td>964</td>
-		<td>969</td>
-		<td>972</td>
-		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38018</td>
-		<td>72</td>
+		<td>38019</td>
+		<td>73</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>145</td>
 		<td>167</td>
 		<td>149</td>
-		<td>3</td>
+		<td>6</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>27</td>
 		<td>19</td>
 		<td>23</td>
-		<td>3</td>
+		<td>4</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9615</td>
-		<td>2243</td>
+		<td>9618</td>
+		<td>2244</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>165</td>
-		<td>58.27</td>
-		<td>13.59</td>
+		<td>58.29</td>
+		<td>13.60</td>
 		<td></td>
 		<td></td>
 	</tr>
