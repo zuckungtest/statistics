@@ -263,8 +263,8 @@
 		<td>879</td>
 		<td>887</td>
 		<td>893</td>
-		<td>895</td>
-		<td>+ 2</td>
+		<td>897</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>665</td>
 		<td>671</td>
 		<td>676</td>
-		<td>678</td>
-		<td>+ 2</td>
+		<td>680</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -395,8 +395,8 @@
 		<td>488</td>
 		<td>496</td>
 		<td>504</td>
-		<td>508</td>
-		<td>+ 4</td>
+		<td>509</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38073</td>
-		<td>127</td>
+		<td>38078</td>
+		<td>132</td>
 	</tr>
 </table>
 </sub></sup>
@@ -729,8 +729,8 @@
 		<td>879</td>
 		<td>887</td>
 		<td>893</td>
-		<td>895</td>
-		<td>+ 2</td>
+		<td>897</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -861,8 +861,8 @@
 		<td>665</td>
 		<td>671</td>
 		<td>676</td>
-		<td>678</td>
-		<td>+ 2</td>
+		<td>680</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -927,8 +927,8 @@
 		<td>488</td>
 		<td>496</td>
 		<td>504</td>
-		<td>508</td>
-		<td>+ 4</td>
+		<td>509</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38073</td>
-		<td>127</td>
+		<td>38078</td>
+		<td>132</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>145</td>
 		<td>167</td>
 		<td>149</td>
-		<td>44</td>
+		<td>55</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>27</td>
 		<td>19</td>
 		<td>23</td>
-		<td>9</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9656</td>
-		<td>2249</td>
+		<td>9667</td>
+		<td>2251</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>165</td>
-		<td>58.52</td>
-		<td>13.63</td>
+		<td>58.59</td>
+		<td>13.64</td>
 		<td></td>
 		<td></td>
 	</tr>
