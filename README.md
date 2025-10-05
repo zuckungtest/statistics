@@ -54,8 +54,8 @@
 		<td>1060</td>
 		<td>1070</td>
 		<td>1075</td>
-		<td>1076</td>
-		<td>+ 1</td>
+		<td>1078</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -109,8 +109,8 @@
 		<td>826</td>
 		<td>833</td>
 		<td>841</td>
-		<td>844</td>
-		<td>+ 3</td>
+		<td>845</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -164,8 +164,8 @@
 		<td>464</td>
 		<td>468</td>
 		<td>472</td>
-		<td>473</td>
-		<td>+ 1</td>
+		<td>475</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -208,8 +208,8 @@
 		<td>508</td>
 		<td>515</td>
 		<td>520</td>
-		<td>524</td>
-		<td>+ 4</td>
+		<td>526</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38019</td>
-		<td>73</td>
+		<td>38026</td>
+		<td>80</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>1060</td>
 		<td>1070</td>
 		<td>1075</td>
-		<td>1076</td>
-		<td>+ 1</td>
+		<td>1078</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -773,8 +773,8 @@
 		<td>826</td>
 		<td>833</td>
 		<td>841</td>
-		<td>844</td>
-		<td>+ 3</td>
+		<td>845</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -916,8 +916,8 @@
 		<td>508</td>
 		<td>515</td>
 		<td>520</td>
-		<td>524</td>
-		<td>+ 4</td>
+		<td>526</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -938,8 +938,8 @@
 		<td>464</td>
 		<td>468</td>
 		<td>472</td>
-		<td>473</td>
-		<td>+ 1</td>
+		<td>475</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38019</td>
-		<td>73</td>
+		<td>38026</td>
+		<td>80</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>145</td>
 		<td>167</td>
 		<td>149</td>
-		<td>6</td>
+		<td>28</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>27</td>
 		<td>19</td>
 		<td>23</td>
-		<td>4</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9618</td>
-		<td>2244</td>
+		<td>9640</td>
+		<td>2247</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>165</td>
-		<td>58.29</td>
-		<td>13.60</td>
+		<td>58.42</td>
+		<td>13.62</td>
 		<td></td>
 		<td></td>
 	</tr>
