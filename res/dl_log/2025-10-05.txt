@@ -32,7 +32,7 @@ v1.0.1-ship.merging | downloads: 273
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 206
-v1.0.8-combat.ai | downloads: 490
+v1.0.8-combat.ai | downloads: 492
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
@@ -280,7 +280,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 279
-# TOTAL DOWNLOADS: 40093
+# TOTAL DOWNLOADS: 40095
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -294,7 +294,7 @@ boss.loot 545
 bunrodea.missions 1327
 captureable.person.ships 974
 coalition.shopping 1095
-combat.ai 850
+combat.ai 852
 control.station 969
 devil-run.unhidden 66
 disable.person.ships 529
