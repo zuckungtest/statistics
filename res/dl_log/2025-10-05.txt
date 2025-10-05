@@ -32,7 +32,7 @@ v1.0.1-ship.merging | downloads: 273
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 206
-v1.0.8-combat.ai | downloads: 486
+v1.0.8-combat.ai | downloads: 488
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
@@ -47,7 +47,7 @@ v1.0.5-show.reputation | downloads: 521
 v1.0.3-paint.your.ships | downloads: 440
 v1.1.9-captureable.person.ships | downloads: 450
 v1.0.9-bunrodea.missions | downloads: 604
-v1.0.5-better.starts | downloads: 535
+v1.0.5-better.starts | downloads: 537
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -280,7 +280,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 279
-# TOTAL DOWNLOADS: 40082
+# TOTAL DOWNLOADS: 40086
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -289,12 +289,12 @@ additional.command.buttons.radial 1372
 automata.destruction.0percent 981
 automata.in.human.space 829
 avgi.licenses 229
-better.starts 1079
+better.starts 1081
 boss.loot 545
 bunrodea.missions 1327
 captureable.person.ships 974
 coalition.shopping 1095
-combat.ai 846
+combat.ai 848
 control.station 969
 devil-run.unhidden 66
 disable.person.ships 529
