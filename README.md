@@ -109,8 +109,8 @@
 		<td>826</td>
 		<td>833</td>
 		<td>841</td>
-		<td>848</td>
-		<td>+ 7</td>
+		<td>850</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38078</td>
-		<td>132</td>
+		<td>38080</td>
+		<td>134</td>
 	</tr>
 </table>
 </sub></sup>
@@ -755,6 +755,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>combat.ai</td>
+		<td>790</td>
+		<td>799</td>
+		<td>811</td>
+		<td>826</td>
+		<td>833</td>
+		<td>841</td>
+		<td>850</td>
+		<td>+ 9</td>
+	</tr>
+	<tr>
 		<td>licenses</td>
 		<td>782</td>
 		<td>794</td>
@@ -764,17 +775,6 @@
 		<td>846</td>
 		<td>849</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>combat.ai</td>
-		<td>790</td>
-		<td>799</td>
-		<td>811</td>
-		<td>826</td>
-		<td>833</td>
-		<td>841</td>
-		<td>848</td>
-		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38078</td>
-		<td>132</td>
+		<td>38080</td>
+		<td>134</td>
 	</tr>
 </table>
 </sub></sup>
