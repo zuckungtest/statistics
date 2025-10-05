@@ -4,7 +4,7 @@ v1.0.8-mission.helper | downloads: 40
 v1.0.2-boss.loot | downloads: 34
 v1.0.3-flare.play | downloads: 129
 v1.0.6-quarg.farm | downloads: 201
-v1.0.2-ship.merging | downloads: 222
+v1.0.2-ship.merging | downloads: 223
 v1.0.12-uniques | downloads: 204
 v1.0.5-control.station | downloads: 356
 v1.0.1-boss.loot | downloads: 319
@@ -24,8 +24,8 @@ v1.0.2-automata.in.human.space | downloads: 305
 v1.0.2-automata.destruction.0percent | downloads: 202
 v1.0.1-kestrel.unlocks | downloads: 306
 v1.0.1-disable.person.ships | downloads: 180
-v1.0.5-landing.images | downloads: 320
-v1.0.3-landing.images.highres | downloads: 275
+v1.0.5-landing.images | downloads: 322
+v1.0.3-landing.images.highres | downloads: 277
 v1.0.25-additional.command.buttons.radial | downloads: 329
 v1.1.9-galactic.capital.investment | downloads: 457
 v1.0.1-ship.merging | downloads: 273
@@ -280,7 +280,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 279
-# TOTAL DOWNLOADS: 40086
+# TOTAL DOWNLOADS: 40091
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -310,9 +310,9 @@ human.labels 800
 jump.gates 967
 kestrel.unlocks 888
 kor.efret.shipyard 1151
-landing.images 895
+landing.images 897
 landing.images.android 349
-landing.images.highres 678
+landing.images.highres 680
 licenses 849
 mission.helper 1164
 more.arfectas 1101
@@ -327,7 +327,7 @@ planet.map 605
 planet.pluto 190
 quarg.farm 1201
 real.fluff 93
-ship.merging 508
+ship.merging 509
 show.reputation 1082
 snowfeather.robotics 974
 space.fauna 716
