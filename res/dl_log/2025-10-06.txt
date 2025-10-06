@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.6-control.station | downloads: 11
 v1.0.26-additional.command.buttons.radial | downloads: 34
-v1.0.8-mission.helper | downloads: 53
+v1.0.8-mission.helper | downloads: 55
 v1.0.2-boss.loot | downloads: 40
 v1.0.3-flare.play | downloads: 135
 v1.0.6-quarg.farm | downloads: 209
@@ -281,7 +281,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 280
-# TOTAL DOWNLOADS: 40396
+# TOTAL DOWNLOADS: 40398
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -315,7 +315,7 @@ landing.images 906
 landing.images.android 349
 landing.images.highres 688
 licenses 857
-mission.helper 1177
+mission.helper 1179
 more.arfectas 1109
 more.boarding.missions 1194
 more.person.ships 842
