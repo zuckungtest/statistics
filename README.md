@@ -76,8 +76,8 @@
 		<td>1315</td>
 		<td>1323</td>
 		<td>1333</td>
-		<td>1334</td>
-		<td>+ 1</td>
+		<td>1336</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>1241</td>
 		<td>1255</td>
 		<td>1266</td>
-		<td>1267</td>
-		<td>+ 1</td>
+		<td>1269</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -230,8 +230,8 @@
 		<td>961</td>
 		<td>965</td>
 		<td>971</td>
-		<td>972</td>
-		<td>+ 1</td>
+		<td>973</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -307,8 +307,8 @@
 		<td>1092</td>
 		<td>1099</td>
 		<td>1105</td>
-		<td>1106</td>
-		<td>+ 1</td>
+		<td>1108</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -318,8 +318,8 @@
 		<td>1172</td>
 		<td>1179</td>
 		<td>1190</td>
-		<td>1191</td>
-		<td>+ 1</td>
+		<td>1193</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -384,8 +384,8 @@
 		<td>1190</td>
 		<td>1199</td>
 		<td>1205</td>
-		<td>1206</td>
-		<td>+ 1</td>
+		<td>1208</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -395,8 +395,8 @@
 		<td>496</td>
 		<td>504</td>
 		<td>513</td>
-		<td>514</td>
-		<td>+ 1</td>
+		<td>516</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -417,8 +417,8 @@
 		<td>964</td>
 		<td>969</td>
 		<td>978</td>
-		<td>979</td>
-		<td>+ 1</td>
+		<td>981</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38327</td>
-		<td>41</td>
+		<td>38342</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1315</td>
 		<td>1323</td>
 		<td>1333</td>
-		<td>1334</td>
-		<td>+ 1</td>
+		<td>1336</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>1241</td>
 		<td>1255</td>
 		<td>1266</td>
-		<td>1267</td>
-		<td>+ 1</td>
+		<td>1269</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -564,8 +564,8 @@
 		<td>1190</td>
 		<td>1199</td>
 		<td>1205</td>
-		<td>1206</td>
-		<td>+ 1</td>
+		<td>1208</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -575,8 +575,8 @@
 		<td>1172</td>
 		<td>1179</td>
 		<td>1190</td>
-		<td>1191</td>
-		<td>+ 1</td>
+		<td>1193</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -608,8 +608,8 @@
 		<td>1092</td>
 		<td>1099</td>
 		<td>1105</td>
-		<td>1106</td>
-		<td>+ 1</td>
+		<td>1108</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -667,6 +667,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>940</td>
+		<td>950</td>
+		<td>958</td>
+		<td>964</td>
+		<td>969</td>
+		<td>978</td>
+		<td>981</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>captureable.person.ships</td>
 		<td>937</td>
 		<td>947</td>
@@ -689,17 +700,6 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>snowfeather.robotics</td>
-		<td>940</td>
-		<td>950</td>
-		<td>958</td>
-		<td>964</td>
-		<td>969</td>
-		<td>978</td>
-		<td>979</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
 		<td>jump.gates</td>
 		<td>929</td>
 		<td>941</td>
@@ -707,8 +707,8 @@
 		<td>961</td>
 		<td>965</td>
 		<td>971</td>
-		<td>972</td>
-		<td>+ 1</td>
+		<td>973</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -927,8 +927,8 @@
 		<td>496</td>
 		<td>504</td>
 		<td>513</td>
-		<td>514</td>
-		<td>+ 1</td>
+		<td>516</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38327</td>
-		<td>41</td>
+		<td>38342</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>167</td>
 		<td>149</td>
 		<td>120</td>
-		<td>3</td>
+		<td>4</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>23</td>
 		<td>22</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9735</td>
-		<td>2264</td>
+		<td>9736</td>
+		<td>2265</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>166</td>
-		<td>58.64</td>
+		<td>58.65</td>
 		<td>13.64</td>
 		<td></td>
 		<td></td>
