@@ -87,8 +87,8 @@
 		<td>965</td>
 		<td>972</td>
 		<td>980</td>
-		<td>984</td>
-		<td>+ 4</td>
+		<td>985</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -230,8 +230,8 @@
 		<td>961</td>
 		<td>965</td>
 		<td>971</td>
-		<td>977</td>
-		<td>+ 6</td>
+		<td>978</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -384,8 +384,8 @@
 		<td>1190</td>
 		<td>1199</td>
 		<td>1205</td>
-		<td>1212</td>
-		<td>+ 7</td>
+		<td>1213</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -461,8 +461,8 @@
 		<td>1009</td>
 		<td>1014</td>
 		<td>1022</td>
-		<td>1026</td>
-		<td>+ 4</td>
+		<td>1027</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38482</td>
-		<td>196</td>
+		<td>38486</td>
+		<td>200</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>1190</td>
 		<td>1199</td>
 		<td>1205</td>
-		<td>1212</td>
-		<td>+ 7</td>
+		<td>1213</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -652,8 +652,8 @@
 		<td>1009</td>
 		<td>1014</td>
 		<td>1022</td>
-		<td>1026</td>
-		<td>+ 4</td>
+		<td>1027</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -685,8 +685,8 @@
 		<td>965</td>
 		<td>972</td>
 		<td>980</td>
-		<td>984</td>
-		<td>+ 4</td>
+		<td>985</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -707,8 +707,8 @@
 		<td>961</td>
 		<td>965</td>
 		<td>971</td>
-		<td>977</td>
-		<td>+ 6</td>
+		<td>978</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38482</td>
-		<td>196</td>
+		<td>38486</td>
+		<td>200</td>
 	</tr>
 </table>
 </sub></sup>
