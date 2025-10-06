@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.6-control.station | downloads: 13
-v1.0.26-additional.command.buttons.radial | downloads: 36
+v1.0.26-additional.command.buttons.radial | downloads: 38
 v1.0.8-mission.helper | downloads: 58
 v1.0.2-boss.loot | downloads: 43
 v1.0.3-flare.play | downloads: 139
@@ -281,12 +281,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 280
-# TOTAL DOWNLOADS: 40499
+# TOTAL DOWNLOADS: 40501
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1380
+additional.command.buttons.radial 1382
 automata.destruction.0percent 989
 automata.in.human.space 837
 avgi.licenses 229
