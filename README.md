@@ -164,8 +164,8 @@
 		<td>468</td>
 		<td>472</td>
 		<td>480</td>
-		<td>483</td>
-		<td>+ 3</td>
+		<td>485</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38439</td>
-		<td>153</td>
+		<td>38441</td>
+		<td>155</td>
 	</tr>
 </table>
 </sub></sup>
@@ -938,8 +938,8 @@
 		<td>468</td>
 		<td>472</td>
 		<td>480</td>
-		<td>483</td>
-		<td>+ 3</td>
+		<td>485</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38439</td>
-		<td>153</td>
+		<td>38441</td>
+		<td>155</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>167</td>
 		<td>149</td>
 		<td>120</td>
-		<td>44</td>
+		<td>66</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>23</td>
 		<td>22</td>
-		<td>12</td>
+		<td>14</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9776</td>
-		<td>2274</td>
+		<td>9798</td>
+		<td>2276</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>166</td>
-		<td>58.89</td>
-		<td>13.70</td>
+		<td>59.02</td>
+		<td>13.71</td>
 		<td></td>
 		<td></td>
 	</tr>
