@@ -4,9 +4,9 @@ v1.0.26-additional.command.buttons.radial | downloads: 36
 v1.0.8-mission.helper | downloads: 58
 v1.0.2-boss.loot | downloads: 43
 v1.0.3-flare.play | downloads: 139
-v1.0.6-quarg.farm | downloads: 212
+v1.0.6-quarg.farm | downloads: 213
 v1.0.2-ship.merging | downloads: 233
-v1.0.12-uniques | downloads: 212
+v1.0.12-uniques | downloads: 213
 v1.0.5-control.station | downloads: 357
 v1.0.1-boss.loot | downloads: 319
 v1.1.3-space.fauna | downloads: 280
@@ -15,7 +15,7 @@ v1.0.7-coalition.shopping | downloads: 351
 v1.0.5-too.many.asteroids | downloads: 194
 v1.0.4-planet.map | downloads: 188
 v1.0.4-no.more.mereti.mines | downloads: 248
-v1.0.4-jump.gates | downloads: 336
+v1.0.4-jump.gates | downloads: 337
 v1.0.4-gegno.pirates | downloads: 390
 v1.0.3-tribute.republic | downloads: 253
 v1.0.3-more.arfectas | downloads: 200
@@ -46,7 +46,7 @@ v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 403
 v1.0.5-show.reputation | downloads: 529
 v1.0.3-paint.your.ships | downloads: 452
-v1.1.9-captureable.person.ships | downloads: 460
+v1.1.9-captureable.person.ships | downloads: 461
 v1.0.9-bunrodea.missions | downloads: 616
 v1.0.5-better.starts | downloads: 548
 v1.0.4-control.station | downloads: 184
@@ -281,7 +281,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 280
-# TOTAL DOWNLOADS: 40495
+# TOTAL DOWNLOADS: 40499
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -293,7 +293,7 @@ avgi.licenses 229
 better.starts 1092
 boss.loot 554
 bunrodea.missions 1339
-captureable.person.ships 984
+captureable.person.ships 985
 coalition.shopping 1103
 combat.ai 861
 control.station 983
@@ -308,7 +308,7 @@ gegno.pirates 1272
 hai.side.mission.unlocker 886
 highrollers.ltd 535
 human.labels 808
-jump.gates 977
+jump.gates 978
 kestrel.unlocks 896
 kor.efret.shipyard 1159
 landing.images 908
@@ -326,7 +326,7 @@ paint.your.ships 916
 pirate.warlords 3
 planet.map 615
 planet.pluto 190
-quarg.farm 1212
+quarg.farm 1213
 real.fluff 93
 ship.merging 519
 show.reputation 1090
@@ -335,4 +335,4 @@ space.fauna 724
 too.many.asteroids 1261
 tribute.republic 651
 unique.fix 44
-uniques 1026
+uniques 1027
