@@ -307,8 +307,8 @@
 		<td>1092</td>
 		<td>1099</td>
 		<td>1105</td>
-		<td>1111</td>
-		<td>+ 6</td>
+		<td>1113</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38437</td>
-		<td>151</td>
+		<td>38439</td>
+		<td>153</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>1092</td>
 		<td>1099</td>
 		<td>1105</td>
-		<td>1111</td>
-		<td>+ 6</td>
+		<td>1113</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38437</td>
-		<td>151</td>
+		<td>38439</td>
+		<td>153</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>167</td>
 		<td>149</td>
 		<td>120</td>
-		<td>41</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>23</td>
 		<td>22</td>
-		<td>10</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9773</td>
-		<td>2272</td>
+		<td>9776</td>
+		<td>2274</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>166</td>
-		<td>58.87</td>
-		<td>13.69</td>
+		<td>58.89</td>
+		<td>13.70</td>
 		<td></td>
 		<td></td>
 	</tr>
