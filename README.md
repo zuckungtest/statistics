@@ -120,8 +120,8 @@
 		<td>967</td>
 		<td>979</td>
 		<td>983</td>
-		<td>986</td>
-		<td>+ 3</td>
+		<td>988</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>1255</td>
 		<td>1266</td>
 		<td>1272</td>
-		<td>1276</td>
-		<td>+ 4</td>
+		<td>1280</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38620</td>
-		<td>132</td>
+		<td>38626</td>
+		<td>138</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1255</td>
 		<td>1266</td>
 		<td>1272</td>
-		<td>1276</td>
-		<td>+ 4</td>
+		<td>1280</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -667,6 +667,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>control.station</td>
+		<td>935</td>
+		<td>951</td>
+		<td>961</td>
+		<td>967</td>
+		<td>979</td>
+		<td>983</td>
+		<td>988</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>950</td>
 		<td>958</td>
@@ -687,17 +698,6 @@
 		<td>985</td>
 		<td>987</td>
 		<td>+ 2</td>
-	</tr>
-	<tr>
-		<td>control.station</td>
-		<td>935</td>
-		<td>951</td>
-		<td>961</td>
-		<td>967</td>
-		<td>979</td>
-		<td>983</td>
-		<td>986</td>
-		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38620</td>
-		<td>132</td>
+		<td>38626</td>
+		<td>138</td>
 	</tr>
 </table>
 </sub></sup>
