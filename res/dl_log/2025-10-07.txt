@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.6-control.station | downloads: 16
+v1.0.6-control.station | downloads: 18
 v1.0.26-additional.command.buttons.radial | downloads: 42
 v1.0.8-mission.helper | downloads: 64
 v1.0.2-boss.loot | downloads: 47
@@ -16,7 +16,7 @@ v1.0.5-too.many.asteroids | downloads: 196
 v1.0.4-planet.map | downloads: 190
 v1.0.4-no.more.mereti.mines | downloads: 252
 v1.0.4-jump.gates | downloads: 341
-v1.0.4-gegno.pirates | downloads: 394
+v1.0.4-gegno.pirates | downloads: 398
 v1.0.3-tribute.republic | downloads: 255
 v1.0.3-more.arfectas | downloads: 203
 v1.0.3-kor.efret.shipyard | downloads: 362
@@ -281,7 +281,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 280
-# TOTAL DOWNLOADS: 40633
+# TOTAL DOWNLOADS: 40639
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -296,7 +296,7 @@ bunrodea.missions 1343
 captureable.person.ships 987
 coalition.shopping 1107
 combat.ai 865
-control.station 986
+control.station 988
 devil-run.unhidden 66
 disable.person.ships 541
 disable.spaceport.repeatables 724
@@ -304,7 +304,7 @@ expert.crew.members 1303
 flare.play 488
 free.worlds.5.years.later 371
 galactic.capital.investment 1477
-gegno.pirates 1276
+gegno.pirates 1280
 hai.side.mission.unlocker 888
 highrollers.ltd 537
 human.labels 810
