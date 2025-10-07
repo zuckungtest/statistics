@@ -21,8 +21,8 @@
 		<td>1370</td>
 		<td>1376</td>
 		<td>1382</td>
-		<td>1383</td>
-		<td>+ 1</td>
+		<td>1385</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>541</td>
 		<td>549</td>
 		<td>554</td>
-		<td>555</td>
-		<td>+ 1</td>
+		<td>557</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -296,8 +296,8 @@
 		<td>1162</td>
 		<td>1175</td>
 		<td>1182</td>
-		<td>1183</td>
-		<td>+ 1</td>
+		<td>1187</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -307,8 +307,8 @@
 		<td>1099</td>
 		<td>1105</td>
 		<td>1114</td>
-		<td>1116</td>
-		<td>+ 2</td>
+		<td>1118</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -384,8 +384,8 @@
 		<td>1199</td>
 		<td>1205</td>
 		<td>1213</td>
-		<td>1216</td>
-		<td>+ 3</td>
+		<td>1218</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38565</td>
-		<td>77</td>
+		<td>38577</td>
+		<td>89</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1370</td>
 		<td>1376</td>
 		<td>1382</td>
-		<td>1383</td>
-		<td>+ 1</td>
+		<td>1385</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -564,8 +564,8 @@
 		<td>1199</td>
 		<td>1205</td>
 		<td>1213</td>
-		<td>1216</td>
-		<td>+ 3</td>
+		<td>1218</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -586,8 +586,8 @@
 		<td>1162</td>
 		<td>1175</td>
 		<td>1182</td>
-		<td>1183</td>
-		<td>+ 1</td>
+		<td>1187</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -608,8 +608,8 @@
 		<td>1099</td>
 		<td>1105</td>
 		<td>1114</td>
-		<td>1116</td>
-		<td>+ 2</td>
+		<td>1118</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -894,8 +894,8 @@
 		<td>541</td>
 		<td>549</td>
 		<td>554</td>
-		<td>555</td>
-		<td>+ 1</td>
+		<td>557</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38565</td>
-		<td>77</td>
+		<td>38577</td>
+		<td>89</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>149</td>
 		<td>120</td>
 		<td>87</td>
-		<td>12</td>
+		<td>32</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>23</td>
 		<td>22</td>
 		<td>19</td>
-		<td>5</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9831</td>
-		<td>2286</td>
+		<td>9851</td>
+		<td>2288</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>167</td>
-		<td>58.87</td>
-		<td>13.69</td>
+		<td>58.99</td>
+		<td>13.70</td>
 		<td></td>
 		<td></td>
 	</tr>
