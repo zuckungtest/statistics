@@ -65,8 +65,8 @@
 		<td>549</td>
 		<td>554</td>
 		<td>566</td>
-		<td>568</td>
-		<td>+ 2</td>
+		<td>570</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>1333</td>
 		<td>1339</td>
 		<td>1350</td>
-		<td>1353</td>
-		<td>+ 3</td>
+		<td>1356</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -252,8 +252,8 @@
 		<td>1155</td>
 		<td>1159</td>
 		<td>1171</td>
-		<td>1174</td>
-		<td>+ 3</td>
+		<td>1175</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -351,8 +351,8 @@
 		<td>799</td>
 		<td>803</td>
 		<td>815</td>
-		<td>818</td>
-		<td>+ 3</td>
+		<td>820</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -373,8 +373,8 @@
 		<td>611</td>
 		<td>615</td>
 		<td>624</td>
-		<td>625</td>
-		<td>+ 1</td>
+		<td>627</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39025</td>
-		<td>86</td>
+		<td>39035</td>
+		<td>96</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1333</td>
 		<td>1339</td>
 		<td>1350</td>
-		<td>1353</td>
-		<td>+ 3</td>
+		<td>1356</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -597,8 +597,8 @@
 		<td>1155</td>
 		<td>1159</td>
 		<td>1171</td>
-		<td>1174</td>
-		<td>+ 3</td>
+		<td>1175</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -799,6 +799,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>outfits.weapon.slot</td>
+		<td>779</td>
+		<td>785</td>
+		<td>791</td>
+		<td>799</td>
+		<td>803</td>
+		<td>815</td>
+		<td>820</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>human.labels</td>
 		<td>783</td>
 		<td>790</td>
@@ -807,17 +818,6 @@
 		<td>808</td>
 		<td>817</td>
 		<td>820</td>
-		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>outfits.weapon.slot</td>
-		<td>779</td>
-		<td>785</td>
-		<td>791</td>
-		<td>799</td>
-		<td>803</td>
-		<td>815</td>
-		<td>818</td>
 		<td>+ 3</td>
 	</tr>
 	<tr>
@@ -883,8 +883,8 @@
 		<td>611</td>
 		<td>615</td>
 		<td>624</td>
-		<td>625</td>
-		<td>+ 1</td>
+		<td>627</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -894,8 +894,8 @@
 		<td>549</td>
 		<td>554</td>
 		<td>566</td>
-		<td>568</td>
-		<td>+ 2</td>
+		<td>570</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39025</td>
-		<td>86</td>
+		<td>39035</td>
+		<td>96</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>120</td>
 		<td>87</td>
 		<td>80</td>
-		<td>2</td>
+		<td>18</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>22</td>
 		<td>19</td>
 		<td>22</td>
-		<td>1</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9901</td>
-		<td>2304</td>
+		<td>9917</td>
+		<td>2309</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>168</td>
-		<td>58.93</td>
-		<td>13.71</td>
+		<td>59.03</td>
+		<td>13.74</td>
 		<td></td>
 		<td></td>
 	</tr>
