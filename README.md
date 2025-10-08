@@ -21,8 +21,8 @@
 		<td>1376</td>
 		<td>1382</td>
 		<td>1394</td>
-		<td>1407</td>
-		<td>+ 13</td>
+		<td>1409</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -439,8 +439,8 @@
 		<td>1256</td>
 		<td>1261</td>
 		<td>1274</td>
-		<td>1284</td>
-		<td>+ 10</td>
+		<td>1286</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39470</td>
-		<td>531</td>
+		<td>39474</td>
+		<td>535</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1376</td>
 		<td>1382</td>
 		<td>1394</td>
-		<td>1407</td>
-		<td>+ 13</td>
+		<td>1409</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>1256</td>
 		<td>1261</td>
 		<td>1274</td>
-		<td>1284</td>
-		<td>+ 10</td>
+		<td>1286</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39470</td>
-		<td>531</td>
+		<td>39474</td>
+		<td>535</td>
 	</tr>
 </table>
 </sub></sup>
