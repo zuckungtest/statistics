@@ -3,7 +3,7 @@ v1.0.13-uniques | downloads: 11
 v1.0.6-control.station | downloads: 32
 v1.0.26-additional.command.buttons.radial | downloads: 51
 v1.0.8-mission.helper | downloads: 77
-v1.0.2-boss.loot | downloads: 57
+v1.0.2-boss.loot | downloads: 59
 v1.0.3-flare.play | downloads: 152
 v1.0.6-quarg.farm | downloads: 227
 v1.0.2-ship.merging | downloads: 243
@@ -20,7 +20,7 @@ v1.0.4-jump.gates | downloads: 351
 v1.0.4-gegno.pirates | downloads: 410
 v1.0.3-tribute.republic | downloads: 263
 v1.0.3-more.arfectas | downloads: 210
-v1.0.3-kor.efret.shipyard | downloads: 373
+v1.0.3-kor.efret.shipyard | downloads: 374
 v1.0.2-highrollers.ltd | downloads: 309
 v1.0.2-automata.in.human.space | downloads: 325
 v1.0.2-automata.destruction.0percent | downloads: 218
@@ -48,7 +48,7 @@ v1.0.7-human.labels | downloads: 415
 v1.0.5-show.reputation | downloads: 539
 v1.0.3-paint.your.ships | downloads: 468
 v1.1.9-captureable.person.ships | downloads: 473
-v1.0.9-bunrodea.missions | downloads: 630
+v1.0.9-bunrodea.missions | downloads: 633
 v1.0.5-better.starts | downloads: 561
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
@@ -71,7 +71,7 @@ v1.0.3-more.person.ships | downloads: 441
 v1.0.3-control.station | downloads: 39
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 3
-v1.0.1-outfits.weapon.slot | downloads: 440
+v1.0.1-outfits.weapon.slot | downloads: 442
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
@@ -85,7 +85,7 @@ v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 162
-v1.0.3-planet.map | downloads: 215
+v1.0.3-planet.map | downloads: 217
 v1.0.8-bunrodea.missions | downloads: 203
 v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
@@ -282,7 +282,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 281
-# TOTAL DOWNLOADS: 41038
+# TOTAL DOWNLOADS: 41048
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -292,8 +292,8 @@ automata.destruction.0percent 999
 automata.in.human.space 849
 avgi.licenses 229
 better.starts 1105
-boss.loot 568
-bunrodea.missions 1353
+boss.loot 570
+bunrodea.missions 1356
 captureable.person.ships 997
 coalition.shopping 1117
 combat.ai 875
@@ -311,7 +311,7 @@ highrollers.ltd 545
 human.labels 820
 jump.gates 992
 kestrel.unlocks 908
-kor.efret.shipyard 1174
+kor.efret.shipyard 1175
 landing.images 921
 landing.images.android 349
 landing.images.highres 703
@@ -322,10 +322,10 @@ more.boarding.missions 1209
 more.person.ships 854
 navy.licenses 575
 no.more.mereti.mines 725
-outfits.weapon.slot 818
+outfits.weapon.slot 820
 paint.your.ships 932
 pirate.warlords 3
-planet.map 625
+planet.map 627
 planet.pluto 190
 quarg.farm 1227
 real.fluff 93
