@@ -65,8 +65,8 @@
 		<td>549</td>
 		<td>554</td>
 		<td>566</td>
-		<td>567</td>
-		<td>+ 1</td>
+		<td>568</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38986</td>
-		<td>47</td>
+		<td>38987</td>
+		<td>48</td>
 	</tr>
 </table>
 </sub></sup>
@@ -894,8 +894,8 @@
 		<td>549</td>
 		<td>554</td>
 		<td>566</td>
-		<td>567</td>
-		<td>+ 1</td>
+		<td>568</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>38986</td>
-		<td>47</td>
+		<td>38987</td>
+		<td>48</td>
 	</tr>
 </table>
 </sub></sup>
@@ -958,7 +958,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-09-29</td>
 		<td>2025-09-30</td>
 		<td>2025-10-01</td>
 		<td>2025-10-02</td>
@@ -967,10 +966,10 @@
 		<td>2025-10-05</td>
 		<td>2025-10-06</td>
 		<td>2025-10-07</td>
+		<td>2025-10-08</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>206</td>
 		<td>177</td>
 		<td>82</td>
 		<td>145</td>
@@ -979,10 +978,10 @@
 		<td>120</td>
 		<td>87</td>
 		<td>80</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>24</td>
 		<td>38</td>
 		<td>21</td>
 		<td>27</td>
@@ -991,6 +990,7 @@
 		<td>22</td>
 		<td>19</td>
 		<td>22</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9899</td>
-		<td>2303</td>
+		<td>9901</td>
+		<td>2304</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>168</td>
-		<td>58.92</td>
+		<td>58.93</td>
 		<td>13.71</td>
 		<td></td>
 		<td></td>
