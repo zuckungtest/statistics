@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.13-uniques | downloads: 25
 v1.0.6-control.station | downloads: 44
-v1.0.26-additional.command.buttons.radial | downloads: 63
+v1.0.26-additional.command.buttons.radial | downloads: 65
 v1.0.8-mission.helper | downloads: 90
 v1.0.2-boss.loot | downloads: 70
 v1.0.3-flare.play | downloads: 161
@@ -114,7 +114,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 741
+v1.0.4-too.many.asteroids | downloads: 743
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -282,12 +282,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 281
-# TOTAL DOWNLOADS: 41483
+# TOTAL DOWNLOADS: 41487
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1407
+additional.command.buttons.radial 1409
 automata.destruction.0percent 1010
 automata.in.human.space 860
 avgi.licenses 229
@@ -333,7 +333,7 @@ ship.merging 538
 show.reputation 1111
 snowfeather.robotics 1004
 space.fauna 745
-too.many.asteroids 1284
+too.many.asteroids 1286
 tribute.republic 670
 unique.fix 44
 uniques 1057
