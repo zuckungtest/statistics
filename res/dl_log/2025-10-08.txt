@@ -1,7 +1,7 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.13-uniques | downloads: 15
+v1.0.13-uniques | downloads: 16
 v1.0.6-control.station | downloads: 36
-v1.0.26-additional.command.buttons.radial | downloads: 54
+v1.0.26-additional.command.buttons.radial | downloads: 56
 v1.0.8-mission.helper | downloads: 81
 v1.0.2-boss.loot | downloads: 63
 v1.0.3-flare.play | downloads: 154
@@ -282,12 +282,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 281
-# TOTAL DOWNLOADS: 41184
+# TOTAL DOWNLOADS: 41187
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1398
+additional.command.buttons.radial 1400
 automata.destruction.0percent 1003
 automata.in.human.space 853
 avgi.licenses 229
@@ -336,4 +336,4 @@ space.fauna 738
 too.many.asteroids 1277
 tribute.republic 663
 unique.fix 44
-uniques 1047
+uniques 1048
