@@ -285,8 +285,8 @@
 		<td>855</td>
 		<td>859</td>
 		<td>874</td>
-		<td>881</td>
-		<td>+ 7</td>
+		<td>883</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39169</td>
-		<td>230</td>
+		<td>39171</td>
+		<td>232</td>
 	</tr>
 </table>
 </sub></sup>
@@ -762,8 +762,8 @@
 		<td>855</td>
 		<td>859</td>
 		<td>874</td>
-		<td>881</td>
-		<td>+ 7</td>
+		<td>883</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39169</td>
-		<td>230</td>
+		<td>39171</td>
+		<td>232</td>
 	</tr>
 </table>
 </sub></sup>
