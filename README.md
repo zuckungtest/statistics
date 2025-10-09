@@ -65,8 +65,8 @@
 		<td>554</td>
 		<td>566</td>
 		<td>581</td>
-		<td>588</td>
-		<td>+ 7</td>
+		<td>590</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>1339</td>
 		<td>1350</td>
 		<td>1371</td>
-		<td>1378</td>
-		<td>+ 7</td>
+		<td>1380</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>861</td>
 		<td>874</td>
 		<td>886</td>
-		<td>893</td>
-		<td>+ 7</td>
+		<td>895</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -186,8 +186,8 @@
 		<td>1272</td>
 		<td>1287</td>
 		<td>1307</td>
-		<td>1316</td>
-		<td>+ 9</td>
+		<td>1318</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39797</td>
-		<td>323</td>
+		<td>39805</td>
+		<td>331</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1339</td>
 		<td>1350</td>
 		<td>1371</td>
-		<td>1378</td>
-		<td>+ 7</td>
+		<td>1380</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>1272</td>
 		<td>1287</td>
 		<td>1307</td>
-		<td>1316</td>
-		<td>+ 9</td>
+		<td>1318</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -773,8 +773,8 @@
 		<td>861</td>
 		<td>874</td>
 		<td>886</td>
-		<td>893</td>
-		<td>+ 7</td>
+		<td>895</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -894,8 +894,8 @@
 		<td>554</td>
 		<td>566</td>
 		<td>581</td>
-		<td>588</td>
-		<td>+ 7</td>
+		<td>590</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39797</td>
-		<td>323</td>
+		<td>39805</td>
+		<td>331</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>87</td>
 		<td>80</td>
 		<td>76</td>
-		<td>26</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>22</td>
 		<td>27</td>
-		<td>12</td>
+		<td>13</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10001</td>
-		<td>2342</td>
+		<td>10005</td>
+		<td>2343</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,7 +1018,7 @@
 	</tr>
 	<tr>
 		<td>169</td>
-		<td>59.18</td>
+		<td>59.20</td>
 		<td>13.86</td>
 		<td></td>
 		<td></td>
