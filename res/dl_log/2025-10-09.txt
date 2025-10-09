@@ -17,7 +17,7 @@ v1.0.5-too.many.asteroids | downloads: 229
 v1.0.4-planet.map | downloads: 221
 v1.0.4-no.more.mereti.mines | downloads: 288
 v1.0.4-jump.gates | downloads: 381
-v1.0.4-gegno.pirates | downloads: 449
+v1.0.4-gegno.pirates | downloads: 451
 v1.0.3-tribute.republic | downloads: 289
 v1.0.3-more.arfectas | downloads: 234
 v1.0.3-kor.efret.shipyard | downloads: 407
@@ -48,8 +48,8 @@ v1.0.7-human.labels | downloads: 441
 v1.0.5-show.reputation | downloads: 568
 v1.0.3-paint.your.ships | downloads: 496
 v1.1.9-captureable.person.ships | downloads: 508
-v1.0.9-bunrodea.missions | downloads: 670
-v1.0.5-better.starts | downloads: 593
+v1.0.9-bunrodea.missions | downloads: 672
+v1.0.5-better.starts | downloads: 595
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -282,7 +282,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 281
-# TOTAL DOWNLOADS: 42304
+# TOTAL DOWNLOADS: 42310
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -291,9 +291,9 @@ additional.command.buttons.radial 1439
 automata.destruction.0percent 1029
 automata.in.human.space 879
 avgi.licenses 229
-better.starts 1137
+better.starts 1139
 boss.loot 604
-bunrodea.missions 1393
+bunrodea.missions 1395
 captureable.person.ships 1032
 coalition.shopping 1151
 combat.ai 907
@@ -305,7 +305,7 @@ expert.crew.members 1340
 flare.play 525
 free.worlds.5.years.later 371
 galactic.capital.investment 1518
-gegno.pirates 1331
+gegno.pirates 1333
 hai.side.mission.unlocker 927
 highrollers.ltd 572
 human.labels 846
