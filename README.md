@@ -21,8 +21,8 @@
 		<td>1382</td>
 		<td>1394</td>
 		<td>1409</td>
-		<td>1412</td>
-		<td>+ 3</td>
+		<td>1414</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -230,8 +230,8 @@
 		<td>978</td>
 		<td>991</td>
 		<td>1003</td>
-		<td>1004</td>
-		<td>+ 1</td>
+		<td>1006</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -406,8 +406,8 @@
 		<td>1090</td>
 		<td>1099</td>
 		<td>1111</td>
-		<td>1112</td>
-		<td>+ 1</td>
+		<td>1113</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39530</td>
-		<td>56</td>
+		<td>39535</td>
+		<td>61</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1382</td>
 		<td>1394</td>
 		<td>1409</td>
-		<td>1412</td>
-		<td>+ 3</td>
+		<td>1414</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -641,8 +641,8 @@
 		<td>1090</td>
 		<td>1099</td>
 		<td>1111</td>
-		<td>1112</td>
-		<td>+ 1</td>
+		<td>1113</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -689,6 +689,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>961</td>
+		<td>965</td>
+		<td>971</td>
+		<td>978</td>
+		<td>991</td>
+		<td>1003</td>
+		<td>1006</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>snowfeather.robotics</td>
 		<td>964</td>
 		<td>969</td>
@@ -697,17 +708,6 @@
 		<td>994</td>
 		<td>1004</td>
 		<td>1005</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>961</td>
-		<td>965</td>
-		<td>971</td>
-		<td>978</td>
-		<td>991</td>
-		<td>1003</td>
-		<td>1004</td>
 		<td>+ 1</td>
 	</tr>
 	<tr>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39530</td>
-		<td>56</td>
+		<td>39535</td>
+		<td>61</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>87</td>
 		<td>80</td>
 		<td>76</td>
-		<td>2</td>
+		<td>10</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>22</td>
 		<td>27</td>
-		<td>1</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9977</td>
-		<td>2331</td>
+		<td>9985</td>
+		<td>2333</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>169</td>
-		<td>59.04</td>
-		<td>13.79</td>
+		<td>59.08</td>
+		<td>13.80</td>
 		<td></td>
 		<td></td>
 	</tr>
