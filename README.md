@@ -54,8 +54,8 @@
 		<td>1092</td>
 		<td>1104</td>
 		<td>1116</td>
-		<td>1126</td>
-		<td>+ 10</td>
+		<td>1128</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -285,8 +285,8 @@
 		<td>859</td>
 		<td>874</td>
 		<td>892</td>
-		<td>903</td>
-		<td>+ 11</td>
+		<td>905</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -395,8 +395,8 @@
 		<td>519</td>
 		<td>528</td>
 		<td>538</td>
-		<td>547</td>
-		<td>+ 9</td>
+		<td>549</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -439,8 +439,8 @@
 		<td>1261</td>
 		<td>1274</td>
 		<td>1286</td>
-		<td>1300</td>
-		<td>+ 14</td>
+		<td>1302</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39895</td>
-		<td>421</td>
+		<td>39903</td>
+		<td>429</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>1261</td>
 		<td>1274</td>
 		<td>1286</td>
-		<td>1300</td>
-		<td>+ 14</td>
+		<td>1302</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -630,8 +630,8 @@
 		<td>1092</td>
 		<td>1104</td>
 		<td>1116</td>
-		<td>1126</td>
-		<td>+ 10</td>
+		<td>1128</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -762,8 +762,8 @@
 		<td>859</td>
 		<td>874</td>
 		<td>892</td>
-		<td>903</td>
-		<td>+ 11</td>
+		<td>905</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -927,8 +927,8 @@
 		<td>519</td>
 		<td>528</td>
 		<td>538</td>
-		<td>547</td>
-		<td>+ 9</td>
+		<td>549</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39895</td>
-		<td>421</td>
+		<td>39903</td>
+		<td>429</td>
 	</tr>
 </table>
 </sub></sup>
