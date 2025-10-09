@@ -21,8 +21,8 @@
 		<td>1382</td>
 		<td>1394</td>
 		<td>1409</td>
-		<td>1414</td>
-		<td>+ 5</td>
+		<td>1418</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>989</td>
 		<td>998</td>
 		<td>1010</td>
-		<td>1011</td>
-		<td>+ 1</td>
+		<td>1013</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>837</td>
 		<td>848</td>
 		<td>860</td>
-		<td>861</td>
-		<td>+ 1</td>
+		<td>863</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39535</td>
-		<td>61</td>
+		<td>39543</td>
+		<td>69</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1382</td>
 		<td>1394</td>
 		<td>1409</td>
-		<td>1414</td>
-		<td>+ 5</td>
+		<td>1418</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -685,8 +685,8 @@
 		<td>989</td>
 		<td>998</td>
 		<td>1010</td>
-		<td>1011</td>
-		<td>+ 1</td>
+		<td>1013</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -795,8 +795,8 @@
 		<td>837</td>
 		<td>848</td>
 		<td>860</td>
-		<td>861</td>
-		<td>+ 1</td>
+		<td>863</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39535</td>
-		<td>61</td>
+		<td>39543</td>
+		<td>69</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>87</td>
 		<td>80</td>
 		<td>76</td>
-		<td>10</td>
+		<td>12</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>22</td>
 		<td>27</td>
-		<td>3</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9985</td>
-		<td>2333</td>
+		<td>9987</td>
+		<td>2335</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>169</td>
-		<td>59.08</td>
-		<td>13.80</td>
+		<td>59.09</td>
+		<td>13.82</td>
 		<td></td>
 		<td></td>
 	</tr>
