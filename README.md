@@ -21,8 +21,8 @@
 		<td>1382</td>
 		<td>1394</td>
 		<td>1409</td>
-		<td>1424</td>
-		<td>+ 15</td>
+		<td>1426</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39793</td>
-		<td>319</td>
+		<td>39795</td>
+		<td>321</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1382</td>
 		<td>1394</td>
 		<td>1409</td>
-		<td>1424</td>
-		<td>+ 15</td>
+		<td>1426</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>39793</td>
-		<td>319</td>
+		<td>39795</td>
+		<td>321</td>
 	</tr>
 </table>
 </sub></sup>
@@ -978,7 +978,7 @@
 		<td>87</td>
 		<td>80</td>
 		<td>76</td>
-		<td>24</td>
+		<td>26</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -990,7 +990,7 @@
 		<td>19</td>
 		<td>22</td>
 		<td>27</td>
-		<td>10</td>
+		<td>12</td>
 	</tr>
 </table>
 <br>
@@ -1004,8 +1004,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>9999</td>
-		<td>2340</td>
+		<td>10001</td>
+		<td>2342</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1018,8 +1018,8 @@
 	</tr>
 	<tr>
 		<td>169</td>
-		<td>59.17</td>
-		<td>13.85</td>
+		<td>59.18</td>
+		<td>13.86</td>
 		<td></td>
 		<td></td>
 	</tr>
