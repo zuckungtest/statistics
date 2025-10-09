@@ -54,8 +54,8 @@
 		<td>1092</td>
 		<td>1104</td>
 		<td>1116</td>
-		<td>1137</td>
-		<td>+ 21</td>
+		<td>1139</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -76,8 +76,8 @@
 		<td>1339</td>
 		<td>1350</td>
 		<td>1371</td>
-		<td>1393</td>
-		<td>+ 22</td>
+		<td>1395</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>1272</td>
 		<td>1287</td>
 		<td>1307</td>
-		<td>1331</td>
-		<td>+ 24</td>
+		<td>1333</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40291</td>
-		<td>817</td>
+		<td>40297</td>
+		<td>823</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1339</td>
 		<td>1350</td>
 		<td>1371</td>
-		<td>1393</td>
-		<td>+ 22</td>
+		<td>1395</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>1272</td>
 		<td>1287</td>
 		<td>1307</td>
-		<td>1331</td>
-		<td>+ 24</td>
+		<td>1333</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -630,8 +630,8 @@
 		<td>1092</td>
 		<td>1104</td>
 		<td>1116</td>
-		<td>1137</td>
-		<td>+ 21</td>
+		<td>1139</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40291</td>
-		<td>817</td>
+		<td>40297</td>
+		<td>823</td>
 	</tr>
 </table>
 </sub></sup>
