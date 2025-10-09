@@ -6,7 +6,7 @@ v1.0.8-mission.helper | downloads: 99
 v1.0.2-boss.loot | downloads: 81
 v1.0.3-flare.play | downloads: 170
 v1.0.6-quarg.farm | downloads: 249
-v1.0.2-ship.merging | downloads: 261
+v1.0.2-ship.merging | downloads: 263
 v1.0.12-uniques | downloads: 218
 v1.0.5-control.station | downloads: 357
 v1.0.1-boss.loot | downloads: 319
@@ -49,7 +49,7 @@ v1.0.5-show.reputation | downloads: 560
 v1.0.3-paint.your.ships | downloads: 487
 v1.1.9-captureable.person.ships | downloads: 497
 v1.0.9-bunrodea.missions | downloads: 659
-v1.0.5-better.starts | downloads: 582
+v1.0.5-better.starts | downloads: 584
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -75,7 +75,7 @@ v1.0.1-outfits.weapon.slot | downloads: 460
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 901
+v1.0.1-licenses | downloads: 903
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -114,7 +114,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 749
+v1.0.4-too.many.asteroids | downloads: 751
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -282,7 +282,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 281
-# TOTAL DOWNLOADS: 41908
+# TOTAL DOWNLOADS: 41916
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -291,7 +291,7 @@ additional.command.buttons.radial 1431
 automata.destruction.0percent 1019
 automata.in.human.space 869
 avgi.licenses 229
-better.starts 1126
+better.starts 1128
 boss.loot 592
 bunrodea.missions 1382
 captureable.person.ships 1021
@@ -315,7 +315,7 @@ kor.efret.shipyard 1197
 landing.images 942
 landing.images.android 349
 landing.images.highres 721
-licenses 903
+licenses 905
 mission.helper 1223
 more.arfectas 1147
 more.boarding.missions 1230
@@ -329,11 +329,11 @@ planet.map 645
 planet.pluto 190
 quarg.farm 1249
 real.fluff 93
-ship.merging 547
+ship.merging 549
 show.reputation 1121
 snowfeather.robotics 1013
 space.fauna 754
-too.many.asteroids 1300
+too.many.asteroids 1302
 tribute.republic 679
 unique.fix 44
 uniques 1068
