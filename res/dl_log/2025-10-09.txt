@@ -3,7 +3,7 @@ v1.0.13-uniques | downloads: 33
 v1.0.6-control.station | downloads: 53
 v1.0.26-additional.command.buttons.radial | downloads: 84
 v1.0.8-mission.helper | downloads: 97
-v1.0.2-boss.loot | downloads: 77
+v1.0.2-boss.loot | downloads: 79
 v1.0.3-flare.play | downloads: 168
 v1.0.6-quarg.farm | downloads: 247
 v1.0.2-ship.merging | downloads: 259
@@ -17,7 +17,7 @@ v1.0.5-too.many.asteroids | downloads: 217
 v1.0.4-planet.map | downloads: 211
 v1.0.4-no.more.mereti.mines | downloads: 276
 v1.0.4-jump.gates | downloads: 371
-v1.0.4-gegno.pirates | downloads: 434
+v1.0.4-gegno.pirates | downloads: 436
 v1.0.3-tribute.republic | downloads: 279
 v1.0.3-more.arfectas | downloads: 224
 v1.0.3-kor.efret.shipyard | downloads: 394
@@ -34,7 +34,7 @@ v1.0.1-ship.merging | downloads: 273
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 206
-v1.0.8-combat.ai | downloads: 533
+v1.0.8-combat.ai | downloads: 535
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
@@ -48,7 +48,7 @@ v1.0.7-human.labels | downloads: 431
 v1.0.5-show.reputation | downloads: 558
 v1.0.3-paint.your.ships | downloads: 484
 v1.1.9-captureable.person.ships | downloads: 495
-v1.0.9-bunrodea.missions | downloads: 655
+v1.0.9-bunrodea.missions | downloads: 657
 v1.0.5-better.starts | downloads: 579
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
@@ -282,7 +282,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 281
-# TOTAL DOWNLOADS: 41810
+# TOTAL DOWNLOADS: 41818
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -292,11 +292,11 @@ automata.destruction.0percent 1017
 automata.in.human.space 867
 avgi.licenses 229
 better.starts 1123
-boss.loot 588
-bunrodea.missions 1378
+boss.loot 590
+bunrodea.missions 1380
 captureable.person.ships 1019
 coalition.shopping 1138
-combat.ai 893
+combat.ai 895
 control.station 1023
 devil-run.unhidden 66
 disable.person.ships 565
@@ -305,7 +305,7 @@ expert.crew.members 1327
 flare.play 515
 free.worlds.5.years.later 371
 galactic.capital.investment 1505
-gegno.pirates 1316
+gegno.pirates 1318
 hai.side.mission.unlocker 914
 highrollers.ltd 561
 human.labels 836
