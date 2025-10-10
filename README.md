@@ -65,8 +65,8 @@
 		<td>566</td>
 		<td>581</td>
 		<td>604</td>
-		<td>606</td>
-		<td>+ 2</td>
+		<td>608</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40411</td>
-		<td>114</td>
+		<td>40413</td>
+		<td>116</td>
 	</tr>
 </table>
 </sub></sup>
@@ -894,8 +894,8 @@
 		<td>566</td>
 		<td>581</td>
 		<td>604</td>
-		<td>606</td>
-		<td>+ 2</td>
+		<td>608</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40411</td>
-		<td>114</td>
+		<td>40413</td>
+		<td>116</td>
 	</tr>
 </table>
 </sub></sup>
