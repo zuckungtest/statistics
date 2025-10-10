@@ -395,8 +395,8 @@
 		<td>528</td>
 		<td>538</td>
 		<td>558</td>
-		<td>566</td>
-		<td>+ 8</td>
+		<td>568</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -417,8 +417,8 @@
 		<td>994</td>
 		<td>1004</td>
 		<td>1021</td>
-		<td>1024</td>
-		<td>+ 3</td>
+		<td>1025</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -439,8 +439,8 @@
 		<td>1274</td>
 		<td>1286</td>
 		<td>1311</td>
-		<td>1316</td>
-		<td>+ 5</td>
+		<td>1317</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40545</td>
-		<td>248</td>
+		<td>40549</td>
+		<td>252</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>1274</td>
 		<td>1286</td>
 		<td>1311</td>
-		<td>1316</td>
-		<td>+ 5</td>
+		<td>1317</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -689,6 +689,17 @@
 		<td>+ 8</td>
 	</tr>
 	<tr>
+		<td>snowfeather.robotics</td>
+		<td>969</td>
+		<td>978</td>
+		<td>985</td>
+		<td>994</td>
+		<td>1004</td>
+		<td>1021</td>
+		<td>1025</td>
+		<td>+ 4</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>965</td>
 		<td>971</td>
@@ -697,17 +708,6 @@
 		<td>1003</td>
 		<td>1022</td>
 		<td>1025</td>
-		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>snowfeather.robotics</td>
-		<td>969</td>
-		<td>978</td>
-		<td>985</td>
-		<td>994</td>
-		<td>1004</td>
-		<td>1021</td>
-		<td>1024</td>
 		<td>+ 3</td>
 	</tr>
 	<tr>
@@ -927,8 +927,8 @@
 		<td>528</td>
 		<td>538</td>
 		<td>558</td>
-		<td>566</td>
-		<td>+ 8</td>
+		<td>568</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40545</td>
-		<td>248</td>
+		<td>40549</td>
+		<td>252</td>
 	</tr>
 </table>
 </sub></sup>
