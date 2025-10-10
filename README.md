@@ -153,8 +153,8 @@
 		<td>1310</td>
 		<td>1320</td>
 		<td>1340</td>
-		<td>1349</td>
-		<td>+ 9</td>
+		<td>1351</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -384,8 +384,8 @@
 		<td>1226</td>
 		<td>1238</td>
 		<td>1259</td>
-		<td>1272</td>
-		<td>+ 13</td>
+		<td>1274</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40624</td>
-		<td>327</td>
+		<td>40628</td>
+		<td>331</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>1310</td>
 		<td>1320</td>
 		<td>1340</td>
-		<td>1349</td>
-		<td>+ 9</td>
+		<td>1351</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -564,8 +564,8 @@
 		<td>1226</td>
 		<td>1238</td>
 		<td>1259</td>
-		<td>1272</td>
-		<td>+ 13</td>
+		<td>1274</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40624</td>
-		<td>327</td>
+		<td>40628</td>
+		<td>331</td>
 	</tr>
 </table>
 </sub></sup>
