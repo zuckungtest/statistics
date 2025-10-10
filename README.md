@@ -164,8 +164,8 @@
 		<td>495</td>
 		<td>508</td>
 		<td>525</td>
-		<td>530</td>
-		<td>+ 5</td>
+		<td>532</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -461,8 +461,8 @@
 		<td>1038</td>
 		<td>1057</td>
 		<td>1079</td>
-		<td>1090</td>
-		<td>+ 11</td>
+		<td>1091</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40549</td>
-		<td>252</td>
+		<td>40552</td>
+		<td>255</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>1038</td>
 		<td>1057</td>
 		<td>1079</td>
-		<td>1090</td>
-		<td>+ 11</td>
+		<td>1091</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -938,8 +938,8 @@
 		<td>495</td>
 		<td>508</td>
 		<td>525</td>
-		<td>530</td>
-		<td>+ 5</td>
+		<td>532</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40549</td>
-		<td>252</td>
+		<td>40552</td>
+		<td>255</td>
 	</tr>
 </table>
 </sub></sup>
