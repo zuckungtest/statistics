@@ -32,8 +32,8 @@
 		<td>998</td>
 		<td>1010</td>
 		<td>1029</td>
-		<td>1030</td>
-		<td>+ 1</td>
+		<td>1032</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -87,8 +87,8 @@
 		<td>996</td>
 		<td>1010</td>
 		<td>1032</td>
-		<td>1033</td>
-		<td>+ 1</td>
+		<td>1035</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -285,8 +285,8 @@
 		<td>874</td>
 		<td>892</td>
 		<td>916</td>
-		<td>917</td>
-		<td>+ 1</td>
+		<td>919</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>1197</td>
 		<td>1214</td>
 		<td>1233</td>
-		<td>1234</td>
-		<td>+ 1</td>
+		<td>1236</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40338</td>
-		<td>41</td>
+		<td>40346</td>
+		<td>49</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>1197</td>
 		<td>1214</td>
 		<td>1233</td>
-		<td>1234</td>
-		<td>+ 1</td>
+		<td>1236</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -656,6 +656,17 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
+		<td>captureable.person.ships</td>
+		<td>972</td>
+		<td>980</td>
+		<td>985</td>
+		<td>996</td>
+		<td>1010</td>
+		<td>1032</td>
+		<td>1035</td>
+		<td>+ 3</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>967</td>
 		<td>979</td>
@@ -667,17 +678,6 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>captureable.person.ships</td>
-		<td>972</td>
-		<td>980</td>
-		<td>985</td>
-		<td>996</td>
-		<td>1010</td>
-		<td>1032</td>
-		<td>1033</td>
-		<td>+ 1</td>
-	</tr>
-	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>977</td>
 		<td>985</td>
@@ -685,8 +685,8 @@
 		<td>998</td>
 		<td>1010</td>
 		<td>1029</td>
-		<td>1030</td>
-		<td>+ 1</td>
+		<td>1032</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -762,8 +762,8 @@
 		<td>874</td>
 		<td>892</td>
 		<td>916</td>
-		<td>917</td>
-		<td>+ 1</td>
+		<td>919</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40338</td>
-		<td>41</td>
+		<td>40346</td>
+		<td>49</td>
 	</tr>
 </table>
 </sub></sup>
