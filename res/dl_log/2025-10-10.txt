@@ -2,7 +2,7 @@
 v1.0.13-uniques | downloads: 48
 v1.0.6-control.station | downloads: 64
 v1.0.26-additional.command.buttons.radial | downloads: 96
-v1.0.8-mission.helper | downloads: 110
+v1.0.8-mission.helper | downloads: 112
 v1.0.2-boss.loot | downloads: 94
 v1.0.3-flare.play | downloads: 179
 v1.0.6-quarg.farm | downloads: 260
@@ -23,7 +23,7 @@ v1.0.3-more.arfectas | downloads: 235
 v1.0.3-kor.efret.shipyard | downloads: 408
 v1.0.2-highrollers.ltd | downloads: 337
 v1.0.2-automata.in.human.space | downloads: 356
-v1.0.2-automata.destruction.0percent | downloads: 243
+v1.0.2-automata.destruction.0percent | downloads: 245
 v1.0.1-kestrel.unlocks | downloads: 357
 v1.0.1-disable.person.ships | downloads: 221
 v1.0.5-landing.images | downloads: 376
@@ -47,7 +47,7 @@ v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 442
 v1.0.5-show.reputation | downloads: 569
 v1.0.3-paint.your.ships | downloads: 497
-v1.1.9-captureable.person.ships | downloads: 509
+v1.1.9-captureable.person.ships | downloads: 511
 v1.0.9-bunrodea.missions | downloads: 673
 v1.0.5-better.starts | downloads: 596
 v1.0.4-control.station | downloads: 184
@@ -75,7 +75,7 @@ v1.0.1-outfits.weapon.slot | downloads: 471
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 915
+v1.0.1-licenses | downloads: 917
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -282,19 +282,19 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 281
-# TOTAL DOWNLOADS: 42351
+# TOTAL DOWNLOADS: 42359
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1440
-automata.destruction.0percent 1030
+automata.destruction.0percent 1032
 automata.in.human.space 880
 avgi.licenses 229
 better.starts 1140
 boss.loot 605
 bunrodea.missions 1396
-captureable.person.ships 1033
+captureable.person.ships 1035
 coalition.shopping 1152
 combat.ai 908
 control.station 1034
@@ -315,8 +315,8 @@ kor.efret.shipyard 1209
 landing.images 951
 landing.images.android 349
 landing.images.highres 730
-licenses 917
-mission.helper 1234
+licenses 919
+mission.helper 1236
 more.arfectas 1156
 more.boarding.missions 1243
 more.person.ships 882
