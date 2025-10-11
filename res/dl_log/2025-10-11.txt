@@ -3,7 +3,7 @@ v1.0.13-uniques | downloads: 64
 v1.0.6-control.station | downloads: 74
 v1.0.26-additional.command.buttons.radial | downloads: 109
 v1.0.8-mission.helper | downloads: 120
-v1.0.2-boss.loot | downloads: 107
+v1.0.2-boss.loot | downloads: 108
 v1.0.3-flare.play | downloads: 189
 v1.0.6-quarg.farm | downloads: 276
 v1.0.2-ship.merging | downloads: 286
@@ -34,14 +34,14 @@ v1.0.1-ship.merging | downloads: 273
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 206
-v1.0.8-combat.ai | downloads: 556
+v1.0.8-combat.ai | downloads: 557
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
 v1.0.5-combat.ai | downloads: 52
 v1.0.2-flare.play | downloads: 221
 v1.0.7-mission.helper | downloads: 654
-v1.0.9-expert.crew.members | downloads: 611
+v1.0.9-expert.crew.members | downloads: 615
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 452
@@ -282,7 +282,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 281
-# TOTAL DOWNLOADS: 42737
+# TOTAL DOWNLOADS: 42743
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -292,16 +292,16 @@ automata.destruction.0percent 1040
 automata.in.human.space 887
 avgi.licenses 229
 better.starts 1150
-boss.loot 618
+boss.loot 619
 bunrodea.missions 1407
 captureable.person.ships 1045
 coalition.shopping 1161
-combat.ai 916
+combat.ai 917
 control.station 1044
 devil-run.unhidden 66
 disable.person.ships 581
 disable.spaceport.repeatables 767
-expert.crew.members 1353
+expert.crew.members 1357
 flare.play 536
 free.worlds.5.years.later 371
 galactic.capital.investment 1528
