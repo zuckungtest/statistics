@@ -32,8 +32,8 @@
 		<td>1010</td>
 		<td>1029</td>
 		<td>1038</td>
-		<td>1044</td>
-		<td>+ 6</td>
+		<td>1045</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -98,8 +98,8 @@
 		<td>1131</td>
 		<td>1151</td>
 		<td>1159</td>
-		<td>1165</td>
-		<td>+ 6</td>
+		<td>1167</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -153,8 +153,8 @@
 		<td>1320</td>
 		<td>1340</td>
 		<td>1351</td>
-		<td>1361</td>
-		<td>+ 10</td>
+		<td>1363</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -252,8 +252,8 @@
 		<td>1188</td>
 		<td>1208</td>
 		<td>1212</td>
-		<td>1219</td>
-		<td>+ 7</td>
+		<td>1221</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -461,8 +461,8 @@
 		<td>1057</td>
 		<td>1079</td>
 		<td>1092</td>
-		<td>1104</td>
-		<td>+ 12</td>
+		<td>1107</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40994</td>
-		<td>357</td>
+		<td>41004</td>
+		<td>367</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1320</td>
 		<td>1340</td>
 		<td>1351</td>
-		<td>1361</td>
-		<td>+ 10</td>
+		<td>1363</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -608,8 +608,8 @@
 		<td>1188</td>
 		<td>1208</td>
 		<td>1212</td>
-		<td>1219</td>
-		<td>+ 7</td>
+		<td>1221</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -630,8 +630,8 @@
 		<td>1131</td>
 		<td>1151</td>
 		<td>1159</td>
-		<td>1165</td>
-		<td>+ 6</td>
+		<td>1167</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -663,8 +663,8 @@
 		<td>1057</td>
 		<td>1079</td>
 		<td>1092</td>
-		<td>1104</td>
-		<td>+ 12</td>
+		<td>1107</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -696,8 +696,8 @@
 		<td>1010</td>
 		<td>1029</td>
 		<td>1038</td>
-		<td>1044</td>
-		<td>+ 6</td>
+		<td>1045</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40994</td>
-		<td>357</td>
+		<td>41004</td>
+		<td>367</td>
 	</tr>
 </table>
 </sub></sup>
