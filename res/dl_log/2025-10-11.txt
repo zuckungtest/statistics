@@ -1,8 +1,8 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-ship.merging | downloads: 2
-v1.0.0-vague.improvements | downloads: 3
-v1.0.13-uniques | downloads: 67
-v1.0.6-control.station | downloads: 77
+v1.0.0-vague.improvements | downloads: 5
+v1.0.13-uniques | downloads: 69
+v1.0.6-control.station | downloads: 79
 v1.0.26-additional.command.buttons.radial | downloads: 114
 v1.0.8-mission.helper | downloads: 123
 v1.0.2-boss.loot | downloads: 113
@@ -51,7 +51,7 @@ v1.0.5-show.reputation | downloads: 580
 v1.0.3-paint.your.ships | downloads: 512
 v1.1.9-captureable.person.ships | downloads: 524
 v1.0.9-bunrodea.missions | downloads: 687
-v1.0.5-better.starts | downloads: 609
+v1.0.5-better.starts | downloads: 612
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -77,7 +77,7 @@ v1.0.1-outfits.weapon.slot | downloads: 486
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 932
+v1.0.1-licenses | downloads: 933
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -284,7 +284,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 283
-# TOTAL DOWNLOADS: 42883
+# TOTAL DOWNLOADS: 42893
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -293,13 +293,13 @@ additional.command.buttons.radial 1458
 automata.destruction.0percent 1043
 automata.in.human.space 890
 avgi.licenses 229
-better.starts 1153
+better.starts 1156
 boss.loot 624
 bunrodea.missions 1410
 captureable.person.ships 1048
 coalition.shopping 1164
 combat.ai 920
-control.station 1047
+control.station 1049
 devil-run.unhidden 66
 disable.person.ships 584
 disable.spaceport.repeatables 770
@@ -317,7 +317,7 @@ kor.efret.shipyard 1217
 landing.images 964
 landing.images.android 349
 landing.images.highres 738
-licenses 934
+licenses 935
 mission.helper 1247
 more.arfectas 1169
 more.boarding.missions 1258
@@ -338,5 +338,5 @@ space.fauna 774
 too.many.asteroids 1324
 tribute.republic 701
 unique.fix 44
-uniques 1099
-vague.improvements 3
+uniques 1101
+vague.improvements 5
