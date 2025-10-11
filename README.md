@@ -164,8 +164,8 @@
 		<td>508</td>
 		<td>525</td>
 		<td>533</td>
-		<td>534</td>
-		<td>+ 1</td>
+		<td>535</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -285,8 +285,8 @@
 		<td>892</td>
 		<td>916</td>
 		<td>925</td>
-		<td>926</td>
-		<td>+ 1</td>
+		<td>928</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -472,8 +472,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40680</td>
-		<td>43</td>
+		<td>40683</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
@@ -762,8 +762,8 @@
 		<td>892</td>
 		<td>916</td>
 		<td>925</td>
-		<td>926</td>
-		<td>+ 1</td>
+		<td>928</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -938,8 +938,8 @@
 		<td>508</td>
 		<td>525</td>
 		<td>533</td>
-		<td>534</td>
-		<td>+ 1</td>
+		<td>535</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -949,8 +949,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>40680</td>
-		<td>43</td>
+		<td>40683</td>
+		<td>46</td>
 	</tr>
 </table>
 </sub></sup>
