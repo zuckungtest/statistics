@@ -1,4 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
+v1.0.4-ship.merging | downloads: 0
 v1.0.3-ship.merging | downloads: 14
 v1.0.0-vague.improvements | downloads: 11
 v1.0.13-uniques | downloads: 79
@@ -77,7 +78,7 @@ v1.0.1-outfits.weapon.slot | downloads: 490
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 944
+v1.0.1-licenses | downloads: 945
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -283,8 +284,8 @@ v1.0-additional.command.buttons | downloads: 1
 v1.1-galactic.capital.investment | downloads: 29
 
 
-# NUMBER OF RELEASES: 283
-# TOTAL DOWNLOADS: 43174
+# NUMBER OF RELEASES: 284
+# TOTAL DOWNLOADS: 43175
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -317,7 +318,7 @@ kor.efret.shipyard 1224
 landing.images 972
 landing.images.android 349
 landing.images.highres 744
-licenses 946
+licenses 947
 mission.helper 1257
 more.arfectas 1175
 more.boarding.missions 1263
