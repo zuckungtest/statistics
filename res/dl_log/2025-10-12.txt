@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-ship.merging | downloads: 8
+v1.0.4-ship.merging | downloads: 10
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 14
 v1.0.13-uniques | downloads: 84
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 43388
+# TOTAL DOWNLOADS: 43390
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -332,7 +332,7 @@ planet.map 675
 planet.pluto 190
 quarg.farm 1290
 real.fluff 93
-ship.merging 597
+ship.merging 599
 show.reputation 1152
 snowfeather.robotics 1043
 space.fauna 785
