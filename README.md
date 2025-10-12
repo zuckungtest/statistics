@@ -285,8 +285,8 @@
 		<td>916</td>
 		<td>925</td>
 		<td>941</td>
-		<td>948</td>
-		<td>+ 7</td>
+		<td>950</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -395,8 +395,8 @@
 		<td>558</td>
 		<td>570</td>
 		<td>583</td>
-		<td>589</td>
-		<td>+ 6</td>
+		<td>591</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41204</td>
-		<td>158</td>
+		<td>41208</td>
+		<td>162</td>
 	</tr>
 </table>
 </sub></sup>
@@ -762,8 +762,8 @@
 		<td>916</td>
 		<td>925</td>
 		<td>941</td>
-		<td>948</td>
-		<td>+ 7</td>
+		<td>950</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -927,8 +927,8 @@
 		<td>558</td>
 		<td>570</td>
 		<td>583</td>
-		<td>589</td>
-		<td>+ 6</td>
+		<td>591</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41204</td>
-		<td>158</td>
+		<td>41208</td>
+		<td>162</td>
 	</tr>
 </table>
 </sub></sup>
