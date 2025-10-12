@@ -1,14 +1,14 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.4-ship.merging | downloads: 11
 v1.0.3-ship.merging | downloads: 15
-v1.0.0-vague.improvements | downloads: 16
+v1.0.0-vague.improvements | downloads: 18
 v1.0.13-uniques | downloads: 85
 v1.0.6-control.station | downloads: 92
 v1.0.26-additional.command.buttons.radial | downloads: 125
-v1.0.8-mission.helper | downloads: 139
+v1.0.8-mission.helper | downloads: 141
 v1.0.2-boss.loot | downloads: 128
 v1.0.3-flare.play | downloads: 202
-v1.0.6-quarg.farm | downloads: 291
+v1.0.6-quarg.farm | downloads: 292
 v1.0.2-ship.merging | downloads: 288
 v1.0.12-uniques | downloads: 218
 v1.0.5-control.station | downloads: 357
@@ -50,7 +50,7 @@ v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 465
 v1.0.5-show.reputation | downloads: 592
 v1.0.3-paint.your.ships | downloads: 524
-v1.1.9-captureable.person.ships | downloads: 536
+v1.1.9-captureable.person.ships | downloads: 539
 v1.0.9-bunrodea.missions | downloads: 702
 v1.0.5-better.starts | downloads: 624
 v1.0.4-control.station | downloads: 184
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 43437
+# TOTAL DOWNLOADS: 43445
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -297,7 +297,7 @@ avgi.licenses 229
 better.starts 1168
 boss.loot 639
 bunrodea.missions 1425
-captureable.person.ships 1060
+captureable.person.ships 1063
 coalition.shopping 1176
 combat.ai 936
 control.station 1062
@@ -319,7 +319,7 @@ landing.images 978
 landing.images.android 349
 landing.images.highres 750
 licenses 955
-mission.helper 1263
+mission.helper 1265
 more.arfectas 1181
 more.boarding.missions 1269
 more.person.ships 902
@@ -330,7 +330,7 @@ paint.your.ships 988
 pirate.warlords 3
 planet.map 676
 planet.pluto 190
-quarg.farm 1291
+quarg.farm 1292
 real.fluff 93
 ship.merging 600
 show.reputation 1153
@@ -340,4 +340,4 @@ too.many.asteroids 1338
 tribute.republic 711
 unique.fix 44
 uniques 1117
-vague.improvements 16
+vague.improvements 18
