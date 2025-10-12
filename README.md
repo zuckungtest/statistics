@@ -153,8 +153,8 @@
 		<td>1340</td>
 		<td>1351</td>
 		<td>1364</td>
-		<td>1366</td>
-		<td>+ 2</td>
+		<td>1368</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -307,8 +307,8 @@
 		<td>1155</td>
 		<td>1164</td>
 		<td>1171</td>
-		<td>1172</td>
-		<td>+ 1</td>
+		<td>1174</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -417,8 +417,8 @@
 		<td>1021</td>
 		<td>1026</td>
 		<td>1033</td>
-		<td>1035</td>
-		<td>+ 2</td>
+		<td>1037</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41103</td>
-		<td>57</td>
+		<td>41109</td>
+		<td>63</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1340</td>
 		<td>1351</td>
 		<td>1364</td>
-		<td>1366</td>
-		<td>+ 2</td>
+		<td>1368</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -619,8 +619,8 @@
 		<td>1155</td>
 		<td>1164</td>
 		<td>1171</td>
-		<td>1172</td>
-		<td>+ 1</td>
+		<td>1174</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -718,8 +718,8 @@
 		<td>1021</td>
 		<td>1026</td>
 		<td>1033</td>
-		<td>1035</td>
-		<td>+ 2</td>
+		<td>1037</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41103</td>
-		<td>57</td>
+		<td>41109</td>
+		<td>63</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>70</td>
 		<td>56</td>
 		<td>137</td>
-		<td>2</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>19</td>
 		<td>20</td>
 		<td>31</td>
-		<td>2</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10240</td>
-		<td>2402</td>
+		<td>10278</td>
+		<td>2406</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>172</td>
-		<td>59.53</td>
-		<td>13.97</td>
+		<td>59.76</td>
+		<td>13.99</td>
 		<td></td>
 		<td></td>
 	</tr>
