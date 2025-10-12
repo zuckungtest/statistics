@@ -285,8 +285,8 @@
 		<td>916</td>
 		<td>925</td>
 		<td>941</td>
-		<td>944</td>
-		<td>+ 3</td>
+		<td>945</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41119</td>
-		<td>73</td>
+		<td>41120</td>
+		<td>74</td>
 	</tr>
 </table>
 </sub></sup>
@@ -762,8 +762,8 @@
 		<td>916</td>
 		<td>925</td>
 		<td>941</td>
-		<td>944</td>
-		<td>+ 3</td>
+		<td>945</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41119</td>
-		<td>73</td>
+		<td>41120</td>
+		<td>74</td>
 	</tr>
 </table>
 </sub></sup>
