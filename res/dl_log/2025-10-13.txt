@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-ship.merging | downloads: 22
+v1.0.4-ship.merging | downloads: 23
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 22
 v1.0.13-uniques | downloads: 101
@@ -24,7 +24,7 @@ v1.0.4-gegno.pirates | downloads: 488
 v1.0.3-tribute.republic | downloads: 322
 v1.0.3-more.arfectas | downloads: 257
 v1.0.3-kor.efret.shipyard | downloads: 438
-v1.0.2-highrollers.ltd | downloads: 365
+v1.0.2-highrollers.ltd | downloads: 367
 v1.0.2-automata.in.human.space | downloads: 388
 v1.0.2-automata.destruction.0percent | downloads: 267
 v1.0.1-kestrel.unlocks | downloads: 382
@@ -32,7 +32,7 @@ v1.0.1-disable.person.ships | downloads: 241
 v1.0.5-landing.images | downloads: 412
 v1.0.3-landing.images.highres | downloads: 354
 v1.0.25-additional.command.buttons.radial | downloads: 329
-v1.1.9-galactic.capital.investment | downloads: 554
+v1.1.9-galactic.capital.investment | downloads: 556
 v1.0.1-ship.merging | downloads: 273
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 43862
+# TOTAL DOWNLOADS: 43867
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -307,10 +307,10 @@ disable.spaceport.repeatables 795
 expert.crew.members 1392
 flare.play 558
 free.worlds.5.years.later 371
-galactic.capital.investment 1563
+galactic.capital.investment 1565
 gegno.pirates 1370
 hai.side.mission.unlocker 960
-highrollers.ltd 601
+highrollers.ltd 603
 human.labels 877
 jump.gates 1059
 kestrel.unlocks 964
@@ -332,7 +332,7 @@ planet.map 687
 planet.pluto 190
 quarg.farm 1306
 real.fluff 93
-ship.merging 611
+ship.merging 612
 show.reputation 1162
 snowfeather.robotics 1053
 space.fauna 793
