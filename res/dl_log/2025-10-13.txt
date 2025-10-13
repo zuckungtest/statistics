@@ -5,9 +5,9 @@ v1.0.0-vague.improvements | downloads: 20
 v1.0.13-uniques | downloads: 91
 v1.0.6-control.station | downloads: 98
 v1.0.26-additional.command.buttons.radial | downloads: 127
-v1.0.8-mission.helper | downloads: 143
+v1.0.8-mission.helper | downloads: 145
 v1.0.2-boss.loot | downloads: 133
-v1.0.3-flare.play | downloads: 204
+v1.0.3-flare.play | downloads: 206
 v1.0.6-quarg.farm | downloads: 295
 v1.0.2-ship.merging | downloads: 288
 v1.0.12-uniques | downloads: 218
@@ -23,7 +23,7 @@ v1.0.4-jump.gates | downloads: 411
 v1.0.4-gegno.pirates | downloads: 481
 v1.0.3-tribute.republic | downloads: 317
 v1.0.3-more.arfectas | downloads: 252
-v1.0.3-kor.efret.shipyard | downloads: 431
+v1.0.3-kor.efret.shipyard | downloads: 433
 v1.0.2-highrollers.ltd | downloads: 358
 v1.0.2-automata.in.human.space | downloads: 383
 v1.0.2-automata.destruction.0percent | downloads: 262
@@ -49,7 +49,7 @@ v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 467
 v1.0.5-show.reputation | downloads: 594
-v1.0.3-paint.your.ships | downloads: 526
+v1.0.3-paint.your.ships | downloads: 528
 v1.1.9-captureable.person.ships | downloads: 543
 v1.0.9-bunrodea.missions | downloads: 704
 v1.0.5-better.starts | downloads: 627
@@ -78,7 +78,7 @@ v1.0.1-outfits.weapon.slot | downloads: 498
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 957
+v1.0.1-licenses | downloads: 959
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 43564
+# TOTAL DOWNLOADS: 43574
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -305,7 +305,7 @@ devil-run.unhidden 66
 disable.person.ships 600
 disable.spaceport.repeatables 786
 expert.crew.members 1381
-flare.play 551
+flare.play 553
 free.worlds.5.years.later 371
 galactic.capital.investment 1554
 gegno.pirates 1363
@@ -314,19 +314,19 @@ highrollers.ltd 594
 human.labels 872
 jump.gates 1052
 kestrel.unlocks 959
-kor.efret.shipyard 1232
+kor.efret.shipyard 1234
 landing.images 980
 landing.images.android 349
 landing.images.highres 752
-licenses 959
-mission.helper 1267
+licenses 961
+mission.helper 1269
 more.arfectas 1183
 more.boarding.missions 1271
 more.person.ships 906
 navy.licenses 575
 no.more.mereti.mines 776
 outfits.weapon.slot 876
-paint.your.ships 990
+paint.your.ships 992
 pirate.warlords 3
 planet.map 678
 planet.pluto 190
