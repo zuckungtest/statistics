@@ -1,14 +1,14 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-ship.merging | downloads: 14
+v1.0.4-ship.merging | downloads: 16
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 20
 v1.0.13-uniques | downloads: 93
-v1.0.6-control.station | downloads: 98
+v1.0.6-control.station | downloads: 100
 v1.0.26-additional.command.buttons.radial | downloads: 127
 v1.0.8-mission.helper | downloads: 145
 v1.0.2-boss.loot | downloads: 133
 v1.0.3-flare.play | downloads: 206
-v1.0.6-quarg.farm | downloads: 295
+v1.0.6-quarg.farm | downloads: 297
 v1.0.2-ship.merging | downloads: 288
 v1.0.12-uniques | downloads: 218
 v1.0.5-control.station | downloads: 357
@@ -88,7 +88,7 @@ v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 162
-v1.0.3-planet.map | downloads: 228
+v1.0.3-planet.map | downloads: 230
 v1.0.8-bunrodea.missions | downloads: 203
 v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 43576
+# TOTAL DOWNLOADS: 43584
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -300,7 +300,7 @@ bunrodea.missions 1427
 captureable.person.ships 1067
 coalition.shopping 1178
 combat.ai 943
-control.station 1068
+control.station 1070
 devil-run.unhidden 66
 disable.person.ships 600
 disable.spaceport.repeatables 786
@@ -328,11 +328,11 @@ no.more.mereti.mines 776
 outfits.weapon.slot 876
 paint.your.ships 992
 pirate.warlords 3
-planet.map 678
+planet.map 680
 planet.pluto 190
-quarg.farm 1295
+quarg.farm 1297
 real.fluff 93
-ship.merging 603
+ship.merging 605
 show.reputation 1155
 snowfeather.robotics 1046
 space.fauna 788
