@@ -120,8 +120,8 @@
 		<td>1042</td>
 		<td>1053</td>
 		<td>1062</td>
-		<td>1068</td>
-		<td>+ 6</td>
+		<td>1070</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -373,8 +373,8 @@
 		<td>661</td>
 		<td>668</td>
 		<td>676</td>
-		<td>678</td>
-		<td>+ 2</td>
+		<td>680</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -384,8 +384,8 @@
 		<td>1274</td>
 		<td>1283</td>
 		<td>1292</td>
-		<td>1295</td>
-		<td>+ 3</td>
+		<td>1297</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -395,8 +395,8 @@
 		<td>570</td>
 		<td>583</td>
 		<td>600</td>
-		<td>603</td>
-		<td>+ 3</td>
+		<td>605</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41563</td>
-		<td>125</td>
+		<td>41571</td>
+		<td>133</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>1274</td>
 		<td>1283</td>
 		<td>1292</td>
-		<td>1295</td>
-		<td>+ 3</td>
+		<td>1297</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -674,8 +674,8 @@
 		<td>1042</td>
 		<td>1053</td>
 		<td>1062</td>
-		<td>1068</td>
-		<td>+ 6</td>
+		<td>1070</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -894,8 +894,8 @@
 		<td>661</td>
 		<td>668</td>
 		<td>676</td>
-		<td>678</td>
-		<td>+ 2</td>
+		<td>680</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -916,8 +916,8 @@
 		<td>570</td>
 		<td>583</td>
 		<td>600</td>
-		<td>603</td>
-		<td>+ 3</td>
+		<td>605</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41563</td>
-		<td>125</td>
+		<td>41571</td>
+		<td>133</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>56</td>
 		<td>137</td>
 		<td>112</td>
-		<td>31</td>
+		<td>38</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>20</td>
 		<td>31</td>
 		<td>23</td>
-		<td>8</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10381</td>
-		<td>2431</td>
+		<td>10388</td>
+		<td>2432</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>173</td>
-		<td>60.01</td>
-		<td>14.05</td>
+		<td>60.05</td>
+		<td>14.06</td>
 		<td></td>
 		<td></td>
 	</tr>
