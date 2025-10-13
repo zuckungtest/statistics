@@ -153,8 +153,8 @@
 		<td>1351</td>
 		<td>1364</td>
 		<td>1376</td>
-		<td>1389</td>
-		<td>+ 13</td>
+		<td>1391</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -285,8 +285,8 @@
 		<td>925</td>
 		<td>941</td>
 		<td>956</td>
-		<td>965</td>
-		<td>+ 9</td>
+		<td>967</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41792</td>
-		<td>354</td>
+		<td>41796</td>
+		<td>358</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>1351</td>
 		<td>1364</td>
 		<td>1376</td>
-		<td>1389</td>
-		<td>+ 13</td>
+		<td>1391</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -751,8 +751,8 @@
 		<td>925</td>
 		<td>941</td>
 		<td>956</td>
-		<td>965</td>
-		<td>+ 9</td>
+		<td>967</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41792</td>
-		<td>354</td>
+		<td>41796</td>
+		<td>358</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>56</td>
 		<td>137</td>
 		<td>112</td>
-		<td>62</td>
+		<td>65</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>20</td>
 		<td>31</td>
 		<td>23</td>
-		<td>15</td>
+		<td>18</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10412</td>
-		<td>2438</td>
+		<td>10415</td>
+		<td>2441</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>173</td>
-		<td>60.18</td>
-		<td>14.09</td>
+		<td>60.20</td>
+		<td>14.11</td>
 		<td></td>
 		<td></td>
 	</tr>
