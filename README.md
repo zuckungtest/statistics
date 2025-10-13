@@ -175,8 +175,8 @@
 		<td>1526</td>
 		<td>1540</td>
 		<td>1550</td>
-		<td>1563</td>
-		<td>+ 13</td>
+		<td>1565</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -208,8 +208,8 @@
 		<td>576</td>
 		<td>583</td>
 		<td>592</td>
-		<td>601</td>
-		<td>+ 9</td>
+		<td>603</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -395,8 +395,8 @@
 		<td>570</td>
 		<td>583</td>
 		<td>600</td>
-		<td>611</td>
-		<td>+ 11</td>
+		<td>612</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41849</td>
-		<td>411</td>
+		<td>41854</td>
+		<td>416</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1526</td>
 		<td>1540</td>
 		<td>1550</td>
-		<td>1563</td>
-		<td>+ 13</td>
+		<td>1565</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -916,8 +916,8 @@
 		<td>570</td>
 		<td>583</td>
 		<td>600</td>
-		<td>611</td>
-		<td>+ 11</td>
+		<td>612</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -938,8 +938,8 @@
 		<td>576</td>
 		<td>583</td>
 		<td>592</td>
-		<td>601</td>
-		<td>+ 9</td>
+		<td>603</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41849</td>
-		<td>411</td>
+		<td>41854</td>
+		<td>416</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>56</td>
 		<td>137</td>
 		<td>112</td>
-		<td>73</td>
+		<td>75</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>20</td>
 		<td>31</td>
 		<td>23</td>
-		<td>19</td>
+		<td>20</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10423</td>
-		<td>2442</td>
+		<td>10425</td>
+		<td>2443</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>173</td>
-		<td>60.25</td>
+		<td>60.26</td>
 		<td>14.12</td>
 		<td></td>
 		<td></td>
