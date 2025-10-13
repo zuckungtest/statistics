@@ -450,8 +450,8 @@
 		<td>696</td>
 		<td>703</td>
 		<td>711</td>
-		<td>712</td>
-		<td>+ 1</td>
+		<td>714</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -461,8 +461,8 @@
 		<td>1092</td>
 		<td>1108</td>
 		<td>1117</td>
-		<td>1119</td>
-		<td>+ 2</td>
+		<td>1121</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41494</td>
-		<td>56</td>
+		<td>41498</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>1092</td>
 		<td>1108</td>
 		<td>1117</td>
-		<td>1119</td>
-		<td>+ 2</td>
+		<td>1121</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -883,8 +883,8 @@
 		<td>696</td>
 		<td>703</td>
 		<td>711</td>
-		<td>712</td>
-		<td>+ 1</td>
+		<td>714</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41494</td>
-		<td>56</td>
+		<td>41498</td>
+		<td>60</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>56</td>
 		<td>137</td>
 		<td>112</td>
-		<td>6</td>
+		<td>15</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>20</td>
 		<td>31</td>
 		<td>23</td>
-		<td>4</td>
+		<td>5</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10356</td>
-		<td>2427</td>
+		<td>10365</td>
+		<td>2428</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>173</td>
-		<td>59.86</td>
+		<td>59.91</td>
 		<td>14.03</td>
 		<td></td>
 		<td></td>
