@@ -164,8 +164,8 @@
 		<td>533</td>
 		<td>541</td>
 		<td>549</td>
-		<td>551</td>
-		<td>+ 2</td>
+		<td>553</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -252,8 +252,8 @@
 		<td>1212</td>
 		<td>1222</td>
 		<td>1230</td>
-		<td>1232</td>
-		<td>+ 2</td>
+		<td>1234</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -285,8 +285,8 @@
 		<td>925</td>
 		<td>941</td>
 		<td>956</td>
-		<td>959</td>
-		<td>+ 3</td>
+		<td>961</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>1242</td>
 		<td>1255</td>
 		<td>1265</td>
-		<td>1267</td>
-		<td>+ 2</td>
+		<td>1269</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -362,8 +362,8 @@
 		<td>969</td>
 		<td>978</td>
 		<td>988</td>
-		<td>990</td>
-		<td>+ 2</td>
+		<td>992</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41551</td>
-		<td>113</td>
+		<td>41561</td>
+		<td>123</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>1242</td>
 		<td>1255</td>
 		<td>1265</td>
-		<td>1267</td>
-		<td>+ 2</td>
+		<td>1269</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -608,8 +608,8 @@
 		<td>1212</td>
 		<td>1222</td>
 		<td>1230</td>
-		<td>1232</td>
-		<td>+ 2</td>
+		<td>1234</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -729,8 +729,8 @@
 		<td>969</td>
 		<td>978</td>
 		<td>988</td>
-		<td>990</td>
-		<td>+ 2</td>
+		<td>992</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -751,8 +751,8 @@
 		<td>925</td>
 		<td>941</td>
 		<td>956</td>
-		<td>959</td>
-		<td>+ 3</td>
+		<td>961</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -949,8 +949,8 @@
 		<td>533</td>
 		<td>541</td>
 		<td>549</td>
-		<td>551</td>
-		<td>+ 2</td>
+		<td>553</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41551</td>
-		<td>113</td>
+		<td>41561</td>
+		<td>123</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>56</td>
 		<td>137</td>
 		<td>112</td>
-		<td>27</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1026,7 +1026,7 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10377</td>
+		<td>10380</td>
 		<td>2430</td>
 		<td>284</td>
 		<td>38</td>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>173</td>
-		<td>59.98</td>
+		<td>60.00</td>
 		<td>14.05</td>
 		<td></td>
 		<td></td>
