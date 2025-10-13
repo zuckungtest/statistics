@@ -2,7 +2,7 @@
 v1.0.4-ship.merging | downloads: 14
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 20
-v1.0.13-uniques | downloads: 91
+v1.0.13-uniques | downloads: 93
 v1.0.6-control.station | downloads: 98
 v1.0.26-additional.command.buttons.radial | downloads: 127
 v1.0.8-mission.helper | downloads: 145
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 43574
+# TOTAL DOWNLOADS: 43576
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -339,5 +339,5 @@ space.fauna 788
 too.many.asteroids 1340
 tribute.republic 715
 unique.fix 44
-uniques 1123
+uniques 1125
 vague.improvements 20
