@@ -2,7 +2,7 @@
 v1.0.4-ship.merging | downloads: 12
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 20
-v1.0.13-uniques | downloads: 87
+v1.0.13-uniques | downloads: 89
 v1.0.6-control.station | downloads: 97
 v1.0.26-additional.command.buttons.radial | downloads: 126
 v1.0.8-mission.helper | downloads: 142
@@ -21,7 +21,7 @@ v1.0.4-planet.map | downloads: 236
 v1.0.4-no.more.mereti.mines | downloads: 310
 v1.0.4-jump.gates | downloads: 410
 v1.0.4-gegno.pirates | downloads: 480
-v1.0.3-tribute.republic | downloads: 314
+v1.0.3-tribute.republic | downloads: 316
 v1.0.3-more.arfectas | downloads: 251
 v1.0.3-kor.efret.shipyard | downloads: 430
 v1.0.2-highrollers.ltd | downloads: 357
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 43507
+# TOTAL DOWNLOADS: 43511
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -337,7 +337,7 @@ show.reputation 1154
 snowfeather.robotics 1045
 space.fauna 787
 too.many.asteroids 1339
-tribute.republic 712
+tribute.republic 714
 unique.fix 44
-uniques 1119
+uniques 1121
 vague.improvements 20
