@@ -21,8 +21,8 @@
 		<td>1462</td>
 		<td>1469</td>
 		<td>1480</td>
-		<td>1488</td>
-		<td>+ 8</td>
+		<td>1490</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>630</td>
 		<td>640</td>
 		<td>651</td>
-		<td>657</td>
-		<td>+ 6</td>
+		<td>659</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>926</td>
 		<td>937</td>
 		<td>950</td>
-		<td>961</td>
-		<td>+ 11</td>
+		<td>963</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -439,8 +439,8 @@
 		<td>1328</td>
 		<td>1338</td>
 		<td>1347</td>
-		<td>1352</td>
-		<td>+ 5</td>
+		<td>1354</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -461,8 +461,8 @@
 		<td>1108</td>
 		<td>1117</td>
 		<td>1133</td>
-		<td>1145</td>
-		<td>+ 12</td>
+		<td>1147</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42188</td>
-		<td>287</td>
+		<td>42198</td>
+		<td>297</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1462</td>
 		<td>1469</td>
 		<td>1480</td>
-		<td>1488</td>
-		<td>+ 8</td>
+		<td>1490</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -564,8 +564,8 @@
 		<td>1328</td>
 		<td>1338</td>
 		<td>1347</td>
-		<td>1352</td>
-		<td>+ 5</td>
+		<td>1354</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -663,8 +663,8 @@
 		<td>1108</td>
 		<td>1117</td>
 		<td>1133</td>
-		<td>1145</td>
-		<td>+ 12</td>
+		<td>1147</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -784,8 +784,8 @@
 		<td>926</td>
 		<td>937</td>
 		<td>950</td>
-		<td>961</td>
-		<td>+ 11</td>
+		<td>963</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -905,8 +905,8 @@
 		<td>630</td>
 		<td>640</td>
 		<td>651</td>
-		<td>657</td>
-		<td>+ 6</td>
+		<td>659</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42188</td>
-		<td>287</td>
+		<td>42198</td>
+		<td>297</td>
 	</tr>
 </table>
 </sub></sup>
