@@ -2,11 +2,11 @@
 v1.0.4-ship.merging | downloads: 38
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 26
-v1.0.13-uniques | downloads: 113
+v1.0.13-uniques | downloads: 115
 v1.0.6-control.station | downloads: 119
-v1.0.26-additional.command.buttons.radial | downloads: 144
+v1.0.26-additional.command.buttons.radial | downloads: 146
 v1.0.8-mission.helper | downloads: 163
-v1.0.2-boss.loot | downloads: 146
+v1.0.2-boss.loot | downloads: 148
 v1.0.3-flare.play | downloads: 215
 v1.0.6-quarg.farm | downloads: 315
 v1.0.2-ship.merging | downloads: 288
@@ -37,7 +37,7 @@ v1.0.1-ship.merging | downloads: 273
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
 v1.0.11-uniques | downloads: 206
-v1.0.8-combat.ai | downloads: 601
+v1.0.8-combat.ai | downloads: 603
 v1.0.7-combat.ai | downloads: 55
 v1.0.6-combat.ai | downloads: 11
 v1.0.0-boss.loot | downloads: 192
@@ -117,7 +117,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 766
+v1.0.4-too.many.asteroids | downloads: 768
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 329
@@ -285,21 +285,21 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 44201
+# TOTAL DOWNLOADS: 44211
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1488
+additional.command.buttons.radial 1490
 automata.destruction.0percent 1070
 automata.in.human.space 922
 avgi.licenses 229
 better.starts 1185
-boss.loot 657
+boss.loot 659
 bunrodea.missions 1441
 captureable.person.ships 1085
 coalition.shopping 1195
-combat.ai 961
+combat.ai 963
 control.station 1089
 devil-run.unhidden 66
 disable.person.ships 612
@@ -336,8 +336,8 @@ ship.merging 627
 show.reputation 1171
 snowfeather.robotics 1060
 space.fauna 801
-too.many.asteroids 1352
+too.many.asteroids 1354
 tribute.republic 728
 unique.fix 44
-uniques 1145
+uniques 1147
 vague.improvements 26
