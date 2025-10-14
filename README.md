@@ -109,8 +109,8 @@
 		<td>926</td>
 		<td>937</td>
 		<td>950</td>
-		<td>952</td>
-		<td>+ 2</td>
+		<td>956</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42024</td>
-		<td>123</td>
+		<td>42028</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
@@ -784,8 +784,8 @@
 		<td>926</td>
 		<td>937</td>
 		<td>950</td>
-		<td>952</td>
-		<td>+ 2</td>
+		<td>956</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42024</td>
-		<td>123</td>
+		<td>42028</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>137</td>
 		<td>112</td>
 		<td>96</td>
-		<td>46</td>
+		<td>48</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>31</td>
 		<td>23</td>
 		<td>24</td>
-		<td>6</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10492</td>
-		<td>2453</td>
+		<td>10494</td>
+		<td>2455</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>174</td>
-		<td>60.30</td>
-		<td>14.10</td>
+		<td>60.31</td>
+		<td>14.11</td>
 		<td></td>
 		<td></td>
 	</tr>
