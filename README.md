@@ -395,8 +395,8 @@
 		<td>583</td>
 		<td>600</td>
 		<td>614</td>
-		<td>618</td>
-		<td>+ 4</td>
+		<td>620</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -406,8 +406,8 @@
 		<td>1145</td>
 		<td>1153</td>
 		<td>1162</td>
-		<td>1163</td>
-		<td>+ 1</td>
+		<td>1165</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41952</td>
-		<td>51</td>
+		<td>41956</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>1145</td>
 		<td>1153</td>
 		<td>1162</td>
-		<td>1163</td>
-		<td>+ 1</td>
+		<td>1165</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -916,8 +916,8 @@
 		<td>583</td>
 		<td>600</td>
 		<td>614</td>
-		<td>618</td>
-		<td>+ 4</td>
+		<td>620</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41952</td>
-		<td>51</td>
+		<td>41956</td>
+		<td>55</td>
 	</tr>
 </table>
 </sub></sup>
