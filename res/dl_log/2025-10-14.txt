@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-ship.merging | downloads: 29
+v1.0.4-ship.merging | downloads: 31
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 22
 v1.0.13-uniques | downloads: 103
@@ -48,7 +48,7 @@ v1.0.9-expert.crew.members | downloads: 651
 v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 473
-v1.0.5-show.reputation | downloads: 602
+v1.0.5-show.reputation | downloads: 604
 v1.0.3-paint.your.ships | downloads: 538
 v1.1.9-captureable.person.ships | downloads: 556
 v1.0.9-bunrodea.missions | downloads: 712
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 43965
+# TOTAL DOWNLOADS: 43969
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -332,8 +332,8 @@ planet.map 688
 planet.pluto 190
 quarg.farm 1311
 real.fluff 93
-ship.merging 618
-show.reputation 1163
+ship.merging 620
+show.reputation 1165
 snowfeather.robotics 1054
 space.fauna 796
 too.many.asteroids 1348
