@@ -395,8 +395,8 @@
 		<td>583</td>
 		<td>600</td>
 		<td>614</td>
-		<td>620</td>
-		<td>+ 6</td>
+		<td>621</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41956</td>
-		<td>55</td>
+		<td>41957</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
@@ -916,8 +916,8 @@
 		<td>583</td>
 		<td>600</td>
 		<td>614</td>
-		<td>620</td>
-		<td>+ 6</td>
+		<td>621</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>41956</td>
-		<td>55</td>
+		<td>41957</td>
+		<td>56</td>
 	</tr>
 </table>
 </sub></sup>
