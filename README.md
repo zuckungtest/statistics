@@ -87,8 +87,8 @@
 		<td>1052</td>
 		<td>1063</td>
 		<td>1078</td>
-		<td>1082</td>
-		<td>+ 4</td>
+		<td>1083</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -241,8 +241,8 @@
 		<td>949</td>
 		<td>957</td>
 		<td>964</td>
-		<td>967</td>
-		<td>+ 3</td>
+		<td>968</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -362,8 +362,8 @@
 		<td>978</td>
 		<td>988</td>
 		<td>1001</td>
-		<td>1004</td>
-		<td>+ 3</td>
+		<td>1005</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42089</td>
-		<td>188</td>
+		<td>42092</td>
+		<td>191</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>1052</td>
 		<td>1063</td>
 		<td>1078</td>
-		<td>1082</td>
-		<td>+ 4</td>
+		<td>1083</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -729,8 +729,8 @@
 		<td>978</td>
 		<td>988</td>
 		<td>1001</td>
-		<td>1004</td>
-		<td>+ 3</td>
+		<td>1005</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -762,8 +762,8 @@
 		<td>949</td>
 		<td>957</td>
 		<td>964</td>
-		<td>967</td>
-		<td>+ 3</td>
+		<td>968</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42089</td>
-		<td>188</td>
+		<td>42092</td>
+		<td>191</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>137</td>
 		<td>112</td>
 		<td>96</td>
-		<td>67</td>
+		<td>69</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>31</td>
 		<td>23</td>
 		<td>24</td>
-		<td>13</td>
+		<td>14</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10513</td>
-		<td>2460</td>
+		<td>10515</td>
+		<td>2461</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>174</td>
-		<td>60.42</td>
+		<td>60.43</td>
 		<td>14.14</td>
 		<td></td>
 		<td></td>
