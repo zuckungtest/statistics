@@ -27,7 +27,7 @@ v1.0.3-kor.efret.shipyard | downloads: 446
 v1.0.2-highrollers.ltd | downloads: 372
 v1.0.2-automata.in.human.space | downloads: 395
 v1.0.2-automata.destruction.0percent | downloads: 270
-v1.0.1-kestrel.unlocks | downloads: 385
+v1.0.1-kestrel.unlocks | downloads: 386
 v1.0.1-disable.person.ships | downloads: 244
 v1.0.5-landing.images | downloads: 417
 v1.0.3-landing.images.highres | downloads: 360
@@ -49,7 +49,7 @@ v1.0.10-uniques | downloads: 94
 v1.0.8-expert.crew.members | downloads: 19
 v1.0.7-human.labels | downloads: 475
 v1.0.5-show.reputation | downloads: 608
-v1.0.3-paint.your.ships | downloads: 540
+v1.0.3-paint.your.ships | downloads: 541
 v1.1.9-captureable.person.ships | downloads: 558
 v1.0.9-bunrodea.missions | downloads: 715
 v1.0.5-better.starts | downloads: 639
@@ -61,7 +61,7 @@ v1.1.8-galactic.capital.investment | downloads: 216
 v1.0.3-combat.ai | downloads: 7
 v1.0.1-free.worlds.5.years.later | downloads: 11
 v1.0.23-additional.command.buttons.radial | downloads: 167
-v1.1.8-captureable.person.ships | downloads: 46
+v1.1.8-captureable.person.ships | downloads: 47
 v1.1.7-galactic.capital.investment | downloads: 27
 v1.1.5-more.boarding.missions | downloads: 690
 v1.1.5-hai.side.mission.unlocker | downloads: 533
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 44102
+# TOTAL DOWNLOADS: 44105
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -297,7 +297,7 @@ avgi.licenses 229
 better.starts 1183
 boss.loot 655
 bunrodea.missions 1438
-captureable.person.ships 1082
+captureable.person.ships 1083
 coalition.shopping 1193
 combat.ai 959
 control.station 1086
@@ -313,7 +313,7 @@ hai.side.mission.unlocker 964
 highrollers.ltd 608
 human.labels 880
 jump.gates 1066
-kestrel.unlocks 967
+kestrel.unlocks 968
 kor.efret.shipyard 1247
 landing.images 992
 landing.images.android 349
@@ -326,7 +326,7 @@ more.person.ships 916
 navy.licenses 575
 no.more.mereti.mines 788
 outfits.weapon.slot 886
-paint.your.ships 1004
+paint.your.ships 1005
 pirate.warlords 3
 planet.map 690
 planet.pluto 190
