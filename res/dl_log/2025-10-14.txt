@@ -2,8 +2,8 @@
 v1.0.4-ship.merging | downloads: 33
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 22
-v1.0.13-uniques | downloads: 106
-v1.0.6-control.station | downloads: 111
+v1.0.13-uniques | downloads: 108
+v1.0.6-control.station | downloads: 113
 v1.0.26-additional.command.buttons.radial | downloads: 140
 v1.0.8-mission.helper | downloads: 157
 v1.0.2-boss.loot | downloads: 143
@@ -19,18 +19,18 @@ v1.0.7-coalition.shopping | downloads: 440
 v1.0.5-too.many.asteroids | downloads: 253
 v1.0.4-planet.map | downloads: 244
 v1.0.4-no.more.mereti.mines | downloads: 322
-v1.0.4-jump.gates | downloads: 422
-v1.0.4-gegno.pirates | downloads: 492
+v1.0.4-jump.gates | downloads: 424
+v1.0.4-gegno.pirates | downloads: 495
 v1.0.3-tribute.republic | downloads: 328
 v1.0.3-more.arfectas | downloads: 259
 v1.0.3-kor.efret.shipyard | downloads: 445
 v1.0.2-highrollers.ltd | downloads: 371
-v1.0.2-automata.in.human.space | downloads: 392
+v1.0.2-automata.in.human.space | downloads: 394
 v1.0.2-automata.destruction.0percent | downloads: 269
 v1.0.1-kestrel.unlocks | downloads: 384
 v1.0.1-disable.person.ships | downloads: 243
 v1.0.5-landing.images | downloads: 414
-v1.0.3-landing.images.highres | downloads: 356
+v1.0.3-landing.images.highres | downloads: 357
 v1.0.25-additional.command.buttons.radial | downloads: 329
 v1.1.9-galactic.capital.investment | downloads: 560
 v1.0.1-ship.merging | downloads: 273
@@ -51,7 +51,7 @@ v1.0.7-human.labels | downloads: 474
 v1.0.5-show.reputation | downloads: 605
 v1.0.3-paint.your.ships | downloads: 539
 v1.1.9-captureable.person.ships | downloads: 557
-v1.0.9-bunrodea.missions | downloads: 713
+v1.0.9-bunrodea.missions | downloads: 714
 v1.0.5-better.starts | downloads: 638
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
@@ -64,7 +64,7 @@ v1.0.23-additional.command.buttons.radial | downloads: 167
 v1.1.8-captureable.person.ships | downloads: 46
 v1.1.7-galactic.capital.investment | downloads: 27
 v1.1.5-more.boarding.missions | downloads: 689
-v1.1.5-hai.side.mission.unlocker | downloads: 531
+v1.1.5-hai.side.mission.unlocker | downloads: 532
 v1.0.6-snowfeather.robotics | downloads: 591
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 409
@@ -250,7 +250,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 931
+v1.0.2-more.arfectas | downloads: 933
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -285,22 +285,22 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 44021
+# TOTAL DOWNLOADS: 44037
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1484
 automata.destruction.0percent 1066
-automata.in.human.space 916
+automata.in.human.space 918
 avgi.licenses 229
 better.starts 1182
 boss.loot 654
-bunrodea.missions 1436
+bunrodea.missions 1437
 captureable.person.ships 1081
 coalition.shopping 1192
 combat.ai 952
-control.station 1081
+control.station 1083
 devil-run.unhidden 66
 disable.person.ships 610
 disable.spaceport.repeatables 797
@@ -308,19 +308,19 @@ expert.crew.members 1394
 flare.play 560
 free.worlds.5.years.later 371
 galactic.capital.investment 1569
-gegno.pirates 1374
-hai.side.mission.unlocker 962
+gegno.pirates 1377
+hai.side.mission.unlocker 963
 highrollers.ltd 607
 human.labels 879
-jump.gates 1063
+jump.gates 1065
 kestrel.unlocks 966
 kor.efret.shipyard 1246
 landing.images 989
 landing.images.android 349
-landing.images.highres 759
+landing.images.highres 760
 licenses 970
 mission.helper 1281
-more.arfectas 1192
+more.arfectas 1194
 more.boarding.missions 1282
 more.person.ships 915
 navy.licenses 575
@@ -339,5 +339,5 @@ space.fauna 797
 too.many.asteroids 1349
 tribute.republic 726
 unique.fix 44
-uniques 1138
+uniques 1140
 vague.improvements 22
