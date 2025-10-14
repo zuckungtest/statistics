@@ -4,7 +4,7 @@ v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 24
 v1.0.13-uniques | downloads: 109
 v1.0.6-control.station | downloads: 116
-v1.0.26-additional.command.buttons.radial | downloads: 141
+v1.0.26-additional.command.buttons.radial | downloads: 143
 v1.0.8-mission.helper | downloads: 158
 v1.0.2-boss.loot | downloads: 144
 v1.0.3-flare.play | downloads: 214
@@ -285,12 +285,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 44100
+# TOTAL DOWNLOADS: 44102
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1485
+additional.command.buttons.radial 1487
 automata.destruction.0percent 1067
 automata.in.human.space 919
 avgi.licenses 229
