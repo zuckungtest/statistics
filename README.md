@@ -109,8 +109,8 @@
 		<td>926</td>
 		<td>937</td>
 		<td>950</td>
-		<td>956</td>
-		<td>+ 6</td>
+		<td>958</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -120,8 +120,8 @@
 		<td>1053</td>
 		<td>1062</td>
 		<td>1078</td>
-		<td>1083</td>
-		<td>+ 5</td>
+		<td>1085</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -263,8 +263,8 @@
 		<td>970</td>
 		<td>978</td>
 		<td>987</td>
-		<td>989</td>
-		<td>+ 2</td>
+		<td>991</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -274,8 +274,8 @@
 		<td>740</td>
 		<td>750</td>
 		<td>757</td>
-		<td>760</td>
-		<td>+ 3</td>
+		<td>762</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -351,8 +351,8 @@
 		<td>866</td>
 		<td>874</td>
 		<td>881</td>
-		<td>883</td>
-		<td>+ 2</td>
+		<td>885</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -395,8 +395,8 @@
 		<td>583</td>
 		<td>600</td>
 		<td>614</td>
-		<td>622</td>
-		<td>+ 8</td>
+		<td>624</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -406,8 +406,8 @@
 		<td>1145</td>
 		<td>1153</td>
 		<td>1162</td>
-		<td>1166</td>
-		<td>+ 4</td>
+		<td>1168</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -417,8 +417,8 @@
 		<td>1033</td>
 		<td>1044</td>
 		<td>1053</td>
-		<td>1055</td>
-		<td>+ 2</td>
+		<td>1057</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td>11</td>
 		<td>18</td>
 		<td>22</td>
-		<td>22</td>
-		<td></td>
+		<td>24</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42028</td>
-		<td>127</td>
+		<td>42046</td>
+		<td>145</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>1145</td>
 		<td>1153</td>
 		<td>1162</td>
-		<td>1166</td>
-		<td>+ 4</td>
+		<td>1168</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -674,8 +674,8 @@
 		<td>1053</td>
 		<td>1062</td>
 		<td>1078</td>
-		<td>1083</td>
-		<td>+ 5</td>
+		<td>1085</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -718,8 +718,8 @@
 		<td>1033</td>
 		<td>1044</td>
 		<td>1053</td>
-		<td>1055</td>
-		<td>+ 2</td>
+		<td>1057</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -740,8 +740,8 @@
 		<td>970</td>
 		<td>978</td>
 		<td>987</td>
-		<td>989</td>
-		<td>+ 2</td>
+		<td>991</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -784,8 +784,8 @@
 		<td>926</td>
 		<td>937</td>
 		<td>950</td>
-		<td>956</td>
-		<td>+ 6</td>
+		<td>958</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -817,8 +817,8 @@
 		<td>866</td>
 		<td>874</td>
 		<td>881</td>
-		<td>883</td>
-		<td>+ 2</td>
+		<td>885</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -872,8 +872,8 @@
 		<td>740</td>
 		<td>750</td>
 		<td>757</td>
-		<td>760</td>
-		<td>+ 3</td>
+		<td>762</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -916,8 +916,8 @@
 		<td>583</td>
 		<td>600</td>
 		<td>614</td>
-		<td>622</td>
-		<td>+ 8</td>
+		<td>624</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -960,8 +960,8 @@
 		<td>11</td>
 		<td>18</td>
 		<td>22</td>
-		<td>22</td>
-		<td></td>
+		<td>24</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42028</td>
-		<td>127</td>
+		<td>42046</td>
+		<td>145</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>137</td>
 		<td>112</td>
 		<td>96</td>
-		<td>48</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>31</td>
 		<td>23</td>
 		<td>24</td>
-		<td>8</td>
+		<td>10</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10494</td>
-		<td>2455</td>
+		<td>10505</td>
+		<td>2457</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>174</td>
-		<td>60.31</td>
-		<td>14.11</td>
+		<td>60.37</td>
+		<td>14.12</td>
 		<td></td>
 		<td></td>
 	</tr>
