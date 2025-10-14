@@ -43,8 +43,8 @@
 		<td>894</td>
 		<td>905</td>
 		<td>914</td>
-		<td>916</td>
-		<td>+ 2</td>
+		<td>918</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>1413</td>
 		<td>1425</td>
 		<td>1434</td>
-		<td>1436</td>
-		<td>+ 2</td>
+		<td>1437</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -120,8 +120,8 @@
 		<td>1053</td>
 		<td>1062</td>
 		<td>1078</td>
-		<td>1081</td>
-		<td>+ 3</td>
+		<td>1083</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>1351</td>
 		<td>1361</td>
 		<td>1372</td>
-		<td>1374</td>
-		<td>+ 2</td>
+		<td>1377</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -197,8 +197,8 @@
 		<td>940</td>
 		<td>948</td>
 		<td>960</td>
-		<td>962</td>
-		<td>+ 2</td>
+		<td>963</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -230,8 +230,8 @@
 		<td>1042</td>
 		<td>1050</td>
 		<td>1061</td>
-		<td>1063</td>
-		<td>+ 2</td>
+		<td>1065</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -274,8 +274,8 @@
 		<td>740</td>
 		<td>750</td>
 		<td>757</td>
-		<td>759</td>
-		<td>+ 2</td>
+		<td>760</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -307,8 +307,8 @@
 		<td>1171</td>
 		<td>1181</td>
 		<td>1190</td>
-		<td>1192</td>
-		<td>+ 2</td>
+		<td>1194</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -461,8 +461,8 @@
 		<td>1108</td>
 		<td>1117</td>
 		<td>1133</td>
-		<td>1138</td>
-		<td>+ 5</td>
+		<td>1140</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42008</td>
-		<td>107</td>
+		<td>42024</td>
+		<td>123</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>1413</td>
 		<td>1425</td>
 		<td>1434</td>
-		<td>1436</td>
-		<td>+ 2</td>
+		<td>1437</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -553,8 +553,8 @@
 		<td>1351</td>
 		<td>1361</td>
 		<td>1372</td>
-		<td>1374</td>
-		<td>+ 2</td>
+		<td>1377</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -619,8 +619,8 @@
 		<td>1171</td>
 		<td>1181</td>
 		<td>1190</td>
-		<td>1192</td>
-		<td>+ 2</td>
+		<td>1194</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -663,8 +663,8 @@
 		<td>1108</td>
 		<td>1117</td>
 		<td>1133</td>
-		<td>1138</td>
-		<td>+ 5</td>
+		<td>1140</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -674,8 +674,8 @@
 		<td>1053</td>
 		<td>1062</td>
 		<td>1078</td>
-		<td>1081</td>
-		<td>+ 3</td>
+		<td>1083</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -707,8 +707,8 @@
 		<td>1042</td>
 		<td>1050</td>
 		<td>1061</td>
-		<td>1063</td>
-		<td>+ 2</td>
+		<td>1065</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -773,8 +773,8 @@
 		<td>940</td>
 		<td>948</td>
 		<td>960</td>
-		<td>962</td>
-		<td>+ 2</td>
+		<td>963</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -795,8 +795,8 @@
 		<td>894</td>
 		<td>905</td>
 		<td>914</td>
-		<td>916</td>
-		<td>+ 2</td>
+		<td>918</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -872,8 +872,8 @@
 		<td>740</td>
 		<td>750</td>
 		<td>757</td>
-		<td>759</td>
-		<td>+ 2</td>
+		<td>760</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42008</td>
-		<td>107</td>
+		<td>42024</td>
+		<td>123</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>137</td>
 		<td>112</td>
 		<td>96</td>
-		<td>13</td>
+		<td>44</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>31</td>
 		<td>23</td>
 		<td>24</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10459</td>
-		<td>2452</td>
+		<td>10490</td>
+		<td>2453</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>174</td>
-		<td>60.11</td>
-		<td>14.09</td>
+		<td>60.29</td>
+		<td>14.10</td>
 		<td></td>
 		<td></td>
 	</tr>
