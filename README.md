@@ -472,8 +472,8 @@
 		<td>11</td>
 		<td>18</td>
 		<td>22</td>
-		<td>26</td>
-		<td>+ 4</td>
+		<td>28</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42198</td>
-		<td>297</td>
+		<td>42200</td>
+		<td>299</td>
 	</tr>
 </table>
 </sub></sup>
@@ -960,8 +960,8 @@
 		<td>11</td>
 		<td>18</td>
 		<td>22</td>
-		<td>26</td>
-		<td>+ 4</td>
+		<td>28</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42198</td>
-		<td>297</td>
+		<td>42200</td>
+		<td>299</td>
 	</tr>
 </table>
 </sub></sup>
