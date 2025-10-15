@@ -6,7 +6,7 @@ v1.0.13-uniques | downloads: 122
 v1.0.6-control.station | downloads: 126
 v1.0.26-additional.command.buttons.radial | downloads: 157
 v1.0.8-mission.helper | downloads: 167
-v1.0.2-boss.loot | downloads: 152
+v1.0.2-boss.loot | downloads: 154
 v1.0.3-flare.play | downloads: 220
 v1.0.6-quarg.farm | downloads: 323
 v1.0.2-ship.merging | downloads: 288
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 44429
+# TOTAL DOWNLOADS: 44431
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -295,7 +295,7 @@ automata.destruction.0percent 1074
 automata.in.human.space 927
 avgi.licenses 229
 better.starts 1191
-boss.loot 663
+boss.loot 665
 bunrodea.missions 1447
 captureable.person.ships 1089
 coalition.shopping 1201
