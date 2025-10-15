@@ -8,7 +8,7 @@ v1.0.26-additional.command.buttons.radial | downloads: 165
 v1.0.8-mission.helper | downloads: 173
 v1.0.2-boss.loot | downloads: 162
 v1.0.3-flare.play | downloads: 222
-v1.0.6-quarg.farm | downloads: 331
+v1.0.6-quarg.farm | downloads: 333
 v1.0.2-ship.merging | downloads: 288
 v1.0.12-uniques | downloads: 218
 v1.0.5-control.station | downloads: 357
@@ -27,7 +27,7 @@ v1.0.3-kor.efret.shipyard | downloads: 459
 v1.0.2-highrollers.ltd | downloads: 384
 v1.0.2-automata.in.human.space | downloads: 409
 v1.0.2-automata.destruction.0percent | downloads: 275
-v1.0.1-kestrel.unlocks | downloads: 395
+v1.0.1-kestrel.unlocks | downloads: 397
 v1.0.1-disable.person.ships | downloads: 249
 v1.0.5-landing.images | downloads: 425
 v1.0.3-landing.images.highres | downloads: 367
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 44651
+# TOTAL DOWNLOADS: 44655
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -313,7 +313,7 @@ hai.side.mission.unlocker 973
 highrollers.ltd 620
 human.labels 891
 jump.gates 1080
-kestrel.unlocks 977
+kestrel.unlocks 979
 kor.efret.shipyard 1260
 landing.images 1000
 landing.images.android 349
@@ -330,7 +330,7 @@ paint.your.ships 1016
 pirate.warlords 3
 planet.map 700
 planet.pluto 190
-quarg.farm 1331
+quarg.farm 1333
 real.fluff 93
 ship.merging 647
 show.reputation 1182
