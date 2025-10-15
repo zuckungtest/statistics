@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-ship.merging | downloads: 51
+v1.0.4-ship.merging | downloads: 53
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 28
 v1.0.13-uniques | downloads: 125
@@ -25,7 +25,7 @@ v1.0.3-tribute.republic | downloads: 334
 v1.0.3-more.arfectas | downloads: 265
 v1.0.3-kor.efret.shipyard | downloads: 456
 v1.0.2-highrollers.ltd | downloads: 383
-v1.0.2-automata.in.human.space | downloads: 404
+v1.0.2-automata.in.human.space | downloads: 406
 v1.0.2-automata.destruction.0percent | downloads: 274
 v1.0.1-kestrel.unlocks | downloads: 392
 v1.0.1-disable.person.ships | downloads: 248
@@ -285,14 +285,14 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 44510
+# TOTAL DOWNLOADS: 44514
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1504
 automata.destruction.0percent 1075
-automata.in.human.space 928
+automata.in.human.space 930
 avgi.licenses 229
 better.starts 1194
 boss.loot 666
@@ -332,7 +332,7 @@ planet.map 697
 planet.pluto 190
 quarg.farm 1324
 real.fluff 93
-ship.merging 640
+ship.merging 642
 show.reputation 1179
 snowfeather.robotics 1066
 space.fauna 805
