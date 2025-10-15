@@ -43,8 +43,8 @@
 		<td>905</td>
 		<td>914</td>
 		<td>922</td>
-		<td>928</td>
-		<td>+ 6</td>
+		<td>930</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -395,8 +395,8 @@
 		<td>600</td>
 		<td>614</td>
 		<td>627</td>
-		<td>640</td>
-		<td>+ 13</td>
+		<td>642</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42497</td>
-		<td>297</td>
+		<td>42501</td>
+		<td>301</td>
 	</tr>
 </table>
 </sub></sup>
@@ -795,8 +795,8 @@
 		<td>905</td>
 		<td>914</td>
 		<td>922</td>
-		<td>928</td>
-		<td>+ 6</td>
+		<td>930</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -916,8 +916,8 @@
 		<td>600</td>
 		<td>614</td>
 		<td>627</td>
-		<td>640</td>
-		<td>+ 13</td>
+		<td>642</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42497</td>
-		<td>297</td>
+		<td>42501</td>
+		<td>301</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>112</td>
 		<td>96</td>
 		<td>104</td>
-		<td>30</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>23</td>
 		<td>24</td>
 		<td>23</td>
-		<td>10</td>
+		<td>15</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10580</td>
-		<td>2480</td>
+		<td>10593</td>
+		<td>2485</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>175</td>
-		<td>60.46</td>
-		<td>14.17</td>
+		<td>60.53</td>
+		<td>14.20</td>
 		<td></td>
 		<td></td>
 	</tr>
