@@ -230,8 +230,8 @@
 		<td>1050</td>
 		<td>1061</td>
 		<td>1067</td>
-		<td>1075</td>
-		<td>+ 8</td>
+		<td>1077</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -307,8 +307,8 @@
 		<td>1181</td>
 		<td>1190</td>
 		<td>1199</td>
-		<td>1209</td>
-		<td>+ 10</td>
+		<td>1211</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -340,8 +340,8 @@
 		<td>774</td>
 		<td>785</td>
 		<td>789</td>
-		<td>792</td>
-		<td>+ 3</td>
+		<td>794</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -384,8 +384,8 @@
 		<td>1292</td>
 		<td>1310</td>
 		<td>1315</td>
-		<td>1324</td>
-		<td>+ 9</td>
+		<td>1326</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -395,8 +395,8 @@
 		<td>600</td>
 		<td>614</td>
 		<td>627</td>
-		<td>642</td>
-		<td>+ 15</td>
+		<td>644</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42537</td>
-		<td>337</td>
+		<td>42547</td>
+		<td>347</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>1292</td>
 		<td>1310</td>
 		<td>1315</td>
-		<td>1324</td>
-		<td>+ 9</td>
+		<td>1326</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -619,8 +619,8 @@
 		<td>1181</td>
 		<td>1190</td>
 		<td>1199</td>
-		<td>1209</td>
-		<td>+ 10</td>
+		<td>1211</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -696,8 +696,8 @@
 		<td>1050</td>
 		<td>1061</td>
 		<td>1067</td>
-		<td>1075</td>
-		<td>+ 8</td>
+		<td>1077</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -861,8 +861,8 @@
 		<td>774</td>
 		<td>785</td>
 		<td>789</td>
-		<td>792</td>
-		<td>+ 3</td>
+		<td>794</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -916,8 +916,8 @@
 		<td>600</td>
 		<td>614</td>
 		<td>627</td>
-		<td>642</td>
-		<td>+ 15</td>
+		<td>644</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42537</td>
-		<td>337</td>
+		<td>42547</td>
+		<td>347</td>
 	</tr>
 </table>
 </sub></sup>
