@@ -208,8 +208,8 @@
 		<td>592</td>
 		<td>603</td>
 		<td>609</td>
-		<td>612</td>
-		<td>+ 3</td>
+		<td>614</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42311</td>
-		<td>111</td>
+		<td>42313</td>
+		<td>113</td>
 	</tr>
 </table>
 </sub></sup>
@@ -920,6 +920,17 @@
 		<td>+ 3</td>
 	</tr>
 	<tr>
+		<td>highrollers.ltd</td>
+		<td>572</td>
+		<td>576</td>
+		<td>583</td>
+		<td>592</td>
+		<td>603</td>
+		<td>609</td>
+		<td>614</td>
+		<td>+ 5</td>
+	</tr>
+	<tr>
 		<td>disable.person.ships</td>
 		<td>575</td>
 		<td>579</td>
@@ -929,17 +940,6 @@
 		<td>612</td>
 		<td>613</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>highrollers.ltd</td>
-		<td>572</td>
-		<td>576</td>
-		<td>583</td>
-		<td>592</td>
-		<td>603</td>
-		<td>609</td>
-		<td>612</td>
-		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42311</td>
-		<td>111</td>
+		<td>42313</td>
+		<td>113</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>112</td>
 		<td>96</td>
 		<td>104</td>
-		<td>6</td>
+		<td>7</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>23</td>
 		<td>24</td>
 		<td>23</td>
-		<td>2</td>
+		<td>3</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10556</td>
-		<td>2472</td>
+		<td>10557</td>
+		<td>2473</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>175</td>
-		<td>60.32</td>
+		<td>60.33</td>
 		<td>14.13</td>
 		<td></td>
 		<td></td>
