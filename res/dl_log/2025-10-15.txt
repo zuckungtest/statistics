@@ -63,9 +63,9 @@ v1.0.1-free.worlds.5.years.later | downloads: 11
 v1.0.23-additional.command.buttons.radial | downloads: 167
 v1.1.8-captureable.person.ships | downloads: 47
 v1.1.7-galactic.capital.investment | downloads: 27
-v1.1.5-more.boarding.missions | downloads: 697
+v1.1.5-more.boarding.missions | downloads: 701
 v1.1.5-hai.side.mission.unlocker | downloads: 538
-v1.0.6-snowfeather.robotics | downloads: 599
+v1.0.6-snowfeather.robotics | downloads: 601
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 409
 v1.0.4-show.reputation | downloads: 54
@@ -250,7 +250,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 940
+v1.0.2-more.arfectas | downloads: 942
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 44431
+# TOTAL DOWNLOADS: 44439
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -320,8 +320,8 @@ landing.images.android 349
 landing.images.highres 768
 licenses 983
 mission.helper 1291
-more.arfectas 1206
-more.boarding.missions 1290
+more.arfectas 1208
+more.boarding.missions 1294
 more.person.ships 926
 navy.licenses 575
 no.more.mereti.mines 791
@@ -334,7 +334,7 @@ quarg.farm 1323
 real.fluff 93
 ship.merging 637
 show.reputation 1176
-snowfeather.robotics 1063
+snowfeather.robotics 1065
 space.fauna 804
 too.many.asteroids 1357
 tribute.republic 731
