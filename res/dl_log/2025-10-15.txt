@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-ship.merging | downloads: 53
+v1.0.4-ship.merging | downloads: 55
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 28
 v1.0.13-uniques | downloads: 125
@@ -8,7 +8,7 @@ v1.0.26-additional.command.buttons.radial | downloads: 162
 v1.0.8-mission.helper | downloads: 170
 v1.0.2-boss.loot | downloads: 159
 v1.0.3-flare.play | downloads: 221
-v1.0.6-quarg.farm | downloads: 324
+v1.0.6-quarg.farm | downloads: 326
 v1.0.2-ship.merging | downloads: 288
 v1.0.12-uniques | downloads: 218
 v1.0.5-control.station | downloads: 357
@@ -18,8 +18,8 @@ v1.1.2-disable.spaceport.repeatables | downloads: 265
 v1.0.7-coalition.shopping | downloads: 454
 v1.0.5-too.many.asteroids | downloads: 259
 v1.0.4-planet.map | downloads: 250
-v1.0.4-no.more.mereti.mines | downloads: 327
-v1.0.4-jump.gates | downloads: 434
+v1.0.4-no.more.mereti.mines | downloads: 329
+v1.0.4-jump.gates | downloads: 436
 v1.0.4-gegno.pirates | downloads: 509
 v1.0.3-tribute.republic | downloads: 336
 v1.0.3-more.arfectas | downloads: 265
@@ -250,7 +250,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 942
+v1.0.2-more.arfectas | downloads: 944
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -285,7 +285,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 284
-# TOTAL DOWNLOADS: 44550
+# TOTAL DOWNLOADS: 44560
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -312,7 +312,7 @@ gegno.pirates 1391
 hai.side.mission.unlocker 972
 highrollers.ltd 619
 human.labels 890
-jump.gates 1075
+jump.gates 1077
 kestrel.unlocks 974
 kor.efret.shipyard 1257
 landing.images 999
@@ -320,19 +320,19 @@ landing.images.android 349
 landing.images.highres 769
 licenses 986
 mission.helper 1294
-more.arfectas 1209
+more.arfectas 1211
 more.boarding.missions 1297
 more.person.ships 927
 navy.licenses 575
-no.more.mereti.mines 792
+no.more.mereti.mines 794
 outfits.weapon.slot 896
 paint.your.ships 1015
 pirate.warlords 3
 planet.map 699
 planet.pluto 190
-quarg.farm 1324
+quarg.farm 1326
 real.fluff 93
-ship.merging 642
+ship.merging 644
 show.reputation 1181
 snowfeather.robotics 1068
 space.fauna 805
