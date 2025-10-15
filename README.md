@@ -241,8 +241,8 @@
 		<td>957</td>
 		<td>964</td>
 		<td>969</td>
-		<td>977</td>
-		<td>+ 8</td>
+		<td>979</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -384,8 +384,8 @@
 		<td>1292</td>
 		<td>1310</td>
 		<td>1315</td>
-		<td>1331</td>
-		<td>+ 16</td>
+		<td>1333</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42638</td>
-		<td>438</td>
+		<td>42642</td>
+		<td>442</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>1292</td>
 		<td>1310</td>
 		<td>1315</td>
-		<td>1331</td>
-		<td>+ 16</td>
+		<td>1333</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -762,8 +762,8 @@
 		<td>957</td>
 		<td>964</td>
 		<td>969</td>
-		<td>977</td>
-		<td>+ 8</td>
+		<td>979</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42638</td>
-		<td>438</td>
+		<td>42642</td>
+		<td>442</td>
 	</tr>
 </table>
 </sub></sup>
