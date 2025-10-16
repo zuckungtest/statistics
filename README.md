@@ -461,8 +461,8 @@
 		<td>1133</td>
 		<td>1147</td>
 		<td>1162</td>
-		<td>1171</td>
-		<td>+ 9</td>
+		<td>1172</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43108</td>
-		<td>466</td>
+		<td>43109</td>
+		<td>467</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>1133</td>
 		<td>1147</td>
 		<td>1162</td>
-		<td>1171</td>
-		<td>+ 9</td>
+		<td>1172</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43108</td>
-		<td>466</td>
+		<td>43109</td>
+		<td>467</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>96</td>
 		<td>104</td>
 		<td>73</td>
-		<td>52</td>
+		<td>54</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>24</td>
 		<td>23</td>
 		<td>21</td>
-		<td>15</td>
+		<td>17</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10675</td>
-		<td>2506</td>
+		<td>10677</td>
+		<td>2508</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>176</td>
-		<td>60.65</td>
-		<td>14.24</td>
+		<td>60.66</td>
+		<td>14.25</td>
 		<td></td>
 		<td></td>
 	</tr>
