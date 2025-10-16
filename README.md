@@ -395,8 +395,8 @@
 		<td>614</td>
 		<td>627</td>
 		<td>647</td>
-		<td>648</td>
-		<td>+ 1</td>
+		<td>650</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42702</td>
-		<td>60</td>
+		<td>42704</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
@@ -916,8 +916,8 @@
 		<td>614</td>
 		<td>627</td>
 		<td>647</td>
-		<td>648</td>
-		<td>+ 1</td>
+		<td>650</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>42702</td>
-		<td>60</td>
+		<td>42704</td>
+		<td>62</td>
 	</tr>
 </table>
 </sub></sup>
