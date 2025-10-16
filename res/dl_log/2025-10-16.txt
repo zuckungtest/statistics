@@ -4,9 +4,9 @@ v1.0.4-ship.merging | downloads: 77
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 28
 v1.0.13-uniques | downloads: 140
-v1.0.6-control.station | downloads: 144
+v1.0.6-control.station | downloads: 146
 v1.0.26-additional.command.buttons.radial | downloads: 178
-v1.0.8-mission.helper | downloads: 184
+v1.0.8-mission.helper | downloads: 186
 v1.0.2-boss.loot | downloads: 177
 v1.0.3-flare.play | downloads: 235
 v1.0.6-quarg.farm | downloads: 346
@@ -79,7 +79,7 @@ v1.0.1-outfits.weapon.slot | downloads: 528
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 996
+v1.0.1-licenses | downloads: 998
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -286,7 +286,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 285
-# TOTAL DOWNLOADS: 45122
+# TOTAL DOWNLOADS: 45128
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -301,7 +301,7 @@ bunrodea.missions 1470
 captureable.person.ships 1100
 coalition.shopping 1218
 combat.ai 994
-control.station 1115
+control.station 1117
 devil-run.unhidden 66
 disable.person.ships 625
 disable.spaceport.repeatables 812
@@ -319,8 +319,8 @@ kor.efret.shipyard 1271
 landing.images 1009
 landing.images.android 349
 landing.images.highres 781
-licenses 998
-mission.helper 1308
+licenses 1000
+mission.helper 1310
 more.arfectas 1223
 more.boarding.missions 1309
 more.person.ships 942
