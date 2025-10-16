@@ -21,8 +21,8 @@
 		<td>1480</td>
 		<td>1490</td>
 		<td>1509</td>
-		<td>1524</td>
-		<td>+ 15</td>
+		<td>1525</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>651</td>
 		<td>659</td>
 		<td>673</td>
-		<td>686</td>
-		<td>+ 13</td>
+		<td>688</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>1434</td>
 		<td>1441</td>
 		<td>1457</td>
-		<td>1468</td>
-		<td>+ 11</td>
+		<td>1470</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>1372</td>
 		<td>1382</td>
 		<td>1392</td>
-		<td>1403</td>
-		<td>+ 11</td>
+		<td>1405</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -252,8 +252,8 @@
 		<td>1244</td>
 		<td>1248</td>
 		<td>1260</td>
-		<td>1269</td>
-		<td>+ 9</td>
+		<td>1271</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -384,8 +384,8 @@
 		<td>1310</td>
 		<td>1315</td>
 		<td>1333</td>
-		<td>1344</td>
-		<td>+ 11</td>
+		<td>1346</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -450,8 +450,8 @@
 		<td>722</td>
 		<td>728</td>
 		<td>737</td>
-		<td>746</td>
-		<td>+ 9</td>
+		<td>748</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -472,8 +472,8 @@
 		<td>22</td>
 		<td>28</td>
 		<td>28</td>
-		<td>29</td>
-		<td>+ 1</td>
+		<td>31</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43093</td>
-		<td>451</td>
+		<td>43108</td>
+		<td>466</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1480</td>
 		<td>1490</td>
 		<td>1509</td>
-		<td>1524</td>
-		<td>+ 15</td>
+		<td>1525</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>1434</td>
 		<td>1441</td>
 		<td>1457</td>
-		<td>1468</td>
-		<td>+ 11</td>
+		<td>1470</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -553,8 +553,8 @@
 		<td>1372</td>
 		<td>1382</td>
 		<td>1392</td>
-		<td>1403</td>
-		<td>+ 11</td>
+		<td>1405</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -575,8 +575,8 @@
 		<td>1310</td>
 		<td>1315</td>
 		<td>1333</td>
-		<td>1344</td>
-		<td>+ 11</td>
+		<td>1346</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -608,8 +608,8 @@
 		<td>1244</td>
 		<td>1248</td>
 		<td>1260</td>
-		<td>1269</td>
-		<td>+ 9</td>
+		<td>1271</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -883,8 +883,8 @@
 		<td>722</td>
 		<td>728</td>
 		<td>737</td>
-		<td>746</td>
-		<td>+ 9</td>
+		<td>748</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -905,8 +905,8 @@
 		<td>651</td>
 		<td>659</td>
 		<td>673</td>
-		<td>686</td>
-		<td>+ 13</td>
+		<td>688</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -960,8 +960,8 @@
 		<td>22</td>
 		<td>28</td>
 		<td>28</td>
-		<td>29</td>
-		<td>+ 1</td>
+		<td>31</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43093</td>
-		<td>451</td>
+		<td>43108</td>
+		<td>466</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>96</td>
 		<td>104</td>
 		<td>73</td>
-		<td>49</td>
+		<td>52</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>24</td>
 		<td>23</td>
 		<td>21</td>
-		<td>12</td>
+		<td>15</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10672</td>
-		<td>2503</td>
+		<td>10675</td>
+		<td>2506</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>176</td>
-		<td>60.64</td>
-		<td>14.22</td>
+		<td>60.65</td>
+		<td>14.24</td>
 		<td></td>
 		<td></td>
 	</tr>
