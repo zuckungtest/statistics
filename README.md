@@ -120,8 +120,8 @@
 		<td>1078</td>
 		<td>1089</td>
 		<td>1104</td>
-		<td>1115</td>
-		<td>+ 11</td>
+		<td>1117</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -285,8 +285,8 @@
 		<td>968</td>
 		<td>975</td>
 		<td>987</td>
-		<td>998</td>
-		<td>+ 11</td>
+		<td>1000</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>1278</td>
 		<td>1287</td>
 		<td>1297</td>
-		<td>1308</td>
-		<td>+ 11</td>
+		<td>1310</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43109</td>
-		<td>467</td>
+		<td>43115</td>
+		<td>473</td>
 	</tr>
 </table>
 </sub></sup>
@@ -579,6 +579,17 @@
 		<td>+ 13</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>1242</td>
+		<td>1255</td>
+		<td>1265</td>
+		<td>1278</td>
+		<td>1287</td>
+		<td>1297</td>
+		<td>1310</td>
+		<td>+ 13</td>
+	</tr>
+	<tr>
 		<td>more.boarding.missions</td>
 		<td>1251</td>
 		<td>1261</td>
@@ -587,17 +598,6 @@
 		<td>1285</td>
 		<td>1298</td>
 		<td>1309</td>
-		<td>+ 11</td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>1242</td>
-		<td>1255</td>
-		<td>1265</td>
-		<td>1278</td>
-		<td>1287</td>
-		<td>1297</td>
-		<td>1308</td>
 		<td>+ 11</td>
 	</tr>
 	<tr>
@@ -674,8 +674,8 @@
 		<td>1078</td>
 		<td>1089</td>
 		<td>1104</td>
-		<td>1115</td>
-		<td>+ 11</td>
+		<td>1117</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -751,8 +751,8 @@
 		<td>968</td>
 		<td>975</td>
 		<td>987</td>
-		<td>998</td>
-		<td>+ 11</td>
+		<td>1000</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43109</td>
-		<td>467</td>
+		<td>43115</td>
+		<td>473</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>96</td>
 		<td>104</td>
 		<td>73</td>
-		<td>55</td>
+		<td>64</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>24</td>
 		<td>23</td>
 		<td>21</td>
-		<td>17</td>
+		<td>18</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10678</td>
-		<td>2508</td>
+		<td>10687</td>
+		<td>2509</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>176</td>
-		<td>60.67</td>
-		<td>14.25</td>
+		<td>60.72</td>
+		<td>14.26</td>
 		<td></td>
 		<td></td>
 	</tr>
