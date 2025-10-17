@@ -76,8 +76,8 @@
 		<td>1441</td>
 		<td>1457</td>
 		<td>1470</td>
-		<td>1478</td>
-		<td>+ 8</td>
+		<td>1480</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -175,8 +175,8 @@
 		<td>1574</td>
 		<td>1586</td>
 		<td>1603</td>
-		<td>1613</td>
-		<td>+ 10</td>
+		<td>1615</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43475</td>
-		<td>360</td>
+		<td>43479</td>
+		<td>364</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1574</td>
 		<td>1586</td>
 		<td>1603</td>
-		<td>1613</td>
-		<td>+ 10</td>
+		<td>1615</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>1441</td>
 		<td>1457</td>
 		<td>1470</td>
-		<td>1478</td>
-		<td>+ 8</td>
+		<td>1480</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43475</td>
-		<td>360</td>
+		<td>43479</td>
+		<td>364</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>104</td>
 		<td>73</td>
 		<td>64</td>
-		<td>42</td>
+		<td>43</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>23</td>
 		<td>21</td>
 		<td>18</td>
-		<td>15</td>
+		<td>16</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10729</td>
-		<td>2524</td>
+		<td>10730</td>
+		<td>2525</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1041,7 +1041,7 @@
 	<tr>
 		<td>177</td>
 		<td>60.62</td>
-		<td>14.26</td>
+		<td>14.27</td>
 		<td></td>
 		<td></td>
 	</tr>
