@@ -33,7 +33,7 @@ v1.0.1-disable.person.ships | downloads: 264
 v1.0.5-landing.images | downloads: 446
 v1.0.3-landing.images.highres | downloads: 385
 v1.0.25-additional.command.buttons.radial | downloads: 329
-v1.1.9-galactic.capital.investment | downloads: 604
+v1.1.9-galactic.capital.investment | downloads: 606
 v1.0.1-ship.merging | downloads: 273
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
@@ -52,7 +52,7 @@ v1.0.7-human.labels | downloads: 505
 v1.0.5-show.reputation | downloads: 642
 v1.0.3-paint.your.ships | downloads: 572
 v1.1.9-captureable.person.ships | downloads: 584
-v1.0.9-bunrodea.missions | downloads: 755
+v1.0.9-bunrodea.missions | downloads: 757
 v1.0.5-better.starts | downloads: 667
 v1.0.4-control.station | downloads: 184
 v1.0.6-mission.helper | downloads: 65
@@ -286,7 +286,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 285
-# TOTAL DOWNLOADS: 45489
+# TOTAL DOWNLOADS: 45493
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -297,7 +297,7 @@ automata.in.human.space 950
 avgi.licenses 229
 better.starts 1212
 boss.loot 696
-bunrodea.missions 1478
+bunrodea.missions 1480
 captureable.person.ships 1109
 coalition.shopping 1229
 combat.ai 1004
@@ -308,7 +308,7 @@ disable.spaceport.repeatables 820
 expert.crew.members 1430
 flare.play 589
 free.worlds.5.years.later 371
-galactic.capital.investment 1613
+galactic.capital.investment 1615
 gegno.pirates 1413
 hai.side.mission.unlocker 993
 highrollers.ltd 636
