@@ -65,8 +65,8 @@
 		<td>659</td>
 		<td>673</td>
 		<td>688</td>
-		<td>701</td>
-		<td>+ 13</td>
+		<td>702</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -120,8 +120,8 @@
 		<td>1089</td>
 		<td>1104</td>
 		<td>1117</td>
-		<td>1132</td>
-		<td>+ 15</td>
+		<td>1133</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -296,8 +296,8 @@
 		<td>1287</td>
 		<td>1297</td>
 		<td>1310</td>
-		<td>1325</td>
-		<td>+ 15</td>
+		<td>1326</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43694</td>
-		<td>579</td>
+		<td>43697</td>
+		<td>582</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>1287</td>
 		<td>1297</td>
 		<td>1310</td>
-		<td>1325</td>
-		<td>+ 15</td>
+		<td>1326</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -674,8 +674,8 @@
 		<td>1089</td>
 		<td>1104</td>
 		<td>1117</td>
-		<td>1132</td>
-		<td>+ 15</td>
+		<td>1133</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -905,8 +905,8 @@
 		<td>659</td>
 		<td>673</td>
 		<td>688</td>
-		<td>701</td>
-		<td>+ 13</td>
+		<td>702</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43694</td>
-		<td>579</td>
+		<td>43697</td>
+		<td>582</td>
 	</tr>
 </table>
 </sub></sup>
