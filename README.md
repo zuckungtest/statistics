@@ -21,8 +21,8 @@
 		<td>1490</td>
 		<td>1509</td>
 		<td>1525</td>
-		<td>1530</td>
-		<td>+ 5</td>
+		<td>1532</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -87,8 +87,8 @@
 		<td>1085</td>
 		<td>1091</td>
 		<td>1100</td>
-		<td>1102</td>
-		<td>+ 2</td>
+		<td>1104</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -252,8 +252,8 @@
 		<td>1248</td>
 		<td>1260</td>
 		<td>1271</td>
-		<td>1277</td>
-		<td>+ 6</td>
+		<td>1279</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43250</td>
-		<td>135</td>
+		<td>43256</td>
+		<td>141</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>1490</td>
 		<td>1509</td>
 		<td>1525</td>
-		<td>1530</td>
-		<td>+ 5</td>
+		<td>1532</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -608,8 +608,8 @@
 		<td>1248</td>
 		<td>1260</td>
 		<td>1271</td>
-		<td>1277</td>
-		<td>+ 6</td>
+		<td>1279</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -685,8 +685,8 @@
 		<td>1085</td>
 		<td>1091</td>
 		<td>1100</td>
-		<td>1102</td>
-		<td>+ 2</td>
+		<td>1104</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43250</td>
-		<td>135</td>
+		<td>43256</td>
+		<td>141</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>104</td>
 		<td>73</td>
 		<td>64</td>
-		<td>35</td>
+		<td>39</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>23</td>
 		<td>21</td>
 		<td>18</td>
-		<td>11</td>
+		<td>13</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10722</td>
-		<td>2520</td>
+		<td>10726</td>
+		<td>2522</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>177</td>
-		<td>60.58</td>
-		<td>14.24</td>
+		<td>60.60</td>
+		<td>14.25</td>
 		<td></td>
 		<td></td>
 	</tr>
