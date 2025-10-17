@@ -98,8 +98,8 @@
 		<td>1195</td>
 		<td>1207</td>
 		<td>1218</td>
-		<td>1221</td>
-		<td>+ 3</td>
+		<td>1224</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43202</td>
-		<td>87</td>
+		<td>43205</td>
+		<td>90</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>1195</td>
 		<td>1207</td>
 		<td>1218</td>
-		<td>1221</td>
-		<td>+ 3</td>
+		<td>1224</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43202</td>
-		<td>87</td>
+		<td>43205</td>
+		<td>90</td>
 	</tr>
 </table>
 </sub></sup>
