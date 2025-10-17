@@ -296,8 +296,8 @@
 		<td>1287</td>
 		<td>1297</td>
 		<td>1310</td>
-		<td>1323</td>
-		<td>+ 13</td>
+		<td>1325</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43692</td>
-		<td>577</td>
+		<td>43694</td>
+		<td>579</td>
 	</tr>
 </table>
 </sub></sup>
@@ -579,6 +579,17 @@
 		<td>+ 13</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>1255</td>
+		<td>1265</td>
+		<td>1278</td>
+		<td>1287</td>
+		<td>1297</td>
+		<td>1310</td>
+		<td>1325</td>
+		<td>+ 15</td>
+	</tr>
+	<tr>
 		<td>more.boarding.missions</td>
 		<td>1261</td>
 		<td>1269</td>
@@ -588,17 +599,6 @@
 		<td>1309</td>
 		<td>1323</td>
 		<td>+ 14</td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>1255</td>
-		<td>1265</td>
-		<td>1278</td>
-		<td>1287</td>
-		<td>1297</td>
-		<td>1310</td>
-		<td>1323</td>
-		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43692</td>
-		<td>577</td>
+		<td>43694</td>
+		<td>579</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>104</td>
 		<td>73</td>
 		<td>64</td>
-		<td>61</td>
+		<td>66</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>23</td>
 		<td>21</td>
 		<td>18</td>
-		<td>23</td>
+		<td>24</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10748</td>
-		<td>2532</td>
+		<td>10753</td>
+		<td>2533</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,7 +1040,7 @@
 	</tr>
 	<tr>
 		<td>177</td>
-		<td>60.72</td>
+		<td>60.75</td>
 		<td>14.31</td>
 		<td></td>
 		<td></td>
