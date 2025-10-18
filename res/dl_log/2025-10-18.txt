@@ -20,7 +20,7 @@ v1.0.7-coalition.shopping | downloads: 485
 v1.0.5-too.many.asteroids | downloads: 280
 v1.0.4-planet.map | downloads: 272
 v1.0.4-no.more.mereti.mines | downloads: 357
-v1.0.4-jump.gates | downloads: 466
+v1.0.4-jump.gates | downloads: 467
 v1.0.4-gegno.pirates | downloads: 540
 v1.0.3-tribute.republic | downloads: 364
 v1.0.3-more.arfectas | downloads: 286
@@ -251,7 +251,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 955
+v1.0.2-more.arfectas | downloads: 957
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -286,7 +286,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 285
-# TOTAL DOWNLOADS: 45820
+# TOTAL DOWNLOADS: 45823
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -313,7 +313,7 @@ gegno.pirates 1422
 hai.side.mission.unlocker 1000
 highrollers.ltd 643
 human.labels 917
-jump.gates 1107
+jump.gates 1108
 kestrel.unlocks 1006
 kor.efret.shipyard 1292
 landing.images 1028
@@ -321,7 +321,7 @@ landing.images.android 349
 landing.images.highres 795
 licenses 1016
 mission.helper 1327
-more.arfectas 1243
+more.arfectas 1245
 more.boarding.missions 1327
 more.person.ships 957
 navy.licenses 575
