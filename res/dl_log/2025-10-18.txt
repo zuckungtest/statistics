@@ -5,9 +5,9 @@ v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 28
 v1.0.13-uniques | downloads: 168
 v1.0.6-control.station | downloads: 175
-v1.0.26-additional.command.buttons.radial | downloads: 216
+v1.0.26-additional.command.buttons.radial | downloads: 218
 v1.0.8-mission.helper | downloads: 216
-v1.0.2-boss.loot | downloads: 201
+v1.0.2-boss.loot | downloads: 203
 v1.0.3-flare.play | downloads: 260
 v1.0.6-quarg.farm | downloads: 375
 v1.0.2-ship.merging | downloads: 288
@@ -286,17 +286,17 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 285
-# TOTAL DOWNLOADS: 46298
+# TOTAL DOWNLOADS: 46302
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1563
+additional.command.buttons.radial 1565
 automata.destruction.0percent 1117
 automata.in.human.space 970
 avgi.licenses 229
 better.starts 1230
-boss.loot 713
+boss.loot 715
 bunrodea.missions 1499
 captureable.person.ships 1127
 coalition.shopping 1246
