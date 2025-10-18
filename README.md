@@ -32,8 +32,8 @@
 		<td>1078</td>
 		<td>1089</td>
 		<td>1103</td>
-		<td>1114</td>
-		<td>+ 11</td>
+		<td>1115</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -285,8 +285,8 @@
 		<td>987</td>
 		<td>1000</td>
 		<td>1012</td>
-		<td>1026</td>
-		<td>+ 14</td>
+		<td>1027</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>1297</td>
 		<td>1310</td>
 		<td>1326</td>
-		<td>1336</td>
-		<td>+ 10</td>
+		<td>1338</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>44195</td>
-		<td>498</td>
+		<td>44199</td>
+		<td>502</td>
 	</tr>
 </table>
 </sub></sup>
@@ -579,6 +579,17 @@
 		<td>+ 14</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>1265</td>
+		<td>1278</td>
+		<td>1287</td>
+		<td>1297</td>
+		<td>1310</td>
+		<td>1326</td>
+		<td>1338</td>
+		<td>+ 12</td>
+	</tr>
+	<tr>
 		<td>more.boarding.missions</td>
 		<td>1269</td>
 		<td>1278</td>
@@ -588,17 +599,6 @@
 		<td>1323</td>
 		<td>1337</td>
 		<td>+ 14</td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>1265</td>
-		<td>1278</td>
-		<td>1287</td>
-		<td>1297</td>
-		<td>1310</td>
-		<td>1326</td>
-		<td>1336</td>
-		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -707,8 +707,8 @@
 		<td>1078</td>
 		<td>1089</td>
 		<td>1103</td>
-		<td>1114</td>
-		<td>+ 11</td>
+		<td>1115</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -751,8 +751,8 @@
 		<td>987</td>
 		<td>1000</td>
 		<td>1012</td>
-		<td>1026</td>
-		<td>+ 14</td>
+		<td>1027</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>44195</td>
-		<td>498</td>
+		<td>44199</td>
+		<td>502</td>
 	</tr>
 </table>
 </sub></sup>
