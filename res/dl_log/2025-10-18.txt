@@ -7,7 +7,7 @@ v1.0.13-uniques | downloads: 169
 v1.0.6-control.station | downloads: 176
 v1.0.26-additional.command.buttons.radial | downloads: 223
 v1.0.8-mission.helper | downloads: 217
-v1.0.2-boss.loot | downloads: 206
+v1.0.2-boss.loot | downloads: 207
 v1.0.3-flare.play | downloads: 263
 v1.0.6-quarg.farm | downloads: 376
 v1.0.2-ship.merging | downloads: 288
@@ -16,7 +16,7 @@ v1.0.5-control.station | downloads: 358
 v1.0.1-boss.loot | downloads: 319
 v1.1.3-space.fauna | downloads: 403
 v1.1.2-disable.spaceport.repeatables | downloads: 296
-v1.0.7-coalition.shopping | downloads: 495
+v1.0.7-coalition.shopping | downloads: 496
 v1.0.5-too.many.asteroids | downloads: 291
 v1.0.4-planet.map | downloads: 283
 v1.0.4-no.more.mereti.mines | downloads: 369
@@ -286,7 +286,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 285
-# TOTAL DOWNLOADS: 46370
+# TOTAL DOWNLOADS: 46372
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -296,10 +296,10 @@ automata.destruction.0percent 1118
 automata.in.human.space 971
 avgi.licenses 229
 better.starts 1233
-boss.loot 718
+boss.loot 719
 bunrodea.missions 1501
 captureable.person.ships 1130
-coalition.shopping 1247
+coalition.shopping 1248
 combat.ai 1026
 control.station 1147
 devil-run.unhidden 66
