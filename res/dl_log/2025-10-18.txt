@@ -1,15 +1,15 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-vague.improvements | downloads: 6
-v1.0.4-ship.merging | downloads: 100
+v1.0.1-vague.improvements | downloads: 8
+v1.0.4-ship.merging | downloads: 102
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 28
 v1.0.13-uniques | downloads: 158
 v1.0.6-control.station | downloads: 165
-v1.0.26-additional.command.buttons.radial | downloads: 202
-v1.0.8-mission.helper | downloads: 204
+v1.0.26-additional.command.buttons.radial | downloads: 204
+v1.0.8-mission.helper | downloads: 206
 v1.0.2-boss.loot | downloads: 193
 v1.0.3-flare.play | downloads: 250
-v1.0.6-quarg.farm | downloads: 362
+v1.0.6-quarg.farm | downloads: 364
 v1.0.2-ship.merging | downloads: 288
 v1.0.12-uniques | downloads: 218
 v1.0.5-control.station | downloads: 358
@@ -20,8 +20,8 @@ v1.0.7-coalition.shopping | downloads: 486
 v1.0.5-too.many.asteroids | downloads: 281
 v1.0.4-planet.map | downloads: 273
 v1.0.4-no.more.mereti.mines | downloads: 358
-v1.0.4-jump.gates | downloads: 468
-v1.0.4-gegno.pirates | downloads: 541
+v1.0.4-jump.gates | downloads: 470
+v1.0.4-gegno.pirates | downloads: 543
 v1.0.3-tribute.republic | downloads: 365
 v1.0.3-more.arfectas | downloads: 287
 v1.0.3-kor.efret.shipyard | downloads: 492
@@ -33,7 +33,7 @@ v1.0.1-disable.person.ships | downloads: 270
 v1.0.5-landing.images | downloads: 454
 v1.0.3-landing.images.highres | downloads: 393
 v1.0.25-additional.command.buttons.radial | downloads: 329
-v1.1.9-galactic.capital.investment | downloads: 615
+v1.1.9-galactic.capital.investment | downloads: 617
 v1.0.1-ship.merging | downloads: 273
 v1.0.0-ship.merging | downloads: 13
 v1.0.24-additional.command.buttons.radial | downloads: 60
@@ -118,7 +118,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 142
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 5
-v1.0.4-too.many.asteroids | downloads: 779
+v1.0.4-too.many.asteroids | downloads: 781
 v1.0.3-show.reputation | downloads: 258
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 330
@@ -286,12 +286,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 285
-# TOTAL DOWNLOADS: 45864
+# TOTAL DOWNLOADS: 45882
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 1549
+additional.command.buttons.radial 1551
 automata.destruction.0percent 1106
 automata.in.human.space 960
 avgi.licenses 229
@@ -308,19 +308,19 @@ disable.spaceport.repeatables 828
 expert.crew.members 1439
 flare.play 597
 free.worlds.5.years.later 371
-galactic.capital.investment 1624
-gegno.pirates 1423
+galactic.capital.investment 1626
+gegno.pirates 1425
 hai.side.mission.unlocker 1001
 highrollers.ltd 644
 human.labels 918
-jump.gates 1109
+jump.gates 1111
 kestrel.unlocks 1007
 kor.efret.shipyard 1293
 landing.images 1029
 landing.images.android 349
 landing.images.highres 796
 licenses 1017
-mission.helper 1328
+mission.helper 1330
 more.arfectas 1246
 more.boarding.missions 1328
 more.person.ships 958
@@ -331,14 +331,14 @@ paint.your.ships 1046
 pirate.warlords 3
 planet.map 725
 planet.pluto 191
-quarg.farm 1362
+quarg.farm 1364
 real.fluff 93
-ship.merging 689
+ship.merging 691
 show.reputation 1210
 snowfeather.robotics 1100
 space.fauna 836
-too.many.asteroids 1391
+too.many.asteroids 1393
 tribute.republic 763
 unique.fix 44
 uniques 1190
-vague.improvements 34
+vague.improvements 36
