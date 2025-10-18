@@ -6,7 +6,7 @@ v1.0.0-vague.improvements | downloads: 28
 v1.0.13-uniques | downloads: 166
 v1.0.6-control.station | downloads: 173
 v1.0.26-additional.command.buttons.radial | downloads: 214
-v1.0.8-mission.helper | downloads: 212
+v1.0.8-mission.helper | downloads: 214
 v1.0.2-boss.loot | downloads: 199
 v1.0.3-flare.play | downloads: 258
 v1.0.6-quarg.farm | downloads: 373
@@ -79,7 +79,7 @@ v1.0.1-outfits.weapon.slot | downloads: 553
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 1024
+v1.0.1-licenses | downloads: 1025
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -222,7 +222,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 809
+v1.0.1-automata.destruction.0percent | downloads: 810
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -286,13 +286,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 285
-# TOTAL DOWNLOADS: 46209
+# TOTAL DOWNLOADS: 46213
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 1561
-automata.destruction.0percent 1114
+automata.destruction.0percent 1115
 automata.in.human.space 968
 avgi.licenses 229
 better.starts 1228
@@ -319,8 +319,8 @@ kor.efret.shipyard 1301
 landing.images 1037
 landing.images.android 349
 landing.images.highres 805
-licenses 1026
-mission.helper 1336
+licenses 1027
+mission.helper 1338
 more.arfectas 1254
 more.boarding.missions 1337
 more.person.ships 966
