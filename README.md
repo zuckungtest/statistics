@@ -54,8 +54,8 @@
 		<td>1195</td>
 		<td>1205</td>
 		<td>1217</td>
-		<td>1231</td>
-		<td>+ 14</td>
+		<td>1233</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>673</td>
 		<td>688</td>
 		<td>702</td>
-		<td>716</td>
-		<td>+ 14</td>
+		<td>718</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -87,8 +87,8 @@
 		<td>1091</td>
 		<td>1100</td>
 		<td>1114</td>
-		<td>1128</td>
-		<td>+ 14</td>
+		<td>1130</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -153,8 +153,8 @@
 		<td>1410</td>
 		<td>1421</td>
 		<td>1435</td>
-		<td>1448</td>
-		<td>+ 13</td>
+		<td>1450</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -164,8 +164,8 @@
 		<td>569</td>
 		<td>582</td>
 		<td>594</td>
-		<td>608</td>
-		<td>+ 14</td>
+		<td>610</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -175,8 +175,8 @@
 		<td>1586</td>
 		<td>1603</td>
 		<td>1620</td>
-		<td>1636</td>
-		<td>+ 16</td>
+		<td>1638</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>1080</td>
 		<td>1091</td>
 		<td>1105</td>
-		<td>1122</td>
-		<td>+ 17</td>
+		<td>1125</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>44341</td>
-		<td>644</td>
+		<td>44356</td>
+		<td>659</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>1586</td>
 		<td>1603</td>
 		<td>1620</td>
-		<td>1636</td>
-		<td>+ 16</td>
+		<td>1638</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>1410</td>
 		<td>1421</td>
 		<td>1435</td>
-		<td>1448</td>
-		<td>+ 13</td>
+		<td>1450</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -641,8 +641,8 @@
 		<td>1195</td>
 		<td>1205</td>
 		<td>1217</td>
-		<td>1231</td>
-		<td>+ 14</td>
+		<td>1233</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -685,8 +685,8 @@
 		<td>1091</td>
 		<td>1100</td>
 		<td>1114</td>
-		<td>1128</td>
-		<td>+ 14</td>
+		<td>1130</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -696,8 +696,8 @@
 		<td>1080</td>
 		<td>1091</td>
 		<td>1105</td>
-		<td>1122</td>
-		<td>+ 17</td>
+		<td>1125</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -905,8 +905,8 @@
 		<td>673</td>
 		<td>688</td>
 		<td>702</td>
-		<td>716</td>
-		<td>+ 14</td>
+		<td>718</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -949,8 +949,8 @@
 		<td>569</td>
 		<td>582</td>
 		<td>594</td>
-		<td>608</td>
-		<td>+ 14</td>
+		<td>610</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>44341</td>
-		<td>644</td>
+		<td>44356</td>
+		<td>659</td>
 	</tr>
 </table>
 </sub></sup>
