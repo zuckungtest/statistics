@@ -65,8 +65,8 @@
 		<td>673</td>
 		<td>688</td>
 		<td>702</td>
-		<td>718</td>
-		<td>+ 16</td>
+		<td>719</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -98,8 +98,8 @@
 		<td>1207</td>
 		<td>1218</td>
 		<td>1234</td>
-		<td>1247</td>
-		<td>+ 13</td>
+		<td>1248</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>44356</td>
-		<td>659</td>
+		<td>44358</td>
+		<td>661</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>1207</td>
 		<td>1218</td>
 		<td>1234</td>
-		<td>1247</td>
-		<td>+ 13</td>
+		<td>1248</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -905,8 +905,8 @@
 		<td>673</td>
 		<td>688</td>
 		<td>702</td>
-		<td>718</td>
-		<td>+ 16</td>
+		<td>719</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>44356</td>
-		<td>659</td>
+		<td>44358</td>
+		<td>661</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>73</td>
 		<td>64</td>
 		<td>67</td>
-		<td>128</td>
+		<td>134</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>21</td>
 		<td>18</td>
 		<td>25</td>
-		<td>31</td>
+		<td>33</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10882</td>
-		<td>2565</td>
+		<td>10888</td>
+		<td>2567</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>178</td>
-		<td>61.13</td>
-		<td>14.41</td>
+		<td>61.17</td>
+		<td>14.42</td>
 		<td></td>
 		<td></td>
 	</tr>
