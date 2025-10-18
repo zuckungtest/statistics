@@ -109,8 +109,8 @@
 		<td>977</td>
 		<td>994</td>
 		<td>1009</td>
-		<td>1011</td>
-		<td>+ 2</td>
+		<td>1013</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -395,8 +395,8 @@
 		<td>647</td>
 		<td>666</td>
 		<td>681</td>
-		<td>687</td>
-		<td>+ 6</td>
+		<td>688</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43803</td>
-		<td>106</td>
+		<td>43806</td>
+		<td>109</td>
 	</tr>
 </table>
 </sub></sup>
@@ -762,8 +762,8 @@
 		<td>977</td>
 		<td>994</td>
 		<td>1009</td>
-		<td>1011</td>
-		<td>+ 2</td>
+		<td>1013</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -916,8 +916,8 @@
 		<td>647</td>
 		<td>666</td>
 		<td>681</td>
-		<td>687</td>
-		<td>+ 6</td>
+		<td>688</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>43803</td>
-		<td>106</td>
+		<td>43806</td>
+		<td>109</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>73</td>
 		<td>64</td>
 		<td>67</td>
-		<td>11</td>
+		<td>30</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>21</td>
 		<td>18</td>
 		<td>25</td>
-		<td>5</td>
+		<td>10</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-04-23</td>
-		<td>10765</td>
-		<td>2539</td>
+		<td>10784</td>
+		<td>2544</td>
 		<td>284</td>
 		<td>38</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>178</td>
-		<td>60.48</td>
-		<td>14.26</td>
+		<td>60.58</td>
+		<td>14.29</td>
 		<td></td>
 		<td></td>
 	</tr>
