@@ -1,5 +1,5 @@
 # repo : organisation/pluginrepo
-# counterbg : _svgblue
+# counterbg : _svgblue OR _svgred OR _svggreen OR _svgpurple OR any picture in /pics/ with the same dimensions
 
 repo : zuckung/endless-sky-plugins
 counterbg : _svgblue
