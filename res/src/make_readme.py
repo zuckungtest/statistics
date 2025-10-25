@@ -7,10 +7,11 @@ from datetime import datetime, timedelta
 
 
 def create_image(countnumber, plugin):
-	im = PIL.Image.open('pics/new.png')
-	font = ImageFont.truetype(font=iFont, size=12)
+	im = PIL.Image.open('pics/' + counterbg + '.png')
+	font = ImageFont.truetype(font=iFont, size=60)
 	draw = ImageDraw.Draw(im, 'RGBA')
-	draw.text((5, 2) , 'downloads: ' + countnumber, fill=(255,255,255), font=font)
+	draw.text((25, 15) , 'downloads:', fill=(255,255,255), font=font)
+	draw.text((380, 15) ,  countnumber, fill=(255,255,255), font=font)
 	im = im.convert('RGB')
 	im.save('pics/' + plugin + '.png')
 
@@ -267,7 +268,7 @@ def write_users():
 				
 		 
 def run():
-	global iFont, repo
+	global iFont, repo, counterbg
 	iFont = 'DejaVuSans.ttf'
 	if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src': # check for local testing
 		os.chdir('../../')
@@ -277,6 +278,8 @@ def run():
 	for line in lines:
 		if line.startswith('repo :'):
 			repo = line[7:].strip()
+		elif line.startswith('counterbg : '):
+			counterbg = line[12:].strip()
 	write_readme()
 	write_users()
 
