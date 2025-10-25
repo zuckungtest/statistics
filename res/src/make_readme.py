@@ -5,7 +5,6 @@ from datetime import datetime, timedelta
 
 
 
-
 def create_image(countnumber, plugin):
 	im = PIL.Image.open('pics/' + counterbg + '.png')
 	font = ImageFont.truetype(font=iFont, size=60)
@@ -33,8 +32,6 @@ def write_readme():
 		logfiles.pop(0)
 	# get the relevant part of the sourcefiles
 	relevant = ['', '', '', '', '', '', '', ]
-	# plugins to ignore
-	ignorelist = ['pirate.warlords', 'unique.fix', 'real.fluff', 'devil-run.unhidden', 'free.worlds.5.years.later', 'planet.pluto', 'additional.command.buttons', 'avgi.licenses', 'navy.licenses', 'landing.images.android']
 	for i in range(0,7):
 		relevant[i] += logfiles[i] + '\n'
 		with open('res/dl_log/' + logfiles[i], 'r') as sourcefile:
@@ -91,13 +88,13 @@ def write_readme():
 				target.writelines('<table>\n')
 				target.writelines('\t<tr>\n')
 				target.writelines('\t\t<td></td>\n')
-				target.writelines('\t\t<td>' + rows1[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows2[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows3[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows4[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows5[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows6[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows7[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows1[0].replace('.txt', '').replace(rows1[0][5:], '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows2[0].replace('.txt', '').replace(rows2[0][5:], '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows3[0].replace('.txt', '').replace(rows3[0][5:], '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows4[0].replace('.txt', '').replace(rows4[0][5:], '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows5[0].replace('.txt', '').replace(rows5[0][5:], '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows6[0].replace('.txt', '').replace(rows6[0][5:], '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows7[0].replace('.txt', '').replace(rows7[0][5:], '')  + '</td>\n')
 				target.writelines('\t\t<td>today +</td>\n')
 				target.writelines('\t</tr>\n')
 				first = False
@@ -138,13 +135,13 @@ def write_readme():
 				target.writelines('<table>\n')
 				target.writelines('\t<tr>\n')
 				target.writelines('\t\t<td></td>\n')
-				target.writelines('\t\t<td>' + rows1[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows2[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows3[0].replace('.txt', '').replace('2024-', '') + '</td>\n')
-				target.writelines('\t\t<td>' + rows4[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows5[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows6[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
-				target.writelines('\t\t<td>' + rows7[0].replace('.txt', '').replace('2024-', '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows1[0].replace('.txt', '').replace(rows1[0][5:], '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows2[0].replace('.txt', '').replace(rows2[0][5:], '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows3[0].replace('.txt', '').replace(rows3[0][5:], '') + '</td>\n')
+				target.writelines('\t\t<td>' + rows4[0].replace('.txt', '').replace(rows4[0][5:], '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows5[0].replace('.txt', '').replace(rows5[0][5:], '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows6[0].replace('.txt', '').replace(rows6[0][5:], '')  + '</td>\n')
+				target.writelines('\t\t<td>' + rows7[0].replace('.txt', '').replace(rows7[0][5:], '')  + '</td>\n')
 				target.writelines('\t\t<td>today +</td>\n')
 				target.writelines('\t</tr>\n')
 				first = False
@@ -268,9 +265,11 @@ def write_users():
 				
 		 
 def run():
-	global iFont, repo, counterbg
+	global iFont, repo, counterbg, ignorelist
 	iFont = 'DejaVuSans.ttf'
-	if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src': # check for local testing
+	ignorelist = ['pirate.warlords', 'unique.fix', 'real.fluff', 'devil-run.unhidden', 'free.worlds.5.years.later',
+				  'planet.pluto', 'additional.command.buttons', 'avgi.licenses', 'navy.licenses', 'landing.images.android']
+	if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src': # check for local android testing
 		os.chdir('../../')
 		iFont = '/system/fonts/Roboto-Regular.ttf' # android font
 	with open('res/config.txt', 'r') as s:
