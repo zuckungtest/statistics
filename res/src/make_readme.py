@@ -59,7 +59,7 @@ def write_readme():
 	rows7 = relevant[6].split('\n')
 	# write the readme
 	with open('README.md', 'w') as target:
-		target.writelines('<h6>Plugin download count for ' + repo + '</h6><br>\n<br>\n')
+		target.writelines('<h6>Plugin download count for https://github.com/' + repo + '</h6><br>\n<br>\n')
 		# get a nested list, sorted by latest download anount
 		rows7split = [[] for i in range(len(rows7) - 1)]
 		first = True
