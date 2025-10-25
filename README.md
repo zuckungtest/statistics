@@ -483,7 +483,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>0</td>
+		<td>48171</td>
 		<td>41</td>
 	</tr>
 </table>
@@ -971,7 +971,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>0</td>
+		<td>48171</td>
 		<td>41</td>
 	</tr>
 </table>
