@@ -1,4 +1,4 @@
-<h6>Plugin download count for https://github.com/Nova1422/plugins</h6><br>
+<h6>Plugin download count for zuckung/endless-sky-plugins</h6><br>
 <br>
 <h6>Plugin download count, sorted by name</h6><sub><sup><br>
 <table>
@@ -24,8 +24,6 @@
 		<td>93</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
 		<td>1676</td>
@@ -35,8 +33,6 @@
 		<td>1676</td>
 		<td>1676</td>
 		<td>1676</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -50,8 +46,6 @@
 		<td>1207</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
 		<td>1058</td>
@@ -61,8 +55,6 @@
 		<td>1058</td>
 		<td>1058</td>
 		<td>1058</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -76,8 +68,6 @@
 		<td>229</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>better.starts</td>
 		<td>1337</td>
@@ -87,8 +77,6 @@
 		<td>1337</td>
 		<td>1337</td>
 		<td>1337</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -102,8 +90,6 @@
 		<td>811</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
 		<td>1589</td>
@@ -113,8 +99,6 @@
 		<td>1589</td>
 		<td>1589</td>
 		<td>1589</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -128,8 +112,6 @@
 		<td>1214</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>coalition.shopping</td>
 		<td>1330</td>
@@ -139,8 +121,6 @@
 		<td>1330</td>
 		<td>1330</td>
 		<td>1330</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -154,8 +134,6 @@
 		<td>1164</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>control.station</td>
 		<td>1236</td>
@@ -165,21 +143,6 @@
 		<td>1236</td>
 		<td>1236</td>
 		<td>1236</td>
-		<td></td>
-	</tr>
-		<td></td>
-	</tr>
-	<tr>
-		<td>devil-run.unhidden</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -193,8 +156,6 @@
 		<td>728</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>912</td>
@@ -204,8 +165,6 @@
 		<td>912</td>
 		<td>912</td>
 		<td>912</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -219,8 +178,6 @@
 		<td>1543</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>flare.play</td>
 		<td>690</td>
@@ -230,21 +187,6 @@
 		<td>690</td>
 		<td>690</td>
 		<td>690</td>
-		<td></td>
-	</tr>
-		<td></td>
-	</tr>
-	<tr>
-		<td>free.worlds.5.years.later</td>
-		<td>371</td>
-		<td>371</td>
-		<td>371</td>
-		<td>371</td>
-		<td>371</td>
-		<td>371</td>
-		<td>371</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -258,8 +200,6 @@
 		<td>1732</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>gegno.pirates</td>
 		<td>1531</td>
@@ -269,8 +209,6 @@
 		<td>1531</td>
 		<td>1531</td>
 		<td>1531</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -284,8 +222,6 @@
 		<td>1095</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
 		<td>741</td>
@@ -295,8 +231,6 @@
 		<td>741</td>
 		<td>741</td>
 		<td>741</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -310,8 +244,6 @@
 		<td>1017</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>jump.gates</td>
 		<td>1215</td>
@@ -321,8 +253,6 @@
 		<td>1215</td>
 		<td>1215</td>
 		<td>1215</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -336,8 +266,6 @@
 		<td>1105</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
 		<td>1397</td>
@@ -347,8 +275,6 @@
 		<td>1397</td>
 		<td>1397</td>
 		<td>1397</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -362,8 +288,6 @@
 		<td>1135</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>landing.images.android</td>
 		<td>349</td>
@@ -373,8 +297,6 @@
 		<td>349</td>
 		<td>349</td>
 		<td>349</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -388,8 +310,6 @@
 		<td>891</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>licenses</td>
 		<td>1147</td>
@@ -399,8 +319,6 @@
 		<td>1147</td>
 		<td>1147</td>
 		<td>1147</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -414,8 +332,6 @@
 		<td>1451</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>more.arfectas</td>
 		<td>1343</td>
@@ -425,8 +341,6 @@
 		<td>1343</td>
 		<td>1343</td>
 		<td>1343</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -440,8 +354,6 @@
 		<td>1430</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>more.person.ships</td>
 		<td>1047</td>
@@ -451,8 +363,6 @@
 		<td>1047</td>
 		<td>1047</td>
 		<td>1047</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -466,8 +376,6 @@
 		<td>575</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>906</td>
@@ -477,8 +385,6 @@
 		<td>906</td>
 		<td>906</td>
 		<td>906</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -492,8 +398,6 @@
 		<td>1016</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>paint.your.ships</td>
 		<td>1147</td>
@@ -503,8 +407,6 @@
 		<td>1147</td>
 		<td>1147</td>
 		<td>1147</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -518,21 +420,6 @@
 		<td>812</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
-	<tr>
-		<td>planet.pluto</td>
-		<td>192</td>
-		<td>192</td>
-		<td>192</td>
-		<td>192</td>
-		<td>192</td>
-		<td>192</td>
-		<td>192</td>
-		<td></td>
-	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>quarg.farm</td>
 		<td>1467</td>
@@ -542,21 +429,6 @@
 		<td>1467</td>
 		<td>1467</td>
 		<td>1467</td>
-		<td></td>
-	</tr>
-		<td></td>
-	</tr>
-	<tr>
-		<td>real.fluff</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -570,8 +442,6 @@
 		<td>818</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>show.reputation</td>
 		<td>1312</td>
@@ -581,8 +451,6 @@
 		<td>1312</td>
 		<td>1312</td>
 		<td>1312</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -596,8 +464,6 @@
 		<td>1195</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>space.fauna</td>
 		<td>924</td>
@@ -607,8 +473,6 @@
 		<td>924</td>
 		<td>924</td>
 		<td>924</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -622,8 +486,6 @@
 		<td>1521</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>tribute.republic</td>
 		<td>864</td>
@@ -633,21 +495,6 @@
 		<td>864</td>
 		<td>864</td>
 		<td>864</td>
-		<td></td>
-	</tr>
-		<td></td>
-	</tr>
-	<tr>
-		<td>unique.fix</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td></td>
-	</tr>
 		<td></td>
 	</tr>
 	<tr>
@@ -661,8 +508,6 @@
 		<td>1291</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td>vague.improvements</td>
 		<td>85</td>
@@ -674,8 +519,6 @@
 		<td>85</td>
 		<td></td>
 	</tr>
-		<td></td>
-	</tr>
 	<tr>
 		<td></td>
 		<td></td>
@@ -684,7 +527,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>50142</td>
+		<td>0</td>
 		<td>0</td>
 	</tr>
 </table>
@@ -1165,17 +1008,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>free.worlds.5.years.later</td>
-		<td>371</td>
-		<td>371</td>
-		<td>371</td>
-		<td>371</td>
-		<td>371</td>
-		<td>371</td>
-		<td>371</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>landing.images.android</td>
 		<td>349</td>
 		<td>349</td>
@@ -1195,28 +1027,6 @@
 		<td>229</td>
 		<td>229</td>
 		<td>229</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>planet.pluto</td>
-		<td>192</td>
-		<td>192</td>
-		<td>192</td>
-		<td>192</td>
-		<td>192</td>
-		<td>192</td>
-		<td>192</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>real.fluff</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
-		<td>93</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -1242,28 +1052,6 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>devil-run.unhidden</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td>66</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>unique.fix</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td>44</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -1271,7 +1059,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>50142</td>
+		<td>0</td>
 		<td>0</td>
 	</tr>
 </table>
