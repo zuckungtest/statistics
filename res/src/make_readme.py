@@ -10,7 +10,7 @@ def create_image(countnumber, plugin):
 	im = PIL.Image.open('pics/' + counterbg + '.png')
 	font = ImageFont.truetype(font=iFont, size=60)
 	draw = ImageDraw.Draw(im, 'RGBA')
-	draw.text((25, 15) , 'downloads:', fill=(255,255,255), font=font)
+	draw.text((20, 15) , 'downloads:', fill=(255,255,255), font=font)
 	draw.text((380, 15) ,  countnumber, fill=(255,255,255), font=font)
 	im = im.convert('RGBA')
 	im.save('pics/' + plugin + '.png')
