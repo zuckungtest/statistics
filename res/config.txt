@@ -1,1 +1,5 @@
+# repo : organisation/pluginrepo
+# counterbg : _svgblue
+
 repo : zuckung/endless-sky-plugins
+counterbg : _svgblue
