@@ -12,7 +12,7 @@ def create_image(countnumber, plugin):
 	draw = ImageDraw.Draw(im, 'RGBA')
 	draw.text((25, 15) , 'downloads:', fill=(255,255,255), font=font)
 	draw.text((380, 15) ,  countnumber, fill=(255,255,255), font=font)
-	im = im.convert('RGB')
+	im = im.convert('RGBA')
 	im.save('pics/' + plugin + '.png')
 
 
