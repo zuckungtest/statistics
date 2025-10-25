@@ -2,7 +2,7 @@ name: (manual) download statistics
 on: 
   workflow_dispatch:
 env:
-  github_token: ${{ secrets.fine-grained }}
+  github_token: ${{ secrets.PAT }}
   CUR_REPO: ${{ github.repository }}
 jobs:
   First:
@@ -18,7 +18,7 @@ jobs:
           python3 -m pip install Pillow
       - name: write statistics
         env:
-          github_token: ${{ secrets.fine-grained }}
+          github_token: ${{ secrets.PAT }}
         run: python res/src/download_statistics.py
       - name: Commit file
         run: |
@@ -29,5 +29,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.fine-grained }}
+          github_token: ${{ secrets.PAT }}
           force: true
