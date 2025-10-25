@@ -1,0 +1,19 @@
+name: test-pat
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Show token env
+        run: |
+          echo "Secret PAT length: ${#MY_PAT}"
+          python3 - <<'EOF'
+          import os
+          t = os.getenv("MY_PAT")
+          print("TOKEN vorhanden:", bool(t))
+          print("Länge:", len(t) if t else 0)
+          EOF
+        env:
+          MY_PAT: ${{ secrets.PAT }}
