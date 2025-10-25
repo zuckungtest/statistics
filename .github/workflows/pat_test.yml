@@ -8,10 +8,10 @@ jobs:
     steps:
       - name: Show token env
         run: |
-          echo "Secret PAT length: ${#MY_PAT}"
+          echo "Secret PAT length: ${#PAT}"
           python3 - <<'EOF'
           import os
-          t = os.getenv("MY_PAT")
+          t = os.getenv("PAT")
           print("TOKEN vorhanden:", bool(t))
           print("Länge:", len(t) if t else 0)
           EOF
