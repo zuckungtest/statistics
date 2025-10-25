@@ -16,7 +16,7 @@ jobs:
       - name: install libs
         run: |
           python3 -m pip install Pillow
-      - name: write statistics
+      - name: write readme
         run: python res/src/make_readme.py
       - name: Commit file
         run: |

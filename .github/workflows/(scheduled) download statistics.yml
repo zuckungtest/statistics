@@ -19,7 +19,7 @@ jobs:
       - name: install libs
         run: |
           python3 -m pip install Pillow
-      - name: write statistics file
+      - name: write statistics
         env:
           PAT: ${{ secrets.PAT }}
         run: python res/src/download_statistics.py
@@ -32,9 +32,9 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          PAT: ${{ secrets.PAT }}
           force: true
-      - name: make readme
+      - name: write statistics
         run: python res/src/make_readme.py
       - name: Commit file
         run: |
