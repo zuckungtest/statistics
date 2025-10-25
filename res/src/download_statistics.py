@@ -14,6 +14,9 @@ def set_globals():
 	global username, token, repo
 	username = 'zuckungtest'
 	token =  os.getenv("github_token")
+	if not token:
+		raise RuntimeError("Fehler: Kein GITHUB_TOKEN in den Umgebungsvariablen gefunden.")
+		print('fehler')
 	with open('res/config.txt', 'r') as s:
 		lines = s.readlines()
 	for line in lines:
