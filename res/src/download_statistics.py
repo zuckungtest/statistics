@@ -9,21 +9,6 @@ if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src': # chec
 	os.chdir('../../')
 
 
-def set_globals():
-	print('set up variables')
-	global username, token, repo
-	username = 'zuckungtest'
-	token =  os.getenv("github_token")
-	if not token:
-		raise RuntimeError("Fehler: Kein GITHUB_TOKEN in den Umgebungsvariablen gefunden.")
-		print('fehler')
-	with open('res/config.txt', 'r') as s:
-		lines = s.readlines()
-	for line in lines:
-		if line.startswith('repo :'):
-			repo = line[7:].strip()
-
-
 def write_downloads():
 	print('gathering download counts from github api')
 	rcount = 0
@@ -185,8 +170,15 @@ def write_usercount():
 				target.writelines(each)
 
 def run():
-	set_globals()
-	#write_downloads()
+	global username, token, repo
+	username = 'zuckungtest'
+	token =  os.environ["github_token"]
+	with open('res/config.txt', 'r') as s:
+		lines = s.readlines()
+	for line in lines:
+		if line.startswith('repo :'):
+			repo = line[7:].strip()
+	write_downloads()
 	write_usercount()
 
 
