@@ -12,8 +12,8 @@ if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src': # chec
 def set_globals():
 	print('set up variables')
 	global username, token, repo
-	username = ''
-	token = ''
+	username = 'zuckungtest'
+	token =  os.getenv("github_token")
 	with open('res/config.txt', 'r') as s:
 		lines = s.readlines()
 	for line in lines:
