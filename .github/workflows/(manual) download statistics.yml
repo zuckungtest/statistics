@@ -18,6 +18,8 @@ jobs:
           python3 -m pip install Pillow
       - name: write statistics
         run: python res/src/download_statistics.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
       - name: Commit file
         run: |
           git config user.name "script" 
