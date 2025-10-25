@@ -87,6 +87,7 @@ def write_usercount():
 	response = requests.get('https://api.github.com/repos/' + repo + '/traffic/views?per_page=100', auth=(username, token))
 	data = response.json()
 	print('getting live data from last 14 days:')
+	last_date = now
 	for i in range(0, 15):
 		try:
 			timestamp = data['views'][i]["timestamp"]
@@ -96,8 +97,7 @@ def write_usercount():
 			newdates.append(timestamp + '|' + str(count) + '|' + str(uniques))
 			last_date = datetime.strptime(timestamp, '%Y-%m-%dT00:00:00Z')
 		except:
-			last_date = last_date - timedelta(days=1)
-						
+			last_date = last_date - timedelta(days=1)	
 			timestamp = last_date.strftime('%Y-%m-%dT00:00:00Z')
 			count = 0
 			uniques = 0
