@@ -24,6 +24,8 @@ jobs:
           git config user.email "<>"
           git add .
           git commit -m "dl log written" || true
+        with:
+          github_token: ${{ secrets.PAT }}
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
