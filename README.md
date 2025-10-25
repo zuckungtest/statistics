@@ -47,17 +47,6 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>avgi.licenses</td>
-		<td>229</td>
-		<td>229</td>
-		<td>229</td>
-		<td>229</td>
-		<td>229</td>
-		<td>229</td>
-		<td>229</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>better.starts</td>
 		<td>1337</td>
 		<td>1337</td>
@@ -278,17 +267,6 @@
 		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>landing.images.android</td>
-		<td>349</td>
-		<td>349</td>
-		<td>349</td>
-		<td>349</td>
-		<td>349</td>
-		<td>349</td>
-		<td>349</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td>landing.images.highres</td>
 		<td>891</td>
 		<td>891</td>
@@ -353,17 +331,6 @@
 		<td>1047</td>
 		<td>1048</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>navy.licenses</td>
-		<td>575</td>
-		<td>575</td>
-		<td>575</td>
-		<td>575</td>
-		<td>575</td>
-		<td>575</td>
-		<td>575</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -984,39 +951,6 @@
 		<td>690</td>
 		<td>691</td>
 		<td>+ 1</td>
-	</tr>
-	<tr>
-		<td>navy.licenses</td>
-		<td>575</td>
-		<td>575</td>
-		<td>575</td>
-		<td>575</td>
-		<td>575</td>
-		<td>575</td>
-		<td>575</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>landing.images.android</td>
-		<td>349</td>
-		<td>349</td>
-		<td>349</td>
-		<td>349</td>
-		<td>349</td>
-		<td>349</td>
-		<td>349</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>avgi.licenses</td>
-		<td>229</td>
-		<td>229</td>
-		<td>229</td>
-		<td>229</td>
-		<td>229</td>
-		<td>229</td>
-		<td>229</td>
-		<td></td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
