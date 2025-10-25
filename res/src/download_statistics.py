@@ -171,15 +171,15 @@ def write_usercount():
 
 def run():
 	global username, token, repo
-	username = 'zuckungtest'
-	token =  os.environ["PAT"]
-	print("TOKEN?: ", bool(token))
-	print("Lenght: ", len(token) if token else 0)
 	with open('res/config.txt', 'r') as s:
 		lines = s.readlines()
 	for line in lines:
 		if line.startswith('repo :'):
 			repo = line[7:].strip()
+	username = repo.split('/')[0]
+	token =  os.environ["PAT"]
+	print("TOKEN?: ", bool(token))
+	print("Lenght: ", len(token) if token else 0)
 	write_downloads()
 	write_usercount()
 
