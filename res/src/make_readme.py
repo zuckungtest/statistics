@@ -26,21 +26,15 @@ def findp(list, p):
 
 
 def write_readme():
-	global repo
-	with open('res/config.txt', 'r') as s:
-		lines = s.readlines()
-	for line in lines:
-		if line.startswith('repo :'):
-			repo = line[7:].strip()
 	logfiles = os.listdir('res/dl_log/')
 	logfiles.sort()
 	for i in range(0, len(logfiles) - 7): # only the last 7 files
 		logfiles.pop(0)
 	# get the relevant part of the sourcefiles
 	relevant = ['', '', '', '', '', '', '', ]
-	ignorelist = ['pirate.warlords'] # plugins to ignore
+	ignorelist = ['pirate.warlords'] # plugins to igmore
 	for i in range(0,7):
-		# read dl_log file
+		relevant[i] += logfiles[i] + '\n'
 		with open('res/dl_log/' + logfiles[i], 'r') as sourcefile:
 			all = sourcefile.readlines()
 		started = False
@@ -66,7 +60,7 @@ def write_readme():
 	rows7 = relevant[6].split('\n')
 	# write the readme
 	with open('README.md', 'w') as target:
-		target.writelines('<h6>Plugin download count for https://github.com/' + repo + '</h6><br>\n<br>\n')
+		target.writelines('<h6>Plugin download count for https://github.com/Nova1422/plugins</h6><br>\n<br>\n')
 		# get a nested list, sorted by latest download anount
 		rows7split = [[] for i in range(len(rows7) - 1)]
 		first = True
@@ -85,8 +79,8 @@ def write_readme():
 		# split the 7 variable contents to lists
 		target.writelines('<h6>Plugin download count, sorted by name</h6><sub><sup><br>\n')
 		first = True
-		totaldifference = 0
 		totaldownloads = 0
+		totaldifference = 0
 		for row in rows7:
 			if row == '':
 					continue
@@ -117,6 +111,13 @@ def write_readme():
 				target.writelines('\t\t<td>' + findp(rows6, row.split(' ')[0]) + '</td>\n')
 				target.writelines('\t\t<td>' + findp(rows7, row.split(' ')[0]) + '</td>\n')
 				create_image(findp(rows7, row.split(' ')[0]) ,row.split(' ')[0])
+				difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
+				if difference == '0':
+					difference = ''
+				else:
+					difference = '+ ' + difference 
+				target.writelines('\t\t<td>' + difference + '</td>\n')
+				target.writelines('\t</tr>\n')
 				difference = str(int(findp(rows7, row.split(' ')[0])) - int(findp(rows6, row.split(' ')[0])))
 				totaldifference += int(difference)
 				totaldownloads += int(findp(rows7, row.split(' ')[0]))
