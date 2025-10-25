@@ -172,7 +172,7 @@ def write_usercount():
 def run():
 	global username, token, repo
 	username = 'zuckungtest'
-	token =  os.environ["GITHUB_TOKEN"]
+	token =  os.environ["PAT"]
 	print("TOKEN?: ", bool(token))
 	print("Lenght: ", len(token) if token else 0)
 	with open('res/config.txt', 'r') as s:
