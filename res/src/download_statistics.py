@@ -4,10 +4,6 @@ from datetime import datetime, timedelta
 import json
 
 
-# for local testing
-if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src': # check for local testing
-	os.chdir('../../')
-
 
 def write_downloads():
 	print('gathering download counts from github api')
@@ -69,7 +65,7 @@ def write_downloads():
 			logfiles.pop(0)
 		print('>7')
 	else:
-		# create 7 logfiles
+		# create 7 logfiles, because missing
 		for i in range(0, 7):
 			date_time = now - timedelta(days=i)
 			file_name = date_time.strftime('%Y-%m-%d.txt')
@@ -81,38 +77,6 @@ def write_downloads():
 				with open('res/dl_log/' + file_name, 'w') as target:
 					target.writelines(last_content)
 				print('	created [' + str(i+1) + ']) ' + file_name)
-
-
-def write_missing():
-	# create missing usercount infos
-	print('checking usercount.txt files for the last 14 days')
-	now = datetime.now()
-	lines = []
-	if not os.path.isfile('res/usercount.txt'):
-		with open('res/usercount.txt', 'w') as target:
-			target.writelines('')
-	with open('res/usercount.txt', 'r') as source:
-		userdata = source.readlines()
-		if len(userdata) < 14: # less than 14 days
-			for i in range(0, len(userdata)): # found entries
-				print('	found [' + str(i+1) + '] ' + userdata[i].strip() + '\n')
-				splitted = userdata[i].strip().split('|')
-				old_values = splitted[1] + '|' + splitted[2]
-				lines.append(userdata[i] + '\n')
-			countdays = 0
-			if len(userdata) == 0:
-				old_values = '0|0'
-			for i in range(len(userdata), 14): # missing entries
-				countdays += 1
-				date_time = now - timedelta(days=countdays)
-				entry = date_time.strftime('%Y-%m-%dT00:00:00Z|' + old_values)
-				print('	created [' +str(i+1) + '] ' + entry)
-				lines.append(entry + '\n')
-			with open('res/usercount.txt', 'w') as target:
-				target.writelines(lines)
-		else: # more than 14 days
-			for i in range(0, len(userdata)):
-				print('	found [' + str(i+1) + '] ' + userdata[i].strip())		
 
 
 def write_usercount():
@@ -171,6 +135,10 @@ def write_usercount():
 
 def run():
 	global username, token, repo
+	# for local testing
+	if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src': # check for local testing
+		os.chdir('../../')
+	# get variables
 	with open('res/config.txt', 'r') as s:
 		lines = s.readlines()
 	for line in lines:
@@ -178,8 +146,10 @@ def run():
 			repo = line[7:].strip()
 	username = repo.split('/')[0]
 	token =  os.environ["PAT"]
-	print("TOKEN?: ", bool(token))
+	# test if token is there
+	print("Token?: ", bool(token))
 	print("Lenght: ", len(token) if token else 0)
+	# real statistics gathering
 	write_downloads()
 	write_usercount()
 
