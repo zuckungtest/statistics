@@ -32,7 +32,8 @@ def write_readme():
 		logfiles.pop(0)
 	# get the relevant part of the sourcefiles
 	relevant = ['', '', '', '', '', '', '', ]
-	ignorelist = ['pirate.warlords', 'unique.fix', 'real.fluff', 'devil-run.unhidden', 'free.worlds.5.years.later', 'planet.pluto', 'additional.command.buttons'] # plugins to igmore
+	# plugins to ignore
+	ignorelist = ['pirate.warlords', 'unique.fix', 'real.fluff', 'devil-run.unhidden', 'free.worlds.5.years.later', 'planet.pluto', 'additional.command.buttons', 'avgi.licenses', 'navy.licenses', 'landing.images.android']
 	for i in range(0,7):
 		relevant[i] += logfiles[i] + '\n'
 		with open('res/dl_log/' + logfiles[i], 'r') as sourcefile:
