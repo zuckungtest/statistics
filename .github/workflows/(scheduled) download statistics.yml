@@ -1,6 +1,6 @@
 name: (scheduled) download statistics
 env:
-  github_token: ${{ secrets.GITHUB_TOKEN }}
+  PAT: ${{ secrets.PAT }}
   CUR_REPO: ${{ github.repository }}
 on: 
   schedule: 
@@ -20,6 +20,8 @@ jobs:
         run: |
           python3 -m pip install Pillow
       - name: write statistics file
+        env:
+          PAT: ${{ secrets.PAT }}
         run: python res/src/download_statistics.py
       - name: Commit file
         run: |
@@ -43,5 +45,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          PAT: ${{ secrets.PAT }}
           force: true
