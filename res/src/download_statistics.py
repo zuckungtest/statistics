@@ -126,14 +126,14 @@ def write_usercount():
 					found = True
 					break
 			if found == False:
-				newlist.append(olddate)
+				newlist.append(olddate.strip())
 		for newdate in newdates:
-			if not newdate + '\n' in newlist:
-				newlist.append(newdate + '\n')
+			if not newdate in newlist:
+				newlist.append(newdate)
 		newlist.sort()
 		with open('res/usercount.txt', 'w') as target:
 			for each in newlist:
-				target.writelines(each)
+				target.writelines(each + '\n')
 
 def run():
 	global username, token, repo
