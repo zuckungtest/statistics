@@ -35,7 +35,7 @@ v1.0.2-highrollers.ltd | downloads: 545
 v1.0.2-automata.in.human.space | downloads: 573
 v1.0.2-automata.destruction.0percent | downloads: 404
 v1.0.1-kestrel.unlocks | downloads: 562
-v1.0.1-disable.person.ships | downloads: 379
+v1.0.1-disable.person.ships | downloads: 380
 v1.0.5-landing.images | downloads: 599
 v1.0.3-landing.images.highres | downloads: 527
 v1.0.25-additional.command.buttons.radial | downloads: 329
@@ -292,7 +292,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 291
-# TOTAL DOWNLOADS: 51785
+# TOTAL DOWNLOADS: 51786
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -309,7 +309,7 @@ coalition.shopping 1370
 combat.ai 1211
 control.station 1280
 devil-run.unhidden 66
-disable.person.ships 765
+disable.person.ships 766
 disable.spaceport.repeatables 953
 expert.crew.members 1584
 flare.play 728
