@@ -124,7 +124,7 @@ def write_usercount():
 					found = True
 					break
 			if found == False:
-				newlist.append(olddate + '\n^')
+				newlist.append(olddate + '\n')
 		for newdate in newdates:
 			if not newdate + '\n' in newlist:
 				newlist.append(newdate + '\n')
