@@ -26,3 +26,7 @@
     <td><img src="https://raw.githubusercontent.com/zuckungtest/statistics/master/pics/_expl_svgblue.png" width="130" height="20"></td>
   </tr>
 </table>
+
+
+
+change in: /res/config.txt
