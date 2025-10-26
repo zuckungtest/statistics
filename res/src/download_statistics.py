@@ -116,11 +116,13 @@ def write_usercount():
 		with open('res/usercount.txt', 'r') as source:
 			olddates = source.readlines()
 		for olddate in olddates:
+			if olddate == '\n':
+				continue
 			found = False
 			for newdate in newdates:
 				newdatedate = newdate.split('|')[0]
 				if olddate.startswith(newdatedate):
-					newlist.append(newdate + '\n')
+					newlist.append(newdate)
 					found = True
 					break
 			if found == False:
