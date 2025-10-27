@@ -6,6 +6,9 @@
 #    _svgpurple
 #    _svgorange
 #    _svgblack
+#    _svgdarkblue.png 	
+#    _svgdarkgreen.png 	
+#    _svgturquoise.png
 #    OR any picture you create in /pics/ with the same dimensions
 
 
