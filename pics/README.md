@@ -25,6 +25,18 @@
     <td>_svgblue.png</td>
     <td><img src="https://raw.githubusercontent.com/zuckungtest/statistics/master/pics/_expl_svgblue.png" width="130" height="20"></td>
   </tr>
+  <tr>
+    <td>_svgdarkblue.png</td>
+    <td><img src="https://raw.githubusercontent.com/zuckungtest/statistics/master/pics/_expl_svgdarkblue.png" width="130" height="20"></td>
+  </tr>
+  <tr>
+    <td>_svgdarkgreen.png</td>
+    <td><img src="https://raw.githubusercontent.com/zuckungtest/statistics/master/pics/_expl_svgdarkgreen.png" width="130" height="20"></td>
+  </tr>
+  <tr>
+    <td>_svgturquoise.png</td>
+    <td><img src="https://raw.githubusercontent.com/zuckungtest/statistics/master/pics/_expl_svgturquoise.png" width="130" height="20"></td>
+  </tr>
 </table>
 
 

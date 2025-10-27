@@ -6,7 +6,7 @@
 #    _svgpurple
 #    _svgorange
 #    _svgblack
-#    OR any picture in /pics/ with the same dimensions
+#    OR any picture you create in /pics/ with the same dimensions
 
 
 repo : zuckung/endless-sky-plugins
