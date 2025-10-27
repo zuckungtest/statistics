@@ -87,21 +87,24 @@ def write_usercount():
 	response = requests.get('https://api.github.com/repos/' + repo + '/traffic/views?per_page=100', auth=(username, token))
 	data = response.json()
 	print('getting live data from last 14 days:')
-	last_date = now
+	try:
+		timestamp = data['views'][0]["timestamp"]
+		last_date = datetime.strptime(timestamp, '%Y-%m-%dT00:00:00Z')
+	except:
+		last_date = datetime.strptime(now, '%Y-%m-%dT00:00:00Z')
 	for i in range(0, 15):
 		try:
 			timestamp = data['views'][i]["timestamp"]
 			count = data['views'][i]["count"]
 			uniques = data['views'][i]["uniques"]
-			print('	found [' + str(i) + '] ' + timestamp + '|' + str(count) + '|' + str(uniques))
+			print('	' + timestamp + '|' + str(count) + '|' + str(uniques) + '	[' + str(i) + '] found in api data ')
 			newdates.append(timestamp + '|' + str(count) + '|' + str(uniques))
-			last_date = datetime.strptime(timestamp, '%Y-%m-%dT00:00:00Z')
 		except:
 			last_date = last_date - timedelta(days=1)	
 			timestamp = last_date.strftime('%Y-%m-%dT00:00:00Z')
 			count = 0
 			uniques = 0
-			print('	missing [' + str(i) + ']' + timestamp + '|' + str(count) + '|' + str(uniques))
+			print('	' + timestamp + '|' + str(count) + '|' + str(uniques) + '	[' + str(i) + '] not found in api data ')
 			newdates.append(timestamp + '|' + str(count) + '|' + str(uniques))
 	# comparing dates list with usercount.txt
 	print('integrating to usercount.txt')
@@ -120,12 +123,16 @@ def write_usercount():
 				continue
 			found = False
 			for newdate in newdates:
-				newdatedate = newdate.split('|')[0]
+				newdatedate = newdate.split('|')[0] # get just the date
 				if olddate.startswith(newdatedate):
 					newlist.append(newdate)
 					found = True
+					# remove newdate from newdates
+					newdates.remove(newdate)
+					print('	' + newdate + ' replaces ' + olddate.strip() + ' | remaining new dates:' + str(len(newdates)))
 					break
 			if found == False:
+				print('	' + olddate.strip() + ' no change, keeping it.')
 				newlist.append(olddate.strip())
 		for newdate in newdates:
 			if not newdate in newlist:
@@ -138,7 +145,7 @@ def write_usercount():
 def run():
 	global username, token, repo
 	# for local testing
-	if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src': # check for local testing
+	if os.getcwd() == '/storage/emulated/0/Download/mgit/teststat/res/src': # check for local testing
 		os.chdir('../../')
 	# get variables
 	with open('res/config.txt', 'r') as s:
@@ -147,10 +154,11 @@ def run():
 		if line.startswith('repo :'):
 			repo = line[7:].strip()
 	username = repo.split('/')[0]
-	token =  os.environ["PAT"]
+	token =  os.environ["TOKEN"]
 	# test if token is there
-	print("Token?: ", bool(token))
-	print("Lenght: ", len(token) if token else 0)
+	print('Token Check')
+	print('	Token?: ', bool(token))
+	print('	Lenght: ', len(token) if token else 0)
 	# real statistics gathering
 	write_downloads()
 	write_usercount()
