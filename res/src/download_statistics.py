@@ -92,7 +92,7 @@ def write_usercount():
 		last_date = datetime.strptime(timestamp, '%Y-%m-%dT00:00:00Z')
 	except:
 		last_date = datetime.strptime(now, '%Y-%m-%dT00:00:00Z')
-	for i in range(0, 15):
+	for i in range(0, 14):
 		try:
 			timestamp = data['views'][i]["timestamp"]
 			count = data['views'][i]["count"]
@@ -129,14 +129,19 @@ def write_usercount():
 					found = True
 					# remove newdate from newdates
 					newdates.remove(newdate)
-					print('	' + newdate + ' replaces ' + olddate.strip() + ' | remaining new dates:' + str(len(newdates)))
+					if olddate.strip() == newdate:
+						print('	' + newdate + '	no change, keeping it')
+					else:
+						print('	' + newdate + '	replaces ' + olddate.strip() + ' | remaining new dates:' + str(len(newdates)))
 					break
 			if found == False:
-				print('	' + olddate.strip() + ' no change, keeping it.')
+				print('	' + olddate.strip() + '	no change, keeping it.')
 				newlist.append(olddate.strip())
+		print('	remaining new dates:' + str(len(newdates)))
 		for newdate in newdates:
 			if not newdate in newlist:
 				newlist.append(newdate)
+				print(newdate + ' added')
 		newlist.sort()
 		with open('res/usercount.txt', 'w') as target:
 			for each in newlist:
@@ -145,7 +150,7 @@ def write_usercount():
 def run():
 	global username, token, repo
 	# for local testing
-	if os.getcwd() == '/storage/emulated/0/Download/mgit/teststat/res/src': # check for local testing
+	if os.getcwd() == '/storage/emulated/0/Download/mgit/statistics/res/src': # check for local testing
 		os.chdir('../../')
 	# get variables
 	with open('res/config.txt', 'r') as s:
@@ -153,8 +158,9 @@ def run():
 	for line in lines:
 		if line.startswith('repo :'):
 			repo = line[7:].strip()
-	username = repo.split('/')[0]
-	token =  os.environ["PAT"]
+	cur_repo = os.environ['CUR_REPO']
+	username = cur_repo.split('/')[0]
+	token =  os.environ['TOKEN']
 	# test if token is there
 	print('Token Check')
 	print('	Token?: ', bool(token))

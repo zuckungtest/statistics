@@ -2,7 +2,7 @@ name: (manual) write readme
 on: 
   workflow_dispatch:
 env:
-  github_token: ${{ secrets.GITHUB_TOKEN }}
+  TOKEN: ${{ secrets.TOKEN }}
   CUR_REPO: ${{ github.repository }}
 jobs:
   First:
@@ -27,5 +27,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
           force: true
