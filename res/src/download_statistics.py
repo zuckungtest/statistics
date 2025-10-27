@@ -154,7 +154,7 @@ def run():
 		if line.startswith('repo :'):
 			repo = line[7:].strip()
 	username = repo.split('/')[0]
-	token =  os.environ["TOKEN"]
+	token =  os.environ["PAT"]
 	# test if token is there
 	print('Token Check')
 	print('	Token?: ', bool(token))
