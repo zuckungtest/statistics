@@ -92,7 +92,7 @@ def write_usercount():
 		last_date = datetime.strptime(timestamp, '%Y-%m-%dT00:00:00Z')
 	except:
 		last_date = datetime.strptime(now, '%Y-%m-%dT00:00:00Z')
-	for i in range(0, 14):
+	for i in range(0, 15):
 		try:
 			timestamp = data['views'][i]["timestamp"]
 			count = data['views'][i]["count"]
