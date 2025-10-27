@@ -13,4 +13,4 @@
 
 
 repo : zuckung/endless-sky-plugins
-counterbg : _svgorange
+counterbg : _svgblack
