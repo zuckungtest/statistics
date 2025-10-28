@@ -65,8 +65,8 @@
 		<td>834</td>
 		<td>882</td>
 		<td>920</td>
-		<td>925</td>
-		<td>+ 5</td>
+		<td>927</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -142,8 +142,8 @@
 		<td>936</td>
 		<td>983</td>
 		<td>1021</td>
-		<td>1026</td>
-		<td>+ 5</td>
+		<td>1027</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -164,8 +164,8 @@
 		<td>711</td>
 		<td>762</td>
 		<td>799</td>
-		<td>803</td>
-		<td>+ 4</td>
+		<td>804</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52849</td>
-		<td>213</td>
+		<td>52853</td>
+		<td>217</td>
 	</tr>
 </table>
 </sub></sup>
@@ -850,8 +850,8 @@
 		<td>936</td>
 		<td>983</td>
 		<td>1021</td>
-		<td>1026</td>
-		<td>+ 5</td>
+		<td>1027</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -905,8 +905,8 @@
 		<td>834</td>
 		<td>882</td>
 		<td>920</td>
-		<td>925</td>
-		<td>+ 5</td>
+		<td>927</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -949,8 +949,8 @@
 		<td>711</td>
 		<td>762</td>
 		<td>799</td>
-		<td>803</td>
-		<td>+ 4</td>
+		<td>804</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>52849</td>
-		<td>213</td>
+		<td>52853</td>
+		<td>217</td>
 	</tr>
 </table>
 </sub></sup>
