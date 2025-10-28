@@ -125,14 +125,25 @@ def write_usercount():
 			for newdate in newdates:
 				newdatedate = newdate.split('|')[0] # get just the date
 				if olddate.startswith(newdatedate):
-					newlist.append(newdate)
+					# compare which has bigger views value
+					oldviews = olddate.split('|')[1]
+					newviews = newdate.split('|')[1]
+					if int(newviews) > int(oldviews):
+						newlist.append(newdate)
+						bigger = 'new'
+					else:
+						newlist.append(olddate)
+						bigger = 'old'
 					found = True
 					# remove newdate from newdates
 					newdates.remove(newdate)
 					if olddate.strip() == newdate:
 						print('	' + newdate + '	no change, keeping it')
 					else:
-						print('	' + newdate + '	replaces ' + olddate.strip() + ' | remaining new dates:' + str(len(newdates)))
+						if bigger == 'new':
+							print('	' + newdate + '	replaces ' + olddate.strip() + ' | remaining new dates:' + str(len(newdates)))
+						else:
+							print('	' + newdate + '	has lowers views than ' + olddate.strip() + '(keeping old) | remaining new dates:' + str(len(newdates)))
 					break
 			if found == False:
 				print('	' + olddate.strip() + '	no change, keeping it.')
