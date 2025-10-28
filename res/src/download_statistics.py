@@ -132,7 +132,7 @@ def write_usercount():
 						newlist.append(newdate)
 						bigger = 'new'
 					else:
-						newlist.append(olddate)
+						newlist.append(olddate.strip())
 						bigger = 'old'
 					found = True
 					# remove newdate from newdates
@@ -152,7 +152,7 @@ def write_usercount():
 		for newdate in newdates:
 			if not newdate in newlist:
 				newlist.append(newdate)
-				print(newdate + ' added')
+				print('	' + newdate + ' added')
 		newlist.sort()
 		with open('res/usercount.txt', 'w') as target:
 			for each in newlist:
