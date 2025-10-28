@@ -2,7 +2,7 @@ name: (manual) write readme
 on: 
   workflow_dispatch:
 env:
-  TOKEN: ${{ secrets.TOKEN }}
+  github_token: ${{ secrets.PAT }}
   CUR_REPO: ${{ github.repository }}
 jobs:
   First:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions: write-all
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 2
       - name: install libs
@@ -27,5 +27,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          TOKEN: ${{ secrets.TOKEN }}
+          github_token: ${{ secrets.PAT }}
           force: true

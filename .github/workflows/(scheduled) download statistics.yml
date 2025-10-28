@@ -1,6 +1,6 @@
 name: (scheduled) download statistics
 env:
-  TOKEN: ${{ secrets.TOKEN }}
+  github_token: ${{ secrets.PAT }}
   CUR_REPO: ${{ github.repository }}
 on: 
   schedule: 
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions: write-all
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 2
       - name: install libs
@@ -21,7 +21,7 @@ jobs:
           python3 -m pip install Pillow
       - name: write statistics
         env:
-          TOKEN: ${{ secrets.TOKEN }}
+          github_token: ${{ secrets.PAT }}
         run: python res/src/download_statistics.py
       - name: Commit file
         run: |
@@ -32,7 +32,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          TOKEN: ${{ secrets.TOKEN }}
+          github_token: ${{ secrets.PAT }}
           force: true
       - name: write statistics
         run: python res/src/make_readme.py
@@ -45,5 +45,5 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          TOKEN: ${{ secrets.TOKEN }}
+          github_token: ${{ secrets.PAT }}
           force: true
