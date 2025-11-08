@@ -65,8 +65,8 @@
 		<td>1236</td>
 		<td>1267</td>
 		<td>1302</td>
-		<td>1306</td>
-		<td>+ 4</td>
+		<td>1307</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>1636</td>
 		<td>1667</td>
 		<td>1704</td>
-		<td>1710</td>
-		<td>+ 6</td>
+		<td>1711</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -164,8 +164,8 @@
 		<td>1099</td>
 		<td>1129</td>
 		<td>1161</td>
-		<td>1165</td>
-		<td>+ 4</td>
+		<td>1167</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -175,8 +175,8 @@
 		<td>2237</td>
 		<td>2272</td>
 		<td>2306</td>
-		<td>2310</td>
-		<td>+ 4</td>
+		<td>2311</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -296,8 +296,8 @@
 		<td>1918</td>
 		<td>1946</td>
 		<td>1985</td>
-		<td>1991</td>
-		<td>+ 6</td>
+		<td>1992</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -395,8 +395,8 @@
 		<td>1271</td>
 		<td>1301</td>
 		<td>1334</td>
-		<td>1338</td>
-		<td>+ 4</td>
+		<td>1339</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>67561</td>
-		<td>186</td>
+		<td>67568</td>
+		<td>193</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>2237</td>
 		<td>2272</td>
 		<td>2306</td>
-		<td>2310</td>
-		<td>+ 4</td>
+		<td>2311</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -575,8 +575,8 @@
 		<td>1918</td>
 		<td>1946</td>
 		<td>1985</td>
-		<td>1991</td>
-		<td>+ 6</td>
+		<td>1992</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -685,8 +685,8 @@
 		<td>1636</td>
 		<td>1667</td>
 		<td>1704</td>
-		<td>1710</td>
-		<td>+ 6</td>
+		<td>1711</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -861,8 +861,8 @@
 		<td>1271</td>
 		<td>1301</td>
 		<td>1334</td>
-		<td>1338</td>
-		<td>+ 4</td>
+		<td>1339</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -894,8 +894,8 @@
 		<td>1236</td>
 		<td>1267</td>
 		<td>1302</td>
-		<td>1306</td>
-		<td>+ 4</td>
+		<td>1307</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -938,8 +938,8 @@
 		<td>1099</td>
 		<td>1129</td>
 		<td>1161</td>
-		<td>1165</td>
-		<td>+ 4</td>
+		<td>1167</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>67561</td>
-		<td>186</td>
+		<td>67568</td>
+		<td>193</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>138</td>
 		<td>116</td>
 		<td>154</td>
-		<td>7</td>
+		<td>21</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>28</td>
 		<td>37</td>
 		<td>23</td>
-		<td>4</td>
+		<td>8</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>3589</td>
-		<td>839</td>
+		<td>3603</td>
+		<td>843</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>28</td>
-		<td>128.18</td>
-		<td>29.96</td>
+		<td>128.68</td>
+		<td>30.11</td>
 		<td></td>
 		<td></td>
 	</tr>
