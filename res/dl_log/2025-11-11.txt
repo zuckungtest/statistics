@@ -5,8 +5,8 @@ v1.0.4-flare.play | downloads: 489
 v1.0.3-boss.loot | downloads: 515
 v1.0.27-additional.command.buttons.radial | downloads: 613
 v1.0.9-mission.helper | downloads: 628
-v1.0.5-ship.merging | downloads: 607
-v1.0.2-vague.improvements | downloads: 65
+v1.0.5-ship.merging | downloads: 609
+v1.0.2-vague.improvements | downloads: 67
 v1.0.11-combat.ai | downloads: 725
 v1.0.10-combat.ai | downloads: 19
 v1.0.9-combat.ai | downloads: 5
@@ -129,7 +129,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 143
 v1.0.3-quarg.farm | downloads: 197
 v1.0.7-uniques | downloads: 6
-v1.0.4-too.many.asteroids | downloads: 951
+v1.0.4-too.many.asteroids | downloads: 953
 v1.0.3-show.reputation | downloads: 259
 v1.0.13-additional.command.buttons.radial | downloads: 93
 v1.0.4-better.starts | downloads: 331
@@ -297,7 +297,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 296
-# TOTAL DOWNLOADS: 74594
+# TOTAL DOWNLOADS: 74600
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -344,12 +344,12 @@ planet.map 1348
 planet.pluto 194
 quarg.farm 2043
 real.fluff 93
-ship.merging 1469
+ship.merging 1471
 show.reputation 1901
 snowfeather.robotics 1777
 space.fauna 1473
-too.many.asteroids 2168
+too.many.asteroids 2170
 tribute.republic 1405
 unique.fix 44
 uniques 1868
-vague.improvements 153
+vague.improvements 155
