@@ -395,8 +395,8 @@
 		<td>1371</td>
 		<td>1407</td>
 		<td>1441</td>
-		<td>1469</td>
-		<td>+ 28</td>
+		<td>1471</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -439,8 +439,8 @@
 		<td>2055</td>
 		<td>2094</td>
 		<td>2138</td>
-		<td>2168</td>
-		<td>+ 30</td>
+		<td>2170</td>
+		<td>+ 32</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -472,8 +472,8 @@
 		<td>143</td>
 		<td>143</td>
 		<td>151</td>
-		<td>153</td>
-		<td>+ 2</td>
+		<td>155</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>72575</td>
-		<td>973</td>
+		<td>72581</td>
+		<td>979</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>2055</td>
 		<td>2094</td>
 		<td>2138</td>
-		<td>2168</td>
-		<td>+ 30</td>
+		<td>2170</td>
+		<td>+ 32</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -850,8 +850,8 @@
 		<td>1371</td>
 		<td>1407</td>
 		<td>1441</td>
-		<td>1469</td>
-		<td>+ 28</td>
+		<td>1471</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -960,8 +960,8 @@
 		<td>143</td>
 		<td>143</td>
 		<td>151</td>
-		<td>153</td>
-		<td>+ 2</td>
+		<td>155</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>72575</td>
-		<td>973</td>
+		<td>72581</td>
+		<td>979</td>
 	</tr>
 </table>
 </sub></sup>
