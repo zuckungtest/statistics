@@ -384,8 +384,8 @@
 		<td>2171</td>
 		<td>2203</td>
 		<td>2229</td>
-		<td>2259</td>
-		<td>+ 30</td>
+		<td>2263</td>
+		<td>+ 34</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -395,8 +395,8 @@
 		<td>1611</td>
 		<td>1640</td>
 		<td>1666</td>
-		<td>1700</td>
-		<td>+ 34</td>
+		<td>1702</td>
+		<td>+ 36</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>81815</td>
-		<td>1433</td>
+		<td>81821</td>
+		<td>1439</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>2171</td>
 		<td>2203</td>
 		<td>2229</td>
-		<td>2259</td>
-		<td>+ 30</td>
+		<td>2263</td>
+		<td>+ 34</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -839,8 +839,8 @@
 		<td>1611</td>
 		<td>1640</td>
 		<td>1666</td>
-		<td>1700</td>
-		<td>+ 34</td>
+		<td>1702</td>
+		<td>+ 36</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>81815</td>
-		<td>1433</td>
+		<td>81821</td>
+		<td>1439</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>274</td>
 		<td>94</td>
 		<td>71</td>
-		<td>76</td>
+		<td>111</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>33</td>
 		<td>39</td>
 		<td>28</td>
-		<td>25</td>
+		<td>28</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>4956</td>
-		<td>1172</td>
+		<td>4991</td>
+		<td>1175</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>38</td>
-		<td>130.42</td>
-		<td>30.84</td>
+		<td>131.34</td>
+		<td>30.92</td>
 		<td></td>
 		<td></td>
 	</tr>
