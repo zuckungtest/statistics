@@ -5,7 +5,7 @@ v1.0.4-flare.play | downloads: 706
 v1.0.3-boss.loot | downloads: 768
 v1.0.27-additional.command.buttons.radial | downloads: 874
 v1.0.9-mission.helper | downloads: 870
-v1.0.5-ship.merging | downloads: 836
+v1.0.5-ship.merging | downloads: 838
 v1.0.2-vague.improvements | downloads: 94
 v1.0.11-combat.ai | downloads: 992
 v1.0.10-combat.ai | downloads: 19
@@ -20,7 +20,7 @@ v1.0.26-additional.command.buttons.radial | downloads: 388
 v1.0.8-mission.helper | downloads: 368
 v1.0.2-boss.loot | downloads: 407
 v1.0.3-flare.play | downloads: 450
-v1.0.6-quarg.farm | downloads: 1258
+v1.0.6-quarg.farm | downloads: 1262
 v1.0.2-ship.merging | downloads: 290
 v1.0.12-uniques | downloads: 219
 v1.0.5-control.station | downloads: 359
@@ -297,7 +297,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 296
-# TOTAL DOWNLOADS: 83834
+# TOTAL DOWNLOADS: 83840
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -342,9 +342,9 @@ paint.your.ships 1967
 pirate.warlords 3
 planet.map 1541
 planet.pluto 194
-quarg.farm 2259
+quarg.farm 2263
 real.fluff 93
-ship.merging 1700
+ship.merging 1702
 show.reputation 2107
 snowfeather.robotics 2003
 space.fauna 1656
