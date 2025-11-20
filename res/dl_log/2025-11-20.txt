@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.10-captureable.person.ships | downloads: 7
+v1.1.10-captureable.person.ships | downloads: 8
 v1.1.11-galactic.capital.investment | downloads: 741
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 774
@@ -234,7 +234,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 935
+v1.0.1-automata.destruction.0percent | downloads: 937
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -298,19 +298,19 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 297
-# TOTAL DOWNLOADS: 86227
+# TOTAL DOWNLOADS: 86230
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
 additional.command.buttons.radial 2690
-automata.destruction.0percent 2112
+automata.destruction.0percent 2114
 automata.in.human.space 1914
 avgi.licenses 230
 better.starts 2297
 boss.loot 1757
 bunrodea.missions 2544
-captureable.person.ships 2070
+captureable.person.ships 2071
 coalition.shopping 2237
 combat.ai 2184
 control.station 2175
