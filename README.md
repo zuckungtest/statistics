@@ -153,8 +153,8 @@
 		<td>2362</td>
 		<td>2422</td>
 		<td>2462</td>
-		<td>2491</td>
-		<td>+ 29</td>
+		<td>2492</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>84388</td>
-		<td>1150</td>
+		<td>84389</td>
+		<td>1151</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>2362</td>
 		<td>2422</td>
 		<td>2462</td>
-		<td>2491</td>
-		<td>+ 29</td>
+		<td>2492</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>84388</td>
-		<td>1150</td>
+		<td>84389</td>
+		<td>1151</td>
 	</tr>
 </table>
 </sub></sup>
