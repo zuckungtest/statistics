@@ -32,8 +32,8 @@
 		<td>1997</td>
 		<td>2053</td>
 		<td>2089</td>
-		<td>2112</td>
-		<td>+ 23</td>
+		<td>2114</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -87,8 +87,8 @@
 		<td>1957</td>
 		<td>2013</td>
 		<td>2047</td>
-		<td>2070</td>
-		<td>+ 23</td>
+		<td>2071</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>84208</td>
-		<td>970</td>
+		<td>84211</td>
+		<td>973</td>
 	</tr>
 </table>
 </sub></sup>
@@ -696,8 +696,8 @@
 		<td>1997</td>
 		<td>2053</td>
 		<td>2089</td>
-		<td>2112</td>
-		<td>+ 23</td>
+		<td>2114</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -718,8 +718,8 @@
 		<td>1957</td>
 		<td>2013</td>
 		<td>2047</td>
-		<td>2070</td>
-		<td>+ 23</td>
+		<td>2071</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>84208</td>
-		<td>970</td>
+		<td>84211</td>
+		<td>973</td>
 	</tr>
 </table>
 </sub></sup>
