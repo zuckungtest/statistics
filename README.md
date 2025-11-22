@@ -87,8 +87,8 @@
 		<td>2047</td>
 		<td>2075</td>
 		<td>2112</td>
-		<td>2123</td>
-		<td>+ 11</td>
+		<td>2125</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>2212</td>
 		<td>2241</td>
 		<td>2273</td>
-		<td>2284</td>
-		<td>+ 11</td>
+		<td>2286</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -153,8 +153,8 @@
 		<td>2462</td>
 		<td>2492</td>
 		<td>2527</td>
-		<td>2538</td>
-		<td>+ 11</td>
+		<td>2540</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>2795</td>
 		<td>2823</td>
 		<td>2863</td>
-		<td>2880</td>
-		<td>+ 17</td>
+		<td>2882</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -285,8 +285,8 @@
 		<td>2070</td>
 		<td>2097</td>
 		<td>2132</td>
-		<td>2144</td>
-		<td>+ 12</td>
+		<td>2146</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -296,8 +296,8 @@
 		<td>2397</td>
 		<td>2425</td>
 		<td>2462</td>
-		<td>2480</td>
-		<td>+ 18</td>
+		<td>2482</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -329,8 +329,8 @@
 		<td>1827</td>
 		<td>1853</td>
 		<td>1885</td>
-		<td>1894</td>
-		<td>+ 9</td>
+		<td>1897</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>86312</td>
-		<td>498</td>
+		<td>86327</td>
+		<td>513</td>
 	</tr>
 </table>
 </sub></sup>
@@ -509,8 +509,8 @@
 		<td>2795</td>
 		<td>2823</td>
 		<td>2863</td>
-		<td>2880</td>
-		<td>+ 17</td>
+		<td>2882</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -542,8 +542,8 @@
 		<td>2462</td>
 		<td>2492</td>
 		<td>2527</td>
-		<td>2538</td>
-		<td>+ 11</td>
+		<td>2540</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -564,8 +564,8 @@
 		<td>2397</td>
 		<td>2425</td>
 		<td>2462</td>
-		<td>2480</td>
-		<td>+ 18</td>
+		<td>2482</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -630,8 +630,8 @@
 		<td>2212</td>
 		<td>2241</td>
 		<td>2273</td>
-		<td>2284</td>
-		<td>+ 11</td>
+		<td>2286</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -707,8 +707,8 @@
 		<td>2070</td>
 		<td>2097</td>
 		<td>2132</td>
-		<td>2144</td>
-		<td>+ 12</td>
+		<td>2146</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -718,8 +718,8 @@
 		<td>2047</td>
 		<td>2075</td>
 		<td>2112</td>
-		<td>2123</td>
-		<td>+ 11</td>
+		<td>2125</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -817,8 +817,8 @@
 		<td>1827</td>
 		<td>1853</td>
 		<td>1885</td>
-		<td>1894</td>
-		<td>+ 9</td>
+		<td>1897</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>86312</td>
-		<td>498</td>
+		<td>86327</td>
+		<td>513</td>
 	</tr>
 </table>
 </sub></sup>
