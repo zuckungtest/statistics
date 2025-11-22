@@ -3,12 +3,12 @@ v1.1.10-captureable.person.ships | downloads: 59
 v1.1.11-galactic.capital.investment | downloads: 799
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 818
-v1.0.3-boss.loot | downloads: 884
-v1.0.27-additional.command.buttons.radial | downloads: 999
+v1.0.3-boss.loot | downloads: 886
+v1.0.27-additional.command.buttons.radial | downloads: 1001
 v1.0.9-mission.helper | downloads: 983
 v1.0.5-ship.merging | downloads: 947
 v1.0.2-vague.improvements | downloads: 101
-v1.0.11-combat.ai | downloads: 1124
+v1.0.11-combat.ai | downloads: 1126
 v1.0.10-combat.ai | downloads: 19
 v1.0.9-combat.ai | downloads: 5
 v1.0.1-vague.improvements | downloads: 60
@@ -16,7 +16,7 @@ v1.0.4-ship.merging | downloads: 271
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 28
 v1.0.13-uniques | downloads: 1136
-v1.0.6-control.station | downloads: 1257
+v1.0.6-control.station | downloads: 1259
 v1.0.26-additional.command.buttons.radial | downloads: 388
 v1.0.8-mission.helper | downloads: 368
 v1.0.2-boss.loot | downloads: 408
@@ -57,14 +57,14 @@ v1.0.0-boss.loot | downloads: 194
 v1.0.5-combat.ai | downloads: 53
 v1.0.2-flare.play | downloads: 223
 v1.0.7-mission.helper | downloads: 655
-v1.0.9-expert.crew.members | downloads: 1788
+v1.0.9-expert.crew.members | downloads: 1790
 v1.0.10-uniques | downloads: 95
 v1.0.8-expert.crew.members | downloads: 20
 v1.0.7-human.labels | downloads: 1467
-v1.0.5-show.reputation | downloads: 1648
+v1.0.5-show.reputation | downloads: 1650
 v1.0.3-paint.your.ships | downloads: 1602
 v1.1.9-captureable.person.ships | downloads: 1538
-v1.0.9-bunrodea.missions | downloads: 1866
+v1.0.9-bunrodea.missions | downloads: 1868
 v1.0.5-better.starts | downloads: 1805
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
@@ -298,26 +298,26 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 297
-# TOTAL DOWNLOADS: 88263
+# TOTAL DOWNLOADS: 88277
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 93
-additional.command.buttons.radial 2746
+additional.command.buttons.radial 2748
 automata.destruction.0percent 2166
 automata.in.human.space 1961
 avgi.licenses 230
 better.starts 2352
-boss.loot 1806
-bunrodea.missions 2592
+boss.loot 1808
+bunrodea.missions 2594
 captureable.person.ships 2122
 coalition.shopping 2283
-combat.ai 2241
-control.station 2230
+combat.ai 2243
+control.station 2232
 devil-run.unhidden 66
 disable.person.ships 1593
 disable.spaceport.repeatables 1798
-expert.crew.members 2535
+expert.crew.members 2537
 flare.play 1617
 free.worlds.5.years.later 371
 galactic.capital.investment 2877
@@ -346,7 +346,7 @@ planet.pluto 194
 quarg.farm 2363
 real.fluff 93
 ship.merging 1811
-show.reputation 2212
+show.reputation 2214
 snowfeather.robotics 2101
 space.fauna 1748
 too.many.asteroids 2516
