@@ -21,8 +21,8 @@
 		<td>2666</td>
 		<td>2696</td>
 		<td>2734</td>
-		<td>2746</td>
-		<td>+ 12</td>
+		<td>2748</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>1733</td>
 		<td>1761</td>
 		<td>1794</td>
-		<td>1806</td>
-		<td>+ 12</td>
+		<td>1808</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>2520</td>
 		<td>2548</td>
 		<td>2580</td>
-		<td>2592</td>
-		<td>+ 12</td>
+		<td>2594</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>2156</td>
 		<td>2188</td>
 		<td>2229</td>
-		<td>2241</td>
-		<td>+ 12</td>
+		<td>2243</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -120,8 +120,8 @@
 		<td>2149</td>
 		<td>2180</td>
 		<td>2219</td>
-		<td>2230</td>
-		<td>+ 11</td>
+		<td>2232</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -153,8 +153,8 @@
 		<td>2462</td>
 		<td>2492</td>
 		<td>2527</td>
-		<td>2535</td>
-		<td>+ 8</td>
+		<td>2537</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -406,8 +406,8 @@
 		<td>2137</td>
 		<td>2165</td>
 		<td>2200</td>
-		<td>2212</td>
-		<td>+ 12</td>
+		<td>2214</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -483,8 +483,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>86244</td>
-		<td>430</td>
+		<td>86258</td>
+		<td>444</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>2666</td>
 		<td>2696</td>
 		<td>2734</td>
-		<td>2746</td>
-		<td>+ 12</td>
+		<td>2748</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -531,8 +531,8 @@
 		<td>2520</td>
 		<td>2548</td>
 		<td>2580</td>
-		<td>2592</td>
-		<td>+ 12</td>
+		<td>2594</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -542,8 +542,8 @@
 		<td>2462</td>
 		<td>2492</td>
 		<td>2527</td>
-		<td>2535</td>
-		<td>+ 8</td>
+		<td>2537</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -641,8 +641,8 @@
 		<td>2156</td>
 		<td>2188</td>
 		<td>2229</td>
-		<td>2241</td>
-		<td>+ 12</td>
+		<td>2243</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -663,8 +663,8 @@
 		<td>2149</td>
 		<td>2180</td>
 		<td>2219</td>
-		<td>2230</td>
-		<td>+ 11</td>
+		<td>2232</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -674,8 +674,8 @@
 		<td>2137</td>
 		<td>2165</td>
 		<td>2200</td>
-		<td>2212</td>
-		<td>+ 12</td>
+		<td>2214</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -850,8 +850,8 @@
 		<td>1733</td>
 		<td>1761</td>
 		<td>1794</td>
-		<td>1806</td>
-		<td>+ 12</td>
+		<td>1808</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -971,8 +971,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>86244</td>
-		<td>430</td>
+		<td>86258</td>
+		<td>444</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1000,7 +1000,7 @@
 		<td>134</td>
 		<td>95</td>
 		<td>103</td>
-		<td>36</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1012,7 +1012,7 @@
 		<td>29</td>
 		<td>22</td>
 		<td>28</td>
-		<td>9</td>
+		<td>15</td>
 	</tr>
 </table>
 <br>
@@ -1026,8 +1026,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>5379</td>
-		<td>1266</td>
+		<td>5402</td>
+		<td>1272</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1040,8 +1040,8 @@
 	</tr>
 	<tr>
 		<td>42</td>
-		<td>128.07</td>
-		<td>30.14</td>
+		<td>128.62</td>
+		<td>30.29</td>
 		<td></td>
 		<td></td>
 	</tr>
