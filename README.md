@@ -65,8 +65,8 @@
 		<td>2244</td>
 		<td>2278</td>
 		<td>2308</td>
-		<td>2335</td>
-		<td>+ 27</td>
+		<td>2336</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -186,8 +186,8 @@
 		<td>3301</td>
 		<td>3342</td>
 		<td>3372</td>
-		<td>3396</td>
-		<td>+ 24</td>
+		<td>3397</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -307,8 +307,8 @@
 		<td>2864</td>
 		<td>2897</td>
 		<td>2926</td>
-		<td>2956</td>
-		<td>+ 30</td>
+		<td>2957</td>
+		<td>+ 31</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -329,8 +329,8 @@
 		<td>2767</td>
 		<td>2806</td>
 		<td>2841</td>
-		<td>2869</td>
-		<td>+ 28</td>
+		<td>2870</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -362,8 +362,8 @@
 		<td>2258</td>
 		<td>2288</td>
 		<td>2314</td>
-		<td>2336</td>
-		<td>+ 22</td>
+		<td>2337</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -439,8 +439,8 @@
 		<td>2091</td>
 		<td>2118</td>
 		<td>2144</td>
-		<td>2164</td>
-		<td>+ 20</td>
+		<td>2165</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105101</td>
-		<td>944</td>
+		<td>105107</td>
+		<td>950</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>3301</td>
 		<td>3342</td>
 		<td>3372</td>
-		<td>3396</td>
-		<td>+ 24</td>
+		<td>3397</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -575,8 +575,8 @@
 		<td>2864</td>
 		<td>2897</td>
 		<td>2926</td>
-		<td>2956</td>
-		<td>+ 30</td>
+		<td>2957</td>
+		<td>+ 31</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -597,8 +597,8 @@
 		<td>2767</td>
 		<td>2806</td>
 		<td>2841</td>
-		<td>2869</td>
-		<td>+ 28</td>
+		<td>2870</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -817,8 +817,8 @@
 		<td>2258</td>
 		<td>2288</td>
 		<td>2314</td>
-		<td>2336</td>
-		<td>+ 22</td>
+		<td>2337</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -828,8 +828,8 @@
 		<td>2244</td>
 		<td>2278</td>
 		<td>2308</td>
-		<td>2335</td>
-		<td>+ 27</td>
+		<td>2336</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -905,8 +905,8 @@
 		<td>2091</td>
 		<td>2118</td>
 		<td>2144</td>
-		<td>2164</td>
-		<td>+ 20</td>
+		<td>2165</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105101</td>
-		<td>944</td>
+		<td>105107</td>
+		<td>950</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1022,7 +1022,7 @@
 		<td>73</td>
 		<td>129</td>
 		<td>148</td>
-		<td>169</td>
+		<td>175</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1034,7 +1034,7 @@
 		<td>27</td>
 		<td>25</td>
 		<td>26</td>
-		<td>19</td>
+		<td>22</td>
 	</tr>
 </table>
 <br>
@@ -1048,8 +1048,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>6958</td>
-		<td>1651</td>
+		<td>6964</td>
+		<td>1654</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1062,8 +1062,8 @@
 	</tr>
 	<tr>
 		<td>56</td>
-		<td>124.25</td>
-		<td>29.48</td>
+		<td>124.36</td>
+		<td>29.54</td>
 		<td></td>
 		<td></td>
 	</tr>
