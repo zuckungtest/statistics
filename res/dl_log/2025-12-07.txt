@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.0-comets | downloads: 38
-v1.0.6-boss.loot | downloads: 258
+v1.0.6-boss.loot | downloads: 260
 v1.0.5-boss.loot | downloads: 13
 v1.0.4-boss.loot | downloads: 216
 v1.1.10-captureable.person.ships | downloads: 519
@@ -12,7 +12,7 @@ v1.0.27-additional.command.buttons.radial | downloads: 1474
 v1.0.9-mission.helper | downloads: 1467
 v1.0.5-ship.merging | downloads: 1420
 v1.0.2-vague.improvements | downloads: 148
-v1.0.11-combat.ai | downloads: 1639
+v1.0.11-combat.ai | downloads: 1641
 v1.0.10-combat.ai | downloads: 19
 v1.0.9-combat.ai | downloads: 5
 v1.0.1-vague.improvements | downloads: 60
@@ -64,11 +64,11 @@ v1.0.7-mission.helper | downloads: 655
 v1.0.9-expert.crew.members | downloads: 2262
 v1.0.10-uniques | downloads: 95
 v1.0.8-expert.crew.members | downloads: 20
-v1.0.7-human.labels | downloads: 1901
+v1.0.7-human.labels | downloads: 1903
 v1.0.5-show.reputation | downloads: 2108
 v1.0.3-paint.your.ships | downloads: 2046
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 2352
+v1.0.9-bunrodea.missions | downloads: 2354
 v1.0.5-better.starts | downloads: 2286
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
@@ -302,7 +302,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 301
-# TOTAL DOWNLOADS: 107336
+# TOTAL DOWNLOADS: 107344
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -312,11 +312,11 @@ automata.destruction.0percent 2657
 automata.in.human.space 2410
 avgi.licenses 232
 better.starts 2833
-boss.loot 2341
-bunrodea.missions 3078
+boss.loot 2343
+bunrodea.missions 3080
 captureable.person.ships 2584
 coalition.shopping 2763
-combat.ai 2756
+combat.ai 2758
 comets 38
 control.station 2710
 devil-run.unhidden 68
@@ -329,7 +329,7 @@ galactic.capital.investment 3407
 gegno.pirates 2956
 hai.side.mission.unlocker 2386
 highrollers.ltd 2037
-human.labels 2307
+human.labels 2309
 jump.gates 2556
 kestrel.unlocks 2454
 kor.efret.shipyard 2788
