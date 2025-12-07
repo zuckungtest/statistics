@@ -65,8 +65,8 @@
 		<td>2278</td>
 		<td>2308</td>
 		<td>2336</td>
-		<td>2341</td>
-		<td>+ 5</td>
+		<td>2343</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>3021</td>
 		<td>3050</td>
 		<td>3072</td>
-		<td>3078</td>
-		<td>+ 6</td>
+		<td>3080</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>2694</td>
 		<td>2721</td>
 		<td>2750</td>
-		<td>2756</td>
-		<td>+ 6</td>
+		<td>2758</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -230,8 +230,8 @@
 		<td>2257</td>
 		<td>2283</td>
 		<td>2305</td>
-		<td>2307</td>
-		<td>+ 2</td>
+		<td>2309</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105297</td>
-		<td>160</td>
+		<td>105305</td>
+		<td>168</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>3021</td>
 		<td>3050</td>
 		<td>3072</td>
-		<td>3078</td>
-		<td>+ 6</td>
+		<td>3080</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -652,8 +652,8 @@
 		<td>2694</td>
 		<td>2721</td>
 		<td>2750</td>
-		<td>2756</td>
-		<td>+ 6</td>
+		<td>2758</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -817,8 +817,8 @@
 		<td>2278</td>
 		<td>2308</td>
 		<td>2336</td>
-		<td>2341</td>
-		<td>+ 5</td>
+		<td>2343</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -850,8 +850,8 @@
 		<td>2257</td>
 		<td>2283</td>
 		<td>2305</td>
-		<td>2307</td>
-		<td>+ 2</td>
+		<td>2309</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105297</td>
-		<td>160</td>
+		<td>105305</td>
+		<td>168</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1022,7 +1022,7 @@
 		<td>129</td>
 		<td>148</td>
 		<td>182</td>
-		<td>20</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1034,7 +1034,7 @@
 		<td>25</td>
 		<td>26</td>
 		<td>27</td>
-		<td>6</td>
+		<td>7</td>
 	</tr>
 </table>
 <br>
@@ -1048,8 +1048,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>6991</td>
-		<td>1665</td>
+		<td>7011</td>
+		<td>1666</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1062,8 +1062,8 @@
 	</tr>
 	<tr>
 		<td>57</td>
-		<td>122.65</td>
-		<td>29.21</td>
+		<td>123.00</td>
+		<td>29.23</td>
 		<td></td>
 		<td></td>
 	</tr>
