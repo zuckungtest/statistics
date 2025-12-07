@@ -109,8 +109,8 @@
 		<td>2694</td>
 		<td>2721</td>
 		<td>2750</td>
-		<td>2758</td>
-		<td>+ 8</td>
+		<td>2760</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -417,8 +417,8 @@
 		<td>2619</td>
 		<td>2645</td>
 		<td>2668</td>
-		<td>2672</td>
-		<td>+ 4</td>
+		<td>2674</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105305</td>
-		<td>168</td>
+		<td>105309</td>
+		<td>172</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>2694</td>
 		<td>2721</td>
 		<td>2750</td>
-		<td>2758</td>
-		<td>+ 8</td>
+		<td>2760</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -685,8 +685,8 @@
 		<td>2619</td>
 		<td>2645</td>
 		<td>2668</td>
-		<td>2672</td>
-		<td>+ 4</td>
+		<td>2674</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105305</td>
-		<td>168</td>
+		<td>105309</td>
+		<td>172</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1022,7 +1022,7 @@
 		<td>129</td>
 		<td>148</td>
 		<td>182</td>
-		<td>44</td>
+		<td>48</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1034,7 +1034,7 @@
 		<td>25</td>
 		<td>26</td>
 		<td>27</td>
-		<td>9</td>
+		<td>10</td>
 	</tr>
 </table>
 <br>
@@ -1048,8 +1048,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>7015</td>
-		<td>1668</td>
+		<td>7019</td>
+		<td>1669</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1062,8 +1062,8 @@
 	</tr>
 	<tr>
 		<td>57</td>
-		<td>123.07</td>
-		<td>29.26</td>
+		<td>123.14</td>
+		<td>29.28</td>
 		<td></td>
 		<td></td>
 	</tr>
