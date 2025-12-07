@@ -32,8 +32,8 @@
 		<td>2594</td>
 		<td>2626</td>
 		<td>2651</td>
-		<td>2654</td>
-		<td>+ 3</td>
+		<td>2656</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -76,8 +76,8 @@
 		<td>3021</td>
 		<td>3050</td>
 		<td>3072</td>
-		<td>3075</td>
-		<td>+ 3</td>
+		<td>3077</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -197,8 +197,8 @@
 		<td>2890</td>
 		<td>2921</td>
 		<td>2946</td>
-		<td>2949</td>
-		<td>+ 3</td>
+		<td>2951</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -329,8 +329,8 @@
 		<td>2806</td>
 		<td>2841</td>
 		<td>2872</td>
-		<td>2877</td>
-		<td>+ 5</td>
+		<td>2881</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -351,8 +351,8 @@
 		<td>2123</td>
 		<td>2151</td>
 		<td>2175</td>
-		<td>2178</td>
-		<td>+ 3</td>
+		<td>2180</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105226</td>
-		<td>89</td>
+		<td>105238</td>
+		<td>101</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>3021</td>
 		<td>3050</td>
 		<td>3072</td>
-		<td>3075</td>
-		<td>+ 3</td>
+		<td>3077</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -586,8 +586,8 @@
 		<td>2890</td>
 		<td>2921</td>
 		<td>2946</td>
-		<td>2949</td>
-		<td>+ 3</td>
+		<td>2951</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -597,8 +597,8 @@
 		<td>2806</td>
 		<td>2841</td>
 		<td>2872</td>
-		<td>2877</td>
-		<td>+ 5</td>
+		<td>2881</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -696,8 +696,8 @@
 		<td>2594</td>
 		<td>2626</td>
 		<td>2651</td>
-		<td>2654</td>
-		<td>+ 3</td>
+		<td>2656</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -883,8 +883,8 @@
 		<td>2123</td>
 		<td>2151</td>
 		<td>2175</td>
-		<td>2178</td>
-		<td>+ 3</td>
+		<td>2180</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105226</td>
-		<td>89</td>
+		<td>105238</td>
+		<td>101</td>
 	</tr>
 </table>
 </sub></sup>
