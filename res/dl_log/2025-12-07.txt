@@ -9,10 +9,10 @@ v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 1254
 v1.0.3-boss.loot | downloads: 932
 v1.0.27-additional.command.buttons.radial | downloads: 1474
-v1.0.9-mission.helper | downloads: 1465
+v1.0.9-mission.helper | downloads: 1467
 v1.0.5-ship.merging | downloads: 1420
 v1.0.2-vague.improvements | downloads: 148
-v1.0.11-combat.ai | downloads: 1637
+v1.0.11-combat.ai | downloads: 1639
 v1.0.10-combat.ai | downloads: 19
 v1.0.9-combat.ai | downloads: 5
 v1.0.1-vague.improvements | downloads: 60
@@ -37,7 +37,7 @@ v1.0.5-too.many.asteroids | downloads: 1583
 v1.0.4-planet.map | downloads: 1546
 v1.0.4-no.more.mereti.mines | downloads: 1716
 v1.0.4-jump.gates | downloads: 1913
-v1.0.4-gegno.pirates | downloads: 2072
+v1.0.4-gegno.pirates | downloads: 2074
 v1.0.3-tribute.republic | downloads: 1722
 v1.0.3-more.arfectas | downloads: 1558
 v1.0.3-kor.efret.shipyard | downloads: 1986
@@ -65,7 +65,7 @@ v1.0.9-expert.crew.members | downloads: 2262
 v1.0.10-uniques | downloads: 95
 v1.0.8-expert.crew.members | downloads: 20
 v1.0.7-human.labels | downloads: 1901
-v1.0.5-show.reputation | downloads: 2106
+v1.0.5-show.reputation | downloads: 2108
 v1.0.3-paint.your.ships | downloads: 2046
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 2352
@@ -302,7 +302,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 301
-# TOTAL DOWNLOADS: 107328
+# TOTAL DOWNLOADS: 107336
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -316,7 +316,7 @@ boss.loot 2341
 bunrodea.missions 3078
 captureable.person.ships 2584
 coalition.shopping 2763
-combat.ai 2754
+combat.ai 2756
 comets 38
 control.station 2710
 devil-run.unhidden 68
@@ -326,7 +326,7 @@ expert.crew.members 3009
 flare.play 2053
 free.worlds.5.years.later 373
 galactic.capital.investment 3407
-gegno.pirates 2954
+gegno.pirates 2956
 hai.side.mission.unlocker 2386
 highrollers.ltd 2037
 human.labels 2307
@@ -337,7 +337,7 @@ landing.images 2460
 landing.images.android 351
 landing.images.highres 2175
 licenses 2637
-mission.helper 2961
+mission.helper 2963
 more.arfectas 2706
 more.boarding.missions 2882
 more.person.ships 2329
@@ -351,7 +351,7 @@ planet.pluto 196
 quarg.farm 2825
 real.fluff 95
 ship.merging 2284
-show.reputation 2670
+show.reputation 2672
 snowfeather.robotics 2550
 space.fauna 2167
 too.many.asteroids 2983
