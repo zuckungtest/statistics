@@ -10,7 +10,7 @@ v1.0.4-flare.play | downloads: 1253
 v1.0.3-boss.loot | downloads: 932
 v1.0.27-additional.command.buttons.radial | downloads: 1473
 v1.0.9-mission.helper | downloads: 1462
-v1.0.5-ship.merging | downloads: 1417
+v1.0.5-ship.merging | downloads: 1419
 v1.0.2-vague.improvements | downloads: 148
 v1.0.11-combat.ai | downloads: 1636
 v1.0.10-combat.ai | downloads: 19
@@ -81,7 +81,7 @@ v1.0.23-additional.command.buttons.radial | downloads: 167
 v1.1.8-captureable.person.ships | downloads: 47
 v1.1.7-galactic.capital.investment | downloads: 27
 v1.1.5-more.boarding.missions | downloads: 2283
-v1.1.5-hai.side.mission.unlocker | downloads: 1951
+v1.1.5-hai.side.mission.unlocker | downloads: 1954
 v1.0.6-snowfeather.robotics | downloads: 2080
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 409
@@ -302,7 +302,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 301
-# TOTAL DOWNLOADS: 107260
+# TOTAL DOWNLOADS: 107265
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -327,7 +327,7 @@ flare.play 2052
 free.worlds.5.years.later 373
 galactic.capital.investment 3404
 gegno.pirates 2949
-hai.side.mission.unlocker 2382
+hai.side.mission.unlocker 2385
 highrollers.ltd 2036
 human.labels 2306
 jump.gates 2555
@@ -350,7 +350,7 @@ planet.map 2052
 planet.pluto 196
 quarg.farm 2824
 real.fluff 95
-ship.merging 2281
+ship.merging 2283
 show.reputation 2669
 snowfeather.robotics 2549
 space.fauna 2166
