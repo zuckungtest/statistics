@@ -208,8 +208,8 @@
 		<td>2337</td>
 		<td>2361</td>
 		<td>2381</td>
-		<td>2382</td>
-		<td>+ 1</td>
+		<td>2385</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -406,8 +406,8 @@
 		<td>2229</td>
 		<td>2260</td>
 		<td>2280</td>
-		<td>2281</td>
-		<td>+ 1</td>
+		<td>2283</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105221</td>
-		<td>84</td>
+		<td>105226</td>
+		<td>89</td>
 	</tr>
 </table>
 </sub></sup>
@@ -806,8 +806,8 @@
 		<td>2337</td>
 		<td>2361</td>
 		<td>2381</td>
-		<td>2382</td>
-		<td>+ 1</td>
+		<td>2385</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -861,8 +861,8 @@
 		<td>2229</td>
 		<td>2260</td>
 		<td>2280</td>
-		<td>2281</td>
-		<td>+ 1</td>
+		<td>2283</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105221</td>
-		<td>84</td>
+		<td>105226</td>
+		<td>89</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1022,7 +1022,7 @@
 		<td>129</td>
 		<td>148</td>
 		<td>182</td>
-		<td>1</td>
+		<td>4</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1034,7 +1034,7 @@
 		<td>25</td>
 		<td>26</td>
 		<td>27</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -1048,8 +1048,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>6972</td>
-		<td>1660</td>
+		<td>6975</td>
+		<td>1661</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1062,8 +1062,8 @@
 	</tr>
 	<tr>
 		<td>57</td>
-		<td>122.32</td>
-		<td>29.12</td>
+		<td>122.37</td>
+		<td>29.14</td>
 		<td></td>
 		<td></td>
 	</tr>
