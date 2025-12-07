@@ -197,8 +197,8 @@
 		<td>2890</td>
 		<td>2921</td>
 		<td>2946</td>
-		<td>2952</td>
-		<td>+ 6</td>
+		<td>2954</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105287</td>
-		<td>150</td>
+		<td>105289</td>
+		<td>152</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>2890</td>
 		<td>2921</td>
 		<td>2946</td>
-		<td>2952</td>
-		<td>+ 6</td>
+		<td>2954</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105287</td>
-		<td>150</td>
+		<td>105289</td>
+		<td>152</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1022,7 +1022,7 @@
 		<td>129</td>
 		<td>148</td>
 		<td>182</td>
-		<td>17</td>
+		<td>20</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1034,7 +1034,7 @@
 		<td>25</td>
 		<td>26</td>
 		<td>27</td>
-		<td>4</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -1048,8 +1048,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>6988</td>
-		<td>1663</td>
+		<td>6991</td>
+		<td>1665</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1062,8 +1062,8 @@
 	</tr>
 	<tr>
 		<td>57</td>
-		<td>122.60</td>
-		<td>29.18</td>
+		<td>122.65</td>
+		<td>29.21</td>
 		<td></td>
 		<td></td>
 	</tr>
