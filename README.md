@@ -307,8 +307,8 @@
 		<td>2897</td>
 		<td>2926</td>
 		<td>2957</td>
-		<td>2964</td>
-		<td>+ 7</td>
+		<td>2966</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105350</td>
-		<td>213</td>
+		<td>105352</td>
+		<td>215</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>2897</td>
 		<td>2926</td>
 		<td>2957</td>
-		<td>2964</td>
-		<td>+ 7</td>
+		<td>2966</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105350</td>
-		<td>213</td>
+		<td>105352</td>
+		<td>215</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1022,7 +1022,7 @@
 		<td>129</td>
 		<td>148</td>
 		<td>182</td>
-		<td>51</td>
+		<td>52</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1048,7 +1048,7 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>7022</td>
+		<td>7023</td>
 		<td>1672</td>
 		<td>278</td>
 		<td>40</td>
@@ -1062,7 +1062,7 @@
 	</tr>
 	<tr>
 		<td>57</td>
-		<td>123.19</td>
+		<td>123.21</td>
 		<td>29.33</td>
 		<td></td>
 		<td></td>
