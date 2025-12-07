@@ -12,7 +12,7 @@ v1.0.27-additional.command.buttons.radial | downloads: 1474
 v1.0.9-mission.helper | downloads: 1467
 v1.0.5-ship.merging | downloads: 1420
 v1.0.2-vague.improvements | downloads: 148
-v1.0.11-combat.ai | downloads: 1641
+v1.0.11-combat.ai | downloads: 1643
 v1.0.10-combat.ai | downloads: 19
 v1.0.9-combat.ai | downloads: 5
 v1.0.1-vague.improvements | downloads: 60
@@ -65,7 +65,7 @@ v1.0.9-expert.crew.members | downloads: 2262
 v1.0.10-uniques | downloads: 95
 v1.0.8-expert.crew.members | downloads: 20
 v1.0.7-human.labels | downloads: 1903
-v1.0.5-show.reputation | downloads: 2108
+v1.0.5-show.reputation | downloads: 2110
 v1.0.3-paint.your.ships | downloads: 2046
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 2354
@@ -302,7 +302,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 301
-# TOTAL DOWNLOADS: 107344
+# TOTAL DOWNLOADS: 107348
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -316,7 +316,7 @@ boss.loot 2343
 bunrodea.missions 3080
 captureable.person.ships 2584
 coalition.shopping 2763
-combat.ai 2758
+combat.ai 2760
 comets 38
 control.station 2710
 devil-run.unhidden 68
@@ -351,7 +351,7 @@ planet.pluto 196
 quarg.farm 2825
 real.fluff 95
 ship.merging 2284
-show.reputation 2672
+show.reputation 2674
 snowfeather.robotics 2550
 space.fauna 2167
 too.many.asteroids 2983
