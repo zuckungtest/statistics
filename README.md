@@ -109,8 +109,8 @@
 		<td>2694</td>
 		<td>2721</td>
 		<td>2750</td>
-		<td>2754</td>
-		<td>+ 4</td>
+		<td>2756</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -197,8 +197,8 @@
 		<td>2890</td>
 		<td>2921</td>
 		<td>2946</td>
-		<td>2954</td>
-		<td>+ 8</td>
+		<td>2956</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -307,8 +307,8 @@
 		<td>2897</td>
 		<td>2926</td>
 		<td>2957</td>
-		<td>2961</td>
-		<td>+ 4</td>
+		<td>2963</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>2619</td>
 		<td>2645</td>
 		<td>2668</td>
-		<td>2670</td>
-		<td>+ 2</td>
+		<td>2672</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105289</td>
-		<td>152</td>
+		<td>105297</td>
+		<td>160</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>2897</td>
 		<td>2926</td>
 		<td>2957</td>
-		<td>2961</td>
-		<td>+ 4</td>
+		<td>2963</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -586,8 +586,8 @@
 		<td>2890</td>
 		<td>2921</td>
 		<td>2946</td>
-		<td>2954</td>
-		<td>+ 8</td>
+		<td>2956</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -652,8 +652,8 @@
 		<td>2694</td>
 		<td>2721</td>
 		<td>2750</td>
-		<td>2754</td>
-		<td>+ 4</td>
+		<td>2756</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -685,8 +685,8 @@
 		<td>2619</td>
 		<td>2645</td>
 		<td>2668</td>
-		<td>2670</td>
-		<td>+ 2</td>
+		<td>2672</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>105289</td>
-		<td>152</td>
+		<td>105297</td>
+		<td>160</td>
 	</tr>
 </table>
 </sub></sup>
