@@ -4,7 +4,7 @@ v1.0.6-boss.loot | downloads: 392
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
 v1.1.10-captureable.person.ships | downloads: 636
-v1.1.11-galactic.capital.investment | downloads: 1484
+v1.1.11-galactic.capital.investment | downloads: 1486
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 1367
 v1.0.3-boss.loot | downloads: 932
@@ -80,7 +80,7 @@ v1.0.1-free.worlds.5.years.later | downloads: 13
 v1.0.23-additional.command.buttons.radial | downloads: 167
 v1.1.8-captureable.person.ships | downloads: 47
 v1.1.7-galactic.capital.investment | downloads: 27
-v1.1.5-more.boarding.missions | downloads: 2426
+v1.1.5-more.boarding.missions | downloads: 2428
 v1.1.5-hai.side.mission.unlocker | downloads: 2066
 v1.0.6-snowfeather.robotics | downloads: 2199
 v1.0.6-human.labels | downloads: 41
@@ -302,7 +302,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 301
-# TOTAL DOWNLOADS: 112328
+# TOTAL DOWNLOADS: 112332
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -325,7 +325,7 @@ disable.spaceport.repeatables 2339
 expert.crew.members 3125
 flare.play 2166
 free.worlds.5.years.later 373
-galactic.capital.investment 3562
+galactic.capital.investment 3564
 gegno.pirates 3072
 hai.side.mission.unlocker 2497
 highrollers.ltd 2150
@@ -339,7 +339,7 @@ landing.images.highres 2288
 licenses 2758
 mission.helper 3095
 more.arfectas 2841
-more.boarding.missions 3020
+more.boarding.missions 3022
 more.person.ships 2444
 navy.licenses 578
 no.more.mereti.mines 2308
