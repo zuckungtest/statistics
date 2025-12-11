@@ -186,8 +186,8 @@
 		<td>3465</td>
 		<td>3498</td>
 		<td>3532</td>
-		<td>3562</td>
-		<td>+ 30</td>
+		<td>3564</td>
+		<td>+ 32</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -329,8 +329,8 @@
 		<td>2934</td>
 		<td>2967</td>
 		<td>3000</td>
-		<td>3020</td>
-		<td>+ 20</td>
+		<td>3022</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>110289</td>
-		<td>741</td>
+		<td>110293</td>
+		<td>745</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>3465</td>
 		<td>3498</td>
 		<td>3532</td>
-		<td>3562</td>
-		<td>+ 30</td>
+		<td>3564</td>
+		<td>+ 32</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -597,8 +597,8 @@
 		<td>2934</td>
 		<td>2967</td>
 		<td>3000</td>
-		<td>3020</td>
-		<td>+ 20</td>
+		<td>3022</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>110289</td>
-		<td>741</td>
+		<td>110293</td>
+		<td>745</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1022,7 +1022,7 @@
 		<td>55</td>
 		<td>31</td>
 		<td>43</td>
-		<td>31</td>
+		<td>37</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1034,7 +1034,7 @@
 		<td>21</td>
 		<td>12</td>
 		<td>14</td>
-		<td>7</td>
+		<td>9</td>
 	</tr>
 </table>
 <br>
@@ -1048,8 +1048,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>7229</td>
-		<td>1735</td>
+		<td>7235</td>
+		<td>1737</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1062,8 +1062,8 @@
 	</tr>
 	<tr>
 		<td>61</td>
-		<td>118.51</td>
-		<td>28.44</td>
+		<td>118.61</td>
+		<td>28.48</td>
 		<td></td>
 		<td></td>
 	</tr>
