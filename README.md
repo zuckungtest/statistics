@@ -307,8 +307,8 @@
 		<td>3101</td>
 		<td>3129</td>
 		<td>3158</td>
-		<td>3164</td>
-		<td>+ 6</td>
+		<td>3165</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>2795</td>
 		<td>2825</td>
 		<td>2856</td>
-		<td>2860</td>
-		<td>+ 4</td>
+		<td>2861</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>113300</td>
-		<td>207</td>
+		<td>113302</td>
+		<td>209</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>3101</td>
 		<td>3129</td>
 		<td>3158</td>
-		<td>3164</td>
-		<td>+ 6</td>
+		<td>3165</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -696,8 +696,8 @@
 		<td>2795</td>
 		<td>2825</td>
 		<td>2856</td>
-		<td>2860</td>
-		<td>+ 4</td>
+		<td>2861</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>113300</td>
-		<td>207</td>
+		<td>113302</td>
+		<td>209</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1022,7 +1022,7 @@
 		<td>48</td>
 		<td>92</td>
 		<td>106</td>
-		<td>25</td>
+		<td>29</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1034,7 +1034,7 @@
 		<td>15</td>
 		<td>21</td>
 		<td>24</td>
-		<td>5</td>
+		<td>6</td>
 	</tr>
 </table>
 <br>
@@ -1048,8 +1048,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>7469</td>
-		<td>1793</td>
+		<td>7473</td>
+		<td>1794</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1062,8 +1062,8 @@
 	</tr>
 	<tr>
 		<td>64</td>
-		<td>116.70</td>
-		<td>28.02</td>
+		<td>116.77</td>
+		<td>28.03</td>
 		<td></td>
 		<td></td>
 	</tr>
