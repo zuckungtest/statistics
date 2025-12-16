@@ -87,8 +87,8 @@
 		<td>2766</td>
 		<td>2798</td>
 		<td>2827</td>
-		<td>2851</td>
-		<td>+ 24</td>
+		<td>2852</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>116415</td>
-		<td>766</td>
+		<td>116416</td>
+		<td>767</td>
 	</tr>
 </table>
 </sub></sup>
@@ -729,8 +729,8 @@
 		<td>2766</td>
 		<td>2798</td>
 		<td>2827</td>
-		<td>2851</td>
-		<td>+ 24</td>
+		<td>2852</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>116415</td>
-		<td>766</td>
+		<td>116416</td>
+		<td>767</td>
 	</tr>
 </table>
 </sub></sup>
