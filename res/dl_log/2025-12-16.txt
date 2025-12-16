@@ -3,7 +3,7 @@ v1.0.0-comets | downloads: 88
 v1.0.6-boss.loot | downloads: 557
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
-v1.1.10-captureable.person.ships | downloads: 786
+v1.1.10-captureable.person.ships | downloads: 787
 v1.1.11-galactic.capital.investment | downloads: 1672
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 1508
@@ -302,7 +302,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 301
-# TOTAL DOWNLOADS: 118454
+# TOTAL DOWNLOADS: 118455
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -314,7 +314,7 @@ avgi.licenses 232
 better.starts 3107
 boss.loot 2642
 bunrodea.missions 3356
-captureable.person.ships 2851
+captureable.person.ships 2852
 coalition.shopping 3032
 combat.ai 3056
 comets 88
