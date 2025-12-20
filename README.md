@@ -21,8 +21,8 @@
 		<td>3551</td>
 		<td>3579</td>
 		<td>3608</td>
-		<td>3634</td>
-		<td>+ 26</td>
+		<td>3635</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>2982</td>
 		<td>3010</td>
 		<td>3044</td>
-		<td>3070</td>
-		<td>+ 26</td>
+		<td>3071</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>2697</td>
 		<td>2723</td>
 		<td>2750</td>
-		<td>2776</td>
-		<td>+ 26</td>
+		<td>2777</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -54,8 +54,8 @@
 		<td>3144</td>
 		<td>3176</td>
 		<td>3205</td>
-		<td>3231</td>
-		<td>+ 26</td>
+		<td>3232</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>2682</td>
 		<td>2711</td>
 		<td>2745</td>
-		<td>2774</td>
-		<td>+ 29</td>
+		<td>2775</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>3390</td>
 		<td>3421</td>
 		<td>3450</td>
-		<td>3477</td>
-		<td>+ 27</td>
+		<td>3478</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>119439</td>
-		<td>475</td>
+		<td>119445</td>
+		<td>481</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>3551</td>
 		<td>3579</td>
 		<td>3608</td>
-		<td>3634</td>
-		<td>+ 26</td>
+		<td>3635</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>3390</td>
 		<td>3421</td>
 		<td>3450</td>
-		<td>3477</td>
-		<td>+ 27</td>
+		<td>3478</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -608,8 +608,8 @@
 		<td>3144</td>
 		<td>3176</td>
 		<td>3205</td>
-		<td>3231</td>
-		<td>+ 26</td>
+		<td>3232</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -674,8 +674,8 @@
 		<td>2982</td>
 		<td>3010</td>
 		<td>3044</td>
-		<td>3070</td>
-		<td>+ 26</td>
+		<td>3071</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -784,8 +784,8 @@
 		<td>2697</td>
 		<td>2723</td>
 		<td>2750</td>
-		<td>2776</td>
-		<td>+ 26</td>
+		<td>2777</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -795,8 +795,8 @@
 		<td>2682</td>
 		<td>2711</td>
 		<td>2745</td>
-		<td>2774</td>
-		<td>+ 29</td>
+		<td>2775</td>
+		<td>+ 30</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>119439</td>
-		<td>475</td>
+		<td>119445</td>
+		<td>481</td>
 	</tr>
 </table>
 </sub></sup>
