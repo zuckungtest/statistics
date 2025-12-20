@@ -21,8 +21,8 @@
 		<td>3551</td>
 		<td>3579</td>
 		<td>3608</td>
-		<td>3625</td>
-		<td>+ 17</td>
+		<td>3626</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>2982</td>
 		<td>3010</td>
 		<td>3044</td>
-		<td>3063</td>
-		<td>+ 19</td>
+		<td>3064</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>2697</td>
 		<td>2723</td>
 		<td>2750</td>
-		<td>2767</td>
-		<td>+ 17</td>
+		<td>2768</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -54,8 +54,8 @@
 		<td>3144</td>
 		<td>3176</td>
 		<td>3205</td>
-		<td>3222</td>
-		<td>+ 17</td>
+		<td>3223</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>2682</td>
 		<td>2711</td>
 		<td>2745</td>
-		<td>2765</td>
-		<td>+ 20</td>
+		<td>2766</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>3390</td>
 		<td>3421</td>
 		<td>3450</td>
-		<td>3468</td>
-		<td>+ 18</td>
+		<td>3469</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -208,8 +208,8 @@
 		<td>2668</td>
 		<td>2675</td>
 		<td>2682</td>
-		<td>2686</td>
-		<td>+ 4</td>
+		<td>2687</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>119316</td>
-		<td>352</td>
+		<td>119323</td>
+		<td>359</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>3551</td>
 		<td>3579</td>
 		<td>3608</td>
-		<td>3625</td>
-		<td>+ 17</td>
+		<td>3626</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>3390</td>
 		<td>3421</td>
 		<td>3450</td>
-		<td>3468</td>
-		<td>+ 18</td>
+		<td>3469</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -608,8 +608,8 @@
 		<td>3144</td>
 		<td>3176</td>
 		<td>3205</td>
-		<td>3222</td>
-		<td>+ 17</td>
+		<td>3223</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -674,8 +674,8 @@
 		<td>2982</td>
 		<td>3010</td>
 		<td>3044</td>
-		<td>3063</td>
-		<td>+ 19</td>
+		<td>3064</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -795,8 +795,8 @@
 		<td>2697</td>
 		<td>2723</td>
 		<td>2750</td>
-		<td>2767</td>
-		<td>+ 17</td>
+		<td>2768</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -806,8 +806,8 @@
 		<td>2682</td>
 		<td>2711</td>
 		<td>2745</td>
-		<td>2765</td>
-		<td>+ 20</td>
+		<td>2766</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -817,8 +817,8 @@
 		<td>2668</td>
 		<td>2675</td>
 		<td>2682</td>
-		<td>2686</td>
-		<td>+ 4</td>
+		<td>2687</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>119316</td>
-		<td>352</td>
+		<td>119323</td>
+		<td>359</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1022,7 +1022,7 @@
 		<td>75</td>
 		<td>46</td>
 		<td>39</td>
-		<td>35</td>
+		<td>38</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1034,7 +1034,7 @@
 		<td>17</td>
 		<td>22</td>
 		<td>17</td>
-		<td>9</td>
+		<td>11</td>
 	</tr>
 </table>
 <br>
@@ -1048,8 +1048,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>7968</td>
-		<td>1929</td>
+		<td>7971</td>
+		<td>1931</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1062,8 +1062,8 @@
 	</tr>
 	<tr>
 		<td>70</td>
-		<td>113.83</td>
-		<td>27.56</td>
+		<td>113.87</td>
+		<td>27.59</td>
 		<td></td>
 		<td></td>
 	</tr>
