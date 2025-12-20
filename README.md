@@ -21,8 +21,8 @@
 		<td>3551</td>
 		<td>3579</td>
 		<td>3608</td>
-		<td>3616</td>
-		<td>+ 8</td>
+		<td>3617</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>2982</td>
 		<td>3010</td>
 		<td>3044</td>
-		<td>3054</td>
-		<td>+ 10</td>
+		<td>3055</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>2697</td>
 		<td>2723</td>
 		<td>2750</td>
-		<td>2758</td>
-		<td>+ 8</td>
+		<td>2759</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -54,8 +54,8 @@
 		<td>3144</td>
 		<td>3176</td>
 		<td>3205</td>
-		<td>3213</td>
-		<td>+ 8</td>
+		<td>3214</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>2682</td>
 		<td>2711</td>
 		<td>2745</td>
-		<td>2753</td>
-		<td>+ 8</td>
+		<td>2754</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>3390</td>
 		<td>3421</td>
 		<td>3450</td>
-		<td>3458</td>
-		<td>+ 8</td>
+		<td>3459</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>119145</td>
-		<td>181</td>
+		<td>119151</td>
+		<td>187</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>3551</td>
 		<td>3579</td>
 		<td>3608</td>
-		<td>3616</td>
-		<td>+ 8</td>
+		<td>3617</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>3390</td>
 		<td>3421</td>
 		<td>3450</td>
-		<td>3458</td>
-		<td>+ 8</td>
+		<td>3459</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -608,8 +608,8 @@
 		<td>3144</td>
 		<td>3176</td>
 		<td>3205</td>
-		<td>3213</td>
-		<td>+ 8</td>
+		<td>3214</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -667,6 +667,17 @@
 		<td>+ 7</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>2900</td>
+		<td>2929</td>
+		<td>2953</td>
+		<td>2982</td>
+		<td>3010</td>
+		<td>3044</td>
+		<td>3055</td>
+		<td>+ 11</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>2954</td>
 		<td>2980</td>
@@ -676,17 +687,6 @@
 		<td>3051</td>
 		<td>3054</td>
 		<td>+ 3</td>
-	</tr>
-	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>2900</td>
-		<td>2929</td>
-		<td>2953</td>
-		<td>2982</td>
-		<td>3010</td>
-		<td>3044</td>
-		<td>3054</td>
-		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -795,8 +795,8 @@
 		<td>2697</td>
 		<td>2723</td>
 		<td>2750</td>
-		<td>2758</td>
-		<td>+ 8</td>
+		<td>2759</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -806,8 +806,8 @@
 		<td>2682</td>
 		<td>2711</td>
 		<td>2745</td>
-		<td>2753</td>
-		<td>+ 8</td>
+		<td>2754</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>119145</td>
-		<td>181</td>
+		<td>119151</td>
+		<td>187</td>
 	</tr>
 </table>
 </sub></sup>
