@@ -21,8 +21,8 @@
 		<td>3579</td>
 		<td>3608</td>
 		<td>3636</td>
-		<td>3652</td>
-		<td>+ 16</td>
+		<td>3653</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>3010</td>
 		<td>3044</td>
 		<td>3072</td>
-		<td>3088</td>
-		<td>+ 16</td>
+		<td>3089</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>2723</td>
 		<td>2750</td>
 		<td>2778</td>
-		<td>2796</td>
-		<td>+ 18</td>
+		<td>2797</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -54,8 +54,8 @@
 		<td>3176</td>
 		<td>3205</td>
 		<td>3233</td>
-		<td>3249</td>
-		<td>+ 16</td>
+		<td>3250</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>2711</td>
 		<td>2745</td>
 		<td>2776</td>
-		<td>2796</td>
-		<td>+ 20</td>
+		<td>2797</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>3421</td>
 		<td>3450</td>
 		<td>3480</td>
-		<td>3498</td>
-		<td>+ 18</td>
+		<td>3499</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>3792</td>
 		<td>3800</td>
 		<td>3814</td>
-		<td>3820</td>
-		<td>+ 6</td>
+		<td>3822</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>2590</td>
 		<td>2595</td>
 		<td>2605</td>
-		<td>2611</td>
-		<td>+ 6</td>
+		<td>2614</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -241,8 +241,8 @@
 		<td>2862</td>
 		<td>2869</td>
 		<td>2876</td>
-		<td>2880</td>
-		<td>+ 4</td>
+		<td>2882</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -274,8 +274,8 @@
 		<td>2769</td>
 		<td>2774</td>
 		<td>2779</td>
-		<td>2783</td>
-		<td>+ 4</td>
+		<td>2785</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -307,8 +307,8 @@
 		<td>3294</td>
 		<td>3304</td>
 		<td>3319</td>
-		<td>3324</td>
-		<td>+ 5</td>
+		<td>3328</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -318,8 +318,8 @@
 		<td>3044</td>
 		<td>3051</td>
 		<td>3066</td>
-		<td>3072</td>
-		<td>+ 6</td>
+		<td>3074</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -406,8 +406,8 @@
 		<td>2610</td>
 		<td>2620</td>
 		<td>2629</td>
-		<td>2633</td>
-		<td>+ 4</td>
+		<td>2635</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>119721</td>
-		<td>263</td>
+		<td>119744</td>
+		<td>286</td>
 	</tr>
 </table>
 </sub></sup>
@@ -520,8 +520,8 @@
 		<td>3792</td>
 		<td>3800</td>
 		<td>3814</td>
-		<td>3820</td>
-		<td>+ 6</td>
+		<td>3822</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>additional.command.buttons.radial</td>
@@ -531,8 +531,8 @@
 		<td>3579</td>
 		<td>3608</td>
 		<td>3636</td>
-		<td>3652</td>
-		<td>+ 16</td>
+		<td>3653</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>3421</td>
 		<td>3450</td>
 		<td>3480</td>
-		<td>3498</td>
-		<td>+ 18</td>
+		<td>3499</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -557,6 +557,17 @@
 		<td>+ 4</td>
 	</tr>
 	<tr>
+		<td>mission.helper</td>
+		<td>3227</td>
+		<td>3260</td>
+		<td>3287</td>
+		<td>3294</td>
+		<td>3304</td>
+		<td>3319</td>
+		<td>3328</td>
+		<td>+ 9</td>
+	</tr>
+	<tr>
 		<td>too.many.asteroids</td>
 		<td>3239</td>
 		<td>3269</td>
@@ -566,17 +577,6 @@
 		<td>3320</td>
 		<td>3324</td>
 		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>mission.helper</td>
-		<td>3227</td>
-		<td>3260</td>
-		<td>3287</td>
-		<td>3294</td>
-		<td>3304</td>
-		<td>3319</td>
-		<td>3324</td>
-		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -608,8 +608,8 @@
 		<td>3176</td>
 		<td>3205</td>
 		<td>3233</td>
-		<td>3249</td>
-		<td>+ 16</td>
+		<td>3250</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -656,6 +656,17 @@
 		<td>+ 6</td>
 	</tr>
 	<tr>
+		<td>automata.destruction.0percent</td>
+		<td>2929</td>
+		<td>2953</td>
+		<td>2982</td>
+		<td>3010</td>
+		<td>3044</td>
+		<td>3072</td>
+		<td>3089</td>
+		<td>+ 17</td>
+	</tr>
+	<tr>
 		<td>control.station</td>
 		<td>2963</td>
 		<td>2995</td>
@@ -667,17 +678,6 @@
 		<td>+ 6</td>
 	</tr>
 	<tr>
-		<td>automata.destruction.0percent</td>
-		<td>2929</td>
-		<td>2953</td>
-		<td>2982</td>
-		<td>3010</td>
-		<td>3044</td>
-		<td>3072</td>
-		<td>3088</td>
-		<td>+ 16</td>
-	</tr>
-	<tr>
 		<td>more.arfectas</td>
 		<td>2980</td>
 		<td>3004</td>
@@ -685,8 +685,8 @@
 		<td>3044</td>
 		<td>3051</td>
 		<td>3066</td>
-		<td>3072</td>
-		<td>+ 6</td>
+		<td>3074</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -740,8 +740,8 @@
 		<td>2862</td>
 		<td>2869</td>
 		<td>2876</td>
-		<td>2880</td>
-		<td>+ 4</td>
+		<td>2882</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -773,8 +773,8 @@
 		<td>2711</td>
 		<td>2745</td>
 		<td>2776</td>
-		<td>2796</td>
-		<td>+ 20</td>
+		<td>2797</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -784,8 +784,8 @@
 		<td>2723</td>
 		<td>2750</td>
 		<td>2778</td>
-		<td>2796</td>
-		<td>+ 18</td>
+		<td>2797</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -795,8 +795,8 @@
 		<td>2769</td>
 		<td>2774</td>
 		<td>2779</td>
-		<td>2783</td>
-		<td>+ 4</td>
+		<td>2785</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -839,8 +839,8 @@
 		<td>2610</td>
 		<td>2620</td>
 		<td>2629</td>
-		<td>2633</td>
-		<td>+ 4</td>
+		<td>2635</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -861,8 +861,8 @@
 		<td>2590</td>
 		<td>2595</td>
 		<td>2605</td>
-		<td>2611</td>
-		<td>+ 6</td>
+		<td>2614</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>119721</td>
-		<td>263</td>
+		<td>119744</td>
+		<td>286</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1022,7 +1022,7 @@
 		<td>46</td>
 		<td>39</td>
 		<td>65</td>
-		<td>13</td>
+		<td>28</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1034,7 +1034,7 @@
 		<td>22</td>
 		<td>17</td>
 		<td>15</td>
-		<td>10</td>
+		<td>13</td>
 	</tr>
 </table>
 <br>
@@ -1048,8 +1048,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>8011</td>
-		<td>1945</td>
+		<td>8026</td>
+		<td>1948</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1062,8 +1062,8 @@
 	</tr>
 	<tr>
 		<td>71</td>
-		<td>112.83</td>
-		<td>27.39</td>
+		<td>113.04</td>
+		<td>27.44</td>
 		<td></td>
 		<td></td>
 	</tr>
