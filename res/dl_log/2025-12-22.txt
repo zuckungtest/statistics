@@ -1,14 +1,14 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.0-comets | downloads: 101
-v1.0.6-boss.loot | downloads: 738
+v1.0.6-boss.loot | downloads: 739
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
 v1.1.10-captureable.person.ships | downloads: 902
-v1.1.11-galactic.capital.investment | downloads: 1758
+v1.1.11-galactic.capital.investment | downloads: 1760
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 1571
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 1929
+v1.0.27-additional.command.buttons.radial | downloads: 1930
 v1.0.9-mission.helper | downloads: 1835
 v1.0.5-ship.merging | downloads: 1777
 v1.0.2-vague.improvements | downloads: 212
@@ -36,14 +36,14 @@ v1.0.7-coalition.shopping | downloads: 2405
 v1.0.5-too.many.asteroids | downloads: 1870
 v1.0.4-planet.map | downloads: 1828
 v1.0.4-no.more.mereti.mines | downloads: 2081
-v1.0.4-jump.gates | downloads: 2246
+v1.0.4-jump.gates | downloads: 2247
 v1.0.4-gegno.pirates | downloads: 2412
 v1.0.3-tribute.republic | downloads: 2017
 v1.0.3-more.arfectas | downloads: 1842
 v1.0.3-kor.efret.shipyard | downloads: 2332
 v1.0.2-highrollers.ltd | downloads: 2119
-v1.0.2-automata.in.human.space | downloads: 2299
-v1.0.2-automata.destruction.0percent | downloads: 2014
+v1.0.2-automata.in.human.space | downloads: 2300
+v1.0.2-automata.destruction.0percent | downloads: 2015
 v1.0.1-kestrel.unlocks | downloads: 2201
 v1.0.1-disable.person.ships | downloads: 1924
 v1.0.5-landing.images | downloads: 2217
@@ -61,15 +61,15 @@ v1.0.0-boss.loot | downloads: 194
 v1.0.5-combat.ai | downloads: 53
 v1.0.2-flare.play | downloads: 223
 v1.0.7-mission.helper | downloads: 655
-v1.0.9-expert.crew.members | downloads: 2608
+v1.0.9-expert.crew.members | downloads: 2609
 v1.0.10-uniques | downloads: 95
 v1.0.8-expert.crew.members | downloads: 20
 v1.0.7-human.labels | downloads: 2220
 v1.0.5-show.reputation | downloads: 2437
 v1.0.3-paint.your.ships | downloads: 2378
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 2807
-v1.0.5-better.starts | downloads: 2727
+v1.0.9-bunrodea.missions | downloads: 2808
+v1.0.5-better.starts | downloads: 2728
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -105,7 +105,7 @@ v1.0.21-additional.command.buttons.radial | downloads: 27
 v1.0.20-additional.command.buttons.radial | downloads: 13
 v1.0.4-quarg.farm | downloads: 83
 v1.0.9-uniques | downloads: 162
-v1.0.3-planet.map | downloads: 316
+v1.0.3-planet.map | downloads: 317
 v1.0.8-bunrodea.missions | downloads: 203
 v1.0.7-expert.crew.members | downloads: 214
 v1.1.6-galactic.capital.investment | downloads: 202
@@ -302,18 +302,18 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 301
-# TOTAL DOWNLOADS: 122230
+# TOTAL DOWNLOADS: 122241
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 3676
-automata.destruction.0percent 3110
-automata.in.human.space 2823
+additional.command.buttons.radial 3677
+automata.destruction.0percent 3111
+automata.in.human.space 2824
 avgi.licenses 232
-better.starts 3274
-boss.loot 2823
-bunrodea.missions 3533
+better.starts 3275
+boss.loot 2824
+bunrodea.missions 3534
 captureable.person.ships 2967
 coalition.shopping 3158
 combat.ai 3175
@@ -322,15 +322,15 @@ control.station 3095
 devil-run.unhidden 68
 disable.person.ships 2347
 disable.spaceport.repeatables 2582
-expert.crew.members 3355
+expert.crew.members 3356
 flare.play 2370
 free.worlds.5.years.later 373
-galactic.capital.investment 3836
+galactic.capital.investment 3838
 gegno.pirates 3294
 hai.side.mission.unlocker 2698
 highrollers.ltd 2356
 human.labels 2626
-jump.gates 2889
+jump.gates 2890
 kestrel.unlocks 2783
 kor.efret.shipyard 3134
 landing.images 2792
@@ -346,7 +346,7 @@ no.more.mereti.mines 2546
 outfits.weapon.slot 2671
 paint.your.ships 2842
 pirate.warlords 5
-planet.map 2358
+planet.map 2359
 planet.pluto 196
 quarg.farm 3174
 real.fluff 95
