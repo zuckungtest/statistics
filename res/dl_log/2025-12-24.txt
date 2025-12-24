@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.0-comets | downloads: 110
-v1.0.6-boss.loot | downloads: 819
+v1.0.6-boss.loot | downloads: 820
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
 v1.1.10-captureable.person.ships | downloads: 923
@@ -8,7 +8,7 @@ v1.1.11-galactic.capital.investment | downloads: 1801
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 1594
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 2010
+v1.0.27-additional.command.buttons.radial | downloads: 2011
 v1.0.9-mission.helper | downloads: 1859
 v1.0.5-ship.merging | downloads: 1804
 v1.0.2-vague.improvements | downloads: 218
@@ -19,7 +19,7 @@ v1.0.1-vague.improvements | downloads: 60
 v1.0.4-ship.merging | downloads: 271
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 28
-v1.0.13-uniques | downloads: 1943
+v1.0.13-uniques | downloads: 1945
 v1.0.6-control.station | downloads: 2151
 v1.0.26-additional.command.buttons.radial | downloads: 388
 v1.0.8-mission.helper | downloads: 368
@@ -42,8 +42,8 @@ v1.0.3-tribute.republic | downloads: 2035
 v1.0.3-more.arfectas | downloads: 1858
 v1.0.3-kor.efret.shipyard | downloads: 2358
 v1.0.2-highrollers.ltd | downloads: 2134
-v1.0.2-automata.in.human.space | downloads: 2370
-v1.0.2-automata.destruction.0percent | downloads: 2080
+v1.0.2-automata.in.human.space | downloads: 2371
+v1.0.2-automata.destruction.0percent | downloads: 2081
 v1.0.1-kestrel.unlocks | downloads: 2222
 v1.0.1-disable.person.ships | downloads: 1939
 v1.0.5-landing.images | downloads: 2240
@@ -68,8 +68,8 @@ v1.0.7-human.labels | downloads: 2239
 v1.0.5-show.reputation | downloads: 2463
 v1.0.3-paint.your.ships | downloads: 2404
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 2890
-v1.0.5-better.starts | downloads: 2812
+v1.0.9-bunrodea.missions | downloads: 2891
+v1.0.5-better.starts | downloads: 2813
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -302,18 +302,18 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 301
-# TOTAL DOWNLOADS: 123537
+# TOTAL DOWNLOADS: 123545
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 3757
-automata.destruction.0percent 3184
-automata.in.human.space 2894
+additional.command.buttons.radial 3758
+automata.destruction.0percent 3185
+automata.in.human.space 2895
 avgi.licenses 232
-better.starts 3359
-boss.loot 2904
-bunrodea.missions 3616
+better.starts 3360
+boss.loot 2905
+bunrodea.missions 3617
 captureable.person.ships 2988
 coalition.shopping 3180
 combat.ai 3198
@@ -357,5 +357,5 @@ space.fauna 2494
 too.many.asteroids 3366
 tribute.republic 2433
 unique.fix 46
-uniques 2985
+uniques 2987
 vague.improvements 306
