@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.0-comets | downloads: 112
-v1.0.6-boss.loot | downloads: 842
+v1.0.6-boss.loot | downloads: 843
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
 v1.1.10-captureable.person.ships | downloads: 928
@@ -8,7 +8,7 @@ v1.1.11-galactic.capital.investment | downloads: 1810
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 1597
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 2035
+v1.0.27-additional.command.buttons.radial | downloads: 2036
 v1.0.9-mission.helper | downloads: 1864
 v1.0.5-ship.merging | downloads: 1809
 v1.0.2-vague.improvements | downloads: 221
@@ -42,9 +42,9 @@ v1.0.3-tribute.republic | downloads: 2038
 v1.0.3-more.arfectas | downloads: 1861
 v1.0.3-kor.efret.shipyard | downloads: 2364
 v1.0.2-highrollers.ltd | downloads: 2137
-v1.0.2-automata.in.human.space | downloads: 2391
-v1.0.2-automata.destruction.0percent | downloads: 2099
-v1.0.1-kestrel.unlocks | downloads: 2227
+v1.0.2-automata.in.human.space | downloads: 2392
+v1.0.2-automata.destruction.0percent | downloads: 2100
+v1.0.1-kestrel.unlocks | downloads: 2229
 v1.0.1-disable.person.ships | downloads: 1942
 v1.0.5-landing.images | downloads: 2245
 v1.0.3-landing.images.highres | downloads: 2095
@@ -66,10 +66,10 @@ v1.0.10-uniques | downloads: 95
 v1.0.8-expert.crew.members | downloads: 20
 v1.0.7-human.labels | downloads: 2244
 v1.0.5-show.reputation | downloads: 2472
-v1.0.3-paint.your.ships | downloads: 2411
+v1.0.3-paint.your.ships | downloads: 2413
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 2912
-v1.0.5-better.starts | downloads: 2834
+v1.0.9-bunrodea.missions | downloads: 2913
+v1.0.5-better.starts | downloads: 2837
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -302,18 +302,18 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 301
-# TOTAL DOWNLOADS: 123873
+# TOTAL DOWNLOADS: 123885
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 3782
-automata.destruction.0percent 3207
-automata.in.human.space 2915
+additional.command.buttons.radial 3783
+automata.destruction.0percent 3208
+automata.in.human.space 2916
 avgi.licenses 232
-better.starts 3381
-boss.loot 2927
-bunrodea.missions 3638
+better.starts 3384
+boss.loot 2928
+bunrodea.missions 3639
 captureable.person.ships 2993
 coalition.shopping 3185
 combat.ai 3205
@@ -331,7 +331,7 @@ hai.side.mission.unlocker 2722
 highrollers.ltd 2374
 human.labels 2650
 jump.gates 2918
-kestrel.unlocks 2809
+kestrel.unlocks 2811
 kor.efret.shipyard 3166
 landing.images 2820
 landing.images.android 351
@@ -344,7 +344,7 @@ more.person.ships 2663
 navy.licenses 578
 no.more.mereti.mines 2568
 outfits.weapon.slot 2707
-paint.your.ships 2875
+paint.your.ships 2877
 pirate.warlords 5
 planet.map 2378
 planet.pluto 196
