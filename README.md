@@ -21,8 +21,8 @@
 		<td>3695</td>
 		<td>3728</td>
 		<td>3759</td>
-		<td>3788</td>
-		<td>+ 29</td>
+		<td>3791</td>
+		<td>+ 32</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>3131</td>
 		<td>3159</td>
 		<td>3186</td>
-		<td>3213</td>
-		<td>+ 27</td>
+		<td>3214</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>2842</td>
 		<td>2867</td>
 		<td>2896</td>
-		<td>2921</td>
-		<td>+ 25</td>
+		<td>2922</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -54,8 +54,8 @@
 		<td>3295</td>
 		<td>3332</td>
 		<td>3361</td>
-		<td>3389</td>
-		<td>+ 28</td>
+		<td>3390</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>2843</td>
 		<td>2873</td>
 		<td>2906</td>
-		<td>2933</td>
-		<td>+ 27</td>
+		<td>2934</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>3552</td>
 		<td>3587</td>
 		<td>3618</td>
-		<td>3644</td>
-		<td>+ 26</td>
+		<td>3645</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>121911</td>
-		<td>398</td>
+		<td>121919</td>
+		<td>406</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>3695</td>
 		<td>3728</td>
 		<td>3759</td>
-		<td>3788</td>
-		<td>+ 29</td>
+		<td>3791</td>
+		<td>+ 32</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -542,8 +542,8 @@
 		<td>3552</td>
 		<td>3587</td>
 		<td>3618</td>
-		<td>3644</td>
-		<td>+ 26</td>
+		<td>3645</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -564,8 +564,8 @@
 		<td>3295</td>
 		<td>3332</td>
 		<td>3361</td>
-		<td>3389</td>
-		<td>+ 28</td>
+		<td>3390</td>
+		<td>+ 29</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -619,8 +619,8 @@
 		<td>3131</td>
 		<td>3159</td>
 		<td>3186</td>
-		<td>3213</td>
-		<td>+ 27</td>
+		<td>3214</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -740,8 +740,8 @@
 		<td>2843</td>
 		<td>2873</td>
 		<td>2906</td>
-		<td>2933</td>
-		<td>+ 27</td>
+		<td>2934</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -751,8 +751,8 @@
 		<td>2842</td>
 		<td>2867</td>
 		<td>2896</td>
-		<td>2921</td>
-		<td>+ 25</td>
+		<td>2922</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>121911</td>
-		<td>398</td>
+		<td>121919</td>
+		<td>406</td>
 	</tr>
 </table>
 </sub></sup>
