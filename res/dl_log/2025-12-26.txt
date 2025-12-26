@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.0-comets | downloads: 115
-v1.0.6-boss.loot | downloads: 861
+v1.0.6-boss.loot | downloads: 862
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
 v1.1.10-captureable.person.ships | downloads: 931
@@ -8,7 +8,7 @@ v1.1.11-galactic.capital.investment | downloads: 1815
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 1600
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 2058
+v1.0.27-additional.command.buttons.radial | downloads: 2059
 v1.0.9-mission.helper | downloads: 1869
 v1.0.5-ship.merging | downloads: 1813
 v1.0.2-vague.improvements | downloads: 221
@@ -42,12 +42,12 @@ v1.0.3-tribute.republic | downloads: 2041
 v1.0.3-more.arfectas | downloads: 1864
 v1.0.3-kor.efret.shipyard | downloads: 2367
 v1.0.2-highrollers.ltd | downloads: 2140
-v1.0.2-automata.in.human.space | downloads: 2410
-v1.0.2-automata.destruction.0percent | downloads: 2118
+v1.0.2-automata.in.human.space | downloads: 2411
+v1.0.2-automata.destruction.0percent | downloads: 2119
 v1.0.1-kestrel.unlocks | downloads: 2232
 v1.0.1-disable.person.ships | downloads: 1945
-v1.0.5-landing.images | downloads: 2250
-v1.0.3-landing.images.highres | downloads: 2098
+v1.0.5-landing.images | downloads: 2251
+v1.0.3-landing.images.highres | downloads: 2099
 v1.0.25-additional.command.buttons.radial | downloads: 330
 v1.1.9-galactic.capital.investment | downloads: 959
 v1.0.1-ship.merging | downloads: 274
@@ -68,8 +68,8 @@ v1.0.7-human.labels | downloads: 2247
 v1.0.5-show.reputation | downloads: 2476
 v1.0.3-paint.your.ships | downloads: 2417
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 2935
-v1.0.5-better.starts | downloads: 2858
+v1.0.9-bunrodea.missions | downloads: 2936
+v1.0.5-better.starts | downloads: 2859
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -302,18 +302,18 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 301
-# TOTAL DOWNLOADS: 124140
+# TOTAL DOWNLOADS: 124148
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 3805
-automata.destruction.0percent 3226
-automata.in.human.space 2934
+additional.command.buttons.radial 3806
+automata.destruction.0percent 3227
+automata.in.human.space 2935
 avgi.licenses 232
-better.starts 3405
-boss.loot 2946
-bunrodea.missions 3661
+better.starts 3406
+boss.loot 2947
+bunrodea.missions 3662
 captureable.person.ships 2996
 coalition.shopping 3188
 combat.ai 3209
@@ -333,9 +333,9 @@ human.labels 2653
 jump.gates 2923
 kestrel.unlocks 2814
 kor.efret.shipyard 3169
-landing.images 2825
+landing.images 2826
 landing.images.android 351
-landing.images.highres 2501
+landing.images.highres 2502
 licenses 3036
 mission.helper 3365
 more.arfectas 3119
