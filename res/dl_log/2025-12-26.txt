@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.0-comets | downloads: 115
-v1.0.6-boss.loot | downloads: 857
+v1.0.6-boss.loot | downloads: 858
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
 v1.1.10-captureable.person.ships | downloads: 931
@@ -8,7 +8,7 @@ v1.1.11-galactic.capital.investment | downloads: 1815
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 1600
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 2054
+v1.0.27-additional.command.buttons.radial | downloads: 2055
 v1.0.9-mission.helper | downloads: 1869
 v1.0.5-ship.merging | downloads: 1813
 v1.0.2-vague.improvements | downloads: 221
@@ -42,8 +42,8 @@ v1.0.3-tribute.republic | downloads: 2041
 v1.0.3-more.arfectas | downloads: 1864
 v1.0.3-kor.efret.shipyard | downloads: 2367
 v1.0.2-highrollers.ltd | downloads: 2140
-v1.0.2-automata.in.human.space | downloads: 2406
-v1.0.2-automata.destruction.0percent | downloads: 2114
+v1.0.2-automata.in.human.space | downloads: 2407
+v1.0.2-automata.destruction.0percent | downloads: 2115
 v1.0.1-kestrel.unlocks | downloads: 2232
 v1.0.1-disable.person.ships | downloads: 1945
 v1.0.5-landing.images | downloads: 2250
@@ -68,8 +68,8 @@ v1.0.7-human.labels | downloads: 2247
 v1.0.5-show.reputation | downloads: 2476
 v1.0.3-paint.your.ships | downloads: 2417
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 2931
-v1.0.5-better.starts | downloads: 2854
+v1.0.9-bunrodea.missions | downloads: 2932
+v1.0.5-better.starts | downloads: 2855
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -302,18 +302,18 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 301
-# TOTAL DOWNLOADS: 124116
+# TOTAL DOWNLOADS: 124122
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 3801
-automata.destruction.0percent 3222
-automata.in.human.space 2930
+additional.command.buttons.radial 3802
+automata.destruction.0percent 3223
+automata.in.human.space 2931
 avgi.licenses 232
-better.starts 3401
-boss.loot 2942
-bunrodea.missions 3657
+better.starts 3402
+boss.loot 2943
+bunrodea.missions 3658
 captureable.person.ships 2996
 coalition.shopping 3188
 combat.ai 3209
