@@ -54,8 +54,8 @@
 		<td>3332</td>
 		<td>3361</td>
 		<td>3391</td>
-		<td>3396</td>
-		<td>+ 5</td>
+		<td>3398</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -76,8 +76,8 @@
 		<td>3587</td>
 		<td>3618</td>
 		<td>3646</td>
-		<td>3650</td>
-		<td>+ 4</td>
+		<td>3654</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -120,8 +120,8 @@
 		<td>105</td>
 		<td>110</td>
 		<td>112</td>
-		<td>113</td>
-		<td>+ 1</td>
+		<td>115</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -274,8 +274,8 @@
 		<td>2805</td>
 		<td>2815</td>
 		<td>2821</td>
-		<td>2822</td>
-		<td>+ 1</td>
+		<td>2824</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -329,8 +329,8 @@
 		<td>3294</td>
 		<td>3304</td>
 		<td>3310</td>
-		<td>3311</td>
-		<td>+ 1</td>
+		<td>3313</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -340,8 +340,8 @@
 		<td>2652</td>
 		<td>2660</td>
 		<td>2664</td>
-		<td>2665</td>
-		<td>+ 1</td>
+		<td>2667</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -494,8 +494,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>122000</td>
-		<td>71</td>
+		<td>122014</td>
+		<td>85</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>3587</td>
 		<td>3618</td>
 		<td>3646</td>
-		<td>3650</td>
-		<td>+ 4</td>
+		<td>3654</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -553,8 +553,8 @@
 		<td>3332</td>
 		<td>3361</td>
 		<td>3391</td>
-		<td>3396</td>
-		<td>+ 5</td>
+		<td>3398</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -608,8 +608,8 @@
 		<td>3294</td>
 		<td>3304</td>
 		<td>3310</td>
-		<td>3311</td>
-		<td>+ 1</td>
+		<td>3313</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -795,8 +795,8 @@
 		<td>2805</td>
 		<td>2815</td>
 		<td>2821</td>
-		<td>2822</td>
-		<td>+ 1</td>
+		<td>2824</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -850,8 +850,8 @@
 		<td>2652</td>
 		<td>2660</td>
 		<td>2664</td>
-		<td>2665</td>
-		<td>+ 1</td>
+		<td>2667</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -982,8 +982,8 @@
 		<td>105</td>
 		<td>110</td>
 		<td>112</td>
-		<td>113</td>
-		<td>+ 1</td>
+		<td>115</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -993,8 +993,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>122000</td>
-		<td>71</td>
+		<td>122014</td>
+		<td>85</td>
 	</tr>
 </table>
 </sub></sup>
