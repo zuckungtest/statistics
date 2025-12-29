@@ -230,8 +230,8 @@
 		<td>2661</td>
 		<td>2668</td>
 		<td>2676</td>
-		<td>2679</td>
-		<td>+ 3</td>
+		<td>2680</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -362,8 +362,8 @@
 		<td>2577</td>
 		<td>2582</td>
 		<td>2590</td>
-		<td>2593</td>
-		<td>+ 3</td>
+		<td>2594</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>123667</td>
-		<td>112</td>
+		<td>123669</td>
+		<td>114</td>
 	</tr>
 </table>
 </sub></sup>
@@ -872,8 +872,8 @@
 		<td>2661</td>
 		<td>2668</td>
 		<td>2676</td>
-		<td>2679</td>
-		<td>+ 3</td>
+		<td>2680</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -894,8 +894,8 @@
 		<td>2577</td>
 		<td>2582</td>
 		<td>2590</td>
-		<td>2593</td>
-		<td>+ 3</td>
+		<td>2594</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>123667</td>
-		<td>112</td>
+		<td>123669</td>
+		<td>114</td>
 	</tr>
 </table>
 </sub></sup>
