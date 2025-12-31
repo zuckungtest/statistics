@@ -11,8 +11,8 @@ v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 1628
 v1.0.3-boss.loot | downloads: 932
 v1.0.27-additional.command.buttons.radial | downloads: 2199
-v1.0.9-mission.helper | downloads: 1916
-v1.0.5-ship.merging | downloads: 1851
+v1.0.9-mission.helper | downloads: 1918
+v1.0.5-ship.merging | downloads: 1852
 v1.0.2-vague.improvements | downloads: 234
 v1.0.11-combat.ai | downloads: 2207
 v1.0.10-combat.ai | downloads: 19
@@ -21,7 +21,7 @@ v1.0.1-vague.improvements | downloads: 60
 v1.0.4-ship.merging | downloads: 271
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 28
-v1.0.13-uniques | downloads: 1992
+v1.0.13-uniques | downloads: 1993
 v1.0.6-control.station | downloads: 2265
 v1.0.26-additional.command.buttons.radial | downloads: 388
 v1.0.8-mission.helper | downloads: 368
@@ -63,7 +63,7 @@ v1.0.0-boss.loot | downloads: 194
 v1.0.5-combat.ai | downloads: 53
 v1.0.2-flare.play | downloads: 223
 v1.0.7-mission.helper | downloads: 655
-v1.0.9-expert.crew.members | downloads: 2700
+v1.0.9-expert.crew.members | downloads: 2701
 v1.0.10-uniques | downloads: 95
 v1.0.8-expert.crew.members | downloads: 20
 v1.0.7-human.labels | downloads: 2282
@@ -83,7 +83,7 @@ v1.0.23-additional.command.buttons.radial | downloads: 167
 v1.1.8-captureable.person.ships | downloads: 47
 v1.1.7-galactic.capital.investment | downloads: 27
 v1.1.5-more.boarding.missions | downloads: 2766
-v1.1.5-hai.side.mission.unlocker | downloads: 2329
+v1.1.5-hai.side.mission.unlocker | downloads: 2330
 v1.0.6-snowfeather.robotics | downloads: 2470
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 409
@@ -304,7 +304,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 303
-# TOTAL DOWNLOADS: 126690
+# TOTAL DOWNLOADS: 126696
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -324,12 +324,12 @@ control.station 3238
 devil-run.unhidden 68
 disable.person.ships 2460
 disable.spaceport.repeatables 2704
-expert.crew.members 3447
+expert.crew.members 3448
 flare.play 2427
 free.worlds.5.years.later 373
 galactic.capital.investment 3948
 gegno.pirates 3370
-hai.side.mission.unlocker 2760
+hai.side.mission.unlocker 2761
 highrollers.ltd 2408
 human.labels 2688
 job.coloring 39
@@ -340,7 +340,7 @@ landing.images 2861
 landing.images.android 351
 landing.images.highres 2532
 licenses 3082
-mission.helper 3412
+mission.helper 3414
 more.arfectas 3151
 more.boarding.missions 3360
 more.person.ships 2696
@@ -353,12 +353,12 @@ planet.map 2405
 planet.pluto 196
 quarg.farm 3238
 real.fluff 95
-ship.merging 2716
+ship.merging 2717
 show.reputation 3079
 snowfeather.robotics 2939
 space.fauna 2530
 too.many.asteroids 3423
 tribute.republic 2469
 unique.fix 46
-uniques 3034
+uniques 3035
 vague.improvements 322
