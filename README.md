@@ -164,8 +164,8 @@
 		<td>3428</td>
 		<td>3438</td>
 		<td>3444</td>
-		<td>3447</td>
-		<td>+ 3</td>
+		<td>3448</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -208,8 +208,8 @@
 		<td>2745</td>
 		<td>2753</td>
 		<td>2759</td>
-		<td>2760</td>
-		<td>+ 1</td>
+		<td>2761</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -318,8 +318,8 @@
 		<td>3394</td>
 		<td>3401</td>
 		<td>3409</td>
-		<td>3412</td>
-		<td>+ 3</td>
+		<td>3414</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>2700</td>
 		<td>2707</td>
 		<td>2715</td>
-		<td>2716</td>
-		<td>+ 1</td>
+		<td>2717</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td>3022</td>
 		<td>3027</td>
 		<td>3033</td>
-		<td>3034</td>
-		<td>+ 1</td>
+		<td>3035</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>124651</td>
-		<td>113</td>
+		<td>124657</td>
+		<td>119</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>3428</td>
 		<td>3438</td>
 		<td>3444</td>
-		<td>3447</td>
-		<td>+ 3</td>
+		<td>3448</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -597,8 +597,8 @@
 		<td>3394</td>
 		<td>3401</td>
 		<td>3409</td>
-		<td>3412</td>
-		<td>+ 3</td>
+		<td>3414</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -762,8 +762,8 @@
 		<td>3022</td>
 		<td>3027</td>
 		<td>3033</td>
-		<td>3034</td>
-		<td>+ 1</td>
+		<td>3035</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -828,8 +828,8 @@
 		<td>2745</td>
 		<td>2753</td>
 		<td>2759</td>
-		<td>2760</td>
-		<td>+ 1</td>
+		<td>2761</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -850,8 +850,8 @@
 		<td>2700</td>
 		<td>2707</td>
 		<td>2715</td>
-		<td>2716</td>
-		<td>+ 1</td>
+		<td>2717</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>124651</td>
-		<td>113</td>
+		<td>124657</td>
+		<td>119</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1044,7 +1044,7 @@
 		<td>89</td>
 		<td>119</td>
 		<td>47</td>
-		<td>64</td>
+		<td>100</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -1056,7 +1056,7 @@
 		<td>26</td>
 		<td>25</td>
 		<td>18</td>
-		<td>16</td>
+		<td>19</td>
 	</tr>
 </table>
 <br>
@@ -1070,8 +1070,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>8859</td>
-		<td>2153</td>
+		<td>8895</td>
+		<td>2156</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1084,8 +1084,8 @@
 	</tr>
 	<tr>
 		<td>81</td>
-		<td>109.37</td>
-		<td>26.58</td>
+		<td>109.81</td>
+		<td>26.62</td>
 		<td></td>
 		<td></td>
 	</tr>
