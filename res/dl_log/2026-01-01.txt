@@ -11,7 +11,7 @@ v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 1636
 v1.0.3-boss.loot | downloads: 932
 v1.0.27-additional.command.buttons.radial | downloads: 2226
-v1.0.9-mission.helper | downloads: 1922
+v1.0.9-mission.helper | downloads: 1925
 v1.0.5-ship.merging | downloads: 1856
 v1.0.2-vague.improvements | downloads: 234
 v1.0.11-combat.ai | downloads: 2234
@@ -304,7 +304,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 303
-# TOTAL DOWNLOADS: 127184
+# TOTAL DOWNLOADS: 127187
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -340,7 +340,7 @@ landing.images 2867
 landing.images.android 351
 landing.images.highres 2538
 licenses 3088
-mission.helper 3418
+mission.helper 3421
 more.arfectas 3155
 more.boarding.missions 3368
 more.person.ships 2700
