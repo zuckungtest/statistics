@@ -318,8 +318,8 @@
 		<td>3401</td>
 		<td>3409</td>
 		<td>3417</td>
-		<td>3418</td>
-		<td>+ 1</td>
+		<td>3421</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>125145</td>
-		<td>94</td>
+		<td>125148</td>
+		<td>97</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>3401</td>
 		<td>3409</td>
 		<td>3417</td>
-		<td>3418</td>
-		<td>+ 1</td>
+		<td>3421</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>125145</td>
-		<td>94</td>
+		<td>125148</td>
+		<td>97</td>
 	</tr>
 </table>
 </sub></sup>
