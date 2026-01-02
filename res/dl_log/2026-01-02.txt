@@ -2,7 +2,7 @@
 v1.0.1-job.coloring | downloads: 48
 v1.0.0-job.coloring | downloads: 4
 v1.0.0-comets | downloads: 133
-v1.0.6-boss.loot | downloads: 1058
+v1.0.6-boss.loot | downloads: 1060
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
 v1.1.10-captureable.person.ships | downloads: 1092
@@ -304,7 +304,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 303
-# TOTAL DOWNLOADS: 128053
+# TOTAL DOWNLOADS: 128055
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -314,7 +314,7 @@ automata.destruction.0percent 3411
 automata.in.human.space 3116
 avgi.licenses 232
 better.starts 3612
-boss.loot 3144
+boss.loot 3146
 bunrodea.missions 3861
 captureable.person.ships 3157
 coalition.shopping 3344
