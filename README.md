@@ -65,8 +65,8 @@
 		<td>3081</td>
 		<td>3106</td>
 		<td>3138</td>
-		<td>3144</td>
-		<td>+ 6</td>
+		<td>3146</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>126014</td>
-		<td>173</td>
+		<td>126016</td>
+		<td>175</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>3081</td>
 		<td>3106</td>
 		<td>3138</td>
-		<td>3144</td>
-		<td>+ 6</td>
+		<td>3146</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>126014</td>
-		<td>173</td>
+		<td>126016</td>
+		<td>175</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1024,7 +1024,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-12-23</td>
 		<td>2025-12-24</td>
 		<td>2025-12-25</td>
 		<td>2025-12-26</td>
@@ -1033,10 +1032,10 @@
 		<td>2025-12-29</td>
 		<td>2025-12-30</td>
 		<td>2025-12-31</td>
+		<td>2026-01-01</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>143</td>
 		<td>57</td>
 		<td>51</td>
 		<td>113</td>
@@ -1045,10 +1044,10 @@
 		<td>47</td>
 		<td>100</td>
 		<td>57</td>
+		<td>40</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>26</td>
 		<td>22</td>
 		<td>17</td>
 		<td>23</td>
@@ -1057,6 +1056,7 @@
 		<td>18</td>
 		<td>19</td>
 		<td>23</td>
+		<td>17</td>
 	</tr>
 </table>
 <br>
@@ -1070,8 +1070,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>8952</td>
-		<td>2179</td>
+		<td>8992</td>
+		<td>2196</td>
 		<td>278</td>
 		<td>40</td>
 	</tr>
@@ -1084,8 +1084,8 @@
 	</tr>
 	<tr>
 		<td>83</td>
-		<td>107.86</td>
-		<td>26.25</td>
+		<td>108.34</td>
+		<td>26.46</td>
 		<td></td>
 		<td></td>
 	</tr>
