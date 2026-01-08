@@ -274,8 +274,8 @@
 		<td>3342</td>
 		<td>3373</td>
 		<td>3403</td>
-		<td>3417</td>
-		<td>+ 14</td>
+		<td>3419</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>133797</td>
-		<td>698</td>
+		<td>133799</td>
+		<td>700</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>3342</td>
 		<td>3373</td>
 		<td>3403</td>
-		<td>3417</td>
-		<td>+ 14</td>
+		<td>3419</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>133797</td>
-		<td>698</td>
+		<td>133799</td>
+		<td>700</td>
 	</tr>
 </table>
 </sub></sup>
