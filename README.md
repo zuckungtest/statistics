@@ -175,8 +175,8 @@
 		<td>2734</td>
 		<td>2739</td>
 		<td>2747</td>
-		<td>2749</td>
-		<td>+ 2</td>
+		<td>2750</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -263,8 +263,8 @@
 		<td>3164</td>
 		<td>3169</td>
 		<td>3178</td>
-		<td>3179</td>
-		<td>+ 1</td>
+		<td>3180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -384,8 +384,8 @@
 		<td>3250</td>
 		<td>3255</td>
 		<td>3267</td>
-		<td>3269</td>
-		<td>+ 2</td>
+		<td>3270</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -428,8 +428,8 @@
 		<td>3417</td>
 		<td>3426</td>
 		<td>3434</td>
-		<td>3435</td>
-		<td>+ 1</td>
+		<td>3436</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>140111</td>
-		<td>98</td>
+		<td>140115</td>
+		<td>102</td>
 	</tr>
 </table>
 </sub></sup>
@@ -751,8 +751,8 @@
 		<td>3417</td>
 		<td>3426</td>
 		<td>3434</td>
-		<td>3435</td>
-		<td>+ 1</td>
+		<td>3436</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -795,8 +795,8 @@
 		<td>3250</td>
 		<td>3255</td>
 		<td>3267</td>
-		<td>3269</td>
-		<td>+ 2</td>
+		<td>3270</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -817,8 +817,8 @@
 		<td>3164</td>
 		<td>3169</td>
 		<td>3178</td>
-		<td>3179</td>
-		<td>+ 1</td>
+		<td>3180</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -949,8 +949,8 @@
 		<td>2734</td>
 		<td>2739</td>
 		<td>2747</td>
-		<td>2749</td>
-		<td>+ 2</td>
+		<td>2750</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>140111</td>
-		<td>98</td>
+		<td>140115</td>
+		<td>102</td>
 	</tr>
 </table>
 </sub></sup>
