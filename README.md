@@ -439,8 +439,8 @@
 		<td>3289</td>
 		<td>3298</td>
 		<td>3304</td>
-		<td>3305</td>
-		<td>+ 1</td>
+		<td>3306</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -450,8 +450,8 @@
 		<td>2869</td>
 		<td>2878</td>
 		<td>2884</td>
-		<td>2885</td>
-		<td>+ 1</td>
+		<td>2887</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>142432</td>
-		<td>85</td>
+		<td>142435</td>
+		<td>88</td>
 	</tr>
 </table>
 </sub></sup>
@@ -784,8 +784,8 @@
 		<td>3289</td>
 		<td>3298</td>
 		<td>3304</td>
-		<td>3305</td>
-		<td>+ 1</td>
+		<td>3306</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -927,8 +927,8 @@
 		<td>2869</td>
 		<td>2878</td>
 		<td>2884</td>
-		<td>2885</td>
-		<td>+ 1</td>
+		<td>2887</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>142432</td>
-		<td>85</td>
+		<td>142435</td>
+		<td>88</td>
 	</tr>
 </table>
 </sub></sup>
