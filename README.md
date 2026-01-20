@@ -21,8 +21,8 @@
 		<td>4485</td>
 		<td>4519</td>
 		<td>4546</td>
-		<td>4562</td>
-		<td>+ 16</td>
+		<td>4564</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -461,8 +461,8 @@
 		<td>3823</td>
 		<td>3827</td>
 		<td>3835</td>
-		<td>3842</td>
-		<td>+ 7</td>
+		<td>3844</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>143273</td>
-		<td>342</td>
+		<td>143277</td>
+		<td>346</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>4485</td>
 		<td>4519</td>
 		<td>4546</td>
-		<td>4562</td>
-		<td>+ 16</td>
+		<td>4564</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -630,8 +630,8 @@
 		<td>3823</td>
 		<td>3827</td>
 		<td>3835</td>
-		<td>3842</td>
-		<td>+ 7</td>
+		<td>3844</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>143273</td>
-		<td>342</td>
+		<td>143277</td>
+		<td>346</td>
 	</tr>
 </table>
 </sub></sup>
