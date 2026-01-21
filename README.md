@@ -65,8 +65,8 @@
 		<td>3663</td>
 		<td>3693</td>
 		<td>3721</td>
-		<td>3743</td>
-		<td>+ 22</td>
+		<td>3744</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -186,8 +186,8 @@
 		<td>4388</td>
 		<td>4399</td>
 		<td>4413</td>
-		<td>4424</td>
-		<td>+ 11</td>
+		<td>4426</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>144011</td>
-		<td>444</td>
+		<td>144014</td>
+		<td>447</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>4388</td>
 		<td>4399</td>
 		<td>4413</td>
-		<td>4424</td>
-		<td>+ 11</td>
+		<td>4426</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -674,8 +674,8 @@
 		<td>3663</td>
 		<td>3693</td>
 		<td>3721</td>
-		<td>3743</td>
-		<td>+ 22</td>
+		<td>3744</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>144011</td>
-		<td>444</td>
+		<td>144014</td>
+		<td>447</td>
 	</tr>
 </table>
 </sub></sup>
