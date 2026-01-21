@@ -197,8 +197,8 @@
 		<td>3760</td>
 		<td>3766</td>
 		<td>3777</td>
-		<td>3784</td>
-		<td>+ 7</td>
+		<td>3786</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>143785</td>
-		<td>218</td>
+		<td>143787</td>
+		<td>220</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>3760</td>
 		<td>3766</td>
 		<td>3777</td>
-		<td>3784</td>
-		<td>+ 7</td>
+		<td>3786</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>143785</td>
-		<td>218</td>
+		<td>143787</td>
+		<td>220</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1024,7 +1024,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-01-11</td>
 		<td>2026-01-12</td>
 		<td>2026-01-13</td>
 		<td>2026-01-14</td>
@@ -1033,10 +1032,10 @@
 		<td>2026-01-17</td>
 		<td>2026-01-18</td>
 		<td>2026-01-19</td>
+		<td>2026-01-20</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>124</td>
 		<td>103</td>
 		<td>86</td>
 		<td>85</td>
@@ -1045,10 +1044,10 @@
 		<td>89</td>
 		<td>78</td>
 		<td>51</td>
+		<td>79</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>29</td>
 		<td>28</td>
 		<td>31</td>
 		<td>24</td>
@@ -1057,6 +1056,7 @@
 		<td>22</td>
 		<td>20</td>
 		<td>13</td>
+		<td>15</td>
 	</tr>
 </table>
 <br>
@@ -1070,8 +1070,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>10707</td>
-		<td>2682</td>
+		<td>10786</td>
+		<td>2697</td>
 		<td>278</td>
 		<td>47</td>
 	</tr>
@@ -1084,8 +1084,8 @@
 	</tr>
 	<tr>
 		<td>102</td>
-		<td>104.97</td>
-		<td>26.29</td>
+		<td>105.75</td>
+		<td>26.44</td>
 		<td></td>
 		<td></td>
 	</tr>
