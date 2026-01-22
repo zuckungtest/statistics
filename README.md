@@ -54,8 +54,8 @@
 		<td>4167</td>
 		<td>4198</td>
 		<td>4228</td>
-		<td>4232</td>
-		<td>+ 4</td>
+		<td>4234</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -120,8 +120,8 @@
 		<td>189</td>
 		<td>192</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>196</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -131,8 +131,8 @@
 		<td>3800</td>
 		<td>3831</td>
 		<td>3858</td>
-		<td>3862</td>
-		<td>+ 4</td>
+		<td>3864</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>3870</td>
 		<td>3884</td>
 		<td>3896</td>
-		<td>3897</td>
-		<td>+ 1</td>
+		<td>3899</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -230,8 +230,8 @@
 		<td>3069</td>
 		<td>3079</td>
 		<td>3086</td>
-		<td>3087</td>
-		<td>+ 1</td>
+		<td>3089</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -241,8 +241,8 @@
 		<td>157</td>
 		<td>167</td>
 		<td>173</td>
-		<td>175</td>
-		<td>+ 2</td>
+		<td>177</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -252,8 +252,8 @@
 		<td>3366</td>
 		<td>3373</td>
 		<td>3382</td>
-		<td>3383</td>
-		<td>+ 1</td>
+		<td>3385</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -395,8 +395,8 @@
 		<td>2751</td>
 		<td>2756</td>
 		<td>2760</td>
-		<td>2761</td>
-		<td>+ 1</td>
+		<td>2763</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>144209</td>
-		<td>85</td>
+		<td>144225</td>
+		<td>101</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>4167</td>
 		<td>4198</td>
 		<td>4228</td>
-		<td>4232</td>
-		<td>+ 4</td>
+		<td>4234</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -608,8 +608,8 @@
 		<td>3870</td>
 		<td>3884</td>
 		<td>3896</td>
-		<td>3897</td>
-		<td>+ 1</td>
+		<td>3899</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -630,8 +630,8 @@
 		<td>3800</td>
 		<td>3831</td>
 		<td>3858</td>
-		<td>3862</td>
-		<td>+ 4</td>
+		<td>3864</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -773,8 +773,8 @@
 		<td>3366</td>
 		<td>3373</td>
 		<td>3382</td>
-		<td>3383</td>
-		<td>+ 1</td>
+		<td>3385</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -872,8 +872,8 @@
 		<td>3069</td>
 		<td>3079</td>
 		<td>3086</td>
-		<td>3087</td>
-		<td>+ 1</td>
+		<td>3089</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -971,8 +971,8 @@
 		<td>2751</td>
 		<td>2756</td>
 		<td>2760</td>
-		<td>2761</td>
-		<td>+ 1</td>
+		<td>2763</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -993,8 +993,8 @@
 		<td>189</td>
 		<td>192</td>
 		<td>194</td>
-		<td>194</td>
-		<td></td>
+		<td>196</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -1004,8 +1004,8 @@
 		<td>157</td>
 		<td>167</td>
 		<td>173</td>
-		<td>175</td>
-		<td>+ 2</td>
+		<td>177</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>144209</td>
-		<td>85</td>
+		<td>144225</td>
+		<td>101</td>
 	</tr>
 </table>
 </sub></sup>
