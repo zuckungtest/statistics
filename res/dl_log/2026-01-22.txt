@@ -7,7 +7,7 @@ v1.0.0-comets | downloads: 196
 v1.0.6-boss.loot | downloads: 1150
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
-v1.1.10-captureable.person.ships | downloads: 1671
+v1.1.10-captureable.person.ships | downloads: 1673
 v1.1.11-galactic.capital.investment | downloads: 2356
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 1997
@@ -36,7 +36,7 @@ v1.0.5-control.station | downloads: 359
 v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2468
 v1.1.2-disable.spaceport.repeatables | downloads: 2606
-v1.0.7-coalition.shopping | downloads: 3188
+v1.0.7-coalition.shopping | downloads: 3189
 v1.0.5-too.many.asteroids | downloads: 2259
 v1.0.4-planet.map | downloads: 2200
 v1.0.4-no.more.mereti.mines | downloads: 2493
@@ -72,7 +72,7 @@ v1.0.7-human.labels | downloads: 2685
 v1.0.5-show.reputation | downloads: 2933
 v1.0.3-paint.your.ships | downloads: 2871
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 3750
+v1.0.9-bunrodea.missions | downloads: 3751
 v1.0.5-better.starts | downloads: 3699
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
@@ -306,7 +306,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 305
-# TOTAL DOWNLOADS: 146489
+# TOTAL DOWNLOADS: 146493
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -317,9 +317,9 @@ automata.in.human.space 3668
 avgi.licenses 232
 better.starts 4246
 boss.loot 3764
-bunrodea.missions 4476
-captureable.person.ships 3736
-coalition.shopping 3941
+bunrodea.missions 4477
+captureable.person.ships 3738
+coalition.shopping 3942
 combat.ai 3988
 comets 196
 control.station 3876
