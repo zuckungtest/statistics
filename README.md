@@ -76,8 +76,8 @@
 		<td>4399</td>
 		<td>4431</td>
 		<td>4462</td>
-		<td>4476</td>
-		<td>+ 14</td>
+		<td>4477</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>3664</td>
 		<td>3693</td>
 		<td>3720</td>
-		<td>3736</td>
-		<td>+ 16</td>
+		<td>3738</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>3871</td>
 		<td>3898</td>
 		<td>3925</td>
-		<td>3941</td>
-		<td>+ 16</td>
+		<td>3942</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>144450</td>
-		<td>326</td>
+		<td>144454</td>
+		<td>330</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>4399</td>
 		<td>4431</td>
 		<td>4462</td>
-		<td>4476</td>
-		<td>+ 14</td>
+		<td>4477</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -597,8 +597,8 @@
 		<td>3871</td>
 		<td>3898</td>
 		<td>3925</td>
-		<td>3941</td>
-		<td>+ 16</td>
+		<td>3942</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -685,8 +685,8 @@
 		<td>3664</td>
 		<td>3693</td>
 		<td>3720</td>
-		<td>3736</td>
-		<td>+ 16</td>
+		<td>3738</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>144450</td>
-		<td>326</td>
+		<td>144454</td>
+		<td>330</td>
 	</tr>
 </table>
 </sub></sup>
