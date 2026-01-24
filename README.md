@@ -76,8 +76,8 @@
 		<td>4462</td>
 		<td>4490</td>
 		<td>4520</td>
-		<td>4524</td>
-		<td>+ 4</td>
+		<td>4526</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -439,8 +439,8 @@
 		<td>3329</td>
 		<td>3336</td>
 		<td>3345</td>
-		<td>3346</td>
-		<td>+ 1</td>
+		<td>3348</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>145309</td>
-		<td>97</td>
+		<td>145313</td>
+		<td>101</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>4462</td>
 		<td>4490</td>
 		<td>4520</td>
-		<td>4524</td>
-		<td>+ 4</td>
+		<td>4526</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -784,8 +784,8 @@
 		<td>3329</td>
 		<td>3336</td>
 		<td>3345</td>
-		<td>3346</td>
-		<td>+ 1</td>
+		<td>3348</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>145309</td>
-		<td>97</td>
+		<td>145313</td>
+		<td>101</td>
 	</tr>
 </table>
 </sub></sup>
