@@ -72,7 +72,7 @@ v1.0.7-human.labels | downloads: 2694
 v1.0.5-show.reputation | downloads: 2948
 v1.0.3-paint.your.ships | downloads: 2878
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 3798
+v1.0.9-bunrodea.missions | downloads: 3800
 v1.0.5-better.starts | downloads: 3745
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
@@ -86,7 +86,7 @@ v1.1.8-captureable.person.ships | downloads: 47
 v1.1.7-galactic.capital.investment | downloads: 27
 v1.1.5-more.boarding.missions | downloads: 3207
 v1.1.5-hai.side.mission.unlocker | downloads: 2733
-v1.0.6-snowfeather.robotics | downloads: 2877
+v1.0.6-snowfeather.robotics | downloads: 2879
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 409
 v1.0.4-show.reputation | downloads: 54
@@ -306,7 +306,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 305
-# TOTAL DOWNLOADS: 147348
+# TOTAL DOWNLOADS: 147352
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -317,7 +317,7 @@ automata.in.human.space 3705
 avgi.licenses 232
 better.starts 4292
 boss.loot 3807
-bunrodea.missions 4524
+bunrodea.missions 4526
 captureable.person.ships 3779
 coalition.shopping 3985
 combat.ai 4030
@@ -357,7 +357,7 @@ quarg.farm 3624
 real.fluff 95
 ship.merging 3152
 show.reputation 3512
-snowfeather.robotics 3346
+snowfeather.robotics 3348
 space.fauna 2920
 too.many.asteroids 3872
 tribute.republic 2838
