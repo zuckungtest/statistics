@@ -1,22 +1,22 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.2-job.coloring | downloads: 124
-v1.0.7-boss.loot | downloads: 598
+v1.0.7-boss.loot | downloads: 599
 v1.0.1-job.coloring | downloads: 74
 v1.0.0-job.coloring | downloads: 4
 v1.0.0-comets | downloads: 200
 v1.0.6-boss.loot | downloads: 1150
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
-v1.1.10-captureable.person.ships | downloads: 1744
+v1.1.10-captureable.person.ships | downloads: 1745
 v1.1.11-galactic.capital.investment | downloads: 2380
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2014
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 2940
+v1.0.27-additional.command.buttons.radial | downloads: 2941
 v1.0.9-mission.helper | downloads: 2409
 v1.0.5-ship.merging | downloads: 2297
 v1.0.2-vague.improvements | downloads: 292
-v1.0.11-combat.ai | downloads: 2942
+v1.0.11-combat.ai | downloads: 2943
 v1.0.10-combat.ai | downloads: 19
 v1.0.9-combat.ai | downloads: 5
 v1.0.1-vague.improvements | downloads: 60
@@ -24,7 +24,7 @@ v1.0.4-ship.merging | downloads: 271
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 28
 v1.0.13-uniques | downloads: 2415
-v1.0.6-control.station | downloads: 2981
+v1.0.6-control.station | downloads: 2982
 v1.0.26-additional.command.buttons.radial | downloads: 388
 v1.0.8-mission.helper | downloads: 368
 v1.0.2-boss.loot | downloads: 409
@@ -35,8 +35,8 @@ v1.0.12-uniques | downloads: 223
 v1.0.5-control.station | downloads: 359
 v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2484
-v1.1.2-disable.spaceport.repeatables | downloads: 2670
-v1.0.7-coalition.shopping | downloads: 3263
+v1.1.2-disable.spaceport.repeatables | downloads: 2671
+v1.0.7-coalition.shopping | downloads: 3264
 v1.0.5-too.many.asteroids | downloads: 2270
 v1.0.4-planet.map | downloads: 2212
 v1.0.4-no.more.mereti.mines | downloads: 2504
@@ -46,10 +46,10 @@ v1.0.3-tribute.republic | downloads: 2447
 v1.0.3-more.arfectas | downloads: 2229
 v1.0.3-kor.efret.shipyard | downloads: 2852
 v1.0.2-highrollers.ltd | downloads: 2567
-v1.0.2-automata.in.human.space | downloads: 3216
-v1.0.2-automata.destruction.0percent | downloads: 2858
+v1.0.2-automata.in.human.space | downloads: 3217
+v1.0.2-automata.destruction.0percent | downloads: 2859
 v1.0.1-kestrel.unlocks | downloads: 2669
-v1.0.1-disable.person.ships | downloads: 2650
+v1.0.1-disable.person.ships | downloads: 2651
 v1.0.5-landing.images | downloads: 2734
 v1.0.3-landing.images.highres | downloads: 2551
 v1.0.25-additional.command.buttons.radial | downloads: 330
@@ -72,8 +72,8 @@ v1.0.7-human.labels | downloads: 2701
 v1.0.5-show.reputation | downloads: 2955
 v1.0.3-paint.your.ships | downloads: 2885
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 3833
-v1.0.5-better.starts | downloads: 3774
+v1.0.9-bunrodea.missions | downloads: 3834
+v1.0.5-better.starts | downloads: 3775
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -306,26 +306,26 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 305
-# TOTAL DOWNLOADS: 147939
+# TOTAL DOWNLOADS: 147951
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 4687
-automata.destruction.0percent 4055
-automata.in.human.space 3740
+additional.command.buttons.radial 4688
+automata.destruction.0percent 4056
+automata.in.human.space 3741
 avgi.licenses 232
-better.starts 4321
-boss.loot 3834
-bunrodea.missions 4559
-captureable.person.ships 3809
-coalition.shopping 4016
-combat.ai 4059
+better.starts 4322
+boss.loot 3835
+bunrodea.missions 4560
+captureable.person.ships 3810
+coalition.shopping 4017
+combat.ai 4060
 comets 200
-control.station 3954
+control.station 3955
 devil-run.unhidden 68
-disable.person.ships 3097
-disable.spaceport.repeatables 3352
+disable.person.ships 3098
+disable.spaceport.repeatables 3353
 expert.crew.members 3923
 flare.play 2813
 free.worlds.5.years.later 373
