@@ -12,7 +12,7 @@ v1.1.11-galactic.capital.investment | downloads: 2412
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2023
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 3001
+v1.0.27-additional.command.buttons.radial | downloads: 3002
 v1.0.9-mission.helper | downloads: 2426
 v1.0.5-ship.merging | downloads: 2319
 v1.0.2-vague.improvements | downloads: 294
@@ -271,7 +271,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 1336
+v1.0.2-more.arfectas | downloads: 1338
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -306,12 +306,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 305
-# TOTAL DOWNLOADS: 149012
+# TOTAL DOWNLOADS: 149015
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 4748
+additional.command.buttons.radial 4749
 automata.destruction.0percent 4105
 automata.in.human.space 3786
 avgi.licenses 232
@@ -343,7 +343,7 @@ landing.images.android 351
 landing.images.highres 2966
 licenses 3584
 mission.helper 3922
-more.arfectas 3574
+more.arfectas 3576
 more.boarding.missions 3829
 more.person.ships 3099
 navy.licenses 578
