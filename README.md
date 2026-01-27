@@ -362,8 +362,8 @@
 		<td>2967</td>
 		<td>2973</td>
 		<td>2977</td>
-		<td>2982</td>
-		<td>+ 5</td>
+		<td>2984</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -461,8 +461,8 @@
 		<td>3879</td>
 		<td>3886</td>
 		<td>3896</td>
-		<td>3901</td>
-		<td>+ 5</td>
+		<td>3903</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>147214</td>
-		<td>365</td>
+		<td>147218</td>
+		<td>369</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>3879</td>
 		<td>3886</td>
 		<td>3896</td>
-		<td>3901</td>
-		<td>+ 5</td>
+		<td>3903</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -905,8 +905,8 @@
 		<td>2967</td>
 		<td>2973</td>
 		<td>2977</td>
-		<td>2982</td>
-		<td>+ 5</td>
+		<td>2984</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>147214</td>
-		<td>365</td>
+		<td>147218</td>
+		<td>369</td>
 	</tr>
 </table>
 </sub></sup>
