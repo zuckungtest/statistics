@@ -39,7 +39,7 @@ v1.1.2-disable.spaceport.repeatables | downloads: 2726
 v1.0.7-coalition.shopping | downloads: 3332
 v1.0.5-too.many.asteroids | downloads: 2279
 v1.0.4-planet.map | downloads: 2222
-v1.0.4-no.more.mereti.mines | downloads: 2517
+v1.0.4-no.more.mereti.mines | downloads: 2519
 v1.0.4-jump.gates | downloads: 2786
 v1.0.4-gegno.pirates | downloads: 2965
 v1.0.3-tribute.republic | downloads: 2461
@@ -138,7 +138,7 @@ v1.1.7-captureable.person.ships | downloads: 232
 v1.0.8-uniques | downloads: 143
 v1.0.3-quarg.farm | downloads: 198
 v1.0.7-uniques | downloads: 6
-v1.0.4-too.many.asteroids | downloads: 1291
+v1.0.4-too.many.asteroids | downloads: 1293
 v1.0.3-show.reputation | downloads: 259
 v1.0.13-additional.command.buttons.radial | downloads: 94
 v1.0.4-better.starts | downloads: 331
@@ -306,7 +306,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 305
-# TOTAL DOWNLOADS: 149253
+# TOTAL DOWNLOADS: 149257
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -347,7 +347,7 @@ more.arfectas 3578
 more.boarding.missions 3835
 more.person.ships 3103
 navy.licenses 578
-no.more.mereti.mines 2982
+no.more.mereti.mines 2984
 outfits.weapon.slot 3178
 paint.your.ships 3362
 pirate.warlords 5
@@ -359,7 +359,7 @@ ship.merging 3188
 show.reputation 3536
 snowfeather.robotics 3375
 space.fauna 2943
-too.many.asteroids 3901
+too.many.asteroids 3903
 tribute.republic 2859
 unique.fix 46
 uniques 3472
