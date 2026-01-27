@@ -21,8 +21,8 @@
 		<td>4680</td>
 		<td>4709</td>
 		<td>4740</td>
-		<td>4748</td>
-		<td>+ 8</td>
+		<td>4749</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -329,8 +329,8 @@
 		<td>3558</td>
 		<td>3565</td>
 		<td>3571</td>
-		<td>3574</td>
-		<td>+ 3</td>
+		<td>3576</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>146973</td>
-		<td>124</td>
+		<td>146976</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>4680</td>
 		<td>4709</td>
 		<td>4740</td>
-		<td>4748</td>
-		<td>+ 8</td>
+		<td>4749</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -740,8 +740,8 @@
 		<td>3558</td>
 		<td>3565</td>
 		<td>3571</td>
-		<td>3574</td>
-		<td>+ 3</td>
+		<td>3576</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>146973</td>
-		<td>124</td>
+		<td>146976</td>
+		<td>127</td>
 	</tr>
 </table>
 </sub></sup>
