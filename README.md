@@ -318,8 +318,8 @@
 		<td>3931</td>
 		<td>3935</td>
 		<td>3942</td>
-		<td>3944</td>
-		<td>+ 2</td>
+		<td>3946</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>148616</td>
-		<td>158</td>
+		<td>148618</td>
+		<td>160</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>3931</td>
 		<td>3935</td>
 		<td>3942</td>
-		<td>3944</td>
-		<td>+ 2</td>
+		<td>3946</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>148616</td>
-		<td>158</td>
+		<td>148618</td>
+		<td>160</td>
 	</tr>
 </table>
 </sub></sup>
