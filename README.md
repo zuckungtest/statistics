@@ -219,8 +219,8 @@
 		<td>2833</td>
 		<td>2841</td>
 		<td>2847</td>
-		<td>2856</td>
-		<td>+ 9</td>
+		<td>2858</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -307,8 +307,8 @@
 		<td>3597</td>
 		<td>3603</td>
 		<td>3610</td>
-		<td>3625</td>
-		<td>+ 15</td>
+		<td>3627</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -329,8 +329,8 @@
 		<td>3589</td>
 		<td>3593</td>
 		<td>3601</td>
-		<td>3612</td>
-		<td>+ 11</td>
+		<td>3614</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -439,8 +439,8 @@
 		<td>3383</td>
 		<td>3391</td>
 		<td>3397</td>
-		<td>3408</td>
-		<td>+ 11</td>
+		<td>3410</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -472,8 +472,8 @@
 		<td>2866</td>
 		<td>2870</td>
 		<td>2877</td>
-		<td>2884</td>
-		<td>+ 7</td>
+		<td>2886</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -494,8 +494,8 @@
 		<td>382</td>
 		<td>384</td>
 		<td>390</td>
-		<td>396</td>
-		<td>+ 6</td>
+		<td>398</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>149616</td>
-		<td>619</td>
+		<td>149628</td>
+		<td>631</td>
 	</tr>
 </table>
 </sub></sup>
@@ -729,8 +729,8 @@
 		<td>3597</td>
 		<td>3603</td>
 		<td>3610</td>
-		<td>3625</td>
-		<td>+ 15</td>
+		<td>3627</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -740,8 +740,8 @@
 		<td>3589</td>
 		<td>3593</td>
 		<td>3601</td>
-		<td>3612</td>
-		<td>+ 11</td>
+		<td>3614</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -795,8 +795,8 @@
 		<td>3383</td>
 		<td>3391</td>
 		<td>3397</td>
-		<td>3408</td>
-		<td>+ 11</td>
+		<td>3410</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -938,8 +938,8 @@
 		<td>2866</td>
 		<td>2870</td>
 		<td>2877</td>
-		<td>2884</td>
-		<td>+ 7</td>
+		<td>2886</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -949,8 +949,8 @@
 		<td>2833</td>
 		<td>2841</td>
 		<td>2847</td>
-		<td>2856</td>
-		<td>+ 9</td>
+		<td>2858</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -982,8 +982,8 @@
 		<td>382</td>
 		<td>384</td>
 		<td>390</td>
-		<td>396</td>
-		<td>+ 6</td>
+		<td>398</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>149616</td>
-		<td>619</td>
+		<td>149628</td>
+		<td>631</td>
 	</tr>
 </table>
 </sub></sup>
