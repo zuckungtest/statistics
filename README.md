@@ -120,8 +120,8 @@
 		<td>212</td>
 		<td>214</td>
 		<td>222</td>
-		<td>237</td>
-		<td>+ 15</td>
+		<td>239</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -340,8 +340,8 @@
 		<td>3854</td>
 		<td>3862</td>
 		<td>3876</td>
-		<td>3905</td>
-		<td>+ 29</td>
+		<td>3907</td>
+		<td>+ 31</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -417,8 +417,8 @@
 		<td>3206</td>
 		<td>3212</td>
 		<td>3224</td>
-		<td>3244</td>
-		<td>+ 20</td>
+		<td>3246</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>148457</td>
-		<td>-1375</td>
+		<td>148463</td>
+		<td>-1369</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>3854</td>
 		<td>3862</td>
 		<td>3876</td>
-		<td>3905</td>
-		<td>+ 29</td>
+		<td>3907</td>
+		<td>+ 31</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -839,8 +839,8 @@
 		<td>3206</td>
 		<td>3212</td>
 		<td>3224</td>
-		<td>3244</td>
-		<td>+ 20</td>
+		<td>3246</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -1004,8 +1004,8 @@
 		<td>212</td>
 		<td>214</td>
 		<td>222</td>
-		<td>237</td>
-		<td>+ 15</td>
+		<td>239</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>148457</td>
-		<td>-1375</td>
+		<td>148463</td>
+		<td>-1369</td>
 	</tr>
 </table>
 </sub></sup>
