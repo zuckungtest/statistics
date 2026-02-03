@@ -1,13 +1,13 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.7-hai.side.mission.unlocker | downloads: 6
-v1.1.6-more.boarding.missions | downloads: 42
+v1.1.6-more.boarding.missions | downloads: 44
 v1.1.6-hai.side.mission.unlocker | downloads: 10
 v1.1.4-space.fauna | downloads: 16
 v1.0.10-mission.helper | downloads: 48
 v1.0.8-boss.loot | downloads: 70
 v1.0.7-control.station | downloads: 82
-v1.0.6-show.reputation | downloads: 25
-v1.0.6-ship.merging | downloads: 21
+v1.0.6-show.reputation | downloads: 26
+v1.0.6-ship.merging | downloads: 22
 v1.0.1-comets | downloads: 17
 v1.0.6-gegno.pirates | downloads: 39
 v1.0.5-gegno.pirates | downloads: 6
@@ -98,7 +98,7 @@ v1.1.8-captureable.person.ships | downloads: 47
 v1.1.7-galactic.capital.investment | downloads: 27
 v1.1.5-more.boarding.missions | downloads: 3308
 v1.1.5-hai.side.mission.unlocker | downloads: 2799
-v1.0.6-snowfeather.robotics | downloads: 2980
+v1.0.6-snowfeather.robotics | downloads: 2981
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 409
 v1.0.4-show.reputation | downloads: 54
@@ -111,7 +111,7 @@ v1.0.1-outfits.weapon.slot | downloads: 2874
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 3675
+v1.0.1-licenses | downloads: 3677
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -318,7 +318,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 317
-# TOTAL DOWNLOADS: 151822
+# TOTAL DOWNLOADS: 151829
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -353,10 +353,10 @@ kor.efret.shipyard 3748
 landing.images 3397
 landing.images.android 351
 landing.images.highres 3028
-licenses 3677
+licenses 3679
 mission.helper 4033
 more.arfectas 3651
-more.boarding.missions 3944
+more.boarding.missions 3946
 more.person.ships 3167
 navy.licenses 578
 no.more.mereti.mines 3038
@@ -367,9 +367,9 @@ planet.map 2839
 planet.pluto 196
 quarg.farm 3729
 real.fluff 95
-ship.merging 3273
-show.reputation 3616
-snowfeather.robotics 3449
+ship.merging 3274
+show.reputation 3617
+snowfeather.robotics 3450
 space.fauna 3008
 too.many.asteroids 1701
 tribute.republic 2922
