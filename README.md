@@ -307,8 +307,8 @@
 		<td>3628</td>
 		<td>3653</td>
 		<td>3662</td>
-		<td>3677</td>
-		<td>+ 15</td>
+		<td>3679</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -340,8 +340,8 @@
 		<td>3876</td>
 		<td>3917</td>
 		<td>3927</td>
-		<td>3944</td>
-		<td>+ 17</td>
+		<td>3946</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -417,8 +417,8 @@
 		<td>3224</td>
 		<td>3253</td>
 		<td>3262</td>
-		<td>3273</td>
-		<td>+ 11</td>
+		<td>3274</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -428,8 +428,8 @@
 		<td>3571</td>
 		<td>3595</td>
 		<td>3605</td>
-		<td>3616</td>
-		<td>+ 11</td>
+		<td>3617</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -439,8 +439,8 @@
 		<td>3413</td>
 		<td>3434</td>
 		<td>3440</td>
-		<td>3449</td>
-		<td>+ 9</td>
+		<td>3450</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>149783</td>
-		<td>585</td>
+		<td>149790</td>
+		<td>592</td>
 	</tr>
 </table>
 </sub></sup>
@@ -674,8 +674,8 @@
 		<td>3876</td>
 		<td>3917</td>
 		<td>3927</td>
-		<td>3944</td>
-		<td>+ 17</td>
+		<td>3946</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -718,8 +718,8 @@
 		<td>3628</td>
 		<td>3653</td>
 		<td>3662</td>
-		<td>3677</td>
-		<td>+ 15</td>
+		<td>3679</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -740,8 +740,8 @@
 		<td>3571</td>
 		<td>3595</td>
 		<td>3605</td>
-		<td>3616</td>
-		<td>+ 11</td>
+		<td>3617</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -784,8 +784,8 @@
 		<td>3413</td>
 		<td>3434</td>
 		<td>3440</td>
-		<td>3449</td>
-		<td>+ 9</td>
+		<td>3450</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -839,8 +839,8 @@
 		<td>3224</td>
 		<td>3253</td>
 		<td>3262</td>
-		<td>3273</td>
-		<td>+ 11</td>
+		<td>3274</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>149783</td>
-		<td>585</td>
+		<td>149790</td>
+		<td>592</td>
 	</tr>
 </table>
 </sub></sup>
