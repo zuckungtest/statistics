@@ -318,8 +318,8 @@
 		<td>3998</td>
 		<td>4016</td>
 		<td>4033</td>
-		<td>4038</td>
-		<td>+ 5</td>
+		<td>4040</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>150115</td>
-		<td>211</td>
+		<td>150117</td>
+		<td>213</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>3998</td>
 		<td>4016</td>
 		<td>4033</td>
-		<td>4038</td>
-		<td>+ 5</td>
+		<td>4040</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>150115</td>
-		<td>211</td>
+		<td>150117</td>
+		<td>213</td>
 	</tr>
 </table>
 </sub></sup>
