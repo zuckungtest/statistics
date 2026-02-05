@@ -109,8 +109,8 @@
 		<td>4318</td>
 		<td>4348</td>
 		<td>4375</td>
-		<td>4397</td>
-		<td>+ 22</td>
+		<td>4398</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -175,8 +175,8 @@
 		<td>2874</td>
 		<td>2883</td>
 		<td>2889</td>
-		<td>2893</td>
-		<td>+ 4</td>
+		<td>2894</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -186,8 +186,8 @@
 		<td>4578</td>
 		<td>4599</td>
 		<td>4619</td>
-		<td>4624</td>
-		<td>+ 5</td>
+		<td>4625</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -417,8 +417,8 @@
 		<td>3262</td>
 		<td>3278</td>
 		<td>3285</td>
-		<td>3299</td>
-		<td>+ 14</td>
+		<td>3301</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>150958</td>
-		<td>454</td>
+		<td>150963</td>
+		<td>459</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>4578</td>
 		<td>4599</td>
 		<td>4619</td>
-		<td>4624</td>
-		<td>+ 5</td>
+		<td>4625</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -575,8 +575,8 @@
 		<td>4318</td>
 		<td>4348</td>
 		<td>4375</td>
-		<td>4397</td>
-		<td>+ 22</td>
+		<td>4398</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -839,8 +839,8 @@
 		<td>3262</td>
 		<td>3278</td>
 		<td>3285</td>
-		<td>3299</td>
-		<td>+ 14</td>
+		<td>3301</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -949,8 +949,8 @@
 		<td>2874</td>
 		<td>2883</td>
 		<td>2889</td>
-		<td>2893</td>
-		<td>+ 4</td>
+		<td>2894</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>150958</td>
-		<td>454</td>
+		<td>150963</td>
+		<td>459</td>
 	</tr>
 </table>
 </sub></sup>
