@@ -263,8 +263,8 @@
 		<td>3338</td>
 		<td>3344</td>
 		<td>3351</td>
-		<td>3354</td>
-		<td>+ 3</td>
+		<td>3356</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -274,8 +274,8 @@
 		<td>3748</td>
 		<td>3756</td>
 		<td>3760</td>
-		<td>3765</td>
-		<td>+ 5</td>
+		<td>3767</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -307,8 +307,8 @@
 		<td>3681</td>
 		<td>3693</td>
 		<td>3702</td>
-		<td>3708</td>
-		<td>+ 6</td>
+		<td>3710</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -318,8 +318,8 @@
 		<td>4033</td>
 		<td>4047</td>
 		<td>4061</td>
-		<td>4066</td>
-		<td>+ 5</td>
+		<td>4068</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>151312</td>
-		<td>309</td>
+		<td>151320</td>
+		<td>317</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>4033</td>
 		<td>4047</td>
 		<td>4061</td>
-		<td>4066</td>
-		<td>+ 5</td>
+		<td>4068</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -696,8 +696,8 @@
 		<td>3748</td>
 		<td>3756</td>
 		<td>3760</td>
-		<td>3765</td>
-		<td>+ 5</td>
+		<td>3767</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -718,8 +718,8 @@
 		<td>3681</td>
 		<td>3693</td>
 		<td>3702</td>
-		<td>3708</td>
-		<td>+ 6</td>
+		<td>3710</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -828,8 +828,8 @@
 		<td>3338</td>
 		<td>3344</td>
 		<td>3351</td>
-		<td>3354</td>
-		<td>+ 3</td>
+		<td>3356</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>151312</td>
-		<td>309</td>
+		<td>151320</td>
+		<td>317</td>
 	</tr>
 </table>
 </sub></sup>
