@@ -3,7 +3,7 @@ v1.1.7-hai.side.mission.unlocker | downloads: 14
 v1.1.6-more.boarding.missions | downloads: 56
 v1.1.6-hai.side.mission.unlocker | downloads: 10
 v1.1.4-space.fauna | downloads: 18
-v1.0.10-mission.helper | downloads: 68
+v1.0.10-mission.helper | downloads: 70
 v1.0.8-boss.loot | downloads: 139
 v1.0.7-control.station | downloads: 165
 v1.0.6-show.reputation | downloads: 41
@@ -56,11 +56,11 @@ v1.0.4-jump.gates | downloads: 2881
 v1.0.4-gegno.pirates | downloads: 3030
 v1.0.3-tribute.republic | downloads: 2540
 v1.0.3-more.arfectas | downloads: 2285
-v1.0.3-kor.efret.shipyard | downloads: 2963
+v1.0.3-kor.efret.shipyard | downloads: 2965
 v1.0.2-highrollers.ltd | downloads: 2678
 v1.0.2-automata.in.human.space | downloads: 3533
 v1.0.2-automata.destruction.0percent | downloads: 3142
-v1.0.1-kestrel.unlocks | downloads: 2772
+v1.0.1-kestrel.unlocks | downloads: 2774
 v1.0.1-disable.person.ships | downloads: 2931
 v1.0.5-landing.images | downloads: 2844
 v1.0.3-landing.images.highres | downloads: 2642
@@ -111,7 +111,7 @@ v1.0.1-outfits.weapon.slot | downloads: 2903
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 3706
+v1.0.1-licenses | downloads: 3708
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -318,7 +318,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 317
-# TOTAL DOWNLOADS: 153351
+# TOTAL DOWNLOADS: 153359
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -348,13 +348,13 @@ highrollers.ltd 2915
 human.labels 3199
 job.coloring 294
 jump.gates 3524
-kestrel.unlocks 3354
-kor.efret.shipyard 3765
+kestrel.unlocks 3356
+kor.efret.shipyard 3767
 landing.images 3419
 landing.images.android 351
 landing.images.highres 3045
-licenses 3708
-mission.helper 4066
+licenses 3710
+mission.helper 4068
 more.arfectas 3667
 more.boarding.missions 3971
 more.person.ships 3184
