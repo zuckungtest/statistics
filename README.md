@@ -21,8 +21,8 @@
 		<td>5026</td>
 		<td>5051</td>
 		<td>5081</td>
-		<td>5097</td>
-		<td>+ 16</td>
+		<td>5099</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -241,8 +241,8 @@
 		<td>288</td>
 		<td>293</td>
 		<td>300</td>
-		<td>306</td>
-		<td>+ 6</td>
+		<td>308</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -252,8 +252,8 @@
 		<td>3515</td>
 		<td>3520</td>
 		<td>3530</td>
-		<td>3539</td>
-		<td>+ 9</td>
+		<td>3541</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>151965</td>
-		<td>445</td>
+		<td>151971</td>
+		<td>451</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>5026</td>
 		<td>5051</td>
 		<td>5081</td>
-		<td>5097</td>
-		<td>+ 16</td>
+		<td>5099</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -773,8 +773,8 @@
 		<td>3515</td>
 		<td>3520</td>
 		<td>3530</td>
-		<td>3539</td>
-		<td>+ 9</td>
+		<td>3541</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -993,8 +993,8 @@
 		<td>288</td>
 		<td>293</td>
 		<td>300</td>
-		<td>306</td>
-		<td>+ 6</td>
+		<td>308</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>151965</td>
-		<td>445</td>
+		<td>151971</td>
+		<td>451</td>
 	</tr>
 </table>
 </sub></sup>
