@@ -11,7 +11,7 @@ v1.0.6-ship.merging | downloads: 41
 v1.0.1-comets | downloads: 39
 v1.0.6-gegno.pirates | downloads: 47
 v1.0.5-gegno.pirates | downloads: 6
-v1.0.2-job.coloring | downloads: 228
+v1.0.2-job.coloring | downloads: 230
 v1.0.7-boss.loot | downloads: 807
 v1.0.1-job.coloring | downloads: 74
 v1.0.0-job.coloring | downloads: 4
@@ -24,7 +24,7 @@ v1.1.11-galactic.capital.investment | downloads: 2561
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2107
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 3350
+v1.0.27-additional.command.buttons.radial | downloads: 3352
 v1.0.9-mission.helper | downloads: 2506
 v1.0.5-ship.merging | downloads: 2408
 v1.0.2-vague.improvements | downloads: 333
@@ -52,7 +52,7 @@ v1.0.7-coalition.shopping | downloads: 3646
 v1.0.5-too.many.asteroids | downloads: 90
 v1.0.4-planet.map | downloads: 2272
 v1.0.4-no.more.mereti.mines | downloads: 2594
-v1.0.4-jump.gates | downloads: 2896
+v1.0.4-jump.gates | downloads: 2898
 v1.0.4-gegno.pirates | downloads: 3034
 v1.0.3-tribute.republic | downloads: 2544
 v1.0.3-more.arfectas | downloads: 2290
@@ -318,12 +318,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 317
-# TOTAL DOWNLOADS: 154004
+# TOTAL DOWNLOADS: 154010
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 5097
+additional.command.buttons.radial 5099
 automata.destruction.0percent 4439
 automata.in.human.space 4080
 avgi.licenses 232
@@ -346,8 +346,8 @@ gegno.pirates 3969
 hai.side.mission.unlocker 3273
 highrollers.ltd 2919
 human.labels 3211
-job.coloring 306
-jump.gates 3539
+job.coloring 308
+jump.gates 3541
 kestrel.unlocks 3361
 kor.efret.shipyard 3779
 landing.images 3427
