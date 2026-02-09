@@ -186,8 +186,8 @@
 		<td>4632</td>
 		<td>4643</td>
 		<td>4660</td>
-		<td>4663</td>
-		<td>+ 3</td>
+		<td>4665</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>300</td>
 		<td>313</td>
 		<td>326</td>
-		<td>328</td>
-		<td>+ 2</td>
+		<td>330</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -417,8 +417,8 @@
 		<td>3311</td>
 		<td>3321</td>
 		<td>3342</td>
-		<td>3344</td>
-		<td>+ 2</td>
+		<td>3345</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153080</td>
-		<td>187</td>
+		<td>153085</td>
+		<td>192</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>4632</td>
 		<td>4643</td>
 		<td>4660</td>
-		<td>4663</td>
-		<td>+ 3</td>
+		<td>4665</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -839,8 +839,8 @@
 		<td>3311</td>
 		<td>3321</td>
 		<td>3342</td>
-		<td>3344</td>
-		<td>+ 2</td>
+		<td>3345</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -993,8 +993,8 @@
 		<td>300</td>
 		<td>313</td>
 		<td>326</td>
-		<td>328</td>
-		<td>+ 2</td>
+		<td>330</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153080</td>
-		<td>187</td>
+		<td>153085</td>
+		<td>192</td>
 	</tr>
 </table>
 </sub></sup>
