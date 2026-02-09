@@ -87,8 +87,8 @@
 		<td>4157</td>
 		<td>4185</td>
 		<td>4208</td>
-		<td>4214</td>
-		<td>+ 6</td>
+		<td>4216</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -241,8 +241,8 @@
 		<td>300</td>
 		<td>313</td>
 		<td>326</td>
-		<td>330</td>
-		<td>+ 4</td>
+		<td>332</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153085</td>
-		<td>192</td>
+		<td>153089</td>
+		<td>196</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>4157</td>
 		<td>4185</td>
 		<td>4208</td>
-		<td>4214</td>
-		<td>+ 6</td>
+		<td>4216</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -993,8 +993,8 @@
 		<td>300</td>
 		<td>313</td>
 		<td>326</td>
-		<td>330</td>
-		<td>+ 4</td>
+		<td>332</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153085</td>
-		<td>192</td>
+		<td>153089</td>
+		<td>196</td>
 	</tr>
 </table>
 </sub></sup>
