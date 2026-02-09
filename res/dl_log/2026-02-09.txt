@@ -11,7 +11,7 @@ v1.0.6-ship.merging | downloads: 62
 v1.0.1-comets | downloads: 49
 v1.0.6-gegno.pirates | downloads: 65
 v1.0.5-gegno.pirates | downloads: 6
-v1.0.2-job.coloring | downloads: 252
+v1.0.2-job.coloring | downloads: 254
 v1.0.7-boss.loot | downloads: 807
 v1.0.1-job.coloring | downloads: 74
 v1.0.0-job.coloring | downloads: 4
@@ -19,7 +19,7 @@ v1.0.0-comets | downloads: 229
 v1.0.6-boss.loot | downloads: 1150
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
-v1.1.10-captureable.person.ships | downloads: 2149
+v1.1.10-captureable.person.ships | downloads: 2151
 v1.1.11-galactic.capital.investment | downloads: 2587
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2118
@@ -318,7 +318,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 317
-# TOTAL DOWNLOADS: 155124
+# TOTAL DOWNLOADS: 155128
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -330,7 +330,7 @@ avgi.licenses 232
 better.starts 4763
 boss.loot 4266
 bunrodea.missions 4998
-captureable.person.ships 4214
+captureable.person.ships 4216
 coalition.shopping 4444
 combat.ai 4506
 comets 278
@@ -346,7 +346,7 @@ gegno.pirates 3994
 hai.side.mission.unlocker 3288
 highrollers.ltd 2930
 human.labels 3227
-job.coloring 330
+job.coloring 332
 jump.gates 3558
 kestrel.unlocks 3372
 kor.efret.shipyard 3794
