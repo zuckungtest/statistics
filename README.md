@@ -208,8 +208,8 @@
 		<td>3268</td>
 		<td>3277</td>
 		<td>3286</td>
-		<td>3293</td>
-		<td>+ 7</td>
+		<td>3294</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153381</td>
-		<td>488</td>
+		<td>153382</td>
+		<td>489</td>
 	</tr>
 </table>
 </sub></sup>
@@ -861,8 +861,8 @@
 		<td>3268</td>
 		<td>3277</td>
 		<td>3286</td>
-		<td>3293</td>
-		<td>+ 7</td>
+		<td>3294</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153381</td>
-		<td>488</td>
+		<td>153382</td>
+		<td>489</td>
 	</tr>
 </table>
 </sub></sup>
