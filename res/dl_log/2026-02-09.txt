@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.7-hai.side.mission.unlocker | downloads: 25
+v1.1.7-hai.side.mission.unlocker | downloads: 26
 v1.1.6-more.boarding.missions | downloads: 89
 v1.1.6-hai.side.mission.unlocker | downloads: 10
 v1.1.4-space.fauna | downloads: 40
@@ -318,7 +318,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 317
-# TOTAL DOWNLOADS: 155420
+# TOTAL DOWNLOADS: 155421
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -343,7 +343,7 @@ flare.play 2919
 free.worlds.5.years.later 373
 galactic.capital.investment 4672
 gegno.pirates 4002
-hai.side.mission.unlocker 3293
+hai.side.mission.unlocker 3294
 highrollers.ltd 2934
 human.labels 3232
 job.coloring 334
