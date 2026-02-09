@@ -32,8 +32,8 @@
 		<td>4421</td>
 		<td>4449</td>
 		<td>4471</td>
-		<td>4479</td>
-		<td>+ 8</td>
+		<td>4481</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -76,8 +76,8 @@
 		<td>4931</td>
 		<td>4962</td>
 		<td>4989</td>
-		<td>5001</td>
-		<td>+ 12</td>
+		<td>5002</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153149</td>
-		<td>256</td>
+		<td>153152</td>
+		<td>259</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>4931</td>
 		<td>4962</td>
 		<td>4989</td>
-		<td>5001</td>
-		<td>+ 12</td>
+		<td>5002</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -586,8 +586,8 @@
 		<td>4421</td>
 		<td>4449</td>
 		<td>4471</td>
-		<td>4479</td>
-		<td>+ 8</td>
+		<td>4481</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153149</td>
-		<td>256</td>
+		<td>153152</td>
+		<td>259</td>
 	</tr>
 </table>
 </sub></sup>
