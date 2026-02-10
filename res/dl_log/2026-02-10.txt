@@ -8,10 +8,10 @@ v1.0.8-boss.loot | downloads: 246
 v1.0.7-control.station | downloads: 275
 v1.0.6-show.reputation | downloads: 75
 v1.0.6-ship.merging | downloads: 74
-v1.0.1-comets | downloads: 55
+v1.0.1-comets | downloads: 56
 v1.0.6-gegno.pirates | downloads: 76
 v1.0.5-gegno.pirates | downloads: 6
-v1.0.2-job.coloring | downloads: 257
+v1.0.2-job.coloring | downloads: 258
 v1.0.7-boss.loot | downloads: 807
 v1.0.1-job.coloring | downloads: 74
 v1.0.0-job.coloring | downloads: 4
@@ -20,11 +20,11 @@ v1.0.6-boss.loot | downloads: 1151
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
 v1.1.10-captureable.person.ships | downloads: 2172
-v1.1.11-galactic.capital.investment | downloads: 2598
+v1.1.11-galactic.capital.investment | downloads: 2599
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2122
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 3423
+v1.0.27-additional.command.buttons.radial | downloads: 3424
 v1.0.9-mission.helper | downloads: 2519
 v1.0.5-ship.merging | downloads: 2425
 v1.0.2-vague.improvements | downloads: 342
@@ -52,7 +52,7 @@ v1.0.7-coalition.shopping | downloads: 3717
 v1.0.5-too.many.asteroids | downloads: 133
 v1.0.4-planet.map | downloads: 2285
 v1.0.4-no.more.mereti.mines | downloads: 2608
-v1.0.4-jump.gates | downloads: 2924
+v1.0.4-jump.gates | downloads: 2925
 v1.0.4-gegno.pirates | downloads: 3045
 v1.0.3-tribute.republic | downloads: 2558
 v1.0.3-more.arfectas | downloads: 2301
@@ -85,7 +85,7 @@ v1.0.5-show.reputation | downloads: 3057
 v1.0.3-paint.your.ships | downloads: 3016
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 4298
-v1.0.5-better.starts | downloads: 4246
+v1.0.5-better.starts | downloads: 4247
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -318,22 +318,22 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 317
-# TOTAL DOWNLOADS: 155706
+# TOTAL DOWNLOADS: 155712
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 5170
+additional.command.buttons.radial 5171
 automata.destruction.0percent 4499
 automata.in.human.space 4137
 avgi.licenses 232
-better.starts 4793
+better.starts 4794
 boss.loot 4290
 bunrodea.missions 5024
 captureable.person.ships 4237
 coalition.shopping 4470
 combat.ai 4536
-comets 284
+comets 285
 control.station 4450
 devil-run.unhidden 68
 disable.person.ships 3474
@@ -341,13 +341,13 @@ disable.spaceport.repeatables 3736
 expert.crew.members 4108
 flare.play 2921
 free.worlds.5.years.later 373
-galactic.capital.investment 4676
+galactic.capital.investment 4677
 gegno.pirates 4009
 hai.side.mission.unlocker 3297
 highrollers.ltd 2936
 human.labels 3235
-job.coloring 335
-jump.gates 3567
+job.coloring 336
+jump.gates 3568
 kestrel.unlocks 3380
 kor.efret.shipyard 3805
 landing.images 3452
