@@ -21,8 +21,8 @@
 		<td>5112</td>
 		<td>5138</td>
 		<td>5157</td>
-		<td>5170</td>
-		<td>+ 13</td>
+		<td>5171</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>4726</td>
 		<td>4753</td>
 		<td>4780</td>
-		<td>4793</td>
-		<td>+ 13</td>
+		<td>4794</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -120,8 +120,8 @@
 		<td>268</td>
 		<td>276</td>
 		<td>281</td>
-		<td>284</td>
-		<td>+ 3</td>
+		<td>285</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -186,8 +186,8 @@
 		<td>4643</td>
 		<td>4660</td>
 		<td>4672</td>
-		<td>4676</td>
-		<td>+ 4</td>
+		<td>4677</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>313</td>
 		<td>326</td>
 		<td>334</td>
-		<td>335</td>
-		<td>+ 1</td>
+		<td>336</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -252,8 +252,8 @@
 		<td>3546</td>
 		<td>3556</td>
 		<td>3564</td>
-		<td>3567</td>
-		<td>+ 3</td>
+		<td>3568</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153667</td>
-		<td>246</td>
+		<td>153673</td>
+		<td>252</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>5112</td>
 		<td>5138</td>
 		<td>5157</td>
-		<td>5170</td>
-		<td>+ 13</td>
+		<td>5171</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>4726</td>
 		<td>4753</td>
 		<td>4780</td>
-		<td>4793</td>
-		<td>+ 13</td>
+		<td>4794</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -564,8 +564,8 @@
 		<td>4643</td>
 		<td>4660</td>
 		<td>4672</td>
-		<td>4676</td>
-		<td>+ 4</td>
+		<td>4677</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -773,8 +773,8 @@
 		<td>3546</td>
 		<td>3556</td>
 		<td>3564</td>
-		<td>3567</td>
-		<td>+ 3</td>
+		<td>3568</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -993,8 +993,8 @@
 		<td>313</td>
 		<td>326</td>
 		<td>334</td>
-		<td>335</td>
-		<td>+ 1</td>
+		<td>336</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1004,8 +1004,8 @@
 		<td>268</td>
 		<td>276</td>
 		<td>281</td>
-		<td>284</td>
-		<td>+ 3</td>
+		<td>285</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153667</td>
-		<td>246</td>
+		<td>153673</td>
+		<td>252</td>
 	</tr>
 </table>
 </sub></sup>
