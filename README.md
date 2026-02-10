@@ -120,8 +120,8 @@
 		<td>268</td>
 		<td>276</td>
 		<td>281</td>
-		<td>285</td>
-		<td>+ 4</td>
+		<td>286</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -296,8 +296,8 @@
 		<td>3063</td>
 		<td>3070</td>
 		<td>3079</td>
-		<td>3082</td>
-		<td>+ 3</td>
+		<td>3083</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -428,8 +428,8 @@
 		<td>3666</td>
 		<td>3683</td>
 		<td>3691</td>
-		<td>3696</td>
-		<td>+ 5</td>
+		<td>3697</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153673</td>
-		<td>252</td>
+		<td>153676</td>
+		<td>255</td>
 	</tr>
 </table>
 </sub></sup>
@@ -751,8 +751,8 @@
 		<td>3666</td>
 		<td>3683</td>
 		<td>3691</td>
-		<td>3696</td>
-		<td>+ 5</td>
+		<td>3697</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -894,8 +894,8 @@
 		<td>3063</td>
 		<td>3070</td>
 		<td>3079</td>
-		<td>3082</td>
-		<td>+ 3</td>
+		<td>3083</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -1004,8 +1004,8 @@
 		<td>268</td>
 		<td>276</td>
 		<td>281</td>
-		<td>285</td>
-		<td>+ 4</td>
+		<td>286</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>153673</td>
-		<td>252</td>
+		<td>153676</td>
+		<td>255</td>
 	</tr>
 </table>
 </sub></sup>
