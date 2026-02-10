@@ -8,7 +8,7 @@ v1.0.8-boss.loot | downloads: 246
 v1.0.7-control.station | downloads: 275
 v1.0.6-show.reputation | downloads: 75
 v1.0.6-ship.merging | downloads: 74
-v1.0.1-comets | downloads: 56
+v1.0.1-comets | downloads: 57
 v1.0.6-gegno.pirates | downloads: 76
 v1.0.5-gegno.pirates | downloads: 6
 v1.0.2-job.coloring | downloads: 258
@@ -63,7 +63,7 @@ v1.0.2-automata.destruction.0percent | downloads: 3214
 v1.0.1-kestrel.unlocks | downloads: 2798
 v1.0.1-disable.person.ships | downloads: 3004
 v1.0.5-landing.images | downloads: 2877
-v1.0.3-landing.images.highres | downloads: 2679
+v1.0.3-landing.images.highres | downloads: 2680
 v1.0.25-additional.command.buttons.radial | downloads: 330
 v1.1.9-galactic.capital.investment | downloads: 959
 v1.0.1-ship.merging | downloads: 274
@@ -81,7 +81,7 @@ v1.0.9-expert.crew.members | downloads: 3361
 v1.0.10-uniques | downloads: 95
 v1.0.8-expert.crew.members | downloads: 20
 v1.0.7-human.labels | downloads: 2829
-v1.0.5-show.reputation | downloads: 3057
+v1.0.5-show.reputation | downloads: 3058
 v1.0.3-paint.your.ships | downloads: 3016
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 4298
@@ -318,7 +318,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 317
-# TOTAL DOWNLOADS: 155712
+# TOTAL DOWNLOADS: 155715
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -333,7 +333,7 @@ bunrodea.missions 5024
 captureable.person.ships 4237
 coalition.shopping 4470
 combat.ai 4536
-comets 285
+comets 286
 control.station 4450
 devil-run.unhidden 68
 disable.person.ships 3474
@@ -352,7 +352,7 @@ kestrel.unlocks 3380
 kor.efret.shipyard 3805
 landing.images 3452
 landing.images.android 351
-landing.images.highres 3082
+landing.images.highres 3083
 licenses 3770
 mission.helper 4119
 more.arfectas 3707
@@ -368,7 +368,7 @@ planet.pluto 196
 quarg.farm 3782
 real.fluff 95
 ship.merging 3364
-show.reputation 3696
+show.reputation 3697
 snowfeather.robotics 3511
 space.fauna 3060
 too.many.asteroids 1783
