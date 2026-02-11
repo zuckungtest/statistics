@@ -32,8 +32,8 @@
 		<td>4471</td>
 		<td>4492</td>
 		<td>4512</td>
-		<td>4530</td>
-		<td>+ 18</td>
+		<td>4532</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>154591</td>
-		<td>608</td>
+		<td>154593</td>
+		<td>610</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>4471</td>
 		<td>4492</td>
 		<td>4512</td>
-		<td>4530</td>
-		<td>+ 18</td>
+		<td>4532</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>154591</td>
-		<td>608</td>
+		<td>154593</td>
+		<td>610</td>
 	</tr>
 </table>
 </sub></sup>
