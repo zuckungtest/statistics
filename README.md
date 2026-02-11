@@ -98,8 +98,8 @@
 		<td>4438</td>
 		<td>4457</td>
 		<td>4483</td>
-		<td>4496</td>
-		<td>+ 13</td>
+		<td>4498</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -175,8 +175,8 @@
 		<td>2915</td>
 		<td>2919</td>
 		<td>2925</td>
-		<td>2930</td>
-		<td>+ 5</td>
+		<td>2932</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -472,8 +472,8 @@
 		<td>2949</td>
 		<td>2953</td>
 		<td>2960</td>
-		<td>2964</td>
-		<td>+ 4</td>
+		<td>2966</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>154264</td>
-		<td>281</td>
+		<td>154270</td>
+		<td>287</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>4438</td>
 		<td>4457</td>
 		<td>4483</td>
-		<td>4496</td>
-		<td>+ 13</td>
+		<td>4498</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -927,8 +927,8 @@
 		<td>2949</td>
 		<td>2953</td>
 		<td>2960</td>
-		<td>2964</td>
-		<td>+ 4</td>
+		<td>2966</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -949,8 +949,8 @@
 		<td>2915</td>
 		<td>2919</td>
 		<td>2925</td>
-		<td>2930</td>
-		<td>+ 5</td>
+		<td>2932</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>154264</td>
-		<td>281</td>
+		<td>154270</td>
+		<td>287</td>
 	</tr>
 </table>
 </sub></sup>
