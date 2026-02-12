@@ -21,8 +21,8 @@
 		<td>5157</td>
 		<td>5179</td>
 		<td>5196</td>
-		<td>5217</td>
-		<td>+ 21</td>
+		<td>5219</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -318,8 +318,8 @@
 		<td>4114</td>
 		<td>4126</td>
 		<td>4152</td>
-		<td>4175</td>
-		<td>+ 23</td>
+		<td>4177</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -428,8 +428,8 @@
 		<td>3691</td>
 		<td>3703</td>
 		<td>3722</td>
-		<td>3739</td>
-		<td>+ 17</td>
+		<td>3741</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>155603</td>
-		<td>818</td>
+		<td>155609</td>
+		<td>824</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>5157</td>
 		<td>5179</td>
 		<td>5196</td>
-		<td>5217</td>
-		<td>+ 21</td>
+		<td>5219</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -652,8 +652,8 @@
 		<td>4114</td>
 		<td>4126</td>
 		<td>4152</td>
-		<td>4175</td>
-		<td>+ 23</td>
+		<td>4177</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -751,8 +751,8 @@
 		<td>3691</td>
 		<td>3703</td>
 		<td>3722</td>
-		<td>3739</td>
-		<td>+ 17</td>
+		<td>3741</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>155603</td>
-		<td>818</td>
+		<td>155609</td>
+		<td>824</td>
 	</tr>
 </table>
 </sub></sup>
