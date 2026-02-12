@@ -3,10 +3,10 @@ v1.1.7-hai.side.mission.unlocker | downloads: 59
 v1.1.6-more.boarding.missions | downloads: 142
 v1.1.6-hai.side.mission.unlocker | downloads: 10
 v1.1.4-space.fauna | downloads: 69
-v1.0.10-mission.helper | downloads: 152
+v1.0.10-mission.helper | downloads: 154
 v1.0.8-boss.loot | downloads: 302
 v1.0.7-control.station | downloads: 336
-v1.0.6-show.reputation | downloads: 112
+v1.0.6-show.reputation | downloads: 114
 v1.0.6-ship.merging | downloads: 111
 v1.0.1-comets | downloads: 65
 v1.0.6-gegno.pirates | downloads: 119
@@ -24,7 +24,7 @@ v1.1.11-galactic.capital.investment | downloads: 2651
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2162
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 3470
+v1.0.27-additional.command.buttons.radial | downloads: 3472
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2429
 v1.0.2-vague.improvements | downloads: 348
@@ -318,12 +318,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 317
-# TOTAL DOWNLOADS: 157642
+# TOTAL DOWNLOADS: 157648
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 5217
+additional.command.buttons.radial 5219
 automata.destruction.0percent 4558
 automata.in.human.space 4186
 avgi.licenses 232
@@ -354,7 +354,7 @@ landing.images 3491
 landing.images.android 351
 landing.images.highres 3123
 licenses 3821
-mission.helper 4175
+mission.helper 4177
 more.arfectas 3752
 more.boarding.missions 4077
 more.person.ships 3248
@@ -368,7 +368,7 @@ planet.pluto 196
 quarg.farm 3833
 real.fluff 95
 ship.merging 3405
-show.reputation 3739
+show.reputation 3741
 snowfeather.robotics 3557
 space.fauna 3093
 too.many.asteroids 1828
