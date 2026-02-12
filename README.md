@@ -417,8 +417,8 @@
 		<td>3357</td>
 		<td>3368</td>
 		<td>3384</td>
-		<td>3395</td>
-		<td>+ 11</td>
+		<td>3396</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>155241</td>
-		<td>456</td>
+		<td>155242</td>
+		<td>457</td>
 	</tr>
 </table>
 </sub></sup>
@@ -839,8 +839,8 @@
 		<td>3357</td>
 		<td>3368</td>
 		<td>3384</td>
-		<td>3395</td>
-		<td>+ 11</td>
+		<td>3396</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>155241</td>
-		<td>456</td>
+		<td>155242</td>
+		<td>457</td>
 	</tr>
 </table>
 </sub></sup>
