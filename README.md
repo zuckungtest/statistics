@@ -54,8 +54,8 @@
 		<td>4780</td>
 		<td>4804</td>
 		<td>4826</td>
-		<td>4839</td>
-		<td>+ 13</td>
+		<td>4841</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -98,8 +98,8 @@
 		<td>4457</td>
 		<td>4483</td>
 		<td>4512</td>
-		<td>4528</td>
-		<td>+ 16</td>
+		<td>4530</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -109,8 +109,8 @@
 		<td>4525</td>
 		<td>4547</td>
 		<td>4570</td>
-		<td>4586</td>
-		<td>+ 16</td>
+		<td>4588</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -208,8 +208,8 @@
 		<td>3294</td>
 		<td>3303</td>
 		<td>3316</td>
-		<td>3329</td>
-		<td>+ 13</td>
+		<td>3330</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -252,8 +252,8 @@
 		<td>3564</td>
 		<td>3574</td>
 		<td>3589</td>
-		<td>3603</td>
-		<td>+ 14</td>
+		<td>3605</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -307,8 +307,8 @@
 		<td>3764</td>
 		<td>3777</td>
 		<td>3795</td>
-		<td>3813</td>
-		<td>+ 18</td>
+		<td>3815</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>155360</td>
-		<td>575</td>
+		<td>155371</td>
+		<td>586</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>4780</td>
 		<td>4804</td>
 		<td>4826</td>
-		<td>4839</td>
-		<td>+ 13</td>
+		<td>4841</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -575,8 +575,8 @@
 		<td>4525</td>
 		<td>4547</td>
 		<td>4570</td>
-		<td>4586</td>
-		<td>+ 16</td>
+		<td>4588</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -597,8 +597,8 @@
 		<td>4457</td>
 		<td>4483</td>
 		<td>4512</td>
-		<td>4528</td>
-		<td>+ 16</td>
+		<td>4530</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -718,8 +718,8 @@
 		<td>3764</td>
 		<td>3777</td>
 		<td>3795</td>
-		<td>3813</td>
-		<td>+ 18</td>
+		<td>3815</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -773,8 +773,8 @@
 		<td>3564</td>
 		<td>3574</td>
 		<td>3589</td>
-		<td>3603</td>
-		<td>+ 14</td>
+		<td>3605</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -861,8 +861,8 @@
 		<td>3294</td>
 		<td>3303</td>
 		<td>3316</td>
-		<td>3329</td>
-		<td>+ 13</td>
+		<td>3330</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>155360</td>
-		<td>575</td>
+		<td>155371</td>
+		<td>586</td>
 	</tr>
 </table>
 </sub></sup>
