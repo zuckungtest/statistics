@@ -296,8 +296,8 @@
 		<td>3087</td>
 		<td>3103</td>
 		<td>3129</td>
-		<td>3152</td>
-		<td>+ 23</td>
+		<td>3153</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -450,8 +450,8 @@
 		<td>3064</td>
 		<td>3076</td>
 		<td>3099</td>
-		<td>3121</td>
-		<td>+ 22</td>
+		<td>3122</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>156876</td>
-		<td>971</td>
+		<td>156878</td>
+		<td>973</td>
 	</tr>
 </table>
 </sub></sup>
@@ -894,8 +894,8 @@
 		<td>3087</td>
 		<td>3103</td>
 		<td>3129</td>
-		<td>3152</td>
-		<td>+ 23</td>
+		<td>3153</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -916,8 +916,8 @@
 		<td>3064</td>
 		<td>3076</td>
 		<td>3099</td>
-		<td>3121</td>
-		<td>+ 22</td>
+		<td>3122</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>156876</td>
-		<td>971</td>
+		<td>156878</td>
+		<td>973</td>
 	</tr>
 </table>
 </sub></sup>
