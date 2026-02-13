@@ -2,7 +2,7 @@
 v1.1.7-hai.side.mission.unlocker | downloads: 88
 v1.1.6-more.boarding.missions | downloads: 174
 v1.1.6-hai.side.mission.unlocker | downloads: 11
-v1.1.4-space.fauna | downloads: 97
+v1.1.4-space.fauna | downloads: 98
 v1.0.10-mission.helper | downloads: 189
 v1.0.8-boss.loot | downloads: 332
 v1.0.7-control.station | downloads: 370
@@ -63,7 +63,7 @@ v1.0.2-automata.destruction.0percent | downloads: 3284
 v1.0.1-kestrel.unlocks | downloads: 2864
 v1.0.1-disable.person.ships | downloads: 3072
 v1.0.5-landing.images | downloads: 2947
-v1.0.3-landing.images.highres | downloads: 2749
+v1.0.3-landing.images.highres | downloads: 2750
 v1.0.25-additional.command.buttons.radial | downloads: 330
 v1.1.9-galactic.capital.investment | downloads: 959
 v1.0.1-ship.merging | downloads: 274
@@ -318,7 +318,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 317
-# TOTAL DOWNLOADS: 158915
+# TOTAL DOWNLOADS: 158917
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -352,7 +352,7 @@ kestrel.unlocks 3446
 kor.efret.shipyard 3881
 landing.images 3522
 landing.images.android 351
-landing.images.highres 3152
+landing.images.highres 3153
 licenses 3859
 mission.helper 4212
 more.arfectas 3782
@@ -370,7 +370,7 @@ real.fluff 95
 ship.merging 3439
 show.reputation 3772
 snowfeather.robotics 3586
-space.fauna 3121
+space.fauna 3122
 too.many.asteroids 1855
 tribute.republic 3022
 unique.fix 46
