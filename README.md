@@ -32,8 +32,8 @@
 		<td>4564</td>
 		<td>4593</td>
 		<td>4624</td>
-		<td>4640</td>
-		<td>+ 16</td>
+		<td>4642</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -340,8 +340,8 @@
 		<td>4085</td>
 		<td>4112</td>
 		<td>4138</td>
-		<td>4158</td>
-		<td>+ 20</td>
+		<td>4160</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>158905</td>
-		<td>727</td>
+		<td>158909</td>
+		<td>731</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>4564</td>
 		<td>4593</td>
 		<td>4624</td>
-		<td>4640</td>
-		<td>+ 16</td>
+		<td>4642</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -674,8 +674,8 @@
 		<td>4085</td>
 		<td>4112</td>
 		<td>4138</td>
-		<td>4158</td>
-		<td>+ 20</td>
+		<td>4160</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>158905</td>
-		<td>727</td>
+		<td>158909</td>
+		<td>731</td>
 	</tr>
 </table>
 </sub></sup>
