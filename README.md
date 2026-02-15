@@ -21,8 +21,8 @@
 		<td>5227</td>
 		<td>5257</td>
 		<td>5287</td>
-		<td>5306</td>
-		<td>+ 19</td>
+		<td>5308</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -505,8 +505,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>158789</td>
-		<td>611</td>
+		<td>158791</td>
+		<td>613</td>
 	</tr>
 </table>
 </sub></sup>
@@ -531,8 +531,8 @@
 		<td>5227</td>
 		<td>5257</td>
 		<td>5287</td>
-		<td>5306</td>
-		<td>+ 19</td>
+		<td>5308</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -1015,8 +1015,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>158789</td>
-		<td>611</td>
+		<td>158791</td>
+		<td>613</td>
 	</tr>
 </table>
 </sub></sup>
