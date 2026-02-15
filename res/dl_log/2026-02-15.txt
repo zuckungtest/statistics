@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.7-hai.side.mission.unlocker | downloads: 130
-v1.1.6-more.boarding.missions | downloads: 223
+v1.1.6-more.boarding.missions | downloads: 225
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 141
 v1.0.10-mission.helper | downloads: 251
@@ -254,7 +254,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 1313
+v1.0.1-automata.destruction.0percent | downloads: 1315
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -318,13 +318,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 317
-# TOTAL DOWNLOADS: 160944
+# TOTAL DOWNLOADS: 160948
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
 additional.command.buttons.radial 5310
-automata.destruction.0percent 4640
+automata.destruction.0percent 4642
 automata.in.human.space 4255
 avgi.licenses 232
 better.starts 4929
@@ -356,7 +356,7 @@ landing.images.highres 3198
 licenses 3922
 mission.helper 4274
 more.arfectas 3830
-more.boarding.missions 4158
+more.boarding.missions 4160
 more.person.ships 3322
 navy.licenses 578
 no.more.mereti.mines 3176
