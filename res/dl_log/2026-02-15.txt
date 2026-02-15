@@ -24,7 +24,7 @@ v1.1.11-galactic.capital.investment | downloads: 2731
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2231
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 3559
+v1.0.27-additional.command.buttons.radial | downloads: 3561
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2429
 v1.0.2-vague.improvements | downloads: 359
@@ -318,12 +318,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 317
-# TOTAL DOWNLOADS: 160828
+# TOTAL DOWNLOADS: 160830
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 5306
+additional.command.buttons.radial 5308
 automata.destruction.0percent 4636
 automata.in.human.space 4253
 avgi.licenses 232
