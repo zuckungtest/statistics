@@ -4,11 +4,11 @@ v1.1.7-hai.side.mission.unlocker | downloads: 200
 v1.1.6-more.boarding.missions | downloads: 305
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 218
-v1.0.10-mission.helper | downloads: 341
+v1.0.10-mission.helper | downloads: 343
 v1.0.8-boss.loot | downloads: 469
 v1.0.7-control.station | downloads: 512
 v1.0.6-show.reputation | downloads: 282
-v1.0.6-ship.merging | downloads: 276
+v1.0.6-ship.merging | downloads: 278
 v1.0.1-comets | downloads: 82
 v1.0.6-gegno.pirates | downloads: 298
 v1.0.5-gegno.pirates | downloads: 6
@@ -27,7 +27,7 @@ v1.0.4-flare.play | downloads: 2306
 v1.0.3-boss.loot | downloads: 932
 v1.0.27-additional.command.buttons.radial | downloads: 3647
 v1.0.9-mission.helper | downloads: 2527
-v1.0.5-ship.merging | downloads: 2430
+v1.0.5-ship.merging | downloads: 2432
 v1.0.2-vague.improvements | downloads: 362
 v1.0.11-combat.ai | downloads: 3644
 v1.0.10-combat.ai | downloads: 19
@@ -319,7 +319,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 318
-# TOTAL DOWNLOADS: 164327
+# TOTAL DOWNLOADS: 164333
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -356,7 +356,7 @@ landing.images 3651
 landing.images.android 351
 landing.images.highres 3274
 licenses 4015
-mission.helper 4364
+mission.helper 4366
 more.arfectas 3909
 more.boarding.missions 4240
 more.person.ships 3394
@@ -369,7 +369,7 @@ planet.map 3053
 planet.pluto 196
 quarg.farm 3994
 real.fluff 95
-ship.merging 3571
+ship.merging 3575
 show.reputation 3909
 snowfeather.robotics 3711
 space.fauna 3242
