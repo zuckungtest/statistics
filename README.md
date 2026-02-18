@@ -329,8 +329,8 @@
 		<td>4285</td>
 		<td>4315</td>
 		<td>4344</td>
-		<td>4364</td>
-		<td>+ 20</td>
+		<td>4366</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -428,8 +428,8 @@
 		<td>3498</td>
 		<td>3522</td>
 		<td>3549</td>
-		<td>3571</td>
-		<td>+ 22</td>
+		<td>3575</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>162288</td>
-		<td>822</td>
+		<td>162294</td>
+		<td>828</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>4285</td>
 		<td>4315</td>
 		<td>4344</td>
-		<td>4364</td>
-		<td>+ 20</td>
+		<td>4366</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -832,6 +832,17 @@
 		<td>+ 19</td>
 	</tr>
 	<tr>
+		<td>ship.merging</td>
+		<td>3417</td>
+		<td>3442</td>
+		<td>3469</td>
+		<td>3498</td>
+		<td>3522</td>
+		<td>3549</td>
+		<td>3575</td>
+		<td>+ 26</td>
+	</tr>
+	<tr>
 		<td>kestrel.unlocks</td>
 		<td>3423</td>
 		<td>3449</td>
@@ -841,17 +852,6 @@
 		<td>3557</td>
 		<td>3574</td>
 		<td>+ 17</td>
-	</tr>
-	<tr>
-		<td>ship.merging</td>
-		<td>3417</td>
-		<td>3442</td>
-		<td>3469</td>
-		<td>3498</td>
-		<td>3522</td>
-		<td>3549</td>
-		<td>3571</td>
-		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>162288</td>
-		<td>822</td>
+		<td>162294</td>
+		<td>828</td>
 	</tr>
 </table>
 </sub></sup>
