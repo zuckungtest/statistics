@@ -219,8 +219,8 @@
 		<td>6</td>
 		<td>21</td>
 		<td>35</td>
-		<td>37</td>
-		<td>+ 2</td>
+		<td>39</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -318,8 +318,8 @@
 		<td>3993</td>
 		<td>4018</td>
 		<td>4045</td>
-		<td>4055</td>
-		<td>+ 10</td>
+		<td>4057</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>163874</td>
-		<td>388</td>
+		<td>163878</td>
+		<td>392</td>
 	</tr>
 </table>
 </sub></sup>
@@ -707,8 +707,8 @@
 		<td>3993</td>
 		<td>4018</td>
 		<td>4045</td>
-		<td>4055</td>
-		<td>+ 10</td>
+		<td>4057</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -1026,8 +1026,8 @@
 		<td>6</td>
 		<td>21</td>
 		<td>35</td>
-		<td>37</td>
-		<td>+ 2</td>
+		<td>39</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>163874</td>
-		<td>388</td>
+		<td>163878</td>
+		<td>392</td>
 	</tr>
 </table>
 </sub></sup>
