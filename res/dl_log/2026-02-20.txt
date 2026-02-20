@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-heavy.traffic | downloads: 37
+v1.0.0-heavy.traffic | downloads: 39
 v1.1.7-hai.side.mission.unlocker | downloads: 233
 v1.1.6-more.boarding.missions | downloads: 342
 v1.1.6-hai.side.mission.unlocker | downloads: 11
@@ -112,7 +112,7 @@ v1.0.1-outfits.weapon.slot | downloads: 3182
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 4053
+v1.0.1-licenses | downloads: 4055
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -319,7 +319,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 318
-# TOTAL DOWNLOADS: 165913
+# TOTAL DOWNLOADS: 165917
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -345,7 +345,7 @@ free.worlds.5.years.later 373
 galactic.capital.investment 4956
 gegno.pirates 4282
 hai.side.mission.unlocker 3510
-heavy.traffic 37
+heavy.traffic 39
 highrollers.ltd 3169
 human.labels 3454
 job.coloring 405
@@ -355,7 +355,7 @@ kor.efret.shipyard 4050
 landing.images 3689
 landing.images.android 351
 landing.images.highres 3310
-licenses 4055
+licenses 4057
 mission.helper 4411
 more.arfectas 3946
 more.boarding.missions 4277
