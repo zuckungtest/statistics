@@ -32,8 +32,8 @@
 		<td>4758</td>
 		<td>4784</td>
 		<td>4812</td>
-		<td>4836</td>
-		<td>+ 24</td>
+		<td>4840</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -76,8 +76,8 @@
 		<td>5293</td>
 		<td>5320</td>
 		<td>5352</td>
-		<td>5374</td>
-		<td>+ 22</td>
+		<td>5376</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -274,8 +274,8 @@
 		<td>3598</td>
 		<td>3621</td>
 		<td>3649</td>
-		<td>3669</td>
-		<td>+ 20</td>
+		<td>3671</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -373,8 +373,8 @@
 		<td>3270</td>
 		<td>3293</td>
 		<td>3317</td>
-		<td>3335</td>
-		<td>+ 18</td>
+		<td>3337</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>166609</td>
-		<td>880</td>
+		<td>166619</td>
+		<td>890</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>5293</td>
 		<td>5320</td>
 		<td>5352</td>
-		<td>5374</td>
-		<td>+ 22</td>
+		<td>5376</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -597,8 +597,8 @@
 		<td>4758</td>
 		<td>4784</td>
 		<td>4812</td>
-		<td>4836</td>
-		<td>+ 24</td>
+		<td>4840</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -850,8 +850,8 @@
 		<td>3598</td>
 		<td>3621</td>
 		<td>3649</td>
-		<td>3669</td>
-		<td>+ 20</td>
+		<td>3671</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -916,8 +916,8 @@
 		<td>3270</td>
 		<td>3293</td>
 		<td>3317</td>
-		<td>3335</td>
-		<td>+ 18</td>
+		<td>3337</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>166609</td>
-		<td>880</td>
+		<td>166619</td>
+		<td>890</td>
 	</tr>
 </table>
 </sub></sup>
