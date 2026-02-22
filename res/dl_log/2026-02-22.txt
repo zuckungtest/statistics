@@ -1,11 +1,11 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.12-galactic.capital.investment | downloads: 3
-v1.0.0-heavy.traffic | downloads: 50
+v1.0.0-heavy.traffic | downloads: 52
 v1.1.7-hai.side.mission.unlocker | downloads: 283
 v1.1.6-more.boarding.missions | downloads: 399
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 301
-v1.0.10-mission.helper | downloads: 454
+v1.0.10-mission.helper | downloads: 456
 v1.0.8-boss.loot | downloads: 568
 v1.0.7-control.station | downloads: 614
 v1.0.6-show.reputation | downloads: 386
@@ -50,11 +50,11 @@ v1.0.5-control.station | downloads: 359
 v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2580
 v1.1.2-disable.spaceport.repeatables | downloads: 3277
-v1.0.7-coalition.shopping | downloads: 4041
+v1.0.7-coalition.shopping | downloads: 4042
 v1.0.5-too.many.asteroids | downloads: 453
 v1.0.4-planet.map | downloads: 2524
 v1.0.4-no.more.mereti.mines | downloads: 2863
-v1.0.4-jump.gates | downloads: 3239
+v1.0.4-jump.gates | downloads: 3241
 v1.0.4-gegno.pirates | downloads: 3052
 v1.0.3-tribute.republic | downloads: 2829
 v1.0.3-more.arfectas | downloads: 2544
@@ -320,7 +320,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 168332
+# TOTAL DOWNLOADS: 168339
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -333,7 +333,7 @@ better.starts 5113
 boss.loot 4612
 bunrodea.missions 5367
 captureable.person.ships 4539
-coalition.shopping 4794
+coalition.shopping 4795
 combat.ai 4871
 comets 330
 control.station 4789
@@ -346,18 +346,18 @@ free.worlds.5.years.later 373
 galactic.capital.investment 5028
 gegno.pirates 4346
 hai.side.mission.unlocker 3560
-heavy.traffic 50
+heavy.traffic 52
 highrollers.ltd 3226
 human.labels 3504
 job.coloring 420
-jump.gates 3882
+jump.gates 3884
 kestrel.unlocks 3662
 kor.efret.shipyard 4110
 landing.images 3746
 landing.images.android 351
 landing.images.highres 3363
 licenses 4114
-mission.helper 4477
+mission.helper 4479
 more.arfectas 3998
 more.boarding.missions 4334
 more.person.ships 3480
