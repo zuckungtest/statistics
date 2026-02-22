@@ -50,7 +50,7 @@ v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2580
 v1.1.2-disable.spaceport.repeatables | downloads: 3273
 v1.0.7-coalition.shopping | downloads: 4036
-v1.0.5-too.many.asteroids | downloads: 446
+v1.0.5-too.many.asteroids | downloads: 448
 v1.0.4-planet.map | downloads: 2520
 v1.0.4-no.more.mereti.mines | downloads: 2858
 v1.0.4-jump.gates | downloads: 3234
@@ -319,7 +319,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 318
-# TOTAL DOWNLOADS: 168091
+# TOTAL DOWNLOADS: 168093
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -373,7 +373,7 @@ ship.merging 3668
 show.reputation 4008
 snowfeather.robotics 3795
 space.fauna 3320
-too.many.asteroids 2096
+too.many.asteroids 2098
 tribute.republic 3222
 unique.fix 46
 uniques 3878
