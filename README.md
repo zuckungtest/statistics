@@ -98,8 +98,8 @@
 		<td>4725</td>
 		<td>4750</td>
 		<td>4780</td>
-		<td>4794</td>
-		<td>+ 14</td>
+		<td>4795</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -219,8 +219,8 @@
 		<td>35</td>
 		<td>39</td>
 		<td>45</td>
-		<td>50</td>
-		<td>+ 5</td>
+		<td>52</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -263,8 +263,8 @@
 		<td>3816</td>
 		<td>3841</td>
 		<td>3868</td>
-		<td>3882</td>
-		<td>+ 14</td>
+		<td>3884</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -329,8 +329,8 @@
 		<td>4400</td>
 		<td>4430</td>
 		<td>4464</td>
-		<td>4477</td>
-		<td>+ 13</td>
+		<td>4479</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>166293</td>
-		<td>564</td>
+		<td>166300</td>
+		<td>571</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>4725</td>
 		<td>4750</td>
 		<td>4780</td>
-		<td>4794</td>
-		<td>+ 14</td>
+		<td>4795</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -652,8 +652,8 @@
 		<td>4400</td>
 		<td>4430</td>
 		<td>4464</td>
-		<td>4477</td>
-		<td>+ 13</td>
+		<td>4479</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -766,6 +766,17 @@
 		<td>+ 12</td>
 	</tr>
 	<tr>
+		<td>jump.gates</td>
+		<td>3736</td>
+		<td>3764</td>
+		<td>3791</td>
+		<td>3816</td>
+		<td>3841</td>
+		<td>3868</td>
+		<td>3884</td>
+		<td>+ 16</td>
+	</tr>
+	<tr>
 		<td>uniques</td>
 		<td>3747</td>
 		<td>3771</td>
@@ -774,17 +785,6 @@
 		<td>3843</td>
 		<td>3869</td>
 		<td>3883</td>
-		<td>+ 14</td>
-	</tr>
-	<tr>
-		<td>jump.gates</td>
-		<td>3736</td>
-		<td>3764</td>
-		<td>3791</td>
-		<td>3816</td>
-		<td>3841</td>
-		<td>3868</td>
-		<td>3882</td>
 		<td>+ 14</td>
 	</tr>
 	<tr>
@@ -1026,8 +1026,8 @@
 		<td>35</td>
 		<td>39</td>
 		<td>45</td>
-		<td>50</td>
-		<td>+ 5</td>
+		<td>52</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>166293</td>
-		<td>564</td>
+		<td>166300</td>
+		<td>571</td>
 	</tr>
 </table>
 </sub></sup>
