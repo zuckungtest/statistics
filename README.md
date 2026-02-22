@@ -329,8 +329,8 @@
 		<td>4400</td>
 		<td>4430</td>
 		<td>4464</td>
-		<td>4470</td>
-		<td>+ 6</td>
+		<td>4472</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -439,8 +439,8 @@
 		<td>3943</td>
 		<td>3971</td>
 		<td>3997</td>
-		<td>4006</td>
-		<td>+ 9</td>
+		<td>4008</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>166048</td>
-		<td>319</td>
+		<td>166052</td>
+		<td>323</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>4400</td>
 		<td>4430</td>
 		<td>4464</td>
-		<td>4470</td>
-		<td>+ 6</td>
+		<td>4472</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -740,8 +740,8 @@
 		<td>3943</td>
 		<td>3971</td>
 		<td>3997</td>
-		<td>4006</td>
-		<td>+ 9</td>
+		<td>4008</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>166048</td>
-		<td>319</td>
+		<td>166052</td>
+		<td>323</td>
 	</tr>
 </table>
 </sub></sup>
