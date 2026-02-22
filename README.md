@@ -32,8 +32,8 @@
 		<td>4758</td>
 		<td>4784</td>
 		<td>4812</td>
-		<td>4831</td>
-		<td>+ 19</td>
+		<td>4832</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -98,8 +98,8 @@
 		<td>4725</td>
 		<td>4750</td>
 		<td>4780</td>
-		<td>4799</td>
-		<td>+ 19</td>
+		<td>4800</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -109,8 +109,8 @@
 		<td>4795</td>
 		<td>4824</td>
 		<td>4860</td>
-		<td>4875</td>
-		<td>+ 15</td>
+		<td>4876</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>166457</td>
-		<td>728</td>
+		<td>166460</td>
+		<td>731</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>4795</td>
 		<td>4824</td>
 		<td>4860</td>
-		<td>4875</td>
-		<td>+ 15</td>
+		<td>4876</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -597,8 +597,8 @@
 		<td>4758</td>
 		<td>4784</td>
 		<td>4812</td>
-		<td>4831</td>
-		<td>+ 19</td>
+		<td>4832</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -608,8 +608,8 @@
 		<td>4725</td>
 		<td>4750</td>
 		<td>4780</td>
-		<td>4799</td>
-		<td>+ 19</td>
+		<td>4800</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>166457</td>
-		<td>728</td>
+		<td>166460</td>
+		<td>731</td>
 	</tr>
 </table>
 </sub></sup>
