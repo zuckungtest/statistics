@@ -472,8 +472,8 @@
 		<td>2033</td>
 		<td>2059</td>
 		<td>2088</td>
-		<td>2096</td>
-		<td>+ 8</td>
+		<td>2098</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>166052</td>
-		<td>323</td>
+		<td>166054</td>
+		<td>325</td>
 	</tr>
 </table>
 </sub></sup>
@@ -982,8 +982,8 @@
 		<td>2033</td>
 		<td>2059</td>
 		<td>2088</td>
-		<td>2096</td>
-		<td>+ 8</td>
+		<td>2098</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>166052</td>
-		<td>323</td>
+		<td>166054</td>
+		<td>325</td>
 	</tr>
 </table>
 </sub></sup>
