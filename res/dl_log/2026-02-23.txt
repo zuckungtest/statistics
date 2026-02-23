@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.12-galactic.capital.investment | downloads: 24
-v1.0.0-heavy.traffic | downloads: 57
+v1.0.0-heavy.traffic | downloads: 60
 v1.1.7-hai.side.mission.unlocker | downloads: 297
 v1.1.6-more.boarding.missions | downloads: 417
 v1.1.6-hai.side.mission.unlocker | downloads: 11
@@ -26,7 +26,7 @@ v1.1.11-galactic.capital.investment | downloads: 2947
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2416
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 3781
+v1.0.27-additional.command.buttons.radial | downloads: 3783
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2432
 v1.0.2-vague.improvements | downloads: 376
@@ -256,7 +256,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 1364
+v1.0.1-automata.destruction.0percent | downloads: 1366
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -320,13 +320,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 169122
+# TOTAL DOWNLOADS: 169129
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 5530
-automata.destruction.0percent 4852
+additional.command.buttons.radial 5532
+automata.destruction.0percent 4854
 automata.in.human.space 4438
 avgi.licenses 232
 better.starts 5139
@@ -346,7 +346,7 @@ free.worlds.5.years.later 373
 galactic.capital.investment 5049
 gegno.pirates 4363
 hai.side.mission.unlocker 3574
-heavy.traffic 57
+heavy.traffic 60
 highrollers.ltd 3245
 human.labels 3523
 job.coloring 431
