@@ -186,8 +186,8 @@
 		<td>4975</td>
 		<td>5011</td>
 		<td>5041</td>
-		<td>5060</td>
-		<td>+ 19</td>
+		<td>5061</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>167532</td>
-		<td>790</td>
+		<td>167533</td>
+		<td>791</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>4975</td>
 		<td>5011</td>
 		<td>5041</td>
-		<td>5060</td>
-		<td>+ 19</td>
+		<td>5061</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>167532</td>
-		<td>790</td>
+		<td>167533</td>
+		<td>791</td>
 	</tr>
 </table>
 </sub></sup>
