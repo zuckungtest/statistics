@@ -186,8 +186,8 @@
 		<td>5011</td>
 		<td>5041</td>
 		<td>5068</td>
-		<td>5076</td>
-		<td>+ 8</td>
+		<td>5078</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -472,8 +472,8 @@
 		<td>2088</td>
 		<td>2118</td>
 		<td>2149</td>
-		<td>2157</td>
-		<td>+ 8</td>
+		<td>2159</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>168073</td>
-		<td>302</td>
+		<td>168077</td>
+		<td>306</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>5011</td>
 		<td>5041</td>
 		<td>5068</td>
-		<td>5076</td>
-		<td>+ 8</td>
+		<td>5078</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -982,8 +982,8 @@
 		<td>2088</td>
 		<td>2118</td>
 		<td>2149</td>
-		<td>2157</td>
-		<td>+ 8</td>
+		<td>2159</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>168073</td>
-		<td>302</td>
+		<td>168077</td>
+		<td>306</td>
 	</tr>
 </table>
 </sub></sup>
