@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.12-galactic.capital.investment | downloads: 49
+v1.1.12-galactic.capital.investment | downloads: 51
 v1.0.0-heavy.traffic | downloads: 64
 v1.1.7-hai.side.mission.unlocker | downloads: 320
 v1.1.6-more.boarding.missions | downloads: 442
@@ -51,7 +51,7 @@ v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2580
 v1.1.2-disable.spaceport.repeatables | downloads: 3311
 v1.0.7-coalition.shopping | downloads: 4083
-v1.0.5-too.many.asteroids | downloads: 507
+v1.0.5-too.many.asteroids | downloads: 509
 v1.0.4-planet.map | downloads: 2559
 v1.0.4-no.more.mereti.mines | downloads: 2905
 v1.0.4-jump.gates | downloads: 3280
@@ -320,7 +320,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 170112
+# TOTAL DOWNLOADS: 170116
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -343,7 +343,7 @@ disable.spaceport.repeatables 4046
 expert.crew.members 4479
 flare.play 3237
 free.worlds.5.years.later 373
-galactic.capital.investment 5076
+galactic.capital.investment 5078
 gegno.pirates 4388
 hai.side.mission.unlocker 3597
 heavy.traffic 64
@@ -374,7 +374,7 @@ ship.merging 3727
 show.reputation 4057
 snowfeather.robotics 3841
 space.fauna 3363
-too.many.asteroids 2157
+too.many.asteroids 2159
 tribute.republic 3263
 unique.fix 46
 uniques 3923
