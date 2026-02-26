@@ -21,8 +21,8 @@
 		<td>5547</td>
 		<td>5570</td>
 		<td>5592</td>
-		<td>5598</td>
-		<td>+ 6</td>
+		<td>5599</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -76,8 +76,8 @@
 		<td>5402</td>
 		<td>5433</td>
 		<td>5457</td>
-		<td>5463</td>
-		<td>+ 6</td>
+		<td>5465</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>5068</td>
 		<td>5103</td>
 		<td>5142</td>
-		<td>5152</td>
-		<td>+ 10</td>
+		<td>5154</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -318,8 +318,8 @@
 		<td>4156</td>
 		<td>4190</td>
 		<td>4210</td>
-		<td>4219</td>
-		<td>+ 9</td>
+		<td>4221</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>170081</td>
-		<td>283</td>
+		<td>170088</td>
+		<td>290</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>5547</td>
 		<td>5570</td>
 		<td>5592</td>
-		<td>5598</td>
-		<td>+ 6</td>
+		<td>5599</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>5402</td>
 		<td>5433</td>
 		<td>5457</td>
-		<td>5463</td>
-		<td>+ 6</td>
+		<td>5465</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -575,8 +575,8 @@
 		<td>5068</td>
 		<td>5103</td>
 		<td>5142</td>
-		<td>5152</td>
-		<td>+ 10</td>
+		<td>5154</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -707,8 +707,8 @@
 		<td>4156</td>
 		<td>4190</td>
 		<td>4210</td>
-		<td>4219</td>
-		<td>+ 9</td>
+		<td>4221</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>170081</td>
-		<td>283</td>
+		<td>170088</td>
+		<td>290</td>
 	</tr>
 </table>
 </sub></sup>
