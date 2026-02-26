@@ -109,8 +109,8 @@
 		<td>4907</td>
 		<td>4934</td>
 		<td>4960</td>
-		<td>4978</td>
-		<td>+ 18</td>
+		<td>4980</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -131,8 +131,8 @@
 		<td>4827</td>
 		<td>4854</td>
 		<td>4875</td>
-		<td>4897</td>
-		<td>+ 22</td>
+		<td>4898</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>170562</td>
-		<td>764</td>
+		<td>170565</td>
+		<td>767</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>4907</td>
 		<td>4934</td>
 		<td>4960</td>
-		<td>4978</td>
-		<td>+ 18</td>
+		<td>4980</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -619,8 +619,8 @@
 		<td>4827</td>
 		<td>4854</td>
 		<td>4875</td>
-		<td>4897</td>
-		<td>+ 22</td>
+		<td>4898</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>170562</td>
-		<td>764</td>
+		<td>170565</td>
+		<td>767</td>
 	</tr>
 </table>
 </sub></sup>
