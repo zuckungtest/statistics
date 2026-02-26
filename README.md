@@ -87,8 +87,8 @@
 		<td>4568</td>
 		<td>4587</td>
 		<td>4609</td>
-		<td>4618</td>
-		<td>+ 9</td>
+		<td>4619</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>4828</td>
 		<td>4857</td>
 		<td>4883</td>
-		<td>4890</td>
-		<td>+ 7</td>
+		<td>4891</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -340,8 +340,8 @@
 		<td>4027</td>
 		<td>4051</td>
 		<td>4071</td>
-		<td>4078</td>
-		<td>+ 7</td>
+		<td>4079</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>170155</td>
-		<td>357</td>
+		<td>170158</td>
+		<td>360</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>4828</td>
 		<td>4857</td>
 		<td>4883</td>
-		<td>4890</td>
-		<td>+ 7</td>
+		<td>4891</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -641,8 +641,8 @@
 		<td>4568</td>
 		<td>4587</td>
 		<td>4609</td>
-		<td>4618</td>
-		<td>+ 9</td>
+		<td>4619</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -762,8 +762,8 @@
 		<td>4027</td>
 		<td>4051</td>
 		<td>4071</td>
-		<td>4078</td>
-		<td>+ 7</td>
+		<td>4079</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>170155</td>
-		<td>357</td>
+		<td>170158</td>
+		<td>360</td>
 	</tr>
 </table>
 </sub></sup>
