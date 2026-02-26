@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.12-galactic.capital.investment | downloads: 123
+v1.1.12-galactic.capital.investment | downloads: 125
 v1.0.0-heavy.traffic | downloads: 85
 v1.1.7-hai.side.mission.unlocker | downloads: 363
 v1.1.6-more.boarding.missions | downloads: 499
@@ -26,7 +26,7 @@ v1.1.11-galactic.capital.investment | downloads: 2951
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2476
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 3849
+v1.0.27-additional.command.buttons.radial | downloads: 3850
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2432
 v1.0.2-vague.improvements | downloads: 379
@@ -86,7 +86,7 @@ v1.0.7-human.labels | downloads: 3190
 v1.0.5-show.reputation | downloads: 3063
 v1.0.3-paint.your.ships | downloads: 3394
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 4737
+v1.0.9-bunrodea.missions | downloads: 4739
 v1.0.5-better.starts | downloads: 4671
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
@@ -113,7 +113,7 @@ v1.0.1-outfits.weapon.slot | downloads: 3331
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 4217
+v1.0.1-licenses | downloads: 4219
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -320,18 +320,18 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 172120
+# TOTAL DOWNLOADS: 172127
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 5598
+additional.command.buttons.radial 5599
 automata.destruction.0percent 4922
 automata.in.human.space 4510
 avgi.licenses 232
 better.starts 5218
 boss.loot 4706
-bunrodea.missions 5463
+bunrodea.missions 5465
 captureable.person.ships 4617
 coalition.shopping 4889
 combat.ai 4965
@@ -343,7 +343,7 @@ disable.spaceport.repeatables 4089
 expert.crew.members 4531
 flare.play 3275
 free.worlds.5.years.later 373
-galactic.capital.investment 5152
+galactic.capital.investment 5154
 gegno.pirates 4435
 hai.side.mission.unlocker 3640
 heavy.traffic 85
@@ -356,7 +356,7 @@ kor.efret.shipyard 4206
 landing.images 3830
 landing.images.android 351
 landing.images.highres 3444
-licenses 4219
+licenses 4221
 mission.helper 4581
 more.arfectas 4077
 more.boarding.missions 4434
