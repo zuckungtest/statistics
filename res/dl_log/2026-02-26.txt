@@ -1,19 +1,19 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.12-galactic.capital.investment | downloads: 125
-v1.0.0-heavy.traffic | downloads: 85
+v1.0.0-heavy.traffic | downloads: 87
 v1.1.7-hai.side.mission.unlocker | downloads: 363
 v1.1.6-more.boarding.missions | downloads: 499
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 380
 v1.0.10-mission.helper | downloads: 558
-v1.0.8-boss.loot | downloads: 662
+v1.0.8-boss.loot | downloads: 664
 v1.0.7-control.station | downloads: 707
 v1.0.6-show.reputation | downloads: 489
 v1.0.6-ship.merging | downloads: 480
 v1.0.1-comets | downloads: 116
 v1.0.6-gegno.pirates | downloads: 495
 v1.0.5-gegno.pirates | downloads: 6
-v1.0.2-job.coloring | downloads: 383
+v1.0.2-job.coloring | downloads: 385
 v1.0.7-boss.loot | downloads: 807
 v1.0.1-job.coloring | downloads: 74
 v1.0.0-job.coloring | downloads: 4
@@ -26,7 +26,7 @@ v1.1.11-galactic.capital.investment | downloads: 2951
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2476
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 3850
+v1.0.27-additional.command.buttons.radial | downloads: 3852
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2432
 v1.0.2-vague.improvements | downloads: 379
@@ -60,7 +60,7 @@ v1.0.3-tribute.republic | downloads: 2904
 v1.0.3-more.arfectas | downloads: 2616
 v1.0.3-kor.efret.shipyard | downloads: 3404
 v1.0.2-highrollers.ltd | downloads: 3073
-v1.0.2-automata.in.human.space | downloads: 3986
+v1.0.2-automata.in.human.space | downloads: 3988
 v1.0.2-automata.destruction.0percent | downloads: 3545
 v1.0.1-kestrel.unlocks | downloads: 3165
 v1.0.1-disable.person.ships | downloads: 3330
@@ -79,15 +79,15 @@ v1.0.0-boss.loot | downloads: 194
 v1.0.5-combat.ai | downloads: 53
 v1.0.2-flare.play | downloads: 223
 v1.0.7-mission.helper | downloads: 655
-v1.0.9-expert.crew.members | downloads: 3784
+v1.0.9-expert.crew.members | downloads: 3786
 v1.0.10-uniques | downloads: 95
 v1.0.8-expert.crew.members | downloads: 20
-v1.0.7-human.labels | downloads: 3190
+v1.0.7-human.labels | downloads: 3192
 v1.0.5-show.reputation | downloads: 3063
 v1.0.3-paint.your.ships | downloads: 3394
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 4739
-v1.0.5-better.starts | downloads: 4671
+v1.0.5-better.starts | downloads: 4673
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -256,7 +256,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 1376
+v1.0.1-automata.destruction.0percent | downloads: 1382
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -320,17 +320,17 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 172127
+# TOTAL DOWNLOADS: 172149
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 5599
-automata.destruction.0percent 4922
-automata.in.human.space 4510
+additional.command.buttons.radial 5601
+automata.destruction.0percent 4928
+automata.in.human.space 4512
 avgi.licenses 232
-better.starts 5218
-boss.loot 4706
+better.starts 5220
+boss.loot 4708
 bunrodea.missions 5465
 captureable.person.ships 4617
 coalition.shopping 4889
@@ -340,16 +340,16 @@ control.station 4882
 devil-run.unhidden 68
 disable.person.ships 3819
 disable.spaceport.repeatables 4089
-expert.crew.members 4531
+expert.crew.members 4533
 flare.play 3275
 free.worlds.5.years.later 373
 galactic.capital.investment 5154
 gegno.pirates 4435
 hai.side.mission.unlocker 3640
-heavy.traffic 85
+heavy.traffic 87
 highrollers.ltd 3310
-human.labels 3596
-job.coloring 461
+human.labels 3598
+job.coloring 463
 jump.gates 3975
 kestrel.unlocks 3747
 kor.efret.shipyard 4206
