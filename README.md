@@ -186,8 +186,8 @@
 		<td>5103</td>
 		<td>5142</td>
 		<td>5177</td>
-		<td>5190</td>
-		<td>+ 13</td>
+		<td>5193</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -296,8 +296,8 @@
 		<td>3802</td>
 		<td>3822</td>
 		<td>3846</td>
-		<td>3854</td>
-		<td>+ 8</td>
+		<td>3856</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -307,8 +307,8 @@
 		<td>3414</td>
 		<td>3435</td>
 		<td>3458</td>
-		<td>3466</td>
-		<td>+ 8</td>
+		<td>3468</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -483,8 +483,8 @@
 		<td>3277</td>
 		<td>3296</td>
 		<td>3316</td>
-		<td>3326</td>
-		<td>+ 10</td>
+		<td>3328</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>171181</td>
-		<td>373</td>
+		<td>171190</td>
+		<td>382</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>5103</td>
 		<td>5142</td>
 		<td>5177</td>
-		<td>5190</td>
-		<td>+ 13</td>
+		<td>5193</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -817,8 +817,8 @@
 		<td>3802</td>
 		<td>3822</td>
 		<td>3846</td>
-		<td>3854</td>
-		<td>+ 8</td>
+		<td>3856</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -905,8 +905,8 @@
 		<td>3414</td>
 		<td>3435</td>
 		<td>3458</td>
-		<td>3466</td>
-		<td>+ 8</td>
+		<td>3468</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -949,8 +949,8 @@
 		<td>3277</td>
 		<td>3296</td>
 		<td>3316</td>
-		<td>3326</td>
-		<td>+ 10</td>
+		<td>3328</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>171181</td>
-		<td>373</td>
+		<td>171190</td>
+		<td>382</td>
 	</tr>
 </table>
 </sub></sup>
