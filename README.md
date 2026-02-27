@@ -21,8 +21,8 @@
 		<td>5570</td>
 		<td>5592</td>
 		<td>5615</td>
-		<td>5628</td>
-		<td>+ 13</td>
+		<td>5630</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -76,8 +76,8 @@
 		<td>5433</td>
 		<td>5457</td>
 		<td>5481</td>
-		<td>5495</td>
-		<td>+ 14</td>
+		<td>5497</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -120,8 +120,8 @@
 		<td>343</td>
 		<td>344</td>
 		<td>349</td>
-		<td>349</td>
-		<td></td>
+		<td>351</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -197,8 +197,8 @@
 		<td>4408</td>
 		<td>4429</td>
 		<td>4456</td>
-		<td>4472</td>
-		<td>+ 16</td>
+		<td>4474</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -252,8 +252,8 @@
 		<td>449</td>
 		<td>460</td>
 		<td>467</td>
-		<td>469</td>
-		<td>+ 2</td>
+		<td>471</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -307,8 +307,8 @@
 		<td>3414</td>
 		<td>3435</td>
 		<td>3458</td>
-		<td>3474</td>
-		<td>+ 16</td>
+		<td>3476</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>171444</td>
-		<td>636</td>
+		<td>171456</td>
+		<td>648</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>5570</td>
 		<td>5592</td>
 		<td>5615</td>
-		<td>5628</td>
-		<td>+ 13</td>
+		<td>5630</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -553,8 +553,8 @@
 		<td>5433</td>
 		<td>5457</td>
 		<td>5481</td>
-		<td>5495</td>
-		<td>+ 14</td>
+		<td>5497</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -685,8 +685,8 @@
 		<td>4408</td>
 		<td>4429</td>
 		<td>4456</td>
-		<td>4472</td>
-		<td>+ 16</td>
+		<td>4474</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -905,8 +905,8 @@
 		<td>3414</td>
 		<td>3435</td>
 		<td>3458</td>
-		<td>3474</td>
-		<td>+ 16</td>
+		<td>3476</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -1004,8 +1004,8 @@
 		<td>449</td>
 		<td>460</td>
 		<td>467</td>
-		<td>469</td>
-		<td>+ 2</td>
+		<td>471</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1015,8 +1015,8 @@
 		<td>343</td>
 		<td>344</td>
 		<td>349</td>
-		<td>349</td>
-		<td></td>
+		<td>351</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>171444</td>
-		<td>636</td>
+		<td>171456</td>
+		<td>648</td>
 	</tr>
 </table>
 </sub></sup>
