@@ -10,10 +10,10 @@ v1.0.8-boss.loot | downloads: 694
 v1.0.7-control.station | downloads: 746
 v1.0.6-show.reputation | downloads: 523
 v1.0.6-ship.merging | downloads: 511
-v1.0.1-comets | downloads: 120
-v1.0.6-gegno.pirates | downloads: 532
+v1.0.1-comets | downloads: 122
+v1.0.6-gegno.pirates | downloads: 534
 v1.0.5-gegno.pirates | downloads: 6
-v1.0.2-job.coloring | downloads: 391
+v1.0.2-job.coloring | downloads: 393
 v1.0.7-boss.loot | downloads: 807
 v1.0.1-job.coloring | downloads: 74
 v1.0.0-job.coloring | downloads: 4
@@ -26,7 +26,7 @@ v1.1.11-galactic.capital.investment | downloads: 2957
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2501
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 3879
+v1.0.27-additional.command.buttons.radial | downloads: 3881
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2432
 v1.0.2-vague.improvements | downloads: 383
@@ -65,7 +65,7 @@ v1.0.2-automata.destruction.0percent | downloads: 3571
 v1.0.1-kestrel.unlocks | downloads: 3193
 v1.0.1-disable.person.ships | downloads: 3355
 v1.0.5-landing.images | downloads: 3287
-v1.0.3-landing.images.highres | downloads: 3071
+v1.0.3-landing.images.highres | downloads: 3073
 v1.0.25-additional.command.buttons.radial | downloads: 330
 v1.1.9-galactic.capital.investment | downloads: 959
 v1.0.1-ship.merging | downloads: 274
@@ -86,7 +86,7 @@ v1.0.7-human.labels | downloads: 3222
 v1.0.5-show.reputation | downloads: 3063
 v1.0.3-paint.your.ships | downloads: 3431
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 4769
+v1.0.9-bunrodea.missions | downloads: 4771
 v1.0.5-better.starts | downloads: 4704
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
@@ -320,22 +320,22 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 173483
+# TOTAL DOWNLOADS: 173495
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 5628
+additional.command.buttons.radial 5630
 automata.destruction.0percent 4966
 automata.in.human.space 4542
 avgi.licenses 232
 better.starts 5251
 boss.loot 4738
-bunrodea.missions 5495
+bunrodea.missions 5497
 captureable.person.ships 4646
 coalition.shopping 4920
 combat.ai 5001
-comets 349
+comets 351
 control.station 4921
 devil-run.unhidden 68
 disable.person.ships 3846
@@ -344,18 +344,18 @@ expert.crew.members 4567
 flare.play 3300
 free.worlds.5.years.later 373
 galactic.capital.investment 5199
-gegno.pirates 4472
+gegno.pirates 4474
 hai.side.mission.unlocker 3668
 heavy.traffic 91
 highrollers.ltd 3338
 human.labels 3628
-job.coloring 469
+job.coloring 471
 jump.gates 4005
 kestrel.unlocks 3775
 kor.efret.shipyard 4241
 landing.images 3862
 landing.images.android 351
-landing.images.highres 3474
+landing.images.highres 3476
 licenses 4256
 mission.helper 4611
 more.arfectas 4110
