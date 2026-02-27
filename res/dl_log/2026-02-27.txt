@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.12-galactic.capital.investment | downloads: 155
+v1.1.12-galactic.capital.investment | downloads: 158
 v1.0.0-heavy.traffic | downloads: 91
 v1.1.7-hai.side.mission.unlocker | downloads: 385
 v1.1.6-more.boarding.missions | downloads: 529
@@ -56,7 +56,7 @@ v1.0.4-planet.map | downloads: 2618
 v1.0.4-no.more.mereti.mines | downloads: 2968
 v1.0.4-jump.gates | downloads: 3356
 v1.0.4-gegno.pirates | downloads: 3052
-v1.0.3-tribute.republic | downloads: 2928
+v1.0.3-tribute.republic | downloads: 2930
 v1.0.3-more.arfectas | downloads: 2637
 v1.0.3-kor.efret.shipyard | downloads: 3433
 v1.0.2-highrollers.ltd | downloads: 3095
@@ -64,8 +64,8 @@ v1.0.2-automata.in.human.space | downloads: 4010
 v1.0.2-automata.destruction.0percent | downloads: 3565
 v1.0.1-kestrel.unlocks | downloads: 3187
 v1.0.1-disable.person.ships | downloads: 3349
-v1.0.5-landing.images | downloads: 3279
-v1.0.3-landing.images.highres | downloads: 3063
+v1.0.5-landing.images | downloads: 3281
+v1.0.3-landing.images.highres | downloads: 3065
 v1.0.25-additional.command.buttons.radial | downloads: 330
 v1.1.9-galactic.capital.investment | downloads: 959
 v1.0.1-ship.merging | downloads: 274
@@ -320,7 +320,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 173220
+# TOTAL DOWNLOADS: 173229
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -343,7 +343,7 @@ disable.spaceport.repeatables 4109
 expert.crew.members 4561
 flare.play 3294
 free.worlds.5.years.later 373
-galactic.capital.investment 5190
+galactic.capital.investment 5193
 gegno.pirates 4466
 hai.side.mission.unlocker 3662
 heavy.traffic 91
@@ -353,9 +353,9 @@ job.coloring 469
 jump.gates 3999
 kestrel.unlocks 3769
 kor.efret.shipyard 4235
-landing.images 3854
+landing.images 3856
 landing.images.android 351
-landing.images.highres 3466
+landing.images.highres 3468
 licenses 4250
 mission.helper 4605
 more.arfectas 4104
@@ -375,7 +375,7 @@ show.reputation 4144
 snowfeather.robotics 3916
 space.fauna 3428
 too.many.asteroids 2231
-tribute.republic 3326
+tribute.republic 3328
 unique.fix 46
 uniques 3999
 vague.improvements 471
