@@ -1,15 +1,15 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.12-galactic.capital.investment | downloads: 197
-v1.0.0-heavy.traffic | downloads: 103
+v1.1.12-galactic.capital.investment | downloads: 199
+v1.0.0-heavy.traffic | downloads: 105
 v1.1.7-hai.side.mission.unlocker | downloads: 424
-v1.1.6-more.boarding.missions | downloads: 577
+v1.1.6-more.boarding.missions | downloads: 579
 v1.1.6-hai.side.mission.unlocker | downloads: 11
-v1.1.4-space.fauna | downloads: 442
+v1.1.4-space.fauna | downloads: 444
 v1.0.10-mission.helper | downloads: 629
 v1.0.8-boss.loot | downloads: 726
 v1.0.7-control.station | downloads: 777
 v1.0.6-show.reputation | downloads: 561
-v1.0.6-ship.merging | downloads: 548
+v1.0.6-ship.merging | downloads: 549
 v1.0.1-comets | downloads: 127
 v1.0.6-gegno.pirates | downloads: 565
 v1.0.5-gegno.pirates | downloads: 6
@@ -22,14 +22,14 @@ v1.0.6-boss.loot | downloads: 1151
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
 v1.1.10-captureable.person.ships | downloads: 2615
-v1.1.11-galactic.capital.investment | downloads: 2959
+v1.1.11-galactic.capital.investment | downloads: 2960
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2531
 v1.0.3-boss.loot | downloads: 932
 v1.0.27-additional.command.buttons.radial | downloads: 3912
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2432
-v1.0.2-vague.improvements | downloads: 388
+v1.0.2-vague.improvements | downloads: 390
 v1.0.11-combat.ai | downloads: 3918
 v1.0.10-combat.ai | downloads: 19
 v1.0.9-combat.ai | downloads: 5
@@ -51,14 +51,14 @@ v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2580
 v1.1.2-disable.spaceport.repeatables | downloads: 3405
 v1.0.7-coalition.shopping | downloads: 4204
-v1.0.5-too.many.asteroids | downloads: 626
+v1.0.5-too.many.asteroids | downloads: 627
 v1.0.4-planet.map | downloads: 2653
 v1.0.4-no.more.mereti.mines | downloads: 3008
 v1.0.4-jump.gates | downloads: 3394
 v1.0.4-gegno.pirates | downloads: 3052
-v1.0.3-tribute.republic | downloads: 2966
-v1.0.3-more.arfectas | downloads: 2673
-v1.0.3-kor.efret.shipyard | downloads: 3472
+v1.0.3-tribute.republic | downloads: 2968
+v1.0.3-more.arfectas | downloads: 2674
+v1.0.3-kor.efret.shipyard | downloads: 3474
 v1.0.2-highrollers.ltd | downloads: 3131
 v1.0.2-automata.in.human.space | downloads: 4047
 v1.0.2-automata.destruction.0percent | downloads: 3601
@@ -113,7 +113,7 @@ v1.0.1-outfits.weapon.slot | downloads: 3402
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 4291
+v1.0.1-licenses | downloads: 4293
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -320,7 +320,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 174880
+# TOTAL DOWNLOADS: 174900
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -343,23 +343,23 @@ disable.spaceport.repeatables 4144
 expert.crew.members 4602
 flare.play 3330
 free.worlds.5.years.later 373
-galactic.capital.investment 5234
+galactic.capital.investment 5237
 gegno.pirates 4505
 hai.side.mission.unlocker 3701
-heavy.traffic 103
+heavy.traffic 105
 highrollers.ltd 3368
 human.labels 3658
 job.coloring 472
 jump.gates 4037
 kestrel.unlocks 3808
-kor.efret.shipyard 4274
+kor.efret.shipyard 4276
 landing.images 3891
 landing.images.android 351
 landing.images.highres 3512
-licenses 4293
+licenses 4295
 mission.helper 4652
-more.arfectas 4143
-more.boarding.missions 4512
+more.arfectas 4144
+more.boarding.missions 4514
 more.person.ships 3622
 navy.licenses 578
 no.more.mereti.mines 3473
@@ -370,12 +370,12 @@ planet.map 3275
 planet.pluto 196
 quarg.farm 4249
 real.fluff 95
-ship.merging 3845
+ship.merging 3846
 show.reputation 4188
 snowfeather.robotics 3953
-space.fauna 3466
-too.many.asteroids 2276
-tribute.republic 3364
+space.fauna 3468
+too.many.asteroids 2277
+tribute.republic 3366
 unique.fix 46
 uniques 4037
-vague.improvements 476
+vague.improvements 478
