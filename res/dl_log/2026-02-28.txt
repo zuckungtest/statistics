@@ -37,13 +37,13 @@ v1.0.1-vague.improvements | downloads: 60
 v1.0.4-ship.merging | downloads: 271
 v1.0.3-ship.merging | downloads: 15
 v1.0.0-vague.improvements | downloads: 28
-v1.0.13-uniques | downloads: 2988
+v1.0.13-uniques | downloads: 2990
 v1.0.6-control.station | downloads: 3202
 v1.0.26-additional.command.buttons.radial | downloads: 388
 v1.0.8-mission.helper | downloads: 368
 v1.0.2-boss.loot | downloads: 409
 v1.0.3-flare.play | downloads: 450
-v1.0.6-quarg.farm | downloads: 3239
+v1.0.6-quarg.farm | downloads: 3241
 v1.0.2-ship.merging | downloads: 290
 v1.0.12-uniques | downloads: 223
 v1.0.5-control.station | downloads: 359
@@ -113,7 +113,7 @@ v1.0.1-outfits.weapon.slot | downloads: 3397
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 4283
+v1.0.1-licenses | downloads: 4284
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -320,7 +320,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 174630
+# TOTAL DOWNLOADS: 174635
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -356,7 +356,7 @@ kor.efret.shipyard 4269
 landing.images 3886
 landing.images.android 351
 landing.images.highres 3507
-licenses 4285
+licenses 4286
 mission.helper 4645
 more.arfectas 4137
 more.boarding.missions 4502
@@ -368,7 +368,7 @@ paint.your.ships 3921
 pirate.warlords 5
 planet.map 3271
 planet.pluto 196
-quarg.farm 4240
+quarg.farm 4242
 real.fluff 95
 ship.merging 3837
 show.reputation 4180
@@ -377,5 +377,5 @@ space.fauna 3462
 too.many.asteroids 2268
 tribute.republic 3359
 unique.fix 46
-uniques 4030
+uniques 4032
 vague.improvements 476
