@@ -318,8 +318,8 @@
 		<td>4210</td>
 		<td>4240</td>
 		<td>4268</td>
-		<td>4285</td>
-		<td>+ 17</td>
+		<td>4286</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -417,8 +417,8 @@
 		<td>4166</td>
 		<td>4196</td>
 		<td>4223</td>
-		<td>4240</td>
-		<td>+ 17</td>
+		<td>4242</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -494,8 +494,8 @@
 		<td>3959</td>
 		<td>3989</td>
 		<td>4014</td>
-		<td>4030</td>
-		<td>+ 16</td>
+		<td>4032</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>172591</td>
-		<td>676</td>
+		<td>172596</td>
+		<td>681</td>
 	</tr>
 </table>
 </sub></sup>
@@ -707,8 +707,8 @@
 		<td>4210</td>
 		<td>4240</td>
 		<td>4268</td>
-		<td>4285</td>
-		<td>+ 17</td>
+		<td>4286</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -729,8 +729,8 @@
 		<td>4166</td>
 		<td>4196</td>
 		<td>4223</td>
-		<td>4240</td>
-		<td>+ 17</td>
+		<td>4242</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -766,6 +766,17 @@
 		<td>+ 17</td>
 	</tr>
 	<tr>
+		<td>uniques</td>
+		<td>3892</td>
+		<td>3915</td>
+		<td>3940</td>
+		<td>3959</td>
+		<td>3989</td>
+		<td>4014</td>
+		<td>4032</td>
+		<td>+ 18</td>
+	</tr>
+	<tr>
 		<td>jump.gates</td>
 		<td>3894</td>
 		<td>3917</td>
@@ -775,17 +786,6 @@
 		<td>4017</td>
 		<td>4032</td>
 		<td>+ 15</td>
-	</tr>
-	<tr>
-		<td>uniques</td>
-		<td>3892</td>
-		<td>3915</td>
-		<td>3940</td>
-		<td>3959</td>
-		<td>3989</td>
-		<td>4014</td>
-		<td>4030</td>
-		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>172591</td>
-		<td>676</td>
+		<td>172596</td>
+		<td>681</td>
 	</tr>
 </table>
 </sub></sup>
