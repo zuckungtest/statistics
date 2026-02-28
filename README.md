@@ -87,8 +87,8 @@
 		<td>4609</td>
 		<td>4632</td>
 		<td>4656</td>
-		<td>4672</td>
-		<td>+ 16</td>
+		<td>4673</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -472,8 +472,8 @@
 		<td>2201</td>
 		<td>2223</td>
 		<td>2251</td>
-		<td>2267</td>
-		<td>+ 16</td>
+		<td>2268</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -494,8 +494,8 @@
 		<td>3959</td>
 		<td>3989</td>
 		<td>4014</td>
-		<td>4029</td>
-		<td>+ 15</td>
+		<td>4030</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>172588</td>
-		<td>673</td>
+		<td>172591</td>
+		<td>676</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>4609</td>
 		<td>4632</td>
 		<td>4656</td>
-		<td>4672</td>
-		<td>+ 16</td>
+		<td>4673</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -784,8 +784,8 @@
 		<td>3959</td>
 		<td>3989</td>
 		<td>4014</td>
-		<td>4029</td>
-		<td>+ 15</td>
+		<td>4030</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -982,8 +982,8 @@
 		<td>2201</td>
 		<td>2223</td>
 		<td>2251</td>
-		<td>2267</td>
-		<td>+ 16</td>
+		<td>2268</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>172588</td>
-		<td>673</td>
+		<td>172591</td>
+		<td>676</td>
 	</tr>
 </table>
 </sub></sup>
