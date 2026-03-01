@@ -373,8 +373,8 @@
 		<td>3425</td>
 		<td>3451</td>
 		<td>3475</td>
-		<td>3482</td>
-		<td>+ 7</td>
+		<td>3484</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>173276</td>
-		<td>317</td>
+		<td>173278</td>
+		<td>319</td>
 	</tr>
 </table>
 </sub></sup>
@@ -916,8 +916,8 @@
 		<td>3425</td>
 		<td>3451</td>
 		<td>3475</td>
-		<td>3482</td>
-		<td>+ 7</td>
+		<td>3484</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>173276</td>
-		<td>317</td>
+		<td>173278</td>
+		<td>319</td>
 	</tr>
 </table>
 </sub></sup>
