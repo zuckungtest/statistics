@@ -53,7 +53,7 @@ v1.1.2-disable.spaceport.repeatables | downloads: 3414
 v1.0.7-coalition.shopping | downloads: 4216
 v1.0.5-too.many.asteroids | downloads: 639
 v1.0.4-planet.map | downloads: 2661
-v1.0.4-no.more.mereti.mines | downloads: 3017
+v1.0.4-no.more.mereti.mines | downloads: 3019
 v1.0.4-jump.gates | downloads: 3403
 v1.0.4-gegno.pirates | downloads: 3052
 v1.0.3-tribute.republic | downloads: 2977
@@ -320,7 +320,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 175315
+# TOTAL DOWNLOADS: 175317
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -362,7 +362,7 @@ more.arfectas 4154
 more.boarding.missions 4523
 more.person.ships 3632
 navy.licenses 578
-no.more.mereti.mines 3482
+no.more.mereti.mines 3484
 outfits.weapon.slot 3789
 paint.your.ships 3937
 pirate.warlords 5
