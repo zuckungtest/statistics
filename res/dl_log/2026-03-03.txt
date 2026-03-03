@@ -5,7 +5,7 @@ v1.1.7-hai.side.mission.unlocker | downloads: 495
 v1.1.6-more.boarding.missions | downloads: 656
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 515
-v1.0.10-mission.helper | downloads: 709
+v1.0.10-mission.helper | downloads: 712
 v1.0.8-boss.loot | downloads: 792
 v1.0.7-control.station | downloads: 854
 v1.0.6-show.reputation | downloads: 637
@@ -29,7 +29,7 @@ v1.0.3-boss.loot | downloads: 932
 v1.0.27-additional.command.buttons.radial | downloads: 3988
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2432
-v1.0.2-vague.improvements | downloads: 398
+v1.0.2-vague.improvements | downloads: 399
 v1.0.11-combat.ai | downloads: 3990
 v1.0.10-combat.ai | downloads: 19
 v1.0.9-combat.ai | downloads: 5
@@ -320,7 +320,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 177918
+# TOTAL DOWNLOADS: 177922
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -357,7 +357,7 @@ landing.images 3965
 landing.images.android 351
 landing.images.highres 3582
 licenses 4377
-mission.helper 4732
+mission.helper 4735
 more.arfectas 4212
 more.boarding.missions 4591
 more.person.ships 3695
@@ -378,4 +378,4 @@ too.many.asteroids 2352
 tribute.republic 3427
 unique.fix 46
 uniques 4107
-vague.improvements 486
+vague.improvements 487
