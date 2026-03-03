@@ -329,8 +329,8 @@
 		<td>4654</td>
 		<td>4677</td>
 		<td>4707</td>
-		<td>4732</td>
-		<td>+ 25</td>
+		<td>4735</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -505,8 +505,8 @@
 		<td>478</td>
 		<td>480</td>
 		<td>484</td>
-		<td>486</td>
-		<td>+ 2</td>
+		<td>487</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>175879</td>
-		<td>911</td>
+		<td>175883</td>
+		<td>915</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>4654</td>
 		<td>4677</td>
 		<td>4707</td>
-		<td>4732</td>
-		<td>+ 25</td>
+		<td>4735</td>
+		<td>+ 28</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -1004,8 +1004,8 @@
 		<td>478</td>
 		<td>480</td>
 		<td>484</td>
-		<td>486</td>
-		<td>+ 2</td>
+		<td>487</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>175879</td>
-		<td>911</td>
+		<td>175883</td>
+		<td>915</td>
 	</tr>
 </table>
 </sub></sup>
