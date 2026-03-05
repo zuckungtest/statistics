@@ -21,12 +21,12 @@ v1.0.0-comets | downloads: 229
 v1.0.6-boss.loot | downloads: 1151
 v1.0.5-boss.loot | downloads: 14
 v1.0.4-boss.loot | downloads: 216
-v1.1.10-captureable.person.ships | downloads: 2708
+v1.1.10-captureable.person.ships | downloads: 2709
 v1.1.11-galactic.capital.investment | downloads: 2963
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2615
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 4014
+v1.0.27-additional.command.buttons.radial | downloads: 4015
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2432
 v1.0.2-vague.improvements | downloads: 400
@@ -49,8 +49,8 @@ v1.0.12-uniques | downloads: 223
 v1.0.5-control.station | downloads: 359
 v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2580
-v1.1.2-disable.spaceport.repeatables | downloads: 3488
-v1.0.7-coalition.shopping | downloads: 4314
+v1.1.2-disable.spaceport.repeatables | downloads: 3489
+v1.0.7-coalition.shopping | downloads: 4315
 v1.0.5-too.many.asteroids | downloads: 726
 v1.0.4-planet.map | downloads: 2733
 v1.0.4-no.more.mereti.mines | downloads: 3097
@@ -60,7 +60,7 @@ v1.0.3-tribute.republic | downloads: 3053
 v1.0.3-more.arfectas | downloads: 2754
 v1.0.3-kor.efret.shipyard | downloads: 3571
 v1.0.2-highrollers.ltd | downloads: 3224
-v1.0.2-automata.in.human.space | downloads: 4144
+v1.0.2-automata.in.human.space | downloads: 4145
 v1.0.2-automata.destruction.0percent | downloads: 3687
 v1.0.1-kestrel.unlocks | downloads: 3315
 v1.0.1-disable.person.ships | downloads: 3471
@@ -86,7 +86,7 @@ v1.0.7-human.labels | downloads: 3341
 v1.0.5-show.reputation | downloads: 3063
 v1.0.3-paint.your.ships | downloads: 3555
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 4914
+v1.0.9-bunrodea.missions | downloads: 4915
 v1.0.5-better.starts | downloads: 4841
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
@@ -320,26 +320,26 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 178901
+# TOTAL DOWNLOADS: 178907
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 5763
+additional.command.buttons.radial 5764
 automata.destruction.0percent 5101
-automata.in.human.space 4668
+automata.in.human.space 4669
 avgi.licenses 232
 better.starts 5388
 boss.loot 4863
-bunrodea.missions 5640
-captureable.person.ships 4773
-coalition.shopping 5067
+bunrodea.missions 5641
+captureable.person.ships 4774
+coalition.shopping 5068
 combat.ai 5135
 comets 365
 control.station 5057
 devil-run.unhidden 68
 disable.person.ships 3966
-disable.spaceport.repeatables 4233
+disable.spaceport.repeatables 4234
 expert.crew.members 4696
 flare.play 3414
 free.worlds.5.years.later 373
