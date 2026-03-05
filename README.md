@@ -76,8 +76,8 @@
 		<td>5586</td>
 		<td>5613</td>
 		<td>5637</td>
-		<td>5648</td>
-		<td>+ 11</td>
+		<td>5649</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>177115</td>
-		<td>351</td>
+		<td>177116</td>
+		<td>352</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>5586</td>
 		<td>5613</td>
 		<td>5637</td>
-		<td>5648</td>
-		<td>+ 11</td>
+		<td>5649</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>177115</td>
-		<td>351</td>
+		<td>177116</td>
+		<td>352</td>
 	</tr>
 </table>
 </sub></sup>
