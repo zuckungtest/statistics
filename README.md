@@ -32,8 +32,8 @@
 		<td>5054</td>
 		<td>5078</td>
 		<td>5098</td>
-		<td>5102</td>
-		<td>+ 4</td>
+		<td>5103</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>5337</td>
 		<td>5362</td>
 		<td>5384</td>
-		<td>5389</td>
-		<td>+ 5</td>
+		<td>5390</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -76,8 +76,8 @@
 		<td>5586</td>
 		<td>5613</td>
 		<td>5637</td>
-		<td>5642</td>
-		<td>+ 5</td>
+		<td>5643</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -109,8 +109,8 @@
 		<td>5082</td>
 		<td>5110</td>
 		<td>5130</td>
-		<td>5137</td>
-		<td>+ 7</td>
+		<td>5138</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -142,8 +142,8 @@
 		<td>3920</td>
 		<td>3942</td>
 		<td>3962</td>
-		<td>3968</td>
-		<td>+ 6</td>
+		<td>3969</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -153,8 +153,8 @@
 		<td>4189</td>
 		<td>4211</td>
 		<td>4230</td>
-		<td>4235</td>
-		<td>+ 5</td>
+		<td>4236</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>176920</td>
-		<td>156</td>
+		<td>176926</td>
+		<td>162</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>5586</td>
 		<td>5613</td>
 		<td>5637</td>
-		<td>5642</td>
-		<td>+ 5</td>
+		<td>5643</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -564,8 +564,8 @@
 		<td>5337</td>
 		<td>5362</td>
 		<td>5384</td>
-		<td>5389</td>
-		<td>+ 5</td>
+		<td>5390</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -586,8 +586,8 @@
 		<td>5082</td>
 		<td>5110</td>
 		<td>5130</td>
-		<td>5137</td>
-		<td>+ 7</td>
+		<td>5138</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -597,8 +597,8 @@
 		<td>5054</td>
 		<td>5078</td>
 		<td>5098</td>
-		<td>5102</td>
-		<td>+ 4</td>
+		<td>5103</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -744,6 +744,17 @@
 		<td>+ 2</td>
 	</tr>
 	<tr>
+		<td>disable.spaceport.repeatables</td>
+		<td>4125</td>
+		<td>4146</td>
+		<td>4165</td>
+		<td>4189</td>
+		<td>4211</td>
+		<td>4230</td>
+		<td>4236</td>
+		<td>+ 6</td>
+	</tr>
+	<tr>
 		<td>more.arfectas</td>
 		<td>4120</td>
 		<td>4146</td>
@@ -753,17 +764,6 @@
 		<td>4231</td>
 		<td>4235</td>
 		<td>+ 4</td>
-	</tr>
-	<tr>
-		<td>disable.spaceport.repeatables</td>
-		<td>4125</td>
-		<td>4146</td>
-		<td>4165</td>
-		<td>4189</td>
-		<td>4211</td>
-		<td>4230</td>
-		<td>4235</td>
-		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -828,8 +828,8 @@
 		<td>3920</td>
 		<td>3942</td>
 		<td>3962</td>
-		<td>3968</td>
-		<td>+ 6</td>
+		<td>3969</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>176920</td>
-		<td>156</td>
+		<td>176926</td>
+		<td>162</td>
 	</tr>
 </table>
 </sub></sup>
