@@ -428,8 +428,8 @@
 		<td>3924</td>
 		<td>3944</td>
 		<td>3960</td>
-		<td>3964</td>
-		<td>+ 4</td>
+		<td>3965</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>177656</td>
-		<td>197</td>
+		<td>177657</td>
+		<td>198</td>
 	</tr>
 </table>
 </sub></sup>
@@ -839,8 +839,8 @@
 		<td>3924</td>
 		<td>3944</td>
 		<td>3960</td>
-		<td>3964</td>
-		<td>+ 4</td>
+		<td>3965</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>177656</td>
-		<td>197</td>
+		<td>177657</td>
+		<td>198</td>
 	</tr>
 </table>
 </sub></sup>
