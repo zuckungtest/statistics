@@ -2,7 +2,7 @@
 v1.1.12-galactic.capital.investment | downloads: 330
 v1.0.0-heavy.traffic | downloads: 134
 v1.1.7-hai.side.mission.unlocker | downloads: 546
-v1.1.6-more.boarding.missions | downloads: 701
+v1.1.6-more.boarding.missions | downloads: 702
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 556
 v1.0.10-mission.helper | downloads: 757
@@ -11,7 +11,7 @@ v1.0.7-control.station | downloads: 907
 v1.0.6-show.reputation | downloads: 680
 v1.0.6-ship.merging | downloads: 672
 v1.0.1-comets | downloads: 137
-v1.0.6-gegno.pirates | downloads: 690
+v1.0.6-gegno.pirates | downloads: 691
 v1.0.5-gegno.pirates | downloads: 6
 v1.0.2-job.coloring | downloads: 422
 v1.0.7-boss.loot | downloads: 807
@@ -86,8 +86,8 @@ v1.0.7-human.labels | downloads: 3363
 v1.0.5-show.reputation | downloads: 3063
 v1.0.3-paint.your.ships | downloads: 3581
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 4941
-v1.0.5-better.starts | downloads: 4868
+v1.0.9-bunrodea.missions | downloads: 4942
+v1.0.5-better.starts | downloads: 4869
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -320,7 +320,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 319
-# TOTAL DOWNLOADS: 179873
+# TOTAL DOWNLOADS: 179877
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -329,9 +329,9 @@ additional.command.buttons.radial 5787
 automata.destruction.0percent 5124
 automata.in.human.space 4690
 avgi.licenses 232
-better.starts 5415
+better.starts 5416
 boss.loot 4887
-bunrodea.missions 5668
+bunrodea.missions 5669
 captureable.person.ships 4796
 coalition.shopping 5092
 combat.ai 5165
@@ -344,7 +344,7 @@ expert.crew.members 4720
 flare.play 3435
 free.worlds.5.years.later 373
 galactic.capital.investment 5372
-gegno.pirates 4630
+gegno.pirates 4631
 hai.side.mission.unlocker 3823
 heavy.traffic 134
 highrollers.ltd 3482
@@ -359,7 +359,7 @@ landing.images.highres 3624
 licenses 4421
 mission.helper 4780
 more.arfectas 4256
-more.boarding.missions 4636
+more.boarding.missions 4637
 more.person.ships 3738
 navy.licenses 578
 no.more.mereti.mines 3584
