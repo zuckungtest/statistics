@@ -54,8 +54,8 @@
 		<td>5362</td>
 		<td>5384</td>
 		<td>5403</td>
-		<td>5415</td>
-		<td>+ 12</td>
+		<td>5416</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -76,8 +76,8 @@
 		<td>5613</td>
 		<td>5637</td>
 		<td>5659</td>
-		<td>5668</td>
-		<td>+ 9</td>
+		<td>5669</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -197,8 +197,8 @@
 		<td>4587</td>
 		<td>4606</td>
 		<td>4621</td>
-		<td>4630</td>
-		<td>+ 9</td>
+		<td>4631</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -351,8 +351,8 @@
 		<td>4594</td>
 		<td>4610</td>
 		<td>4625</td>
-		<td>4636</td>
-		<td>+ 11</td>
+		<td>4637</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>177834</td>
-		<td>375</td>
+		<td>177838</td>
+		<td>379</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>5613</td>
 		<td>5637</td>
 		<td>5659</td>
-		<td>5668</td>
-		<td>+ 9</td>
+		<td>5669</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -564,8 +564,8 @@
 		<td>5362</td>
 		<td>5384</td>
 		<td>5403</td>
-		<td>5415</td>
-		<td>+ 12</td>
+		<td>5416</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -685,8 +685,8 @@
 		<td>4594</td>
 		<td>4610</td>
 		<td>4625</td>
-		<td>4636</td>
-		<td>+ 11</td>
+		<td>4637</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -696,8 +696,8 @@
 		<td>4587</td>
 		<td>4606</td>
 		<td>4621</td>
-		<td>4630</td>
-		<td>+ 9</td>
+		<td>4631</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>177834</td>
-		<td>375</td>
+		<td>177838</td>
+		<td>379</td>
 	</tr>
 </table>
 </sub></sup>
