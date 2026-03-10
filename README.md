@@ -65,8 +65,8 @@
 		<td>4918</td>
 		<td>4937</td>
 		<td>4952</td>
-		<td>4955</td>
-		<td>+ 3</td>
+		<td>4956</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -307,8 +307,8 @@
 		<td>3654</td>
 		<td>3671</td>
 		<td>3689</td>
-		<td>3691</td>
-		<td>+ 2</td>
+		<td>3693</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>180723</td>
-		<td>123</td>
+		<td>180726</td>
+		<td>126</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>4918</td>
 		<td>4937</td>
 		<td>4952</td>
-		<td>4955</td>
-		<td>+ 3</td>
+		<td>4956</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -905,8 +905,8 @@
 		<td>3654</td>
 		<td>3671</td>
 		<td>3689</td>
-		<td>3691</td>
-		<td>+ 2</td>
+		<td>3693</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>180723</td>
-		<td>123</td>
+		<td>180726</td>
+		<td>126</td>
 	</tr>
 </table>
 </sub></sup>
