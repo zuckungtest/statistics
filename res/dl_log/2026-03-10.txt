@@ -27,7 +27,7 @@ v1.1.11-galactic.capital.investment | downloads: 2965
 v1.1.10-galactic.capital.investment | downloads: 108
 v1.0.4-flare.play | downloads: 2704
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 4110
+v1.0.27-additional.command.buttons.radial | downloads: 4111
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2433
 v1.0.2-vague.improvements | downloads: 403
@@ -55,18 +55,18 @@ v1.0.7-coalition.shopping | downloads: 4418
 v1.0.5-too.many.asteroids | downloads: 829
 v1.0.4-planet.map | downloads: 2826
 v1.0.4-no.more.mereti.mines | downloads: 3190
-v1.0.4-jump.gates | downloads: 3579
+v1.0.4-jump.gates | downloads: 3580
 v1.0.4-gegno.pirates | downloads: 3052
 v1.0.3-tribute.republic | downloads: 3141
 v1.0.3-more.arfectas | downloads: 2847
 v1.0.3-kor.efret.shipyard | downloads: 3665
 v1.0.2-highrollers.ltd | downloads: 3316
 v1.0.2-automata.in.human.space | downloads: 4238
-v1.0.2-automata.destruction.0percent | downloads: 3780
+v1.0.2-automata.destruction.0percent | downloads: 3781
 v1.0.1-kestrel.unlocks | downloads: 3410
 v1.0.1-disable.person.ships | downloads: 3565
-v1.0.5-landing.images | downloads: 3504
-v1.0.3-landing.images.highres | downloads: 3293
+v1.0.5-landing.images | downloads: 3505
+v1.0.3-landing.images.highres | downloads: 3294
 v1.0.25-additional.command.buttons.radial | downloads: 330
 v1.1.9-galactic.capital.investment | downloads: 959
 v1.0.1-ship.merging | downloads: 274
@@ -321,13 +321,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 320
-# TOTAL DOWNLOADS: 182882
+# TOTAL DOWNLOADS: 182887
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 5859
-automata.destruction.0percent 5199
+additional.command.buttons.radial 5860
+automata.destruction.0percent 5200
 automata.in.human.space 4762
 avgi.licenses 232
 better.starts 5494
@@ -351,12 +351,12 @@ heavy.traffic 137
 highrollers.ltd 3553
 human.labels 3838
 job.coloring 510
-jump.gates 4222
+jump.gates 4223
 kestrel.unlocks 3992
 kor.efret.shipyard 4467
-landing.images 4079
+landing.images 4080
 landing.images.android 351
-landing.images.highres 3696
+landing.images.highres 3697
 licenses 4500
 mission.helper 4857
 more.arfectas 4334
