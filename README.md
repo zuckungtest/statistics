@@ -21,8 +21,8 @@
 		<td>5817</td>
 		<td>5836</td>
 		<td>5854</td>
-		<td>5859</td>
-		<td>+ 5</td>
+		<td>5860</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>5153</td>
 		<td>5175</td>
 		<td>5193</td>
-		<td>5199</td>
-		<td>+ 6</td>
+		<td>5200</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -263,8 +263,8 @@
 		<td>4180</td>
 		<td>4201</td>
 		<td>4217</td>
-		<td>4222</td>
-		<td>+ 5</td>
+		<td>4223</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -296,8 +296,8 @@
 		<td>4038</td>
 		<td>4056</td>
 		<td>4074</td>
-		<td>4079</td>
-		<td>+ 5</td>
+		<td>4080</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -307,8 +307,8 @@
 		<td>3654</td>
 		<td>3671</td>
 		<td>3689</td>
-		<td>3696</td>
-		<td>+ 7</td>
+		<td>3697</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>180842</td>
-		<td>242</td>
+		<td>180847</td>
+		<td>247</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>5817</td>
 		<td>5836</td>
 		<td>5854</td>
-		<td>5859</td>
-		<td>+ 5</td>
+		<td>5860</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -597,8 +597,8 @@
 		<td>5153</td>
 		<td>5175</td>
 		<td>5193</td>
-		<td>5199</td>
-		<td>+ 6</td>
+		<td>5200</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -784,8 +784,8 @@
 		<td>4180</td>
 		<td>4201</td>
 		<td>4217</td>
-		<td>4222</td>
-		<td>+ 5</td>
+		<td>4223</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -817,8 +817,8 @@
 		<td>4038</td>
 		<td>4056</td>
 		<td>4074</td>
-		<td>4079</td>
-		<td>+ 5</td>
+		<td>4080</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -905,8 +905,8 @@
 		<td>3654</td>
 		<td>3671</td>
 		<td>3689</td>
-		<td>3696</td>
-		<td>+ 7</td>
+		<td>3697</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>180842</td>
-		<td>242</td>
+		<td>180847</td>
+		<td>247</td>
 	</tr>
 </table>
 </sub></sup>
