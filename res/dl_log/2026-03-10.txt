@@ -2,11 +2,11 @@
 v1.1.13-galactic.capital.investment | downloads: 48
 v1.1.12-galactic.capital.investment | downloads: 372
 v1.0.0-heavy.traffic | downloads: 139
-v1.1.7-hai.side.mission.unlocker | downloads: 622
+v1.1.7-hai.side.mission.unlocker | downloads: 623
 v1.1.6-more.boarding.missions | downloads: 782
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 642
-v1.0.10-mission.helper | downloads: 844
+v1.0.10-mission.helper | downloads: 845
 v1.0.8-boss.loot | downloads: 924
 v1.0.7-control.station | downloads: 989
 v1.0.6-show.reputation | downloads: 760
@@ -321,7 +321,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 320
-# TOTAL DOWNLOADS: 183313
+# TOTAL DOWNLOADS: 183315
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -346,7 +346,7 @@ flare.play 3514
 free.worlds.5.years.later 373
 galactic.capital.investment 5463
 gegno.pirates 4720
-hai.side.mission.unlocker 3899
+hai.side.mission.unlocker 3900
 heavy.traffic 139
 highrollers.ltd 3565
 human.labels 3847
@@ -358,7 +358,7 @@ landing.images 4090
 landing.images.android 351
 landing.images.highres 3707
 licenses 4510
-mission.helper 4867
+mission.helper 4868
 more.arfectas 4346
 more.boarding.missions 4717
 more.person.ships 3818
