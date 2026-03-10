@@ -208,8 +208,8 @@
 		<td>3851</td>
 		<td>3865</td>
 		<td>3884</td>
-		<td>3899</td>
-		<td>+ 15</td>
+		<td>3900</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -329,8 +329,8 @@
 		<td>4812</td>
 		<td>4834</td>
 		<td>4852</td>
-		<td>4867</td>
-		<td>+ 15</td>
+		<td>4868</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>181273</td>
-		<td>673</td>
+		<td>181275</td>
+		<td>675</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>4812</td>
 		<td>4834</td>
 		<td>4852</td>
-		<td>4867</td>
-		<td>+ 15</td>
+		<td>4868</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -872,8 +872,8 @@
 		<td>3851</td>
 		<td>3865</td>
 		<td>3884</td>
-		<td>3899</td>
-		<td>+ 15</td>
+		<td>3900</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>181273</td>
-		<td>673</td>
+		<td>181275</td>
+		<td>675</td>
 	</tr>
 </table>
 </sub></sup>
