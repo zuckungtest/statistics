@@ -76,8 +76,8 @@
 		<td>5723</td>
 		<td>5738</td>
 		<td>5756</td>
-		<td>5773</td>
-		<td>+ 17</td>
+		<td>5774</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>4037</td>
 		<td>4055</td>
 		<td>4071</td>
-		<td>4086</td>
-		<td>+ 15</td>
+		<td>4087</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -197,8 +197,8 @@
 		<td>4681</td>
 		<td>4701</td>
 		<td>4721</td>
-		<td>4742</td>
-		<td>+ 21</td>
+		<td>4743</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -274,8 +274,8 @@
 		<td>3968</td>
 		<td>3987</td>
 		<td>4003</td>
-		<td>4017</td>
-		<td>+ 14</td>
+		<td>4018</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -285,8 +285,8 @@
 		<td>4445</td>
 		<td>4460</td>
 		<td>4478</td>
-		<td>4492</td>
-		<td>+ 14</td>
+		<td>4493</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -340,8 +340,8 @@
 		<td>4308</td>
 		<td>4327</td>
 		<td>4346</td>
-		<td>4359</td>
-		<td>+ 13</td>
+		<td>4360</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -351,8 +351,8 @@
 		<td>4682</td>
 		<td>4701</td>
 		<td>4717</td>
-		<td>4732</td>
-		<td>+ 15</td>
+		<td>4733</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>181937</td>
-		<td>636</td>
+		<td>181944</td>
+		<td>643</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>5723</td>
 		<td>5738</td>
 		<td>5756</td>
-		<td>5773</td>
-		<td>+ 17</td>
+		<td>5774</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -685,8 +685,8 @@
 		<td>4681</td>
 		<td>4701</td>
 		<td>4721</td>
-		<td>4742</td>
-		<td>+ 21</td>
+		<td>4743</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -696,8 +696,8 @@
 		<td>4682</td>
 		<td>4701</td>
 		<td>4717</td>
-		<td>4732</td>
-		<td>+ 15</td>
+		<td>4733</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -718,8 +718,8 @@
 		<td>4445</td>
 		<td>4460</td>
 		<td>4478</td>
-		<td>4492</td>
-		<td>+ 14</td>
+		<td>4493</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -751,8 +751,8 @@
 		<td>4308</td>
 		<td>4327</td>
 		<td>4346</td>
-		<td>4359</td>
-		<td>+ 13</td>
+		<td>4360</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -828,8 +828,8 @@
 		<td>4037</td>
 		<td>4055</td>
 		<td>4071</td>
-		<td>4086</td>
-		<td>+ 15</td>
+		<td>4087</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -850,8 +850,8 @@
 		<td>3968</td>
 		<td>3987</td>
 		<td>4003</td>
-		<td>4017</td>
-		<td>+ 14</td>
+		<td>4018</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>181937</td>
-		<td>636</td>
+		<td>181944</td>
+		<td>643</td>
 	</tr>
 </table>
 </sub></sup>
