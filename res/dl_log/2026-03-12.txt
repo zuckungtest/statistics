@@ -11,7 +11,7 @@ v1.0.10-mission.helper | downloads: 874
 v1.0.8-boss.loot | downloads: 955
 v1.0.7-control.station | downloads: 1016
 v1.0.6-show.reputation | downloads: 791
-v1.0.6-ship.merging | downloads: 782
+v1.0.6-ship.merging | downloads: 783
 v1.0.1-comets | downloads: 144
 v1.0.6-gegno.pirates | downloads: 815
 v1.0.5-gegno.pirates | downloads: 6
@@ -322,7 +322,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 321
-# TOTAL DOWNLOADS: 184471
+# TOTAL DOWNLOADS: 184472
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -372,7 +372,7 @@ planet.map 3494
 planet.pluto 196
 quarg.farm 4492
 real.fluff 95
-ship.merging 4080
+ship.merging 4081
 show.reputation 4418
 snowfeather.robotics 4176
 space.fauna 3692
