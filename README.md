@@ -76,8 +76,8 @@
 		<td>5778</td>
 		<td>5802</td>
 		<td>5821</td>
-		<td>5834</td>
-		<td>+ 13</td>
+		<td>5835</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -252,8 +252,8 @@
 		<td>519</td>
 		<td>521</td>
 		<td>522</td>
-		<td>524</td>
-		<td>+ 2</td>
+		<td>525</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -318,8 +318,8 @@
 		<td>4532</td>
 		<td>4556</td>
 		<td>4576</td>
-		<td>4590</td>
-		<td>+ 14</td>
+		<td>4591</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>184439</td>
-		<td>547</td>
+		<td>184442</td>
+		<td>550</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>5778</td>
 		<td>5802</td>
 		<td>5821</td>
-		<td>5834</td>
-		<td>+ 13</td>
+		<td>5835</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -707,8 +707,8 @@
 		<td>4532</td>
 		<td>4556</td>
 		<td>4576</td>
-		<td>4590</td>
-		<td>+ 14</td>
+		<td>4591</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -993,8 +993,8 @@
 		<td>519</td>
 		<td>521</td>
 		<td>522</td>
-		<td>524</td>
-		<td>+ 2</td>
+		<td>525</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>184439</td>
-		<td>547</td>
+		<td>184442</td>
+		<td>550</td>
 	</tr>
 </table>
 </sub></sup>
