@@ -219,8 +219,8 @@
 		<td>141</td>
 		<td>143</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>144</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -252,8 +252,8 @@
 		<td>519</td>
 		<td>521</td>
 		<td>522</td>
-		<td>523</td>
-		<td>+ 1</td>
+		<td>524</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -318,8 +318,8 @@
 		<td>4532</td>
 		<td>4556</td>
 		<td>4576</td>
-		<td>4578</td>
-		<td>+ 2</td>
+		<td>4579</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -329,8 +329,8 @@
 		<td>4888</td>
 		<td>4914</td>
 		<td>4935</td>
-		<td>4937</td>
-		<td>+ 2</td>
+		<td>4938</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>183973</td>
-		<td>81</td>
+		<td>183977</td>
+		<td>85</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>4888</td>
 		<td>4914</td>
 		<td>4935</td>
-		<td>4937</td>
-		<td>+ 2</td>
+		<td>4938</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -707,8 +707,8 @@
 		<td>4532</td>
 		<td>4556</td>
 		<td>4576</td>
-		<td>4578</td>
-		<td>+ 2</td>
+		<td>4579</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -993,8 +993,8 @@
 		<td>519</td>
 		<td>521</td>
 		<td>522</td>
-		<td>523</td>
-		<td>+ 1</td>
+		<td>524</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1026,8 +1026,8 @@
 		<td>141</td>
 		<td>143</td>
 		<td>143</td>
-		<td>143</td>
-		<td></td>
+		<td>144</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>183973</td>
-		<td>81</td>
+		<td>183977</td>
+		<td>85</td>
 	</tr>
 </table>
 </sub></sup>
