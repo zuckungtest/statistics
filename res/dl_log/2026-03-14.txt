@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-job.coloring | downloads: 9
+v1.0.3-job.coloring | downloads: 10
 v1.1.13-galactic.capital.investment | downloads: 127
 v1.1.12-galactic.capital.investment | downloads: 372
 v1.0.0-heavy.traffic | downloads: 144
@@ -88,7 +88,7 @@ v1.0.7-human.labels | downloads: 3514
 v1.0.5-show.reputation | downloads: 3063
 v1.0.3-paint.your.ships | downloads: 3728
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 5106
+v1.0.9-bunrodea.missions | downloads: 5107
 v1.0.5-better.starts | downloads: 5035
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
@@ -115,7 +115,7 @@ v1.0.1-outfits.weapon.slot | downloads: 3686
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 4588
+v1.0.1-licenses | downloads: 4589
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -322,7 +322,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 321
-# TOTAL DOWNLOADS: 186479
+# TOTAL DOWNLOADS: 186482
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -333,7 +333,7 @@ automata.in.human.space 4842
 avgi.licenses 232
 better.starts 5582
 boss.loot 5046
-bunrodea.missions 5834
+bunrodea.missions 5835
 captureable.person.ships 4957
 coalition.shopping 5262
 combat.ai 5320
@@ -351,14 +351,14 @@ hai.side.mission.unlocker 3975
 heavy.traffic 144
 highrollers.ltd 3638
 human.labels 3920
-job.coloring 524
+job.coloring 525
 jump.gates 4311
 kestrel.unlocks 4078
 kor.efret.shipyard 4551
 landing.images 4168
 landing.images.android 351
 landing.images.highres 3782
-licenses 4590
+licenses 4591
 mission.helper 4949
 more.arfectas 4420
 more.boarding.missions 4797
