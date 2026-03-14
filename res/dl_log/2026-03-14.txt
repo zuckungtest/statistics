@@ -1,13 +1,13 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.3-job.coloring | downloads: 8
+v1.0.3-job.coloring | downloads: 9
 v1.1.13-galactic.capital.investment | downloads: 116
 v1.1.12-galactic.capital.investment | downloads: 372
-v1.0.0-heavy.traffic | downloads: 143
+v1.0.0-heavy.traffic | downloads: 144
 v1.1.7-hai.side.mission.unlocker | downloads: 687
 v1.1.6-more.boarding.missions | downloads: 851
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 704
-v1.0.10-mission.helper | downloads: 914
+v1.0.10-mission.helper | downloads: 915
 v1.0.8-boss.loot | downloads: 990
 v1.0.7-control.station | downloads: 1054
 v1.0.6-show.reputation | downloads: 829
@@ -115,7 +115,7 @@ v1.0.1-outfits.weapon.slot | downloads: 3675
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 73
-v1.0.1-licenses | downloads: 4576
+v1.0.1-licenses | downloads: 4577
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 94
 v1.0.1-flare.play | downloads: 118
@@ -322,7 +322,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 321
-# TOTAL DOWNLOADS: 186013
+# TOTAL DOWNLOADS: 186017
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -348,18 +348,18 @@ free.worlds.5.years.later 373
 galactic.capital.investment 5532
 gegno.pirates 4794
 hai.side.mission.unlocker 3964
-heavy.traffic 143
+heavy.traffic 144
 highrollers.ltd 3627
 human.labels 3909
-job.coloring 523
+job.coloring 524
 jump.gates 4300
 kestrel.unlocks 4067
 kor.efret.shipyard 4540
 landing.images 4157
 landing.images.android 351
 landing.images.highres 3771
-licenses 4578
-mission.helper 4937
+licenses 4579
+mission.helper 4938
 more.arfectas 4409
 more.boarding.missions 4786
 more.person.ships 3883
