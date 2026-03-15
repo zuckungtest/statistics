@@ -9,7 +9,7 @@ v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 718
 v1.0.10-mission.helper | downloads: 930
 v1.0.8-boss.loot | downloads: 1005
-v1.0.7-control.station | downloads: 1069
+v1.0.7-control.station | downloads: 1070
 v1.0.6-show.reputation | downloads: 844
 v1.0.6-ship.merging | downloads: 834
 v1.0.1-comets | downloads: 146
@@ -67,7 +67,7 @@ v1.0.2-automata.destruction.0percent | downloads: 3870
 v1.0.1-kestrel.unlocks | downloads: 3499
 v1.0.1-disable.person.ships | downloads: 3649
 v1.0.5-landing.images | downloads: 3596
-v1.0.3-landing.images.highres | downloads: 3382
+v1.0.3-landing.images.highres | downloads: 3383
 v1.0.25-additional.command.buttons.radial | downloads: 330
 v1.1.9-galactic.capital.investment | downloads: 959
 v1.0.1-ship.merging | downloads: 274
@@ -89,7 +89,7 @@ v1.0.5-show.reputation | downloads: 3063
 v1.0.3-paint.your.ships | downloads: 3731
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 5112
-v1.0.5-better.starts | downloads: 5039
+v1.0.5-better.starts | downloads: 5040
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -322,7 +322,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 321
-# TOTAL DOWNLOADS: 186629
+# TOTAL DOWNLOADS: 186632
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -331,14 +331,14 @@ additional.command.buttons.radial 5950
 automata.destruction.0percent 5301
 automata.in.human.space 4845
 avgi.licenses 232
-better.starts 5586
+better.starts 5587
 boss.loot 5049
 bunrodea.missions 5840
 captureable.person.ships 4961
 coalition.shopping 5265
 combat.ai 5323
 comets 375
-control.station 5244
+control.station 5245
 devil-run.unhidden 69
 disable.person.ships 4147
 disable.spaceport.repeatables 4410
@@ -357,7 +357,7 @@ kestrel.unlocks 4081
 kor.efret.shipyard 4555
 landing.images 4171
 landing.images.android 351
-landing.images.highres 3785
+landing.images.highres 3786
 licenses 4595
 mission.helper 4953
 more.arfectas 4425
