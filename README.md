@@ -54,8 +54,8 @@
 		<td>5547</td>
 		<td>5568</td>
 		<td>5583</td>
-		<td>5596</td>
-		<td>+ 13</td>
+		<td>5597</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -274,8 +274,8 @@
 		<td>4044</td>
 		<td>4065</td>
 		<td>4079</td>
-		<td>4091</td>
-		<td>+ 12</td>
+		<td>4092</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -461,8 +461,8 @@
 		<td>3707</td>
 		<td>3726</td>
 		<td>3740</td>
-		<td>3751</td>
-		<td>+ 11</td>
+		<td>3752</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>185003</td>
-		<td>501</td>
+		<td>185006</td>
+		<td>504</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>5547</td>
 		<td>5568</td>
 		<td>5583</td>
-		<td>5596</td>
-		<td>+ 13</td>
+		<td>5597</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -850,8 +850,8 @@
 		<td>4044</td>
 		<td>4065</td>
 		<td>4079</td>
-		<td>4091</td>
-		<td>+ 12</td>
+		<td>4092</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -916,8 +916,8 @@
 		<td>3707</td>
 		<td>3726</td>
 		<td>3740</td>
-		<td>3751</td>
-		<td>+ 11</td>
+		<td>3752</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>185003</td>
-		<td>501</td>
+		<td>185006</td>
+		<td>504</td>
 	</tr>
 </table>
 </sub></sup>
