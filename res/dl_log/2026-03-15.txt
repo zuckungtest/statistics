@@ -4,13 +4,13 @@ v1.1.13-galactic.capital.investment | downloads: 142
 v1.1.12-galactic.capital.investment | downloads: 372
 v1.0.0-heavy.traffic | downloads: 144
 v1.1.7-hai.side.mission.unlocker | downloads: 710
-v1.1.6-more.boarding.missions | downloads: 875
+v1.1.6-more.boarding.missions | downloads: 876
 v1.1.6-hai.side.mission.unlocker | downloads: 11
-v1.1.4-space.fauna | downloads: 725
+v1.1.4-space.fauna | downloads: 726
 v1.0.10-mission.helper | downloads: 938
 v1.0.8-boss.loot | downloads: 1014
 v1.0.7-control.station | downloads: 1081
-v1.0.6-show.reputation | downloads: 853
+v1.0.6-show.reputation | downloads: 854
 v1.0.6-ship.merging | downloads: 843
 v1.0.1-comets | downloads: 146
 v1.0.6-gegno.pirates | downloads: 879
@@ -322,7 +322,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 321
-# TOTAL DOWNLOADS: 186986
+# TOTAL DOWNLOADS: 186989
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -361,7 +361,7 @@ landing.images.highres 3794
 licenses 4606
 mission.helper 4961
 more.arfectas 4433
-more.boarding.missions 4810
+more.boarding.missions 4811
 more.person.ships 3906
 navy.licenses 578
 no.more.mereti.mines 3750
@@ -373,9 +373,9 @@ planet.pluto 196
 quarg.farm 4552
 real.fluff 95
 ship.merging 4141
-show.reputation 4480
+show.reputation 4481
 snowfeather.robotics 4235
-space.fauna 3749
+space.fauna 3750
 too.many.asteroids 2576
 tribute.republic 3632
 unique.fix 46
