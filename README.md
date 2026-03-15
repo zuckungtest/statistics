@@ -54,8 +54,8 @@
 		<td>5547</td>
 		<td>5568</td>
 		<td>5583</td>
-		<td>5586</td>
-		<td>+ 3</td>
+		<td>5587</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -131,8 +131,8 @@
 		<td>5207</td>
 		<td>5227</td>
 		<td>5242</td>
-		<td>5244</td>
-		<td>+ 2</td>
+		<td>5245</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -307,8 +307,8 @@
 		<td>3750</td>
 		<td>3769</td>
 		<td>3783</td>
-		<td>3785</td>
-		<td>+ 2</td>
+		<td>3786</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>184589</td>
-		<td>87</td>
+		<td>184592</td>
+		<td>90</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>5547</td>
 		<td>5568</td>
 		<td>5583</td>
-		<td>5586</td>
-		<td>+ 3</td>
+		<td>5587</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -619,8 +619,8 @@
 		<td>5207</td>
 		<td>5227</td>
 		<td>5242</td>
-		<td>5244</td>
-		<td>+ 2</td>
+		<td>5245</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -905,8 +905,8 @@
 		<td>3750</td>
 		<td>3769</td>
 		<td>3783</td>
-		<td>3785</td>
-		<td>+ 2</td>
+		<td>3786</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>184589</td>
-		<td>87</td>
+		<td>184592</td>
+		<td>90</td>
 	</tr>
 </table>
 </sub></sup>
