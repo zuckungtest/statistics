@@ -6,7 +6,7 @@ v1.0.0-heavy.traffic | downloads: 145
 v1.1.7-hai.side.mission.unlocker | downloads: 711
 v1.1.6-more.boarding.missions | downloads: 877
 v1.1.6-hai.side.mission.unlocker | downloads: 11
-v1.1.4-space.fauna | downloads: 727
+v1.1.4-space.fauna | downloads: 728
 v1.0.10-mission.helper | downloads: 939
 v1.0.8-boss.loot | downloads: 1015
 v1.0.7-control.station | downloads: 1082
@@ -64,7 +64,7 @@ v1.0.3-kor.efret.shipyard | downloads: 3763
 v1.0.2-highrollers.ltd | downloads: 3414
 v1.0.2-automata.in.human.space | downloads: 4331
 v1.0.2-automata.destruction.0percent | downloads: 3879
-v1.0.1-kestrel.unlocks | downloads: 3509
+v1.0.1-kestrel.unlocks | downloads: 3510
 v1.0.1-disable.person.ships | downloads: 3658
 v1.0.5-landing.images | downloads: 3606
 v1.0.3-landing.images.highres | downloads: 3392
@@ -89,7 +89,7 @@ v1.0.5-show.reputation | downloads: 3063
 v1.0.3-paint.your.ships | downloads: 3740
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 5124
-v1.0.5-better.starts | downloads: 5049
+v1.0.5-better.starts | downloads: 5050
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
 v1.0.5-mission.helper | downloads: 10
@@ -322,7 +322,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 321
-# TOTAL DOWNLOADS: 187043
+# TOTAL DOWNLOADS: 187046
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -331,7 +331,7 @@ additional.command.buttons.radial 5960
 automata.destruction.0percent 5312
 automata.in.human.space 4855
 avgi.licenses 232
-better.starts 5596
+better.starts 5597
 boss.loot 5059
 bunrodea.missions 5852
 captureable.person.ships 4970
@@ -353,7 +353,7 @@ highrollers.ltd 3651
 human.labels 3933
 job.coloring 529
 jump.gates 4324
-kestrel.unlocks 4091
+kestrel.unlocks 4092
 kor.efret.shipyard 4565
 landing.images 4181
 landing.images.android 351
@@ -375,7 +375,7 @@ real.fluff 95
 ship.merging 4142
 show.reputation 4482
 snowfeather.robotics 4236
-space.fauna 3751
+space.fauna 3752
 too.many.asteroids 2578
 tribute.republic 3633
 unique.fix 46
