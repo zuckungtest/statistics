@@ -76,8 +76,8 @@
 		<td>5802</td>
 		<td>5821</td>
 		<td>5838</td>
-		<td>5846</td>
-		<td>+ 8</td>
+		<td>5847</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -197,8 +197,8 @@
 		<td>4772</td>
 		<td>4791</td>
 		<td>4808</td>
-		<td>4816</td>
-		<td>+ 8</td>
+		<td>4817</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>184835</td>
-		<td>333</td>
+		<td>184837</td>
+		<td>335</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>5802</td>
 		<td>5821</td>
 		<td>5838</td>
-		<td>5846</td>
-		<td>+ 8</td>
+		<td>5847</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -685,8 +685,8 @@
 		<td>4772</td>
 		<td>4791</td>
 		<td>4808</td>
-		<td>4816</td>
-		<td>+ 8</td>
+		<td>4817</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>184835</td>
-		<td>333</td>
+		<td>184837</td>
+		<td>335</td>
 	</tr>
 </table>
 </sub></sup>
