@@ -351,8 +351,8 @@
 		<td>4762</td>
 		<td>4783</td>
 		<td>4798</td>
-		<td>4810</td>
-		<td>+ 12</td>
+		<td>4811</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -439,8 +439,8 @@
 		<td>4434</td>
 		<td>4454</td>
 		<td>4469</td>
-		<td>4480</td>
-		<td>+ 11</td>
+		<td>4481</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -461,8 +461,8 @@
 		<td>3707</td>
 		<td>3726</td>
 		<td>3740</td>
-		<td>3749</td>
-		<td>+ 9</td>
+		<td>3750</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>184946</td>
-		<td>444</td>
+		<td>184949</td>
+		<td>447</td>
 	</tr>
 </table>
 </sub></sup>
@@ -696,8 +696,8 @@
 		<td>4762</td>
 		<td>4783</td>
 		<td>4798</td>
-		<td>4810</td>
-		<td>+ 12</td>
+		<td>4811</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -740,8 +740,8 @@
 		<td>4434</td>
 		<td>4454</td>
 		<td>4469</td>
-		<td>4480</td>
-		<td>+ 11</td>
+		<td>4481</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -909,6 +909,17 @@
 		<td>+ 11</td>
 	</tr>
 	<tr>
+		<td>space.fauna</td>
+		<td>3648</td>
+		<td>3666</td>
+		<td>3686</td>
+		<td>3707</td>
+		<td>3726</td>
+		<td>3740</td>
+		<td>3750</td>
+		<td>+ 10</td>
+	</tr>
+	<tr>
 		<td>no.more.mereti.mines</td>
 		<td>3649</td>
 		<td>3664</td>
@@ -918,17 +929,6 @@
 		<td>3740</td>
 		<td>3750</td>
 		<td>+ 10</td>
-	</tr>
-	<tr>
-		<td>space.fauna</td>
-		<td>3648</td>
-		<td>3666</td>
-		<td>3686</td>
-		<td>3707</td>
-		<td>3726</td>
-		<td>3740</td>
-		<td>3749</td>
-		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>184946</td>
-		<td>444</td>
+		<td>184949</td>
+		<td>447</td>
 	</tr>
 </table>
 </sub></sup>
