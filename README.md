@@ -274,8 +274,8 @@
 		<td>4065</td>
 		<td>4079</td>
 		<td>4094</td>
-		<td>4105</td>
-		<td>+ 11</td>
+		<td>4106</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>185540</td>
-		<td>452</td>
+		<td>185541</td>
+		<td>453</td>
 	</tr>
 </table>
 </sub></sup>
@@ -850,8 +850,8 @@
 		<td>4065</td>
 		<td>4079</td>
 		<td>4094</td>
-		<td>4105</td>
-		<td>+ 11</td>
+		<td>4106</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>185540</td>
-		<td>452</td>
+		<td>185541</td>
+		<td>453</td>
 	</tr>
 </table>
 </sub></sup>
