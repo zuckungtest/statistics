@@ -32,7 +32,7 @@ v1.0.27-additional.command.buttons.radial | downloads: 4260
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2433
 v1.0.2-vague.improvements | downloads: 422
-v1.0.11-combat.ai | downloads: 4267
+v1.0.11-combat.ai | downloads: 4268
 v1.0.10-combat.ai | downloads: 19
 v1.0.9-combat.ai | downloads: 5
 v1.0.1-vague.improvements | downloads: 60
@@ -322,7 +322,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 321
-# TOTAL DOWNLOADS: 189102
+# TOTAL DOWNLOADS: 189103
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -336,7 +336,7 @@ boss.loot 5106
 bunrodea.missions 5904
 captureable.person.ships 5019
 coalition.shopping 5324
-combat.ai 5384
+combat.ai 5385
 comets 392
 control.station 5305
 devil-run.unhidden 69
