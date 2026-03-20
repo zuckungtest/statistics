@@ -54,8 +54,8 @@
 		<td>5630</td>
 		<td>5644</td>
 		<td>5659</td>
-		<td>5673</td>
-		<td>+ 14</td>
+		<td>5674</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -98,8 +98,8 @@
 		<td>5308</td>
 		<td>5322</td>
 		<td>5337</td>
-		<td>5352</td>
-		<td>+ 15</td>
+		<td>5353</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -109,8 +109,8 @@
 		<td>5367</td>
 		<td>5382</td>
 		<td>5397</td>
-		<td>5411</td>
-		<td>+ 14</td>
+		<td>5412</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -131,8 +131,8 @@
 		<td>5289</td>
 		<td>5303</td>
 		<td>5318</td>
-		<td>5331</td>
-		<td>+ 13</td>
+		<td>5332</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>4934</td>
 		<td>4948</td>
 		<td>4963</td>
-		<td>4975</td>
-		<td>+ 12</td>
+		<td>4976</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -186,8 +186,8 @@
 		<td>5592</td>
 		<td>5607</td>
 		<td>5623</td>
-		<td>5636</td>
-		<td>+ 13</td>
+		<td>5637</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>188197</td>
-		<td>564</td>
+		<td>188203</td>
+		<td>570</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>5630</td>
 		<td>5644</td>
 		<td>5659</td>
-		<td>5673</td>
-		<td>+ 14</td>
+		<td>5674</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -575,8 +575,8 @@
 		<td>5592</td>
 		<td>5607</td>
 		<td>5623</td>
-		<td>5636</td>
-		<td>+ 13</td>
+		<td>5637</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -586,8 +586,8 @@
 		<td>5367</td>
 		<td>5382</td>
 		<td>5397</td>
-		<td>5411</td>
-		<td>+ 14</td>
+		<td>5412</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -608,8 +608,8 @@
 		<td>5308</td>
 		<td>5322</td>
 		<td>5337</td>
-		<td>5352</td>
-		<td>+ 15</td>
+		<td>5353</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -619,8 +619,8 @@
 		<td>5289</td>
 		<td>5303</td>
 		<td>5318</td>
-		<td>5331</td>
-		<td>+ 13</td>
+		<td>5332</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -663,8 +663,8 @@
 		<td>4934</td>
 		<td>4948</td>
 		<td>4963</td>
-		<td>4975</td>
-		<td>+ 12</td>
+		<td>4976</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>188197</td>
-		<td>564</td>
+		<td>188203</td>
+		<td>570</td>
 	</tr>
 </table>
 </sub></sup>
