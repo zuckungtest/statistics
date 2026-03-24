@@ -131,8 +131,8 @@
 		<td>5357</td>
 		<td>5377</td>
 		<td>5399</td>
-		<td>5406</td>
-		<td>+ 7</td>
+		<td>5407</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>191318</td>
-		<td>329</td>
+		<td>191319</td>
+		<td>330</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>5357</td>
 		<td>5377</td>
 		<td>5399</td>
-		<td>5406</td>
-		<td>+ 7</td>
+		<td>5407</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>191318</td>
-		<td>329</td>
+		<td>191319</td>
+		<td>330</td>
 	</tr>
 </table>
 </sub></sup>
