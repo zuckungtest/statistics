@@ -10,7 +10,7 @@ v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 868
 v1.0.10-mission.helper | downloads: 1087
 v1.0.8-boss.loot | downloads: 1164
-v1.0.7-control.station | downloads: 1231
+v1.0.7-control.station | downloads: 1232
 v1.0.6-show.reputation | downloads: 994
 v1.0.6-ship.merging | downloads: 985
 v1.0.1-comets | downloads: 258
@@ -323,7 +323,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 322
-# TOTAL DOWNLOADS: 193358
+# TOTAL DOWNLOADS: 193359
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -339,7 +339,7 @@ captureable.person.ships 5116
 coalition.shopping 5428
 combat.ai 5486
 comets 487
-control.station 5406
+control.station 5407
 devil-run.unhidden 69
 disable.person.ships 4297
 disable.spaceport.repeatables 4560
