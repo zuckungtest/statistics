@@ -461,8 +461,8 @@
 		<td>3851</td>
 		<td>3865</td>
 		<td>3885</td>
-		<td>3902</td>
-		<td>+ 17</td>
+		<td>3903</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>191773</td>
-		<td>784</td>
+		<td>191774</td>
+		<td>785</td>
 	</tr>
 </table>
 </sub></sup>
@@ -916,8 +916,8 @@
 		<td>3851</td>
 		<td>3865</td>
 		<td>3885</td>
-		<td>3902</td>
-		<td>+ 17</td>
+		<td>3903</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>191773</td>
-		<td>784</td>
+		<td>191774</td>
+		<td>785</td>
 	</tr>
 </table>
 </sub></sup>
