@@ -7,7 +7,7 @@ v1.0.0-heavy.traffic | downloads: 180
 v1.1.7-hai.side.mission.unlocker | downloads: 863
 v1.1.6-more.boarding.missions | downloads: 1030
 v1.1.6-hai.side.mission.unlocker | downloads: 11
-v1.1.4-space.fauna | downloads: 878
+v1.1.4-space.fauna | downloads: 879
 v1.0.10-mission.helper | downloads: 1098
 v1.0.8-boss.loot | downloads: 1174
 v1.0.7-control.station | downloads: 1242
@@ -323,7 +323,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 322
-# TOTAL DOWNLOADS: 193813
+# TOTAL DOWNLOADS: 193814
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -376,7 +376,7 @@ real.fluff 95
 ship.merging 4293
 show.reputation 4631
 snowfeather.robotics 4388
-space.fauna 3902
+space.fauna 3903
 too.many.asteroids 2726
 tribute.republic 3780
 unique.fix 46
