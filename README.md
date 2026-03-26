@@ -340,8 +340,8 @@
 		<td>4569</td>
 		<td>4588</td>
 		<td>4609</td>
-		<td>4617</td>
-		<td>+ 8</td>
+		<td>4618</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>193252</td>
-		<td>397</td>
+		<td>193253</td>
+		<td>398</td>
 	</tr>
 </table>
 </sub></sup>
@@ -751,8 +751,8 @@
 		<td>4569</td>
 		<td>4588</td>
 		<td>4609</td>
-		<td>4617</td>
-		<td>+ 8</td>
+		<td>4618</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>193252</td>
-		<td>397</td>
+		<td>193253</td>
+		<td>398</td>
 	</tr>
 </table>
 </sub></sup>
