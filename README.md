@@ -76,8 +76,8 @@
 		<td>6015</td>
 		<td>6036</td>
 		<td>6059</td>
-		<td>6076</td>
-		<td>+ 17</td>
+		<td>6077</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -219,8 +219,8 @@
 		<td>275</td>
 		<td>299</td>
 		<td>323</td>
-		<td>340</td>
-		<td>+ 17</td>
+		<td>342</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -417,8 +417,8 @@
 		<td>4710</td>
 		<td>4731</td>
 		<td>4752</td>
-		<td>4768</td>
-		<td>+ 16</td>
+		<td>4769</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>194561</td>
-		<td>743</td>
+		<td>194565</td>
+		<td>747</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>6015</td>
 		<td>6036</td>
 		<td>6059</td>
-		<td>6076</td>
-		<td>+ 17</td>
+		<td>6077</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -729,8 +729,8 @@
 		<td>4710</td>
 		<td>4731</td>
 		<td>4752</td>
-		<td>4768</td>
-		<td>+ 16</td>
+		<td>4769</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -1026,8 +1026,8 @@
 		<td>275</td>
 		<td>299</td>
 		<td>323</td>
-		<td>340</td>
-		<td>+ 17</td>
+		<td>342</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>194561</td>
-		<td>743</td>
+		<td>194565</td>
+		<td>747</td>
 	</tr>
 </table>
 </sub></sup>
