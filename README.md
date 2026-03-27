@@ -296,8 +296,8 @@
 		<td>4334</td>
 		<td>4355</td>
 		<td>4375</td>
-		<td>4384</td>
-		<td>+ 9</td>
+		<td>4385</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>194236</td>
-		<td>418</td>
+		<td>194237</td>
+		<td>419</td>
 	</tr>
 </table>
 </sub></sup>
@@ -817,8 +817,8 @@
 		<td>4334</td>
 		<td>4355</td>
 		<td>4375</td>
-		<td>4384</td>
-		<td>+ 9</td>
+		<td>4385</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>194236</td>
-		<td>418</td>
+		<td>194237</td>
+		<td>419</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1046,7 +1046,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-03-17</td>
 		<td>2026-03-18</td>
 		<td>2026-03-19</td>
 		<td>2026-03-20</td>
@@ -1055,10 +1054,10 @@
 		<td>2026-03-23</td>
 		<td>2026-03-24</td>
 		<td>2026-03-25</td>
+		<td>2026-03-26</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>86</td>
 		<td>91</td>
 		<td>76</td>
 		<td>106</td>
@@ -1067,10 +1066,10 @@
 		<td>102</td>
 		<td>92</td>
 		<td>44</td>
+		<td>113</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>15</td>
 		<td>29</td>
 		<td>27</td>
 		<td>26</td>
@@ -1079,6 +1078,7 @@
 		<td>25</td>
 		<td>24</td>
 		<td>19</td>
+		<td>20</td>
 	</tr>
 </table>
 <br>
@@ -1092,8 +1092,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>18231</td>
-		<td>4505</td>
+		<td>18344</td>
+		<td>4525</td>
 		<td>407</td>
 		<td>47</td>
 	</tr>
@@ -1106,8 +1106,8 @@
 	</tr>
 	<tr>
 		<td>167</td>
-		<td>109.17</td>
-		<td>26.98</td>
+		<td>109.84</td>
+		<td>27.10</td>
 		<td></td>
 		<td></td>
 	</tr>
