@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-heavy.traffic | downloads: 160
+v1.0.1-heavy.traffic | downloads: 162
 v1.0.3-job.coloring | downloads: 204
 v1.1.13-galactic.capital.investment | downloads: 362
 v1.1.12-galactic.capital.investment | downloads: 372
@@ -46,7 +46,7 @@ v1.0.26-additional.command.buttons.radial | downloads: 388
 v1.0.8-mission.helper | downloads: 368
 v1.0.2-boss.loot | downloads: 409
 v1.0.3-flare.play | downloads: 450
-v1.0.6-quarg.farm | downloads: 3767
+v1.0.6-quarg.farm | downloads: 3768
 v1.0.2-ship.merging | downloads: 290
 v1.0.12-uniques | downloads: 223
 v1.0.5-control.station | downloads: 359
@@ -89,7 +89,7 @@ v1.0.7-human.labels | downloads: 3738
 v1.0.5-show.reputation | downloads: 3063
 v1.0.3-paint.your.ships | downloads: 3950
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 5348
+v1.0.9-bunrodea.missions | downloads: 5349
 v1.0.5-better.starts | downloads: 5271
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 65
@@ -323,7 +323,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 322
-# TOTAL DOWNLOADS: 196601
+# TOTAL DOWNLOADS: 196605
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -334,7 +334,7 @@ automata.in.human.space 5070
 avgi.licenses 232
 better.starts 5818
 boss.loot 5279
-bunrodea.missions 6076
+bunrodea.missions 6077
 captureable.person.ships 5187
 coalition.shopping 5502
 combat.ai 5561
@@ -349,7 +349,7 @@ free.worlds.5.years.later 373
 galactic.capital.investment 5780
 gegno.pirates 5043
 hai.side.mission.unlocker 4201
-heavy.traffic 340
+heavy.traffic 342
 highrollers.ltd 3860
 human.labels 4144
 job.coloring 719
@@ -371,7 +371,7 @@ paint.your.ships 4414
 pirate.warlords 5
 planet.map 3763
 planet.pluto 196
-quarg.farm 4768
+quarg.farm 4769
 real.fluff 95
 ship.merging 4354
 show.reputation 4693
