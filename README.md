@@ -472,8 +472,8 @@
 		<td>2797</td>
 		<td>2827</td>
 		<td>2852</td>
-		<td>2869</td>
-		<td>+ 17</td>
+		<td>2870</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>197967</td>
-		<td>674</td>
+		<td>197968</td>
+		<td>675</td>
 	</tr>
 </table>
 </sub></sup>
@@ -982,8 +982,8 @@
 		<td>2797</td>
 		<td>2827</td>
 		<td>2852</td>
-		<td>2869</td>
-		<td>+ 17</td>
+		<td>2870</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>197967</td>
-		<td>674</td>
+		<td>197968</td>
+		<td>675</td>
 	</tr>
 </table>
 </sub></sup>
