@@ -395,8 +395,8 @@
 		<td>4448</td>
 		<td>4474</td>
 		<td>4495</td>
-		<td>4505</td>
-		<td>+ 10</td>
+		<td>4506</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -417,8 +417,8 @@
 		<td>4801</td>
 		<td>4828</td>
 		<td>4848</td>
-		<td>4857</td>
-		<td>+ 9</td>
+		<td>4858</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>198682</td>
-		<td>435</td>
+		<td>198684</td>
+		<td>437</td>
 	</tr>
 </table>
 </sub></sup>
@@ -729,8 +729,8 @@
 		<td>4801</td>
 		<td>4828</td>
 		<td>4848</td>
-		<td>4857</td>
-		<td>+ 9</td>
+		<td>4858</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -806,8 +806,8 @@
 		<td>4448</td>
 		<td>4474</td>
 		<td>4495</td>
-		<td>4505</td>
-		<td>+ 10</td>
+		<td>4506</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>198682</td>
-		<td>435</td>
+		<td>198684</td>
+		<td>437</td>
 	</tr>
 </table>
 </sub></sup>
