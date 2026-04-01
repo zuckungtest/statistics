@@ -76,8 +76,8 @@
 		<td>6137</td>
 		<td>6158</td>
 		<td>6180</td>
-		<td>6188</td>
-		<td>+ 8</td>
+		<td>6189</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -120,8 +120,8 @@
 		<td>622</td>
 		<td>642</td>
 		<td>663</td>
-		<td>671</td>
-		<td>+ 8</td>
+		<td>672</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -131,8 +131,8 @@
 		<td>5547</td>
 		<td>5568</td>
 		<td>5590</td>
-		<td>5598</td>
-		<td>+ 8</td>
+		<td>5599</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -197,8 +197,8 @@
 		<td>5103</td>
 		<td>5124</td>
 		<td>5145</td>
-		<td>5154</td>
-		<td>+ 9</td>
+		<td>5155</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -340,8 +340,8 @@
 		<td>4706</td>
 		<td>4726</td>
 		<td>4745</td>
-		<td>4752</td>
-		<td>+ 7</td>
+		<td>4753</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -362,8 +362,8 @@
 		<td>4180</td>
 		<td>4200</td>
 		<td>4219</td>
-		<td>4226</td>
-		<td>+ 7</td>
+		<td>4227</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -417,8 +417,8 @@
 		<td>4828</td>
 		<td>4848</td>
 		<td>4867</td>
-		<td>4875</td>
-		<td>+ 8</td>
+		<td>4876</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>199482</td>
-		<td>343</td>
+		<td>199489</td>
+		<td>350</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>6137</td>
 		<td>6158</td>
 		<td>6180</td>
-		<td>6188</td>
-		<td>+ 8</td>
+		<td>6189</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -619,8 +619,8 @@
 		<td>5547</td>
 		<td>5568</td>
 		<td>5590</td>
-		<td>5598</td>
-		<td>+ 8</td>
+		<td>5599</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -685,8 +685,8 @@
 		<td>5103</td>
 		<td>5124</td>
 		<td>5145</td>
-		<td>5154</td>
-		<td>+ 9</td>
+		<td>5155</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -729,8 +729,8 @@
 		<td>4828</td>
 		<td>4848</td>
 		<td>4867</td>
-		<td>4875</td>
-		<td>+ 8</td>
+		<td>4876</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -751,8 +751,8 @@
 		<td>4706</td>
 		<td>4726</td>
 		<td>4745</td>
-		<td>4752</td>
-		<td>+ 7</td>
+		<td>4753</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -894,8 +894,8 @@
 		<td>4180</td>
 		<td>4200</td>
 		<td>4219</td>
-		<td>4226</td>
-		<td>+ 7</td>
+		<td>4227</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -1015,8 +1015,8 @@
 		<td>622</td>
 		<td>642</td>
 		<td>663</td>
-		<td>671</td>
-		<td>+ 8</td>
+		<td>672</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>199482</td>
-		<td>343</td>
+		<td>199489</td>
+		<td>350</td>
 	</tr>
 </table>
 </sub></sup>
