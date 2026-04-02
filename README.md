@@ -186,8 +186,8 @@
 		<td>5869</td>
 		<td>5889</td>
 		<td>5912</td>
-		<td>5923</td>
-		<td>+ 11</td>
+		<td>5924</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -197,8 +197,8 @@
 		<td>5124</td>
 		<td>5145</td>
 		<td>5168</td>
-		<td>5178</td>
-		<td>+ 10</td>
+		<td>5179</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -274,8 +274,8 @@
 		<td>4381</td>
 		<td>4400</td>
 		<td>4421</td>
-		<td>4430</td>
-		<td>+ 9</td>
+		<td>4431</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -329,8 +329,8 @@
 		<td>5272</td>
 		<td>5292</td>
 		<td>5315</td>
-		<td>5327</td>
-		<td>+ 12</td>
+		<td>5328</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -428,8 +428,8 @@
 		<td>4437</td>
 		<td>4455</td>
 		<td>4476</td>
-		<td>4486</td>
-		<td>+ 10</td>
+		<td>4487</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>200570</td>
-		<td>453</td>
+		<td>200575</td>
+		<td>458</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>5869</td>
 		<td>5889</td>
 		<td>5912</td>
-		<td>5923</td>
-		<td>+ 11</td>
+		<td>5924</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -641,8 +641,8 @@
 		<td>5272</td>
 		<td>5292</td>
 		<td>5315</td>
-		<td>5327</td>
-		<td>+ 12</td>
+		<td>5328</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -685,8 +685,8 @@
 		<td>5124</td>
 		<td>5145</td>
 		<td>5168</td>
-		<td>5178</td>
-		<td>+ 10</td>
+		<td>5179</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -839,8 +839,8 @@
 		<td>4437</td>
 		<td>4455</td>
 		<td>4476</td>
-		<td>4486</td>
-		<td>+ 10</td>
+		<td>4487</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -850,8 +850,8 @@
 		<td>4381</td>
 		<td>4400</td>
 		<td>4421</td>
-		<td>4430</td>
-		<td>+ 9</td>
+		<td>4431</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>200570</td>
-		<td>453</td>
+		<td>200575</td>
+		<td>458</td>
 	</tr>
 </table>
 </sub></sup>
