@@ -13,7 +13,7 @@ v1.0.8-boss.loot | downloads: 1396
 v1.0.7-control.station | downloads: 1476
 v1.0.6-show.reputation | downloads: 1229
 v1.0.6-ship.merging | downloads: 1220
-v1.0.1-comets | downloads: 491
+v1.0.1-comets | downloads: 492
 v1.0.6-gegno.pirates | downloads: 1263
 v1.0.5-gegno.pirates | downloads: 6
 v1.0.2-job.coloring | downloads: 437
@@ -33,7 +33,7 @@ v1.0.27-additional.command.buttons.radial | downloads: 4584
 v1.0.9-mission.helper | downloads: 2527
 v1.0.5-ship.merging | downloads: 2434
 v1.0.2-vague.improvements | downloads: 742
-v1.0.11-combat.ai | downloads: 4608
+v1.0.11-combat.ai | downloads: 4609
 v1.0.10-combat.ai | downloads: 19
 v1.0.9-combat.ai | downloads: 5
 v1.0.1-vague.improvements | downloads: 60
@@ -323,7 +323,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 322
-# TOTAL DOWNLOADS: 203666
+# TOTAL DOWNLOADS: 203668
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -337,8 +337,8 @@ boss.loot 5440
 bunrodea.missions 6236
 captureable.person.ships 5344
 coalition.shopping 5659
-combat.ai 5725
-comets 720
+combat.ai 5726
+comets 721
 control.station 5651
 devil-run.unhidden 69
 disable.person.ships 4517
