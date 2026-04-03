@@ -109,8 +109,8 @@
 		<td>5667</td>
 		<td>5691</td>
 		<td>5715</td>
-		<td>5725</td>
-		<td>+ 10</td>
+		<td>5726</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -120,8 +120,8 @@
 		<td>663</td>
 		<td>688</td>
 		<td>710</td>
-		<td>720</td>
-		<td>+ 10</td>
+		<td>721</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>201626</td>
-		<td>482</td>
+		<td>201628</td>
+		<td>484</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>5667</td>
 		<td>5691</td>
 		<td>5715</td>
-		<td>5725</td>
-		<td>+ 10</td>
+		<td>5726</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -1015,8 +1015,8 @@
 		<td>663</td>
 		<td>688</td>
 		<td>710</td>
-		<td>720</td>
-		<td>+ 10</td>
+		<td>721</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>201626</td>
-		<td>482</td>
+		<td>201628</td>
+		<td>484</td>
 	</tr>
 </table>
 </sub></sup>
