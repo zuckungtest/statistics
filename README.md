@@ -109,8 +109,8 @@
 		<td>5691</td>
 		<td>5715</td>
 		<td>5741</td>
-		<td>5753</td>
-		<td>+ 12</td>
+		<td>5754</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -164,8 +164,8 @@
 		<td>5246</td>
 		<td>5271</td>
 		<td>5297</td>
-		<td>5310</td>
-		<td>+ 13</td>
+		<td>5311</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -318,8 +318,8 @@
 		<td>4953</td>
 		<td>4978</td>
 		<td>5004</td>
-		<td>5017</td>
-		<td>+ 13</td>
+		<td>5019</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -329,8 +329,8 @@
 		<td>5315</td>
 		<td>5343</td>
 		<td>5371</td>
-		<td>5383</td>
-		<td>+ 12</td>
+		<td>5385</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -417,8 +417,8 @@
 		<td>4889</td>
 		<td>4910</td>
 		<td>4935</td>
-		<td>4947</td>
-		<td>+ 12</td>
+		<td>4948</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>202811</td>
-		<td>520</td>
+		<td>202818</td>
+		<td>527</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>5691</td>
 		<td>5715</td>
 		<td>5741</td>
-		<td>5753</td>
-		<td>+ 12</td>
+		<td>5754</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -641,8 +641,8 @@
 		<td>5315</td>
 		<td>5343</td>
 		<td>5371</td>
-		<td>5383</td>
-		<td>+ 12</td>
+		<td>5385</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -663,8 +663,8 @@
 		<td>5246</td>
 		<td>5271</td>
 		<td>5297</td>
-		<td>5310</td>
-		<td>+ 13</td>
+		<td>5311</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -707,8 +707,8 @@
 		<td>4953</td>
 		<td>4978</td>
 		<td>5004</td>
-		<td>5017</td>
-		<td>+ 13</td>
+		<td>5019</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -729,8 +729,8 @@
 		<td>4889</td>
 		<td>4910</td>
 		<td>4935</td>
-		<td>4947</td>
-		<td>+ 12</td>
+		<td>4948</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>202811</td>
-		<td>520</td>
+		<td>202818</td>
+		<td>527</td>
 	</tr>
 </table>
 </sub></sup>
