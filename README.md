@@ -197,8 +197,8 @@
 		<td>5168</td>
 		<td>5194</td>
 		<td>5219</td>
-		<td>5235</td>
-		<td>+ 16</td>
+		<td>5236</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -208,8 +208,8 @@
 		<td>4320</td>
 		<td>4341</td>
 		<td>4365</td>
-		<td>4381</td>
-		<td>+ 16</td>
+		<td>4382</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>203015</td>
-		<td>724</td>
+		<td>203017</td>
+		<td>726</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>5168</td>
 		<td>5194</td>
 		<td>5219</td>
-		<td>5235</td>
-		<td>+ 16</td>
+		<td>5236</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -872,8 +872,8 @@
 		<td>4320</td>
 		<td>4341</td>
 		<td>4365</td>
-		<td>4381</td>
-		<td>+ 16</td>
+		<td>4382</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>203015</td>
-		<td>724</td>
+		<td>203017</td>
+		<td>726</td>
 	</tr>
 </table>
 </sub></sup>
