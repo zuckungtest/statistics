@@ -21,8 +21,8 @@
 		<td>6348</td>
 		<td>6377</td>
 		<td>6404</td>
-		<td>6412</td>
-		<td>+ 8</td>
+		<td>6413</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -329,8 +329,8 @@
 		<td>5371</td>
 		<td>5400</td>
 		<td>5431</td>
-		<td>5440</td>
-		<td>+ 9</td>
+		<td>5441</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>205156</td>
-		<td>395</td>
+		<td>205158</td>
+		<td>397</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>6348</td>
 		<td>6377</td>
 		<td>6404</td>
-		<td>6412</td>
-		<td>+ 8</td>
+		<td>6413</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -641,8 +641,8 @@
 		<td>5371</td>
 		<td>5400</td>
 		<td>5431</td>
-		<td>5440</td>
-		<td>+ 9</td>
+		<td>5441</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>205156</td>
-		<td>395</td>
+		<td>205158</td>
+		<td>397</td>
 	</tr>
 </table>
 </sub></sup>
