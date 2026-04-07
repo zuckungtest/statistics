@@ -54,8 +54,8 @@
 		<td>6028</td>
 		<td>6056</td>
 		<td>6079</td>
-		<td>6091</td>
-		<td>+ 12</td>
+		<td>6092</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -241,8 +241,8 @@
 		<td>4335</td>
 		<td>4362</td>
 		<td>4384</td>
-		<td>4395</td>
-		<td>+ 11</td>
+		<td>4396</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -329,8 +329,8 @@
 		<td>5400</td>
 		<td>5431</td>
 		<td>5457</td>
-		<td>5468</td>
-		<td>+ 11</td>
+		<td>5469</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -439,8 +439,8 @@
 		<td>4898</td>
 		<td>4926</td>
 		<td>4951</td>
-		<td>4961</td>
-		<td>+ 10</td>
+		<td>4962</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +472,8 @@
 		<td>2991</td>
 		<td>3020</td>
 		<td>3044</td>
-		<td>3055</td>
-		<td>+ 11</td>
+		<td>3056</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -494,8 +494,8 @@
 		<td>4734</td>
 		<td>4761</td>
 		<td>4786</td>
-		<td>4797</td>
-		<td>+ 11</td>
+		<td>4798</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>206344</td>
-		<td>490</td>
+		<td>206350</td>
+		<td>496</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>6028</td>
 		<td>6056</td>
 		<td>6079</td>
-		<td>6091</td>
-		<td>+ 12</td>
+		<td>6092</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -641,8 +641,8 @@
 		<td>5400</td>
 		<td>5431</td>
 		<td>5457</td>
-		<td>5468</td>
-		<td>+ 11</td>
+		<td>5469</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -740,8 +740,8 @@
 		<td>4898</td>
 		<td>4926</td>
 		<td>4951</td>
-		<td>4961</td>
-		<td>+ 10</td>
+		<td>4962</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -784,8 +784,8 @@
 		<td>4734</td>
 		<td>4761</td>
 		<td>4786</td>
-		<td>4797</td>
-		<td>+ 11</td>
+		<td>4798</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -883,8 +883,8 @@
 		<td>4335</td>
 		<td>4362</td>
 		<td>4384</td>
-		<td>4395</td>
-		<td>+ 11</td>
+		<td>4396</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -982,8 +982,8 @@
 		<td>2991</td>
 		<td>3020</td>
 		<td>3044</td>
-		<td>3055</td>
-		<td>+ 11</td>
+		<td>3056</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>206344</td>
-		<td>490</td>
+		<td>206350</td>
+		<td>496</td>
 	</tr>
 </table>
 </sub></sup>
