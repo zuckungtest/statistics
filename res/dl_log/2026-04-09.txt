@@ -47,7 +47,7 @@ v1.0.26-additional.command.buttons.radial | downloads: 388
 v1.0.8-mission.helper | downloads: 368
 v1.0.2-boss.loot | downloads: 409
 v1.0.3-flare.play | downloads: 450
-v1.0.6-quarg.farm | downloads: 4068
+v1.0.6-quarg.farm | downloads: 4069
 v1.0.2-ship.merging | downloads: 290
 v1.0.12-uniques | downloads: 223
 v1.0.5-control.station | downloads: 359
@@ -260,7 +260,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 1455
+v1.0.1-automata.destruction.0percent | downloads: 1456
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -324,13 +324,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 323
-# TOTAL DOWNLOADS: 210381
+# TOTAL DOWNLOADS: 210383
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
 additional.command.buttons.radial 6487
-automata.destruction.0percent 5833
+automata.destruction.0percent 5834
 automata.in.human.space 5371
 avgi.licenses 232
 better.starts 6136
@@ -372,7 +372,7 @@ paint.your.ships 4715
 pirate.warlords 5
 planet.map 4054
 planet.pluto 196
-quarg.farm 5069
+quarg.farm 5070
 real.fluff 95
 ship.merging 4684
 show.reputation 5008
