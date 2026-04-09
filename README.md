@@ -32,8 +32,8 @@
 		<td>5777</td>
 		<td>5800</td>
 		<td>5822</td>
-		<td>5833</td>
-		<td>+ 11</td>
+		<td>5834</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -417,8 +417,8 @@
 		<td>5014</td>
 		<td>5036</td>
 		<td>5058</td>
-		<td>5069</td>
-		<td>+ 11</td>
+		<td>5070</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>208341</td>
-		<td>472</td>
+		<td>208343</td>
+		<td>474</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>5777</td>
 		<td>5800</td>
 		<td>5822</td>
-		<td>5833</td>
-		<td>+ 11</td>
+		<td>5834</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -729,8 +729,8 @@
 		<td>5014</td>
 		<td>5036</td>
 		<td>5058</td>
-		<td>5069</td>
-		<td>+ 11</td>
+		<td>5070</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>208341</td>
-		<td>472</td>
+		<td>208343</td>
+		<td>474</td>
 	</tr>
 </table>
 </sub></sup>
