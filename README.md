@@ -54,8 +54,8 @@
 		<td>6103</td>
 		<td>6124</td>
 		<td>6147</td>
-		<td>6163</td>
-		<td>+ 16</td>
+		<td>6164</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -329,8 +329,8 @@
 		<td>5482</td>
 		<td>5506</td>
 		<td>5531</td>
-		<td>5547</td>
-		<td>+ 16</td>
+		<td>5548</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>209561</td>
-		<td>736</td>
+		<td>209563</td>
+		<td>738</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>6103</td>
 		<td>6124</td>
 		<td>6147</td>
-		<td>6163</td>
-		<td>+ 16</td>
+		<td>6164</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -641,8 +641,8 @@
 		<td>5482</td>
 		<td>5506</td>
 		<td>5531</td>
-		<td>5547</td>
-		<td>+ 16</td>
+		<td>5548</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>209561</td>
-		<td>736</td>
+		<td>209563</td>
+		<td>738</td>
 	</tr>
 </table>
 </sub></sup>
