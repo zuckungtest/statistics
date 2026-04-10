@@ -65,8 +65,8 @@
 		<td>5555</td>
 		<td>5576</td>
 		<td>5599</td>
-		<td>5611</td>
-		<td>+ 12</td>
+		<td>5612</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>5844</td>
 		<td>5866</td>
 		<td>5887</td>
-		<td>5897</td>
-		<td>+ 10</td>
+		<td>5898</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -120,8 +120,8 @@
 		<td>842</td>
 		<td>863</td>
 		<td>883</td>
-		<td>893</td>
-		<td>+ 10</td>
+		<td>894</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -197,8 +197,8 @@
 		<td>5327</td>
 		<td>5349</td>
 		<td>5370</td>
-		<td>5380</td>
-		<td>+ 10</td>
+		<td>5381</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -296,8 +296,8 @@
 		<td>4657</td>
 		<td>4678</td>
 		<td>4698</td>
-		<td>4709</td>
-		<td>+ 11</td>
+		<td>4710</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -318,8 +318,8 @@
 		<td>5113</td>
 		<td>5135</td>
 		<td>5158</td>
-		<td>5168</td>
-		<td>+ 10</td>
+		<td>5169</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -428,8 +428,8 @@
 		<td>4651</td>
 		<td>4673</td>
 		<td>4696</td>
-		<td>4705</td>
-		<td>+ 9</td>
+		<td>4706</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -461,8 +461,8 @@
 		<td>4227</td>
 		<td>4248</td>
 		<td>4268</td>
-		<td>4277</td>
-		<td>+ 9</td>
+		<td>4278</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>209266</td>
-		<td>441</td>
+		<td>209274</td>
+		<td>449</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>5844</td>
 		<td>5866</td>
 		<td>5887</td>
-		<td>5897</td>
-		<td>+ 10</td>
+		<td>5898</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -630,8 +630,8 @@
 		<td>5555</td>
 		<td>5576</td>
 		<td>5599</td>
-		<td>5611</td>
-		<td>+ 12</td>
+		<td>5612</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -685,8 +685,8 @@
 		<td>5327</td>
 		<td>5349</td>
 		<td>5370</td>
-		<td>5380</td>
-		<td>+ 10</td>
+		<td>5381</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -707,8 +707,8 @@
 		<td>5113</td>
 		<td>5135</td>
 		<td>5158</td>
-		<td>5168</td>
-		<td>+ 10</td>
+		<td>5169</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -817,8 +817,8 @@
 		<td>4657</td>
 		<td>4678</td>
 		<td>4698</td>
-		<td>4709</td>
-		<td>+ 11</td>
+		<td>4710</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -828,8 +828,8 @@
 		<td>4651</td>
 		<td>4673</td>
 		<td>4696</td>
-		<td>4705</td>
-		<td>+ 9</td>
+		<td>4706</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -916,8 +916,8 @@
 		<td>4227</td>
 		<td>4248</td>
 		<td>4268</td>
-		<td>4277</td>
-		<td>+ 9</td>
+		<td>4278</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -1015,8 +1015,8 @@
 		<td>842</td>
 		<td>863</td>
 		<td>883</td>
-		<td>893</td>
-		<td>+ 10</td>
+		<td>894</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>209266</td>
-		<td>441</td>
+		<td>209274</td>
+		<td>449</td>
 	</tr>
 </table>
 </sub></sup>
