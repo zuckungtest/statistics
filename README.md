@@ -98,8 +98,8 @@
 		<td>5796</td>
 		<td>5817</td>
 		<td>5840</td>
-		<td>5851</td>
-		<td>+ 11</td>
+		<td>5852</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -186,8 +186,8 @@
 		<td>6104</td>
 		<td>6127</td>
 		<td>6151</td>
-		<td>6163</td>
-		<td>+ 12</td>
+		<td>6164</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -318,8 +318,8 @@
 		<td>5135</td>
 		<td>5158</td>
 		<td>5182</td>
-		<td>5195</td>
-		<td>+ 13</td>
+		<td>5196</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>210420</td>
-		<td>535</td>
+		<td>210423</td>
+		<td>538</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>6104</td>
 		<td>6127</td>
 		<td>6151</td>
-		<td>6163</td>
-		<td>+ 12</td>
+		<td>6164</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -619,8 +619,8 @@
 		<td>5796</td>
 		<td>5817</td>
 		<td>5840</td>
-		<td>5851</td>
-		<td>+ 11</td>
+		<td>5852</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -707,8 +707,8 @@
 		<td>5135</td>
 		<td>5158</td>
 		<td>5182</td>
-		<td>5195</td>
-		<td>+ 13</td>
+		<td>5196</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>210420</td>
-		<td>535</td>
+		<td>210423</td>
+		<td>538</td>
 	</tr>
 </table>
 </sub></sup>
