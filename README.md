@@ -54,8 +54,8 @@
 		<td>6202</td>
 		<td>6228</td>
 		<td>6247</td>
-		<td>6263</td>
-		<td>+ 16</td>
+		<td>6264</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>213873</td>
-		<td>673</td>
+		<td>213874</td>
+		<td>674</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>6202</td>
 		<td>6228</td>
 		<td>6247</td>
-		<td>6263</td>
-		<td>+ 16</td>
+		<td>6264</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>213873</td>
-		<td>673</td>
+		<td>213874</td>
+		<td>674</td>
 	</tr>
 </table>
 </sub></sup>
