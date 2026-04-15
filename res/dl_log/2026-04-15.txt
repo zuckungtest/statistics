@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.12-combat.ai | downloads: 137
+v1.0.12-combat.ai | downloads: 138
 v1.0.4-job.coloring | downloads: 161
 v1.0.1-heavy.traffic | downloads: 656
 v1.0.3-job.coloring | downloads: 538
@@ -31,7 +31,7 @@ v1.1.11-galactic.capital.investment | downloads: 2968
 v1.1.10-galactic.capital.investment | downloads: 109
 v1.0.4-flare.play | downloads: 3442
 v1.0.3-boss.loot | downloads: 932
-v1.0.27-additional.command.buttons.radial | downloads: 4891
+v1.0.27-additional.command.buttons.radial | downloads: 4892
 v1.0.9-mission.helper | downloads: 2529
 v1.0.5-ship.merging | downloads: 2442
 v1.0.2-vague.improvements | downloads: 1033
@@ -325,12 +325,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 324
-# TOTAL DOWNLOADS: 217090
+# TOTAL DOWNLOADS: 217092
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 6640
+additional.command.buttons.radial 6641
 automata.destruction.0percent 5982
 automata.in.human.space 5511
 avgi.licenses 233
@@ -339,7 +339,7 @@ boss.loot 5747
 bunrodea.missions 6538
 captureable.person.ships 5627
 coalition.shopping 5953
-combat.ai 6045
+combat.ai 6046
 comets 1021
 control.station 5957
 devil-run.unhidden 70
