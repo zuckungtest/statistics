@@ -21,8 +21,8 @@
 		<td>6579</td>
 		<td>6598</td>
 		<td>6621</td>
-		<td>6640</td>
-		<td>+ 19</td>
+		<td>6641</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>5972</td>
 		<td>5997</td>
 		<td>6023</td>
-		<td>6045</td>
-		<td>+ 22</td>
+		<td>6046</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>215043</td>
-		<td>828</td>
+		<td>215045</td>
+		<td>830</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>6579</td>
 		<td>6598</td>
 		<td>6621</td>
-		<td>6640</td>
-		<td>+ 19</td>
+		<td>6641</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -586,8 +586,8 @@
 		<td>5972</td>
 		<td>5997</td>
 		<td>6023</td>
-		<td>6045</td>
-		<td>+ 22</td>
+		<td>6046</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>215043</td>
-		<td>828</td>
+		<td>215045</td>
+		<td>830</td>
 	</tr>
 </table>
 </sub></sup>
