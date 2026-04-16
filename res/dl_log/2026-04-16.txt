@@ -1,13 +1,13 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.12-combat.ai | downloads: 153
 v1.0.4-job.coloring | downloads: 173
-v1.0.1-heavy.traffic | downloads: 670
+v1.0.1-heavy.traffic | downloads: 671
 v1.0.3-job.coloring | downloads: 539
 v1.1.13-galactic.capital.investment | downloads: 869
 v1.1.12-galactic.capital.investment | downloads: 373
 v1.0.0-heavy.traffic | downloads: 181
 v1.1.7-hai.side.mission.unlocker | downloads: 1376
-v1.1.6-more.boarding.missions | downloads: 1565
+v1.1.6-more.boarding.missions | downloads: 1566
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 1391
 v1.0.10-mission.helper | downloads: 1669
@@ -325,7 +325,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 324
-# TOTAL DOWNLOADS: 217704
+# TOTAL DOWNLOADS: 217706
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -351,7 +351,7 @@ free.worlds.5.years.later 374
 galactic.capital.investment 6289
 gegno.pirates 5528
 hai.side.mission.unlocker 4655
-heavy.traffic 851
+heavy.traffic 852
 highrollers.ltd 4314
 human.labels 4596
 job.coloring 1227
@@ -364,7 +364,7 @@ landing.images.highres 4457
 licenses 5319
 mission.helper 5695
 more.arfectas 5102
-more.boarding.missions 5500
+more.boarding.missions 5501
 more.person.ships 4572
 navy.licenses 579
 no.more.mereti.mines 4396
