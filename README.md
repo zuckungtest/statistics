@@ -219,8 +219,8 @@
 		<td>792</td>
 		<td>818</td>
 		<td>838</td>
-		<td>851</td>
-		<td>+ 13</td>
+		<td>852</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -351,8 +351,8 @@
 		<td>5445</td>
 		<td>5467</td>
 		<td>5486</td>
-		<td>5500</td>
-		<td>+ 14</td>
+		<td>5501</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>215657</td>
-		<td>563</td>
+		<td>215659</td>
+		<td>565</td>
 	</tr>
 </table>
 </sub></sup>
@@ -696,8 +696,8 @@
 		<td>5445</td>
 		<td>5467</td>
 		<td>5486</td>
-		<td>5500</td>
-		<td>+ 14</td>
+		<td>5501</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -1026,8 +1026,8 @@
 		<td>792</td>
 		<td>818</td>
 		<td>838</td>
-		<td>851</td>
-		<td>+ 13</td>
+		<td>852</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>215657</td>
-		<td>563</td>
+		<td>215659</td>
+		<td>565</td>
 	</tr>
 </table>
 </sub></sup>
