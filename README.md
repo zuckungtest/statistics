@@ -351,8 +351,8 @@
 		<td>5467</td>
 		<td>5486</td>
 		<td>5509</td>
-		<td>5522</td>
-		<td>+ 13</td>
+		<td>5523</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>216586</td>
-		<td>590</td>
+		<td>216587</td>
+		<td>591</td>
 	</tr>
 </table>
 </sub></sup>
@@ -696,8 +696,8 @@
 		<td>5467</td>
 		<td>5486</td>
 		<td>5509</td>
-		<td>5522</td>
-		<td>+ 13</td>
+		<td>5523</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>216586</td>
-		<td>590</td>
+		<td>216587</td>
+		<td>591</td>
 	</tr>
 </table>
 </sub></sup>
