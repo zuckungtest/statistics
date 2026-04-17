@@ -7,7 +7,7 @@ v1.1.13-galactic.capital.investment | downloads: 892
 v1.1.12-galactic.capital.investment | downloads: 373
 v1.0.0-heavy.traffic | downloads: 181
 v1.1.7-hai.side.mission.unlocker | downloads: 1397
-v1.1.6-more.boarding.missions | downloads: 1587
+v1.1.6-more.boarding.missions | downloads: 1588
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 1411
 v1.0.10-mission.helper | downloads: 1692
@@ -325,7 +325,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 324
-# TOTAL DOWNLOADS: 218633
+# TOTAL DOWNLOADS: 218634
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -364,7 +364,7 @@ landing.images.highres 4477
 licenses 5340
 mission.helper 5718
 more.arfectas 5121
-more.boarding.missions 5522
+more.boarding.missions 5523
 more.person.ships 4592
 navy.licenses 579
 no.more.mereti.mines 4415
