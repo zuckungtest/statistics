@@ -109,8 +109,8 @@
 		<td>6071</td>
 		<td>6092</td>
 		<td>6118</td>
-		<td>6126</td>
-		<td>+ 8</td>
+		<td>6127</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>218412</td>
-		<td>338</td>
+		<td>218413</td>
+		<td>339</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>6071</td>
 		<td>6092</td>
 		<td>6118</td>
-		<td>6126</td>
-		<td>+ 8</td>
+		<td>6127</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>218412</td>
-		<td>338</td>
+		<td>218413</td>
+		<td>339</td>
 	</tr>
 </table>
 </sub></sup>
