@@ -65,8 +65,8 @@
 		<td>5816</td>
 		<td>5840</td>
 		<td>5862</td>
-		<td>5877</td>
-		<td>+ 15</td>
+		<td>5878</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -252,8 +252,8 @@
 		<td>1283</td>
 		<td>1307</td>
 		<td>1329</td>
-		<td>1336</td>
-		<td>+ 7</td>
+		<td>1337</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -395,8 +395,8 @@
 		<td>4926</td>
 		<td>4950</td>
 		<td>4968</td>
-		<td>4973</td>
-		<td>+ 5</td>
+		<td>4974</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -505,8 +505,8 @@
 		<td>1185</td>
 		<td>1209</td>
 		<td>1227</td>
-		<td>1232</td>
-		<td>+ 5</td>
+		<td>1233</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>220395</td>
-		<td>404</td>
+		<td>220399</td>
+		<td>408</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>5816</td>
 		<td>5840</td>
 		<td>5862</td>
-		<td>5877</td>
-		<td>+ 15</td>
+		<td>5878</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -806,8 +806,8 @@
 		<td>4926</td>
 		<td>4950</td>
 		<td>4968</td>
-		<td>4973</td>
-		<td>+ 5</td>
+		<td>4974</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -993,8 +993,8 @@
 		<td>1283</td>
 		<td>1307</td>
 		<td>1329</td>
-		<td>1336</td>
-		<td>+ 7</td>
+		<td>1337</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1004,8 +1004,8 @@
 		<td>1185</td>
 		<td>1209</td>
 		<td>1227</td>
-		<td>1232</td>
-		<td>+ 5</td>
+		<td>1233</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>220395</td>
-		<td>404</td>
+		<td>220399</td>
+		<td>408</td>
 	</tr>
 </table>
 </sub></sup>
