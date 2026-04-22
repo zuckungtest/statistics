@@ -63,7 +63,7 @@ v1.0.4-jump.gates | downloads: 4473
 v1.0.4-gegno.pirates | downloads: 3054
 v1.0.3-tribute.republic | downloads: 3984
 v1.0.3-more.arfectas | downloads: 3671
-v1.0.3-kor.efret.shipyard | downloads: 4540
+v1.0.3-kor.efret.shipyard | downloads: 4541
 v1.0.2-highrollers.ltd | downloads: 4182
 v1.0.2-automata.in.human.space | downloads: 5130
 v1.0.2-automata.destruction.0percent | downloads: 4647
@@ -325,7 +325,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 324
-# TOTAL DOWNLOADS: 222865
+# TOTAL DOWNLOADS: 222866
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -357,7 +357,7 @@ human.labels 4701
 job.coloring 1345
 jump.gates 5116
 kestrel.unlocks 4860
-kor.efret.shipyard 5342
+kor.efret.shipyard 5343
 landing.images 4961
 landing.images.android 351
 landing.images.highres 4560
