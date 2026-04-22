@@ -285,8 +285,8 @@
 		<td>5315</td>
 		<td>5331</td>
 		<td>5338</td>
-		<td>5342</td>
-		<td>+ 4</td>
+		<td>5343</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>220818</td>
-		<td>273</td>
+		<td>220819</td>
+		<td>274</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>5315</td>
 		<td>5331</td>
 		<td>5338</td>
-		<td>5342</td>
-		<td>+ 4</td>
+		<td>5343</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>220818</td>
-		<td>273</td>
+		<td>220819</td>
+		<td>274</td>
 	</tr>
 </table>
 </sub></sup>
