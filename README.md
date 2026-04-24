@@ -230,8 +230,8 @@
 		<td>4415</td>
 		<td>4423</td>
 		<td>4435</td>
-		<td>4441</td>
-		<td>+ 6</td>
+		<td>4442</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -395,8 +395,8 @@
 		<td>4976</td>
 		<td>4984</td>
 		<td>4995</td>
-		<td>5003</td>
-		<td>+ 8</td>
+		<td>5004</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>222275</td>
-		<td>452</td>
+		<td>222277</td>
+		<td>454</td>
 	</tr>
 </table>
 </sub></sup>
@@ -817,8 +817,8 @@
 		<td>4976</td>
 		<td>4984</td>
 		<td>4995</td>
-		<td>5003</td>
-		<td>+ 8</td>
+		<td>5004</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -938,8 +938,8 @@
 		<td>4415</td>
 		<td>4423</td>
 		<td>4435</td>
-		<td>4441</td>
-		<td>+ 6</td>
+		<td>4442</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>222275</td>
-		<td>452</td>
+		<td>222277</td>
+		<td>454</td>
 	</tr>
 </table>
 </sub></sup>
