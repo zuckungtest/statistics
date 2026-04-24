@@ -64,7 +64,7 @@ v1.0.4-gegno.pirates | downloads: 3054
 v1.0.3-tribute.republic | downloads: 4007
 v1.0.3-more.arfectas | downloads: 3692
 v1.0.3-kor.efret.shipyard | downloads: 4565
-v1.0.2-highrollers.ltd | downloads: 4204
+v1.0.2-highrollers.ltd | downloads: 4205
 v1.0.2-automata.in.human.space | downloads: 5181
 v1.0.2-automata.destruction.0percent | downloads: 4695
 v1.0.1-kestrel.unlocks | downloads: 4303
@@ -89,7 +89,7 @@ v1.0.10-uniques | downloads: 95
 v1.0.8-expert.crew.members | downloads: 20
 v1.0.7-human.labels | downloads: 4318
 v1.0.5-show.reputation | downloads: 3064
-v1.0.3-paint.your.ships | downloads: 4539
+v1.0.3-paint.your.ships | downloads: 4540
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 6013
 v1.0.5-better.starts | downloads: 5935
@@ -325,7 +325,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 324
-# TOTAL DOWNLOADS: 224322
+# TOTAL DOWNLOADS: 224324
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -352,7 +352,7 @@ galactic.capital.investment 6446
 gegno.pirates 5666
 hai.side.mission.unlocker 4787
 heavy.traffic 988
-highrollers.ltd 4441
+highrollers.ltd 4442
 human.labels 4724
 job.coloring 1370
 jump.gates 5139
@@ -369,7 +369,7 @@ more.person.ships 4698
 navy.licenses 579
 no.more.mereti.mines 4520
 outfits.weapon.slot 4878
-paint.your.ships 5003
+paint.your.ships 5004
 pirate.warlords 6
 planet.map 4327
 planet.pluto 197
