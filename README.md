@@ -296,8 +296,8 @@
 		<td>4967</td>
 		<td>4978</td>
 		<td>4988</td>
-		<td>4999</td>
-		<td>+ 11</td>
+		<td>5000</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -318,8 +318,8 @@
 		<td>5438</td>
 		<td>5451</td>
 		<td>5464</td>
-		<td>5475</td>
-		<td>+ 11</td>
+		<td>5476</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -351,8 +351,8 @@
 		<td>5619</td>
 		<td>5630</td>
 		<td>5641</td>
-		<td>5653</td>
-		<td>+ 12</td>
+		<td>5654</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>223149</td>
-		<td>670</td>
+		<td>223152</td>
+		<td>673</td>
 	</tr>
 </table>
 </sub></sup>
@@ -696,8 +696,8 @@
 		<td>5619</td>
 		<td>5630</td>
 		<td>5641</td>
-		<td>5653</td>
-		<td>+ 12</td>
+		<td>5654</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -707,8 +707,8 @@
 		<td>5438</td>
 		<td>5451</td>
 		<td>5464</td>
-		<td>5475</td>
-		<td>+ 11</td>
+		<td>5476</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -828,8 +828,8 @@
 		<td>4967</td>
 		<td>4978</td>
 		<td>4988</td>
-		<td>4999</td>
-		<td>+ 11</td>
+		<td>5000</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>223149</td>
-		<td>670</td>
+		<td>223152</td>
+		<td>673</td>
 	</tr>
 </table>
 </sub></sup>
