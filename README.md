@@ -109,8 +109,8 @@
 		<td>6219</td>
 		<td>6241</td>
 		<td>6265</td>
-		<td>6297</td>
-		<td>+ 32</td>
+		<td>6298</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -164,8 +164,8 @@
 		<td>5721</td>
 		<td>5734</td>
 		<td>5746</td>
-		<td>5761</td>
-		<td>+ 15</td>
+		<td>5762</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -252,8 +252,8 @@
 		<td>1351</td>
 		<td>1362</td>
 		<td>1373</td>
-		<td>1385</td>
-		<td>+ 12</td>
+		<td>1386</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -329,8 +329,8 @@
 		<td>5824</td>
 		<td>5836</td>
 		<td>5848</td>
-		<td>5862</td>
-		<td>+ 14</td>
+		<td>5863</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -494,8 +494,8 @@
 		<td>5113</td>
 		<td>5124</td>
 		<td>5135</td>
-		<td>5149</td>
-		<td>+ 14</td>
+		<td>5150</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>223152</td>
-		<td>673</td>
+		<td>223157</td>
+		<td>678</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>6219</td>
 		<td>6241</td>
 		<td>6265</td>
-		<td>6297</td>
-		<td>+ 32</td>
+		<td>6298</td>
+		<td>+ 33</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -641,8 +641,8 @@
 		<td>5824</td>
 		<td>5836</td>
 		<td>5848</td>
-		<td>5862</td>
-		<td>+ 14</td>
+		<td>5863</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -663,8 +663,8 @@
 		<td>5721</td>
 		<td>5734</td>
 		<td>5746</td>
-		<td>5761</td>
-		<td>+ 15</td>
+		<td>5762</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -784,8 +784,8 @@
 		<td>5113</td>
 		<td>5124</td>
 		<td>5135</td>
-		<td>5149</td>
-		<td>+ 14</td>
+		<td>5150</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -993,8 +993,8 @@
 		<td>1351</td>
 		<td>1362</td>
 		<td>1373</td>
-		<td>1385</td>
-		<td>+ 12</td>
+		<td>1386</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>223152</td>
-		<td>673</td>
+		<td>223157</td>
+		<td>678</td>
 	</tr>
 </table>
 </sub></sup>
