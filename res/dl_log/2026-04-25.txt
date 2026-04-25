@@ -7,7 +7,7 @@ v1.1.13-galactic.capital.investment | downloads: 1038
 v1.1.12-galactic.capital.investment | downloads: 374
 v1.0.0-heavy.traffic | downloads: 181
 v1.1.7-hai.side.mission.unlocker | downloads: 1522
-v1.1.6-more.boarding.missions | downloads: 1718
+v1.1.6-more.boarding.missions | downloads: 1719
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 1529
 v1.0.10-mission.helper | downloads: 1833
@@ -69,7 +69,7 @@ v1.0.2-automata.in.human.space | downloads: 5211
 v1.0.2-automata.destruction.0percent | downloads: 4722
 v1.0.1-kestrel.unlocks | downloads: 4319
 v1.0.1-disable.person.ships | downloads: 4488
-v1.0.5-landing.images | downloads: 4424
+v1.0.5-landing.images | downloads: 4425
 v1.0.3-landing.images.highres | downloads: 4192
 v1.0.25-additional.command.buttons.radial | downloads: 330
 v1.1.9-galactic.capital.investment | downloads: 959
@@ -118,7 +118,7 @@ v1.0.1-outfits.weapon.slot | downloads: 4514
 v1.0.2-combat.ai | downloads: 45
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 74
-v1.0.1-licenses | downloads: 5473
+v1.0.1-licenses | downloads: 5474
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 95
 v1.0.1-flare.play | downloads: 118
@@ -325,7 +325,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 324
-# TOTAL DOWNLOADS: 225196
+# TOTAL DOWNLOADS: 225199
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -358,13 +358,13 @@ job.coloring 1385
 jump.gates 5152
 kestrel.unlocks 4901
 kor.efret.shipyard 5381
-landing.images 4999
+landing.images 5000
 landing.images.android 351
 landing.images.highres 4595
-licenses 5475
+licenses 5476
 mission.helper 5862
 more.arfectas 5244
-more.boarding.missions 5653
+more.boarding.missions 5654
 more.person.ships 4713
 navy.licenses 579
 no.more.mereti.mines 4532
