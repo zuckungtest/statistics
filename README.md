@@ -21,8 +21,8 @@
 		<td>6822</td>
 		<td>6846</td>
 		<td>6870</td>
-		<td>6888</td>
-		<td>+ 18</td>
+		<td>6889</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>6465</td>
 		<td>6491</td>
 		<td>6519</td>
-		<td>6540</td>
-		<td>+ 21</td>
+		<td>6541</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -329,8 +329,8 @@
 		<td>5836</td>
 		<td>5848</td>
 		<td>5864</td>
-		<td>5876</td>
-		<td>+ 12</td>
+		<td>5878</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>223836</td>
-		<td>599</td>
+		<td>223840</td>
+		<td>603</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>6822</td>
 		<td>6846</td>
 		<td>6870</td>
-		<td>6888</td>
-		<td>+ 18</td>
+		<td>6889</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -564,8 +564,8 @@
 		<td>6465</td>
 		<td>6491</td>
 		<td>6519</td>
-		<td>6540</td>
-		<td>+ 21</td>
+		<td>6541</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -641,8 +641,8 @@
 		<td>5836</td>
 		<td>5848</td>
 		<td>5864</td>
-		<td>5876</td>
-		<td>+ 12</td>
+		<td>5878</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>223836</td>
-		<td>599</td>
+		<td>223840</td>
+		<td>603</td>
 	</tr>
 </table>
 </sub></sup>
