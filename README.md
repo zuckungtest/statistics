@@ -43,8 +43,8 @@
 		<td>5690</td>
 		<td>5712</td>
 		<td>5738</td>
-		<td>5744</td>
-		<td>+ 6</td>
+		<td>5745</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>6725</td>
 		<td>6748</td>
 		<td>6775</td>
-		<td>6783</td>
-		<td>+ 8</td>
+		<td>6785</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -285,8 +285,8 @@
 		<td>5359</td>
 		<td>5371</td>
 		<td>5383</td>
-		<td>5388</td>
-		<td>+ 5</td>
+		<td>5390</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -428,8 +428,8 @@
 		<td>4999</td>
 		<td>5011</td>
 		<td>5023</td>
-		<td>5027</td>
-		<td>+ 4</td>
+		<td>5028</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -439,8 +439,8 @@
 		<td>5310</td>
 		<td>5321</td>
 		<td>5332</td>
-		<td>5337</td>
-		<td>+ 5</td>
+		<td>5339</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>223482</td>
-		<td>245</td>
+		<td>223490</td>
+		<td>253</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>6725</td>
 		<td>6748</td>
 		<td>6775</td>
-		<td>6783</td>
-		<td>+ 8</td>
+		<td>6785</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -674,8 +674,8 @@
 		<td>5690</td>
 		<td>5712</td>
 		<td>5738</td>
-		<td>5744</td>
-		<td>+ 6</td>
+		<td>5745</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -718,8 +718,8 @@
 		<td>5359</td>
 		<td>5371</td>
 		<td>5383</td>
-		<td>5388</td>
-		<td>+ 5</td>
+		<td>5390</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -740,8 +740,8 @@
 		<td>5310</td>
 		<td>5321</td>
 		<td>5332</td>
-		<td>5337</td>
-		<td>+ 5</td>
+		<td>5339</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -806,8 +806,8 @@
 		<td>4999</td>
 		<td>5011</td>
 		<td>5023</td>
-		<td>5027</td>
-		<td>+ 4</td>
+		<td>5028</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>223482</td>
-		<td>245</td>
+		<td>223490</td>
+		<td>253</td>
 	</tr>
 </table>
 </sub></sup>
