@@ -13,8 +13,8 @@ v1.1.4-space.fauna | downloads: 1534
 v1.0.10-mission.helper | downloads: 1839
 v1.0.8-boss.loot | downloads: 1937
 v1.0.7-control.station | downloads: 2028
-v1.0.6-show.reputation | downloads: 1708
-v1.0.6-ship.merging | downloads: 1717
+v1.0.6-show.reputation | downloads: 1710
+v1.0.6-ship.merging | downloads: 1718
 v1.0.1-comets | downloads: 1026
 v1.0.6-gegno.pirates | downloads: 1744
 v1.0.5-gegno.pirates | downloads: 8
@@ -63,9 +63,9 @@ v1.0.4-jump.gates | downloads: 4514
 v1.0.4-gegno.pirates | downloads: 3054
 v1.0.3-tribute.republic | downloads: 4026
 v1.0.3-more.arfectas | downloads: 3707
-v1.0.3-kor.efret.shipyard | downloads: 4586
+v1.0.3-kor.efret.shipyard | downloads: 4588
 v1.0.2-highrollers.ltd | downloads: 4223
-v1.0.2-automata.in.human.space | downloads: 5220
+v1.0.2-automata.in.human.space | downloads: 5221
 v1.0.2-automata.destruction.0percent | downloads: 4730
 v1.0.1-kestrel.unlocks | downloads: 4324
 v1.0.1-disable.person.ships | downloads: 4496
@@ -91,7 +91,7 @@ v1.0.7-human.labels | downloads: 4340
 v1.0.5-show.reputation | downloads: 3064
 v1.0.3-paint.your.ships | downloads: 4561
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 6055
+v1.0.9-bunrodea.missions | downloads: 6057
 v1.0.5-better.starts | downloads: 5979
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
@@ -325,18 +325,18 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 324
-# TOTAL DOWNLOADS: 225529
+# TOTAL DOWNLOADS: 225537
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
 additional.command.buttons.radial 6877
 automata.destruction.0percent 6215
-automata.in.human.space 5744
+automata.in.human.space 5745
 avgi.licenses 233
 better.starts 6526
 boss.loot 5985
-bunrodea.missions 6783
+bunrodea.missions 6785
 captureable.person.ships 5863
 coalition.shopping 6193
 combat.ai 6309
@@ -357,7 +357,7 @@ human.labels 4746
 job.coloring 1394
 jump.gates 5157
 kestrel.unlocks 4906
-kor.efret.shipyard 5388
+kor.efret.shipyard 5390
 landing.images 5009
 landing.images.android 351
 landing.images.highres 4601
@@ -375,8 +375,8 @@ planet.map 4346
 planet.pluto 197
 quarg.farm 5372
 real.fluff 96
-ship.merging 5027
-show.reputation 5337
+ship.merging 5028
+show.reputation 5339
 snowfeather.robotics 5063
 space.fauna 4558
 too.many.asteroids 3424
