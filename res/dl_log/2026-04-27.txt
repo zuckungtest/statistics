@@ -10,7 +10,7 @@ v1.1.7-hai.side.mission.unlocker | downloads: 1543
 v1.1.6-more.boarding.missions | downloads: 1746
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 1550
-v1.0.10-mission.helper | downloads: 1868
+v1.0.10-mission.helper | downloads: 1869
 v1.0.8-boss.loot | downloads: 1973
 v1.0.7-control.station | downloads: 2066
 v1.0.6-show.reputation | downloads: 1727
@@ -325,7 +325,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 324
-# TOTAL DOWNLOADS: 226616
+# TOTAL DOWNLOADS: 226617
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -362,7 +362,7 @@ landing.images 5025
 landing.images.android 351
 landing.images.highres 4617
 licenses 5505
-mission.helper 5898
+mission.helper 5899
 more.arfectas 5265
 more.boarding.missions 5681
 more.person.ships 4733
