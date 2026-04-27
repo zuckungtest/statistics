@@ -329,8 +329,8 @@
 		<td>5848</td>
 		<td>5864</td>
 		<td>5879</td>
-		<td>5898</td>
-		<td>+ 19</td>
+		<td>5899</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>224569</td>
-		<td>681</td>
+		<td>224570</td>
+		<td>682</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>5848</td>
 		<td>5864</td>
 		<td>5879</td>
-		<td>5898</td>
-		<td>+ 19</td>
+		<td>5899</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>224569</td>
-		<td>681</td>
+		<td>224570</td>
+		<td>682</td>
 	</tr>
 </table>
 </sub></sup>
