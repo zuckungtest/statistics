@@ -3,7 +3,7 @@ v1.1.11-captureable.person.ships | downloads: 37
 v1.0.14-uniques | downloads: 12
 v1.0.11-mission.helper | downloads: 21
 v1.0.10-expert.crew.members | downloads: 16
-v1.0.8-control.station | downloads: 50
+v1.0.8-control.station | downloads: 51
 v1.0.7-ship.merging | downloads: 20
 v1.0.3-vague.improvements | downloads: 6
 v1.0.12-combat.ai | downloads: 453
@@ -14,10 +14,10 @@ v1.1.13-galactic.capital.investment | downloads: 1120
 v1.1.12-galactic.capital.investment | downloads: 374
 v1.0.0-heavy.traffic | downloads: 181
 v1.1.7-hai.side.mission.unlocker | downloads: 1577
-v1.1.6-more.boarding.missions | downloads: 1785
+v1.1.6-more.boarding.missions | downloads: 1786
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 1583
-v1.0.10-mission.helper | downloads: 1897
+v1.0.10-mission.helper | downloads: 1898
 v1.0.8-boss.loot | downloads: 2038
 v1.0.7-control.station | downloads: 2093
 v1.0.6-show.reputation | downloads: 1766
@@ -332,7 +332,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 331
-# TOTAL DOWNLOADS: 228696
+# TOTAL DOWNLOADS: 228699
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -348,7 +348,7 @@ captureable.person.ships 5961
 coalition.shopping 6298
 combat.ai 6419
 comets 1353
-control.station 6320
+control.station 6321
 devil-run.unhidden 70
 disable.person.ships 5098
 disable.spaceport.repeatables 5383
@@ -369,9 +369,9 @@ landing.images 5061
 landing.images.android 351
 landing.images.highres 4649
 licenses 5553
-mission.helper 5948
+mission.helper 5949
 more.arfectas 5307
-more.boarding.missions 5720
+more.boarding.missions 5721
 more.person.ships 4772
 navy.licenses 579
 no.more.mereti.mines 4586
