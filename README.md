@@ -131,8 +131,8 @@
 		<td>6243</td>
 		<td>6271</td>
 		<td>6294</td>
-		<td>6320</td>
-		<td>+ 26</td>
+		<td>6321</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -329,8 +329,8 @@
 		<td>5899</td>
 		<td>5921</td>
 		<td>5935</td>
-		<td>5948</td>
-		<td>+ 13</td>
+		<td>5949</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -351,8 +351,8 @@
 		<td>5681</td>
 		<td>5698</td>
 		<td>5707</td>
-		<td>5720</td>
-		<td>+ 13</td>
+		<td>5721</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>226649</td>
-		<td>604</td>
+		<td>226652</td>
+		<td>607</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>6243</td>
 		<td>6271</td>
 		<td>6294</td>
-		<td>6320</td>
-		<td>+ 26</td>
+		<td>6321</td>
+		<td>+ 27</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -652,8 +652,8 @@
 		<td>5899</td>
 		<td>5921</td>
 		<td>5935</td>
-		<td>5948</td>
-		<td>+ 13</td>
+		<td>5949</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -696,8 +696,8 @@
 		<td>5681</td>
 		<td>5698</td>
 		<td>5707</td>
-		<td>5720</td>
-		<td>+ 13</td>
+		<td>5721</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>226649</td>
-		<td>604</td>
+		<td>226652</td>
+		<td>607</td>
 	</tr>
 </table>
 </sub></sup>
