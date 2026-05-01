@@ -10,7 +10,7 @@ v1.0.12-combat.ai | downloads: 473
 v1.0.4-job.coloring | downloads: 356
 v1.0.1-heavy.traffic | downloads: 904
 v1.0.3-job.coloring | downloads: 598
-v1.1.13-galactic.capital.investment | downloads: 1132
+v1.1.13-galactic.capital.investment | downloads: 1133
 v1.1.12-galactic.capital.investment | downloads: 374
 v1.0.0-heavy.traffic | downloads: 181
 v1.1.7-hai.side.mission.unlocker | downloads: 1586
@@ -332,7 +332,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 331
-# TOTAL DOWNLOADS: 229329
+# TOTAL DOWNLOADS: 229330
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -355,7 +355,7 @@ disable.spaceport.repeatables 5405
 expert.crew.members 5848
 flare.play 4457
 free.worlds.5.years.later 374
-galactic.capital.investment 6556
+galactic.capital.investment 6557
 gegno.pirates 5764
 hai.side.mission.unlocker 4865
 heavy.traffic 1085
