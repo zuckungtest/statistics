@@ -109,8 +109,8 @@
 		<td>6397</td>
 		<td>6420</td>
 		<td>6446</td>
-		<td>6464</td>
-		<td>+ 18</td>
+		<td>6465</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>227795</td>
-		<td>479</td>
+		<td>227796</td>
+		<td>480</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>6397</td>
 		<td>6420</td>
 		<td>6446</td>
-		<td>6464</td>
-		<td>+ 18</td>
+		<td>6465</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>227795</td>
-		<td>479</td>
+		<td>227796</td>
+		<td>480</td>
 	</tr>
 </table>
 </sub></sup>
