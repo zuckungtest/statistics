@@ -32,8 +32,8 @@
 		<td>6295</td>
 		<td>6314</td>
 		<td>6334</td>
-		<td>6355</td>
-		<td>+ 21</td>
+		<td>6356</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>5825</td>
 		<td>5845</td>
 		<td>5865</td>
-		<td>5884</td>
-		<td>+ 19</td>
+		<td>5885</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td>6867</td>
 		<td>6889</td>
 		<td>6911</td>
-		<td>6932</td>
-		<td>+ 21</td>
+		<td>6933</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>6275</td>
 		<td>6300</td>
 		<td>6324</td>
-		<td>6346</td>
-		<td>+ 22</td>
+		<td>6347</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>227947</td>
-		<td>631</td>
+		<td>227951</td>
+		<td>635</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>6867</td>
 		<td>6889</td>
 		<td>6911</td>
-		<td>6932</td>
-		<td>+ 21</td>
+		<td>6933</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -608,8 +608,8 @@
 		<td>6295</td>
 		<td>6314</td>
 		<td>6334</td>
-		<td>6355</td>
-		<td>+ 21</td>
+		<td>6356</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>6275</td>
 		<td>6300</td>
 		<td>6324</td>
-		<td>6346</td>
-		<td>+ 22</td>
+		<td>6347</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -663,8 +663,8 @@
 		<td>5825</td>
 		<td>5845</td>
 		<td>5865</td>
-		<td>5884</td>
-		<td>+ 19</td>
+		<td>5885</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>227947</td>
-		<td>631</td>
+		<td>227951</td>
+		<td>635</td>
 	</tr>
 </table>
 </sub></sup>
