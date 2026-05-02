@@ -109,8 +109,8 @@
 		<td>6397</td>
 		<td>6420</td>
 		<td>6446</td>
-		<td>6457</td>
-		<td>+ 11</td>
+		<td>6458</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -131,8 +131,8 @@
 		<td>6294</td>
 		<td>6322</td>
 		<td>6346</td>
-		<td>6357</td>
-		<td>+ 11</td>
+		<td>6358</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>6526</td>
 		<td>6544</td>
 		<td>6558</td>
-		<td>6563</td>
-		<td>+ 5</td>
+		<td>6564</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -219,8 +219,8 @@
 		<td>1059</td>
 		<td>1071</td>
 		<td>1086</td>
-		<td>1094</td>
-		<td>+ 8</td>
+		<td>1095</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>227633</td>
-		<td>317</td>
+		<td>227637</td>
+		<td>321</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>6526</td>
 		<td>6544</td>
 		<td>6558</td>
-		<td>6563</td>
-		<td>+ 5</td>
+		<td>6564</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -586,8 +586,8 @@
 		<td>6397</td>
 		<td>6420</td>
 		<td>6446</td>
-		<td>6457</td>
-		<td>+ 11</td>
+		<td>6458</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -597,8 +597,8 @@
 		<td>6294</td>
 		<td>6322</td>
 		<td>6346</td>
-		<td>6357</td>
-		<td>+ 11</td>
+		<td>6358</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -1026,8 +1026,8 @@
 		<td>1059</td>
 		<td>1071</td>
 		<td>1086</td>
-		<td>1094</td>
-		<td>+ 8</td>
+		<td>1095</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>227633</td>
-		<td>317</td>
+		<td>227637</td>
+		<td>321</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1046,7 +1046,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-04-22</td>
 		<td>2026-04-23</td>
 		<td>2026-04-24</td>
 		<td>2026-04-25</td>
@@ -1055,10 +1054,10 @@
 		<td>2026-04-28</td>
 		<td>2026-04-29</td>
 		<td>2026-04-30</td>
+		<td>2026-05-01</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>58</td>
 		<td>36</td>
 		<td>126</td>
 		<td>93</td>
@@ -1067,10 +1066,10 @@
 		<td>59</td>
 		<td>106</td>
 		<td>138</td>
+		<td>149</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>17</td>
 		<td>16</td>
 		<td>27</td>
 		<td>29</td>
@@ -1079,6 +1078,7 @@
 		<td>24</td>
 		<td>33</td>
 		<td>41</td>
+		<td>36</td>
 	</tr>
 </table>
 <br>
@@ -1092,8 +1092,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>21317</td>
-		<td>5331</td>
+		<td>21466</td>
+		<td>5367</td>
 		<td>407</td>
 		<td>47</td>
 	</tr>
@@ -1106,8 +1106,8 @@
 	</tr>
 	<tr>
 		<td>203</td>
-		<td>105.01</td>
-		<td>26.26</td>
+		<td>105.74</td>
+		<td>26.44</td>
 		<td></td>
 		<td></td>
 	</tr>
