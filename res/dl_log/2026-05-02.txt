@@ -122,7 +122,7 @@ v1.0.3-control.station | downloads: 40
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 4
 v1.0.1-outfits.weapon.slot | downloads: 4591
-v1.0.2-combat.ai | downloads: 45
+v1.0.2-combat.ai | downloads: 46
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 74
 v1.0.1-licenses | downloads: 5577
@@ -332,7 +332,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 331
-# TOTAL DOWNLOADS: 229842
+# TOTAL DOWNLOADS: 229843
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -346,7 +346,7 @@ boss.loot 6123
 bunrodea.missions 6926
 captureable.person.ships 6002
 coalition.shopping 6342
-combat.ai 6464
+combat.ai 6465
 comets 1394
 control.station 6366
 devil-run.unhidden 70
