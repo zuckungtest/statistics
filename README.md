@@ -32,8 +32,8 @@
 		<td>6314</td>
 		<td>6334</td>
 		<td>6359</td>
-		<td>6377</td>
-		<td>+ 18</td>
+		<td>6378</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -197,8 +197,8 @@
 		<td>5753</td>
 		<td>5766</td>
 		<td>5779</td>
-		<td>5792</td>
-		<td>+ 13</td>
+		<td>5793</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -219,8 +219,8 @@
 		<td>1071</td>
 		<td>1086</td>
 		<td>1099</td>
-		<td>1108</td>
-		<td>+ 9</td>
+		<td>1109</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -318,8 +318,8 @@
 		<td>5554</td>
 		<td>5568</td>
 		<td>5583</td>
-		<td>5593</td>
-		<td>+ 10</td>
+		<td>5594</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -428,8 +428,8 @@
 		<td>5100</td>
 		<td>5111</td>
 		<td>5131</td>
-		<td>5147</td>
-		<td>+ 16</td>
+		<td>5149</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>228575</td>
-		<td>572</td>
+		<td>228581</td>
+		<td>578</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>6314</td>
 		<td>6334</td>
 		<td>6359</td>
-		<td>6377</td>
-		<td>+ 18</td>
+		<td>6378</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -685,8 +685,8 @@
 		<td>5753</td>
 		<td>5766</td>
 		<td>5779</td>
-		<td>5792</td>
-		<td>+ 13</td>
+		<td>5793</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -707,8 +707,8 @@
 		<td>5554</td>
 		<td>5568</td>
 		<td>5583</td>
-		<td>5593</td>
-		<td>+ 10</td>
+		<td>5594</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -817,8 +817,8 @@
 		<td>5100</td>
 		<td>5111</td>
 		<td>5131</td>
-		<td>5147</td>
-		<td>+ 16</td>
+		<td>5149</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -1026,8 +1026,8 @@
 		<td>1071</td>
 		<td>1086</td>
 		<td>1099</td>
-		<td>1108</td>
-		<td>+ 9</td>
+		<td>1109</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>228575</td>
-		<td>572</td>
+		<td>228581</td>
+		<td>578</td>
 	</tr>
 </table>
 </sub></sup>
