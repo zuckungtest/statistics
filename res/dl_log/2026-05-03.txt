@@ -1,13 +1,13 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.28-additional.command.buttons.radial | downloads: 15
-v1.1.11-captureable.person.ships | downloads: 99
-v1.0.14-uniques | downloads: 16
+v1.0.28-additional.command.buttons.radial | downloads: 16
+v1.1.11-captureable.person.ships | downloads: 100
+v1.0.14-uniques | downloads: 17
 v1.0.11-mission.helper | downloads: 36
 v1.0.10-expert.crew.members | downloads: 27
-v1.0.8-control.station | downloads: 123
+v1.0.8-control.station | downloads: 126
 v1.0.7-ship.merging | downloads: 44
 v1.0.3-vague.improvements | downloads: 11
-v1.0.12-combat.ai | downloads: 525
+v1.0.12-combat.ai | downloads: 527
 v1.0.4-job.coloring | downloads: 376
 v1.0.1-heavy.traffic | downloads: 930
 v1.0.3-job.coloring | downloads: 606
@@ -19,11 +19,11 @@ v1.1.6-more.boarding.missions | downloads: 1821
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 1611
 v1.0.10-mission.helper | downloads: 1926
-v1.0.8-boss.loot | downloads: 2113
+v1.0.8-boss.loot | downloads: 2114
 v1.0.7-control.station | downloads: 2106
 v1.0.6-show.reputation | downloads: 1801
 v1.0.6-ship.merging | downloads: 1793
-v1.0.1-comets | downloads: 1198
+v1.0.1-comets | downloads: 1199
 v1.0.6-gegno.pirates | downloads: 1850
 v1.0.5-gegno.pirates | downloads: 8
 v1.0.2-job.coloring | downloads: 437
@@ -62,8 +62,8 @@ v1.0.12-uniques | downloads: 223
 v1.0.5-control.station | downloads: 359
 v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2580
-v1.1.2-disable.spaceport.repeatables | downloads: 4656
-v1.0.7-coalition.shopping | downloads: 5623
+v1.1.2-disable.spaceport.repeatables | downloads: 4657
+v1.0.7-coalition.shopping | downloads: 5624
 v1.0.5-too.many.asteroids | downloads: 1870
 v1.0.4-planet.map | downloads: 3755
 v1.0.4-no.more.mereti.mines | downloads: 4150
@@ -73,10 +73,10 @@ v1.0.3-tribute.republic | downloads: 4100
 v1.0.3-more.arfectas | downloads: 3771
 v1.0.3-kor.efret.shipyard | downloads: 4680
 v1.0.2-highrollers.ltd | downloads: 4305
-v1.0.2-automata.in.human.space | downloads: 5386
-v1.0.2-automata.destruction.0percent | downloads: 4878
+v1.0.2-automata.in.human.space | downloads: 5387
+v1.0.2-automata.destruction.0percent | downloads: 4879
 v1.0.1-kestrel.unlocks | downloads: 4418
-v1.0.1-disable.person.ships | downloads: 4638
+v1.0.1-disable.person.ships | downloads: 4639
 v1.0.5-landing.images | downloads: 4522
 v1.0.3-landing.images.highres | downloads: 4275
 v1.0.25-additional.command.buttons.radial | downloads: 330
@@ -99,8 +99,8 @@ v1.0.7-human.labels | downloads: 4425
 v1.0.5-show.reputation | downloads: 3064
 v1.0.3-paint.your.ships | downloads: 4643
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 6236
-v1.0.5-better.starts | downloads: 6166
+v1.0.9-bunrodea.missions | downloads: 6237
+v1.0.5-better.starts | downloads: 6167
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
 v1.0.5-mission.helper | downloads: 11
@@ -333,26 +333,26 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 332
-# TOTAL DOWNLOADS: 230791
+# TOTAL DOWNLOADS: 230808
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 7060
-automata.destruction.0percent 6384
-automata.in.human.space 5910
+additional.command.buttons.radial 7061
+automata.destruction.0percent 6385
+automata.in.human.space 5911
 avgi.licenses 233
-better.starts 6713
-boss.loot 6162
-bunrodea.missions 6964
-captureable.person.ships 6036
-coalition.shopping 6376
-combat.ai 6505
-comets 1428
-control.station 6406
+better.starts 6714
+boss.loot 6163
+bunrodea.missions 6965
+captureable.person.ships 6037
+coalition.shopping 6377
+combat.ai 6507
+comets 1429
+control.station 6409
 devil-run.unhidden 70
-disable.person.ships 5162
-disable.spaceport.repeatables 5452
+disable.person.ships 5163
+disable.spaceport.repeatables 5453
 expert.crew.members 5879
 flare.play 4474
 free.worlds.5.years.later 374
@@ -390,5 +390,5 @@ space.fauna 4635
 too.many.asteroids 3520
 tribute.republic 4498
 unique.fix 46
-uniques 5241
+uniques 5242
 vague.improvements 1376
