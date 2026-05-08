@@ -197,8 +197,8 @@
 		<td>5814</td>
 		<td>5823</td>
 		<td>5832</td>
-		<td>5841</td>
-		<td>+ 9</td>
+		<td>5842</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>231673</td>
-		<td>638</td>
+		<td>231674</td>
+		<td>639</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>5814</td>
 		<td>5823</td>
 		<td>5832</td>
-		<td>5841</td>
-		<td>+ 9</td>
+		<td>5842</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>231673</td>
-		<td>638</td>
+		<td>231674</td>
+		<td>639</td>
 	</tr>
 </table>
 </sub></sup>
