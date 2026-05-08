@@ -21,8 +21,8 @@
 		<td>7105</td>
 		<td>7127</td>
 		<td>7148</td>
-		<td>7169</td>
-		<td>+ 21</td>
+		<td>7172</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>6752</td>
 		<td>6771</td>
 		<td>6790</td>
-		<td>6811</td>
-		<td>+ 21</td>
+		<td>6812</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>6200</td>
 		<td>6218</td>
 		<td>6239</td>
-		<td>6261</td>
-		<td>+ 22</td>
+		<td>6262</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -219,8 +219,8 @@
 		<td>1133</td>
 		<td>1145</td>
 		<td>1157</td>
-		<td>1167</td>
-		<td>+ 10</td>
+		<td>1168</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -505,8 +505,8 @@
 		<td>1400</td>
 		<td>1410</td>
 		<td>1421</td>
-		<td>1435</td>
-		<td>+ 14</td>
+		<td>1436</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>231652</td>
-		<td>617</td>
+		<td>231659</td>
+		<td>624</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>7105</td>
 		<td>7127</td>
 		<td>7148</td>
-		<td>7169</td>
-		<td>+ 21</td>
+		<td>7172</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -564,8 +564,8 @@
 		<td>6752</td>
 		<td>6771</td>
 		<td>6790</td>
-		<td>6811</td>
-		<td>+ 21</td>
+		<td>6812</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -630,8 +630,8 @@
 		<td>6200</td>
 		<td>6218</td>
 		<td>6239</td>
-		<td>6261</td>
-		<td>+ 22</td>
+		<td>6262</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -1015,8 +1015,8 @@
 		<td>1400</td>
 		<td>1410</td>
 		<td>1421</td>
-		<td>1435</td>
-		<td>+ 14</td>
+		<td>1436</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1026,8 +1026,8 @@
 		<td>1133</td>
 		<td>1145</td>
 		<td>1157</td>
-		<td>1167</td>
-		<td>+ 10</td>
+		<td>1168</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>231652</td>
-		<td>617</td>
+		<td>231659</td>
+		<td>624</td>
 	</tr>
 </table>
 </sub></sup>
