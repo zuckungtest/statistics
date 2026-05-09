@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.28-additional.command.buttons.radial | downloads: 119
-v1.1.11-captureable.person.ships | downloads: 195
+v1.1.11-captureable.person.ships | downloads: 196
 v1.0.14-uniques | downloads: 35
 v1.0.11-mission.helper | downloads: 57
 v1.0.10-expert.crew.members | downloads: 50
@@ -63,7 +63,7 @@ v1.0.5-control.station | downloads: 359
 v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2580
 v1.1.2-disable.spaceport.repeatables | downloads: 4759
-v1.0.7-coalition.shopping | downloads: 5734
+v1.0.7-coalition.shopping | downloads: 5735
 v1.0.5-too.many.asteroids | downloads: 1927
 v1.0.4-planet.map | downloads: 3801
 v1.0.4-no.more.mereti.mines | downloads: 4198
@@ -126,7 +126,7 @@ v1.0.1-outfits.weapon.slot | downloads: 4660
 v1.0.2-combat.ai | downloads: 46
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 74
-v1.0.1-licenses | downloads: 5664
+v1.0.1-licenses | downloads: 5665
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 95
 v1.0.1-flare.play | downloads: 118
@@ -269,7 +269,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 1514
+v1.0.1-automata.destruction.0percent | downloads: 1515
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -333,20 +333,20 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 332
-# TOTAL DOWNLOADS: 234148
+# TOTAL DOWNLOADS: 234152
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
 additional.command.buttons.radial 7188
-automata.destruction.0percent 6500
+automata.destruction.0percent 6501
 automata.in.human.space 6016
 avgi.licenses 233
 better.starts 6828
 boss.loot 6277
 bunrodea.missions 7073
-captureable.person.ships 6155
-coalition.shopping 6487
+captureable.person.ships 6156
+coalition.shopping 6488
 combat.ai 6633
 comets 1543
 control.station 6528
@@ -369,7 +369,7 @@ kor.efret.shipyard 5541
 landing.images 5154
 landing.images.android 351
 landing.images.highres 4729
-licenses 5666
+licenses 5667
 mission.helper 6061
 more.arfectas 5398
 more.boarding.missions 5817
