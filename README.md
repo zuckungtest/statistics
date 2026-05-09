@@ -21,8 +21,8 @@
 		<td>7127</td>
 		<td>7148</td>
 		<td>7174</td>
-		<td>7186</td>
-		<td>+ 12</td>
+		<td>7187</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -43,8 +43,8 @@
 		<td>5965</td>
 		<td>5984</td>
 		<td>6004</td>
-		<td>6014</td>
-		<td>+ 10</td>
+		<td>6015</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -65,8 +65,8 @@
 		<td>6218</td>
 		<td>6239</td>
 		<td>6263</td>
-		<td>6274</td>
-		<td>+ 11</td>
+		<td>6275</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -109,8 +109,8 @@
 		<td>6573</td>
 		<td>6596</td>
 		<td>6619</td>
-		<td>6629</td>
-		<td>+ 10</td>
+		<td>6630</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -175,8 +175,8 @@
 		<td>4503</td>
 		<td>4511</td>
 		<td>4522</td>
-		<td>4528</td>
-		<td>+ 6</td>
+		<td>4529</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -307,8 +307,8 @@
 		<td>4704</td>
 		<td>4712</td>
 		<td>4722</td>
-		<td>4727</td>
-		<td>+ 5</td>
+		<td>4728</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -340,8 +340,8 @@
 		<td>5369</td>
 		<td>5380</td>
 		<td>5391</td>
-		<td>5396</td>
-		<td>+ 5</td>
+		<td>5397</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -395,8 +395,8 @@
 		<td>5136</td>
 		<td>5145</td>
 		<td>5156</td>
-		<td>5161</td>
-		<td>+ 5</td>
+		<td>5162</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -417,8 +417,8 @@
 		<td>5492</td>
 		<td>5502</td>
 		<td>5511</td>
-		<td>5516</td>
-		<td>+ 5</td>
+		<td>5517</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -428,8 +428,8 @@
 		<td>5187</td>
 		<td>5202</td>
 		<td>5215</td>
-		<td>5223</td>
-		<td>+ 8</td>
+		<td>5224</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -439,8 +439,8 @@
 		<td>5462</td>
 		<td>5473</td>
 		<td>5483</td>
-		<td>5489</td>
-		<td>+ 6</td>
+		<td>5490</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>231993</td>
-		<td>319</td>
+		<td>232004</td>
+		<td>330</td>
 	</tr>
 </table>
 </sub></sup>
@@ -542,8 +542,8 @@
 		<td>7127</td>
 		<td>7148</td>
 		<td>7174</td>
-		<td>7186</td>
-		<td>+ 12</td>
+		<td>7187</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -586,8 +586,8 @@
 		<td>6573</td>
 		<td>6596</td>
 		<td>6619</td>
-		<td>6629</td>
-		<td>+ 10</td>
+		<td>6630</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -630,8 +630,8 @@
 		<td>6218</td>
 		<td>6239</td>
 		<td>6263</td>
-		<td>6274</td>
-		<td>+ 11</td>
+		<td>6275</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -663,8 +663,8 @@
 		<td>5965</td>
 		<td>5984</td>
 		<td>6004</td>
-		<td>6014</td>
-		<td>+ 10</td>
+		<td>6015</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -740,8 +740,8 @@
 		<td>5492</td>
 		<td>5502</td>
 		<td>5511</td>
-		<td>5516</td>
-		<td>+ 5</td>
+		<td>5517</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -751,8 +751,8 @@
 		<td>5462</td>
 		<td>5473</td>
 		<td>5483</td>
-		<td>5489</td>
-		<td>+ 6</td>
+		<td>5490</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -762,8 +762,8 @@
 		<td>5369</td>
 		<td>5380</td>
 		<td>5391</td>
-		<td>5396</td>
-		<td>+ 5</td>
+		<td>5397</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -806,8 +806,8 @@
 		<td>5187</td>
 		<td>5202</td>
 		<td>5215</td>
-		<td>5223</td>
-		<td>+ 8</td>
+		<td>5224</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -828,8 +828,8 @@
 		<td>5136</td>
 		<td>5145</td>
 		<td>5156</td>
-		<td>5161</td>
-		<td>+ 5</td>
+		<td>5162</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -905,8 +905,8 @@
 		<td>4704</td>
 		<td>4712</td>
 		<td>4722</td>
-		<td>4727</td>
-		<td>+ 5</td>
+		<td>4728</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -960,8 +960,8 @@
 		<td>4503</td>
 		<td>4511</td>
 		<td>4522</td>
-		<td>4528</td>
-		<td>+ 6</td>
+		<td>4529</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>231993</td>
-		<td>319</td>
+		<td>232004</td>
+		<td>330</td>
 	</tr>
 </table>
 </sub></sup>
