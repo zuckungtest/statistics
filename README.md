@@ -32,8 +32,8 @@
 		<td>6445</td>
 		<td>6465</td>
 		<td>6489</td>
-		<td>6500</td>
-		<td>+ 11</td>
+		<td>6501</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -87,8 +87,8 @@
 		<td>6097</td>
 		<td>6117</td>
 		<td>6140</td>
-		<td>6155</td>
-		<td>+ 15</td>
+		<td>6156</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>6432</td>
 		<td>6452</td>
 		<td>6474</td>
-		<td>6487</td>
-		<td>+ 13</td>
+		<td>6488</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -318,8 +318,8 @@
 		<td>5634</td>
 		<td>5643</td>
 		<td>5657</td>
-		<td>5666</td>
-		<td>+ 9</td>
+		<td>5667</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>232101</td>
-		<td>427</td>
+		<td>232105</td>
+		<td>431</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>6445</td>
 		<td>6465</td>
 		<td>6489</td>
-		<td>6500</td>
-		<td>+ 11</td>
+		<td>6501</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -619,8 +619,8 @@
 		<td>6432</td>
 		<td>6452</td>
 		<td>6474</td>
-		<td>6487</td>
-		<td>+ 13</td>
+		<td>6488</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -641,8 +641,8 @@
 		<td>6097</td>
 		<td>6117</td>
 		<td>6140</td>
-		<td>6155</td>
-		<td>+ 15</td>
+		<td>6156</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -707,8 +707,8 @@
 		<td>5634</td>
 		<td>5643</td>
 		<td>5657</td>
-		<td>5666</td>
-		<td>+ 9</td>
+		<td>5667</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>232101</td>
-		<td>427</td>
+		<td>232105</td>
+		<td>431</td>
 	</tr>
 </table>
 </sub></sup>
