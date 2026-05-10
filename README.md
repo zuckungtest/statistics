@@ -417,8 +417,8 @@
 		<td>5502</td>
 		<td>5511</td>
 		<td>5521</td>
-		<td>5529</td>
-		<td>+ 8</td>
+		<td>5530</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>232763</td>
-		<td>420</td>
+		<td>232764</td>
+		<td>421</td>
 	</tr>
 </table>
 </sub></sup>
@@ -740,8 +740,8 @@
 		<td>5502</td>
 		<td>5511</td>
 		<td>5521</td>
-		<td>5529</td>
-		<td>+ 8</td>
+		<td>5530</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>232763</td>
-		<td>420</td>
+		<td>232764</td>
+		<td>421</td>
 	</tr>
 </table>
 </sub></sup>
