@@ -56,7 +56,7 @@ v1.0.26-additional.command.buttons.radial | downloads: 388
 v1.0.8-mission.helper | downloads: 368
 v1.0.2-boss.loot | downloads: 409
 v1.0.3-flare.play | downloads: 450
-v1.0.6-quarg.farm | downloads: 4526
+v1.0.6-quarg.farm | downloads: 4527
 v1.0.2-ship.merging | downloads: 290
 v1.0.12-uniques | downloads: 223
 v1.0.5-control.station | downloads: 359
@@ -333,7 +333,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 332
-# TOTAL DOWNLOADS: 234810
+# TOTAL DOWNLOADS: 234811
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -381,7 +381,7 @@ paint.your.ships 5174
 pirate.warlords 6
 planet.map 4481
 planet.pluto 197
-quarg.farm 5529
+quarg.farm 5530
 real.fluff 96
 ship.merging 5243
 show.reputation 5505
