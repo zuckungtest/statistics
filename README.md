@@ -54,8 +54,8 @@
 		<td>6790</td>
 		<td>6813</td>
 		<td>6836</td>
-		<td>6851</td>
-		<td>+ 15</td>
+		<td>6852</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>232823</td>
-		<td>480</td>
+		<td>232824</td>
+		<td>481</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>6790</td>
 		<td>6813</td>
 		<td>6836</td>
-		<td>6851</td>
-		<td>+ 15</td>
+		<td>6852</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>232823</td>
-		<td>480</td>
+		<td>232824</td>
+		<td>481</td>
 	</tr>
 </table>
 </sub></sup>
