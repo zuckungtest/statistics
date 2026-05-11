@@ -1,15 +1,15 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.4-vague.improvements | downloads: 2
+v1.0.4-vague.improvements | downloads: 4
 v1.0.28-additional.command.buttons.radial | downloads: 154
 v1.1.11-captureable.person.ships | downloads: 231
 v1.0.14-uniques | downloads: 41
-v1.0.11-mission.helper | downloads: 65
+v1.0.11-mission.helper | downloads: 66
 v1.0.10-expert.crew.members | downloads: 58
 v1.0.8-control.station | downloads: 260
 v1.0.7-ship.merging | downloads: 75
 v1.0.3-vague.improvements | downloads: 31
 v1.0.12-combat.ai | downloads: 671
-v1.0.4-job.coloring | downloads: 434
+v1.0.4-job.coloring | downloads: 435
 v1.0.1-heavy.traffic | downloads: 1016
 v1.0.3-job.coloring | downloads: 637
 v1.1.13-galactic.capital.investment | downloads: 1244
@@ -25,7 +25,7 @@ v1.0.7-control.station | downloads: 2137
 v1.0.6-show.reputation | downloads: 1885
 v1.0.6-ship.merging | downloads: 1863
 v1.0.1-comets | downloads: 1359
-v1.0.6-gegno.pirates | downloads: 1926
+v1.0.6-gegno.pirates | downloads: 1927
 v1.0.5-gegno.pirates | downloads: 9
 v1.0.2-job.coloring | downloads: 437
 v1.0.7-boss.loot | downloads: 809
@@ -98,10 +98,10 @@ v1.0.10-uniques | downloads: 95
 v1.0.8-expert.crew.members | downloads: 20
 v1.0.7-human.labels | downloads: 4497
 v1.0.5-show.reputation | downloads: 3066
-v1.0.3-paint.your.ships | downloads: 4721
+v1.0.3-paint.your.ships | downloads: 4722
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 6390
-v1.0.5-better.starts | downloads: 6324
+v1.0.9-bunrodea.missions | downloads: 6391
+v1.0.5-better.starts | downloads: 6325
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
 v1.0.5-mission.helper | downloads: 11
@@ -127,7 +127,7 @@ v1.0.1-outfits.weapon.slot | downloads: 4680
 v1.0.2-combat.ai | downloads: 46
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 74
-v1.0.1-licenses | downloads: 5690
+v1.0.1-licenses | downloads: 5691
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 95
 v1.0.1-flare.play | downloads: 118
@@ -334,7 +334,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 333
-# TOTAL DOWNLOADS: 235418
+# TOTAL DOWNLOADS: 235427
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -343,9 +343,9 @@ additional.command.buttons.radial 7232
 automata.destruction.0percent 6546
 automata.in.human.space 6059
 avgi.licenses 233
-better.starts 6871
+better.starts 6872
 boss.loot 6322
-bunrodea.missions 7118
+bunrodea.missions 7119
 captureable.person.ships 6199
 coalition.shopping 6530
 combat.ai 6683
@@ -358,27 +358,27 @@ expert.crew.members 5975
 flare.play 4547
 free.worlds.5.years.later 374
 galactic.capital.investment 6669
-gegno.pirates 5872
+gegno.pirates 5873
 hai.side.mission.unlocker 4958
 heavy.traffic 1200
 highrollers.ltd 4614
 human.labels 4903
-job.coloring 1588
+job.coloring 1589
 jump.gates 5322
 kestrel.unlocks 5073
 kor.efret.shipyard 5563
 landing.images 5175
 landing.images.android 351
 landing.images.highres 4748
-licenses 5692
-mission.helper 6087
+licenses 5693
+mission.helper 6088
 more.arfectas 5418
 more.boarding.missions 5839
 more.person.ships 4872
 navy.licenses 579
 no.more.mereti.mines 4683
 outfits.weapon.slot 5058
-paint.your.ships 5185
+paint.your.ships 5186
 pirate.warlords 6
 planet.map 4492
 planet.pluto 197
@@ -392,4 +392,4 @@ too.many.asteroids 3601
 tribute.republic 4565
 unique.fix 46
 uniques 5329
-vague.improvements 1465
+vague.improvements 1467
