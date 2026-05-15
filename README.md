@@ -98,8 +98,8 @@
 		<td>6552</td>
 		<td>6570</td>
 		<td>6590</td>
-		<td>6610</td>
-		<td>+ 20</td>
+		<td>6611</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -197,8 +197,8 @@
 		<td>5893</td>
 		<td>5911</td>
 		<td>5930</td>
-		<td>5950</td>
-		<td>+ 20</td>
+		<td>5951</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -318,8 +318,8 @@
 		<td>5716</td>
 		<td>5739</td>
 		<td>5759</td>
-		<td>5780</td>
-		<td>+ 21</td>
+		<td>5781</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>236964</td>
-		<td>902</td>
+		<td>236967</td>
+		<td>905</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>6552</td>
 		<td>6570</td>
 		<td>6590</td>
-		<td>6610</td>
-		<td>+ 20</td>
+		<td>6611</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -685,8 +685,8 @@
 		<td>5893</td>
 		<td>5911</td>
 		<td>5930</td>
-		<td>5950</td>
-		<td>+ 20</td>
+		<td>5951</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -707,8 +707,8 @@
 		<td>5716</td>
 		<td>5739</td>
 		<td>5759</td>
-		<td>5780</td>
-		<td>+ 21</td>
+		<td>5781</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>236964</td>
-		<td>902</td>
+		<td>236967</td>
+		<td>905</td>
 	</tr>
 </table>
 </sub></sup>
