@@ -25,7 +25,7 @@ v1.0.7-control.station | downloads: 2154
 v1.0.6-show.reputation | downloads: 1965
 v1.0.6-ship.merging | downloads: 1885
 v1.0.1-comets | downloads: 1437
-v1.0.6-gegno.pirates | downloads: 2003
+v1.0.6-gegno.pirates | downloads: 2004
 v1.0.5-gegno.pirates | downloads: 10
 v1.0.2-job.coloring | downloads: 437
 v1.0.7-boss.loot | downloads: 809
@@ -64,7 +64,7 @@ v1.0.5-control.station | downloads: 359
 v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2580
 v1.1.2-disable.spaceport.repeatables | downloads: 4870
-v1.0.7-coalition.shopping | downloads: 5857
+v1.0.7-coalition.shopping | downloads: 5858
 v1.0.5-too.many.asteroids | downloads: 2033
 v1.0.4-planet.map | downloads: 3887
 v1.0.4-no.more.mereti.mines | downloads: 4293
@@ -127,7 +127,7 @@ v1.0.1-outfits.weapon.slot | downloads: 4756
 v1.0.2-combat.ai | downloads: 46
 v1.0.1-combat.ai | downloads: 2
 v1.0.0-combat.ai | downloads: 74
-v1.0.1-licenses | downloads: 5778
+v1.0.1-licenses | downloads: 5779
 v1.0.0-licenses | downloads: 2
 v1.0.3-mission.helper | downloads: 95
 v1.0.1-flare.play | downloads: 118
@@ -334,7 +334,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 333
-# TOTAL DOWNLOADS: 239011
+# TOTAL DOWNLOADS: 239014
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -347,7 +347,7 @@ better.starts 6958
 boss.loot 6407
 bunrodea.missions 7206
 captureable.person.ships 6282
-coalition.shopping 6610
+coalition.shopping 6611
 combat.ai 6767
 comets 1667
 control.station 6662
@@ -358,7 +358,7 @@ expert.crew.members 6058
 flare.play 4622
 free.worlds.5.years.later 374
 galactic.capital.investment 6758
-gegno.pirates 5950
+gegno.pirates 5951
 hai.side.mission.unlocker 5030
 heavy.traffic 1281
 highrollers.ltd 4686
@@ -370,7 +370,7 @@ kor.efret.shipyard 5638
 landing.images 5252
 landing.images.android 351
 landing.images.highres 4825
-licenses 5780
+licenses 5781
 mission.helper 6182
 more.arfectas 5495
 more.boarding.missions 5916
