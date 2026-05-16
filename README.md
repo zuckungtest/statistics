@@ -252,8 +252,8 @@
 		<td>1631</td>
 		<td>1653</td>
 		<td>1673</td>
-		<td>1687</td>
-		<td>+ 14</td>
+		<td>1688</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -307,8 +307,8 @@
 		<td>4787</td>
 		<td>4804</td>
 		<td>4825</td>
-		<td>4837</td>
-		<td>+ 12</td>
+		<td>4838</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -428,8 +428,8 @@
 		<td>5300</td>
 		<td>5320</td>
 		<td>5342</td>
-		<td>5353</td>
-		<td>+ 11</td>
+		<td>5354</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -472,8 +472,8 @@
 		<td>3642</td>
 		<td>3663</td>
 		<td>3683</td>
-		<td>3696</td>
-		<td>+ 13</td>
+		<td>3697</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>237504</td>
-		<td>537</td>
+		<td>237508</td>
+		<td>541</td>
 	</tr>
 </table>
 </sub></sup>
@@ -806,8 +806,8 @@
 		<td>5300</td>
 		<td>5320</td>
 		<td>5342</td>
-		<td>5353</td>
-		<td>+ 11</td>
+		<td>5354</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -905,8 +905,8 @@
 		<td>4787</td>
 		<td>4804</td>
 		<td>4825</td>
-		<td>4837</td>
-		<td>+ 12</td>
+		<td>4838</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -982,8 +982,8 @@
 		<td>3642</td>
 		<td>3663</td>
 		<td>3683</td>
-		<td>3696</td>
-		<td>+ 13</td>
+		<td>3697</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -993,8 +993,8 @@
 		<td>1631</td>
 		<td>1653</td>
 		<td>1673</td>
-		<td>1687</td>
-		<td>+ 14</td>
+		<td>1688</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>237504</td>
-		<td>537</td>
+		<td>237508</td>
+		<td>541</td>
 	</tr>
 </table>
 </sub></sup>
