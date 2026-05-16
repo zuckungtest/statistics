@@ -98,8 +98,8 @@
 		<td>6570</td>
 		<td>6590</td>
 		<td>6611</td>
-		<td>6628</td>
-		<td>+ 17</td>
+		<td>6629</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -131,8 +131,8 @@
 		<td>6618</td>
 		<td>6641</td>
 		<td>6662</td>
-		<td>6681</td>
-		<td>+ 19</td>
+		<td>6682</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -296,8 +296,8 @@
 		<td>5215</td>
 		<td>5232</td>
 		<td>5252</td>
-		<td>5268</td>
-		<td>+ 16</td>
+		<td>5269</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -340,8 +340,8 @@
 		<td>5455</td>
 		<td>5473</td>
 		<td>5495</td>
-		<td>5514</td>
-		<td>+ 19</td>
+		<td>5515</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -417,8 +417,8 @@
 		<td>5579</td>
 		<td>5599</td>
 		<td>5619</td>
-		<td>5637</td>
-		<td>+ 18</td>
+		<td>5638</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>237791</td>
-		<td>824</td>
+		<td>237796</td>
+		<td>829</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>6618</td>
 		<td>6641</td>
 		<td>6662</td>
-		<td>6681</td>
-		<td>+ 19</td>
+		<td>6682</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -619,8 +619,8 @@
 		<td>6570</td>
 		<td>6590</td>
 		<td>6611</td>
-		<td>6628</td>
-		<td>+ 17</td>
+		<td>6629</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -740,8 +740,8 @@
 		<td>5579</td>
 		<td>5599</td>
 		<td>5619</td>
-		<td>5637</td>
-		<td>+ 18</td>
+		<td>5638</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -762,8 +762,8 @@
 		<td>5455</td>
 		<td>5473</td>
 		<td>5495</td>
-		<td>5514</td>
-		<td>+ 19</td>
+		<td>5515</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -839,8 +839,8 @@
 		<td>5215</td>
 		<td>5232</td>
 		<td>5252</td>
-		<td>5268</td>
-		<td>+ 16</td>
+		<td>5269</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>237791</td>
-		<td>824</td>
+		<td>237796</td>
+		<td>829</td>
 	</tr>
 </table>
 </sub></sup>
