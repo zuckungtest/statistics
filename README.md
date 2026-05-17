@@ -87,8 +87,8 @@
 		<td>6262</td>
 		<td>6282</td>
 		<td>6307</td>
-		<td>6322</td>
-		<td>+ 15</td>
+		<td>6323</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -362,8 +362,8 @@
 		<td>4927</td>
 		<td>4946</td>
 		<td>4973</td>
-		<td>4988</td>
-		<td>+ 15</td>
+		<td>4989</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -439,8 +439,8 @@
 		<td>5577</td>
 		<td>5596</td>
 		<td>5620</td>
-		<td>5638</td>
-		<td>+ 18</td>
+		<td>5639</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td>5289</td>
 		<td>5309</td>
 		<td>5336</td>
-		<td>5350</td>
-		<td>+ 14</td>
+		<td>5351</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -494,8 +494,8 @@
 		<td>5392</td>
 		<td>5411</td>
 		<td>5442</td>
-		<td>5461</td>
-		<td>+ 19</td>
+		<td>5462</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>238911</td>
-		<td>749</td>
+		<td>238916</td>
+		<td>754</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>6262</td>
 		<td>6282</td>
 		<td>6307</td>
-		<td>6322</td>
-		<td>+ 15</td>
+		<td>6323</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -751,8 +751,8 @@
 		<td>5577</td>
 		<td>5596</td>
 		<td>5620</td>
-		<td>5638</td>
-		<td>+ 18</td>
+		<td>5639</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -773,8 +773,8 @@
 		<td>5392</td>
 		<td>5411</td>
 		<td>5442</td>
-		<td>5461</td>
-		<td>+ 19</td>
+		<td>5462</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -817,8 +817,8 @@
 		<td>5289</td>
 		<td>5309</td>
 		<td>5336</td>
-		<td>5350</td>
-		<td>+ 14</td>
+		<td>5351</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -894,8 +894,8 @@
 		<td>4927</td>
 		<td>4946</td>
 		<td>4973</td>
-		<td>4988</td>
-		<td>+ 15</td>
+		<td>4989</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>238911</td>
-		<td>749</td>
+		<td>238916</td>
+		<td>754</td>
 	</tr>
 </table>
 </sub></sup>
