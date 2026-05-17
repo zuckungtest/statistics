@@ -208,8 +208,8 @@
 		<td>5012</td>
 		<td>5030</td>
 		<td>5057</td>
-		<td>5076</td>
-		<td>+ 19</td>
+		<td>5077</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>239110</td>
-		<td>948</td>
+		<td>239111</td>
+		<td>949</td>
 	</tr>
 </table>
 </sub></sup>
@@ -872,8 +872,8 @@
 		<td>5012</td>
 		<td>5030</td>
 		<td>5057</td>
-		<td>5076</td>
-		<td>+ 19</td>
+		<td>5077</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>239110</td>
-		<td>948</td>
+		<td>239111</td>
+		<td>949</td>
 	</tr>
 </table>
 </sub></sup>
