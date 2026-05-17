@@ -1,8 +1,8 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.4-vague.improvements | downloads: 113
 v1.0.28-additional.command.buttons.radial | downloads: 263
-v1.1.11-captureable.person.ships | downloads: 330
-v1.0.14-uniques | downloads: 145
+v1.1.11-captureable.person.ships | downloads: 331
+v1.0.14-uniques | downloads: 146
 v1.0.11-mission.helper | downloads: 177
 v1.0.10-expert.crew.members | downloads: 166
 v1.0.8-control.station | downloads: 370
@@ -22,7 +22,7 @@ v1.1.4-space.fauna | downloads: 1794
 v1.0.10-mission.helper | downloads: 2018
 v1.0.8-boss.loot | downloads: 2401
 v1.0.7-control.station | downloads: 2161
-v1.0.6-show.reputation | downloads: 2007
+v1.0.6-show.reputation | downloads: 2008
 v1.0.6-ship.merging | downloads: 1893
 v1.0.1-comets | downloads: 1479
 v1.0.6-gegno.pirates | downloads: 2046
@@ -114,12 +114,12 @@ v1.1.8-captureable.person.ships | downloads: 47
 v1.1.7-galactic.capital.investment | downloads: 27
 v1.1.5-more.boarding.missions | downloads: 3342
 v1.1.5-hai.side.mission.unlocker | downloads: 2837
-v1.0.6-snowfeather.robotics | downloads: 4881
+v1.0.6-snowfeather.robotics | downloads: 4882
 v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 410
 v1.0.4-show.reputation | downloads: 55
 v1.0.4-mission.helper | downloads: 34
-v1.0.3-more.person.ships | downloads: 4575
+v1.0.3-more.person.ships | downloads: 4576
 v1.0.3-control.station | downloads: 40
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 4
@@ -334,7 +334,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 333
-# TOTAL DOWNLOADS: 240958
+# TOTAL DOWNLOADS: 240963
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -346,7 +346,7 @@ avgi.licenses 233
 better.starts 7004
 boss.loot 6450
 bunrodea.missions 7250
-captureable.person.ships 6322
+captureable.person.ships 6323
 coalition.shopping 6652
 combat.ai 6813
 comets 1709
@@ -374,7 +374,7 @@ licenses 5830
 mission.helper 6226
 more.arfectas 5541
 more.boarding.missions 5965
-more.person.ships 4988
+more.person.ships 4989
 navy.licenses 579
 no.more.mereti.mines 4798
 outfits.weapon.slot 5181
@@ -385,11 +385,11 @@ planet.pluto 197
 quarg.farm 5661
 real.fluff 96
 ship.merging 5390
-show.reputation 5638
-snowfeather.robotics 5350
+show.reputation 5639
+snowfeather.robotics 5351
 space.fauna 4818
 too.many.asteroids 3726
 tribute.republic 4673
 unique.fix 46
-uniques 5461
+uniques 5462
 vague.improvements 1603
