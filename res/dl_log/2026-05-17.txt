@@ -15,7 +15,7 @@ v1.0.3-job.coloring | downloads: 662
 v1.1.13-galactic.capital.investment | downloads: 1383
 v1.1.12-galactic.capital.investment | downloads: 374
 v1.0.0-heavy.traffic | downloads: 184
-v1.1.7-hai.side.mission.unlocker | downloads: 1797
+v1.1.7-hai.side.mission.unlocker | downloads: 1798
 v1.1.6-more.boarding.missions | downloads: 2034
 v1.1.6-hai.side.mission.unlocker | downloads: 11
 v1.1.4-space.fauna | downloads: 1798
@@ -334,7 +334,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 333
-# TOTAL DOWNLOADS: 241157
+# TOTAL DOWNLOADS: 241158
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -359,7 +359,7 @@ flare.play 4666
 free.worlds.5.years.later 374
 galactic.capital.investment 6808
 gegno.pirates 5997
-hai.side.mission.unlocker 5076
+hai.side.mission.unlocker 5077
 heavy.traffic 1333
 highrollers.ltd 4729
 human.labels 5020
