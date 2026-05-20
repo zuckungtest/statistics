@@ -4,15 +4,15 @@ v1.0.28-additional.command.buttons.radial | downloads: 312
 v1.1.11-captureable.person.ships | downloads: 371
 v1.0.14-uniques | downloads: 191
 v1.0.11-mission.helper | downloads: 228
-v1.0.10-expert.crew.members | downloads: 211
+v1.0.10-expert.crew.members | downloads: 212
 v1.0.8-control.station | downloads: 415
 v1.0.7-ship.merging | downloads: 227
 v1.0.3-vague.improvements | downloads: 31
-v1.0.12-combat.ai | downloads: 823
+v1.0.12-combat.ai | downloads: 824
 v1.0.4-job.coloring | downloads: 592
 v1.0.1-heavy.traffic | downloads: 1200
 v1.0.3-job.coloring | downloads: 674
-v1.1.13-galactic.capital.investment | downloads: 1436
+v1.1.13-galactic.capital.investment | downloads: 1438
 v1.1.12-galactic.capital.investment | downloads: 374
 v1.0.0-heavy.traffic | downloads: 184
 v1.1.7-hai.side.mission.unlocker | downloads: 1846
@@ -24,7 +24,7 @@ v1.0.8-boss.loot | downloads: 2455
 v1.0.7-control.station | downloads: 2174
 v1.0.6-show.reputation | downloads: 2062
 v1.0.6-ship.merging | downloads: 1906
-v1.0.1-comets | downloads: 1531
+v1.0.1-comets | downloads: 1532
 v1.0.6-gegno.pirates | downloads: 2101
 v1.0.5-gegno.pirates | downloads: 10
 v1.0.2-job.coloring | downloads: 438
@@ -78,8 +78,8 @@ v1.0.2-automata.in.human.space | downloads: 5709
 v1.0.2-automata.destruction.0percent | downloads: 5183
 v1.0.1-kestrel.unlocks | downloads: 4667
 v1.0.1-disable.person.ships | downloads: 4936
-v1.0.5-landing.images | downloads: 4777
-v1.0.3-landing.images.highres | downloads: 4523
+v1.0.5-landing.images | downloads: 4778
+v1.0.3-landing.images.highres | downloads: 4524
 v1.0.25-additional.command.buttons.radial | downloads: 330
 v1.1.9-galactic.capital.investment | downloads: 959
 v1.0.1-ship.merging | downloads: 274
@@ -100,7 +100,7 @@ v1.0.7-human.labels | downloads: 4662
 v1.0.5-show.reputation | downloads: 3066
 v1.0.3-paint.your.ships | downloads: 4893
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 6580
+v1.0.9-bunrodea.missions | downloads: 6581
 v1.0.5-better.starts | downloads: 6516
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
@@ -142,7 +142,7 @@ v1.0.8-bunrodea.missions | downloads: 205
 v1.0.7-expert.crew.members | downloads: 215
 v1.1.6-galactic.capital.investment | downloads: 203
 v1.0.19-additional.command.buttons.radial | downloads: 121
-v1.0.1-highrollers.ltd | downloads: 225
+v1.0.1-highrollers.ltd | downloads: 226
 v1.0.3-gegno.pirates | downloads: 458
 v1.0.0-highrollers.ltd | downloads: 12
 v1.0.18-additional.command.buttons.radial | downloads: 33
@@ -322,7 +322,7 @@ v1.0-kor.efret.shipyard | downloads: 155
 v1.0-gegno.pirates | downloads: 1
 v1.0-free.worlds.5.years.later | downloads: 360
 v1.0-expert.crew.members | downloads: 4
-v1.0-disable.person.ships | downloads: 534
+v1.0-disable.person.ships | downloads: 535
 v1.0-devil-run.unhidden | downloads: 3
 v1.0-coalition.shopping | downloads: 1
 v1.0-bunrodea.missions | downloads: 4
@@ -334,7 +334,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 333
-# TOTAL DOWNLOADS: 243466
+# TOTAL DOWNLOADS: 243476
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -345,31 +345,31 @@ automata.in.human.space 6233
 avgi.licenses 233
 better.starts 7063
 boss.loot 6505
-bunrodea.missions 7308
+bunrodea.missions 7309
 captureable.person.ships 6376
 coalition.shopping 6707
-combat.ai 6873
-comets 1761
+combat.ai 6874
+comets 1762
 control.station 6767
 devil-run.unhidden 70
-disable.person.ships 5470
+disable.person.ships 5471
 disable.spaceport.repeatables 5768
-expert.crew.members 6167
+expert.crew.members 6168
 flare.play 4718
 free.worlds.5.years.later 374
-galactic.capital.investment 6861
+galactic.capital.investment 6863
 gegno.pirates 6048
 hai.side.mission.unlocker 5125
 heavy.traffic 1384
-highrollers.ltd 4776
+highrollers.ltd 4777
 human.labels 5068
 job.coloring 1784
 jump.gates 5496
 kestrel.unlocks 5249
 kor.efret.shipyard 5732
-landing.images 5352
+landing.images 5353
 landing.images.android 351
-landing.images.highres 4926
+landing.images.highres 4927
 licenses 5885
 mission.helper 6290
 more.arfectas 5596
