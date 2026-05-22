@@ -54,8 +54,8 @@
 		<td>7048</td>
 		<td>7063</td>
 		<td>7078</td>
-		<td>7083</td>
-		<td>+ 5</td>
+		<td>7085</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -109,8 +109,8 @@
 		<td>6853</td>
 		<td>6874</td>
 		<td>6891</td>
-		<td>6896</td>
-		<td>+ 5</td>
+		<td>6897</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -296,8 +296,8 @@
 		<td>5338</td>
 		<td>5353</td>
 		<td>5369</td>
-		<td>5373</td>
-		<td>+ 4</td>
+		<td>5374</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -307,8 +307,8 @@
 		<td>4911</td>
 		<td>4927</td>
 		<td>4942</td>
-		<td>4946</td>
-		<td>+ 4</td>
+		<td>4947</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -318,8 +318,8 @@
 		<td>5868</td>
 		<td>5885</td>
 		<td>5900</td>
-		<td>5904</td>
-		<td>+ 4</td>
+		<td>5905</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -329,8 +329,8 @@
 		<td>6274</td>
 		<td>6290</td>
 		<td>6306</td>
-		<td>6311</td>
-		<td>+ 5</td>
+		<td>6314</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -362,8 +362,8 @@
 		<td>5025</td>
 		<td>5040</td>
 		<td>5055</td>
-		<td>5060</td>
-		<td>+ 5</td>
+		<td>5061</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -384,8 +384,8 @@
 		<td>5218</td>
 		<td>5232</td>
 		<td>5247</td>
-		<td>5251</td>
-		<td>+ 4</td>
+		<td>5252</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -395,8 +395,8 @@
 		<td>5342</td>
 		<td>5357</td>
 		<td>5372</td>
-		<td>5377</td>
-		<td>+ 5</td>
+		<td>5378</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -439,8 +439,8 @@
 		<td>5676</td>
 		<td>5693</td>
 		<td>5708</td>
-		<td>5712</td>
-		<td>+ 4</td>
+		<td>5714</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -450,8 +450,8 @@
 		<td>5391</td>
 		<td>5408</td>
 		<td>5423</td>
-		<td>5427</td>
-		<td>+ 4</td>
+		<td>5428</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -516,8 +516,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>242314</td>
-		<td>197</td>
+		<td>242329</td>
+		<td>212</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>7048</td>
 		<td>7063</td>
 		<td>7078</td>
-		<td>7083</td>
-		<td>+ 5</td>
+		<td>7085</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -575,8 +575,8 @@
 		<td>6853</td>
 		<td>6874</td>
 		<td>6891</td>
-		<td>6896</td>
-		<td>+ 5</td>
+		<td>6897</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -652,8 +652,8 @@
 		<td>6274</td>
 		<td>6290</td>
 		<td>6306</td>
-		<td>6311</td>
-		<td>+ 5</td>
+		<td>6314</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -707,8 +707,8 @@
 		<td>5868</td>
 		<td>5885</td>
 		<td>5900</td>
-		<td>5904</td>
-		<td>+ 4</td>
+		<td>5905</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -751,8 +751,8 @@
 		<td>5676</td>
 		<td>5693</td>
 		<td>5708</td>
-		<td>5712</td>
-		<td>+ 4</td>
+		<td>5714</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -817,8 +817,8 @@
 		<td>5391</td>
 		<td>5408</td>
 		<td>5423</td>
-		<td>5427</td>
-		<td>+ 4</td>
+		<td>5428</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -828,8 +828,8 @@
 		<td>5342</td>
 		<td>5357</td>
 		<td>5372</td>
-		<td>5377</td>
-		<td>+ 5</td>
+		<td>5378</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -839,8 +839,8 @@
 		<td>5338</td>
 		<td>5353</td>
 		<td>5369</td>
-		<td>5373</td>
-		<td>+ 4</td>
+		<td>5374</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -861,8 +861,8 @@
 		<td>5218</td>
 		<td>5232</td>
 		<td>5247</td>
-		<td>5251</td>
-		<td>+ 4</td>
+		<td>5252</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -894,8 +894,8 @@
 		<td>5025</td>
 		<td>5040</td>
 		<td>5055</td>
-		<td>5060</td>
-		<td>+ 5</td>
+		<td>5061</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -905,8 +905,8 @@
 		<td>4911</td>
 		<td>4927</td>
 		<td>4942</td>
-		<td>4946</td>
-		<td>+ 4</td>
+		<td>4947</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -1037,8 +1037,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>242314</td>
-		<td>197</td>
+		<td>242329</td>
+		<td>212</td>
 	</tr>
 </table>
 </sub></sup>
