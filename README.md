@@ -76,8 +76,8 @@
 		<td>7309</td>
 		<td>7325</td>
 		<td>7348</td>
-		<td>7358</td>
-		<td>+ 10</td>
+		<td>7359</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>5471</td>
 		<td>5486</td>
 		<td>5506</td>
-		<td>5514</td>
-		<td>+ 8</td>
+		<td>5515</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -186,8 +186,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>7</td>
-		<td>17</td>
-		<td>+ 10</td>
+		<td>18</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -351,8 +351,8 @@
 		<td>5596</td>
 		<td>5611</td>
 		<td>5630</td>
-		<td>5638</td>
-		<td>+ 8</td>
+		<td>5639</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -406,8 +406,8 @@
 		<td>5357</td>
 		<td>5372</td>
 		<td>5392</td>
-		<td>5400</td>
-		<td>+ 8</td>
+		<td>5401</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>243462</td>
-		<td>405</td>
+		<td>243467</td>
+		<td>410</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>7309</td>
 		<td>7325</td>
 		<td>7348</td>
-		<td>7358</td>
-		<td>+ 10</td>
+		<td>7359</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -773,8 +773,8 @@
 		<td>5596</td>
 		<td>5611</td>
 		<td>5630</td>
-		<td>5638</td>
-		<td>+ 8</td>
+		<td>5639</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -806,8 +806,8 @@
 		<td>5471</td>
 		<td>5486</td>
 		<td>5506</td>
-		<td>5514</td>
-		<td>+ 8</td>
+		<td>5515</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -839,8 +839,8 @@
 		<td>5357</td>
 		<td>5372</td>
 		<td>5392</td>
-		<td>5400</td>
-		<td>+ 8</td>
+		<td>5401</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -1048,8 +1048,8 @@
 		<td>0</td>
 		<td>0</td>
 		<td>7</td>
-		<td>17</td>
-		<td>+ 10</td>
+		<td>18</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>243462</td>
-		<td>405</td>
+		<td>243467</td>
+		<td>410</td>
 	</tr>
 </table>
 </sub></sup>
