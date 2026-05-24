@@ -1,10 +1,10 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-fleet.mercy | downloads: 48
+v1.0.0-fleet.mercy | downloads: 49
 v1.0.4-vague.improvements | downloads: 221
 v1.0.28-additional.command.buttons.radial | downloads: 373
 v1.1.11-captureable.person.ships | downloads: 429
 v1.0.14-uniques | downloads: 243
-v1.0.11-mission.helper | downloads: 294
+v1.0.11-mission.helper | downloads: 295
 v1.0.10-expert.crew.members | downloads: 271
 v1.0.8-control.station | downloads: 477
 v1.0.7-ship.merging | downloads: 285
@@ -25,7 +25,7 @@ v1.0.8-boss.loot | downloads: 2528
 v1.0.7-control.station | downloads: 2189
 v1.0.6-show.reputation | downloads: 2131
 v1.0.6-ship.merging | downloads: 1921
-v1.0.1-comets | downloads: 1604
+v1.0.1-comets | downloads: 1605
 v1.0.6-gegno.pirates | downloads: 2174
 v1.0.5-gegno.pirates | downloads: 10
 v1.0.2-job.coloring | downloads: 438
@@ -335,7 +335,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 334
-# TOTAL DOWNLOADS: 246714
+# TOTAL DOWNLOADS: 246717
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -350,14 +350,14 @@ bunrodea.missions 7387
 captureable.person.ships 6449
 coalition.shopping 6778
 combat.ai 6952
-comets 1834
+comets 1835
 control.station 6844
 devil-run.unhidden 70
 disable.person.ships 5538
 disable.spaceport.repeatables 5835
 expert.crew.members 6242
 flare.play 4789
-fleet.mercy 48
+fleet.mercy 49
 free.worlds.5.years.later 375
 galactic.capital.investment 6937
 gegno.pirates 6121
@@ -373,7 +373,7 @@ landing.images 5420
 landing.images.android 351
 landing.images.highres 4992
 licenses 5954
-mission.helper 6371
+mission.helper 6372
 more.arfectas 5663
 more.boarding.missions 6095
 more.person.ships 5108
