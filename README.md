@@ -120,8 +120,8 @@
 		<td>1777</td>
 		<td>1799</td>
 		<td>1821</td>
-		<td>1834</td>
-		<td>+ 13</td>
+		<td>1835</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -186,8 +186,8 @@
 		<td>0</td>
 		<td>7</td>
 		<td>30</td>
-		<td>48</td>
-		<td>+ 18</td>
+		<td>49</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -340,8 +340,8 @@
 		<td>6306</td>
 		<td>6332</td>
 		<td>6354</td>
-		<td>6371</td>
-		<td>+ 17</td>
+		<td>6372</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>244666</td>
-		<td>633</td>
+		<td>244669</td>
+		<td>636</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>6306</td>
 		<td>6332</td>
 		<td>6354</td>
-		<td>6371</td>
-		<td>+ 17</td>
+		<td>6372</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -1015,8 +1015,8 @@
 		<td>1777</td>
 		<td>1799</td>
 		<td>1821</td>
-		<td>1834</td>
-		<td>+ 13</td>
+		<td>1835</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1048,8 +1048,8 @@
 		<td>0</td>
 		<td>7</td>
 		<td>30</td>
-		<td>48</td>
-		<td>+ 18</td>
+		<td>49</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>244666</td>
-		<td>633</td>
+		<td>244669</td>
+		<td>636</td>
 	</tr>
 </table>
 </sub></sup>
