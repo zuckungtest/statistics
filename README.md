@@ -131,8 +131,8 @@
 		<td>6831</td>
 		<td>6850</td>
 		<td>6871</td>
-		<td>6875</td>
-		<td>+ 4</td>
+		<td>6876</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -186,8 +186,8 @@
 		<td>30</td>
 		<td>54</td>
 		<td>74</td>
-		<td>79</td>
-		<td>+ 5</td>
+		<td>80</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -351,8 +351,8 @@
 		<td>5650</td>
 		<td>5669</td>
 		<td>5687</td>
-		<td>5691</td>
-		<td>+ 4</td>
+		<td>5692</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>245992</td>
-		<td>204</td>
+		<td>245995</td>
+		<td>207</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>6831</td>
 		<td>6850</td>
 		<td>6871</td>
-		<td>6875</td>
-		<td>+ 4</td>
+		<td>6876</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -773,8 +773,8 @@
 		<td>5650</td>
 		<td>5669</td>
 		<td>5687</td>
-		<td>5691</td>
-		<td>+ 4</td>
+		<td>5692</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -1048,8 +1048,8 @@
 		<td>30</td>
 		<td>54</td>
 		<td>74</td>
-		<td>79</td>
-		<td>+ 5</td>
+		<td>80</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>245992</td>
-		<td>204</td>
+		<td>245995</td>
+		<td>207</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1068,7 +1068,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-05-16</td>
 		<td>2026-05-17</td>
 		<td>2026-05-18</td>
 		<td>2026-05-19</td>
@@ -1077,10 +1076,10 @@
 		<td>2026-05-22</td>
 		<td>2026-05-23</td>
 		<td>2026-05-24</td>
+		<td>2026-05-25</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>159</td>
 		<td>117</td>
 		<td>86</td>
 		<td>47</td>
@@ -1089,10 +1088,10 @@
 		<td>75</td>
 		<td>206</td>
 		<td>115</td>
+		<td>118</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>34</td>
 		<td>24</td>
 		<td>19</td>
 		<td>16</td>
@@ -1101,6 +1100,7 @@
 		<td>33</td>
 		<td>53</td>
 		<td>36</td>
+		<td>35</td>
 	</tr>
 </table>
 <br>
@@ -1114,8 +1114,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>23688</td>
-		<td>5949</td>
+		<td>23806</td>
+		<td>5984</td>
 		<td>407</td>
 		<td>53</td>
 	</tr>
@@ -1128,8 +1128,8 @@
 	</tr>
 	<tr>
 		<td>227</td>
-		<td>104.35</td>
-		<td>26.21</td>
+		<td>104.87</td>
+		<td>26.36</td>
 		<td></td>
 		<td></td>
 	</tr>
