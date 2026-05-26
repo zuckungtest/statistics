@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.8-hai.side.mission.unlocker | downloads: 10
-v1.0.1-fleet.mercy | downloads: 14
+v1.0.1-fleet.mercy | downloads: 15
 v1.0.0-fleet.mercy | downloads: 65
 v1.0.4-vague.improvements | downloads: 243
 v1.0.28-additional.command.buttons.radial | downloads: 402
@@ -8,7 +8,7 @@ v1.1.11-captureable.person.ships | downloads: 452
 v1.0.14-uniques | downloads: 266
 v1.0.11-mission.helper | downloads: 322
 v1.0.10-expert.crew.members | downloads: 295
-v1.0.8-control.station | downloads: 502
+v1.0.8-control.station | downloads: 503
 v1.0.7-ship.merging | downloads: 306
 v1.0.3-vague.improvements | downloads: 31
 v1.0.12-combat.ai | downloads: 909
@@ -302,7 +302,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 1614
+v1.0.2-more.arfectas | downloads: 1615
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -337,7 +337,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 336
-# TOTAL DOWNLOADS: 248040
+# TOTAL DOWNLOADS: 248043
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -353,13 +353,13 @@ captureable.person.ships 6478
 coalition.shopping 6808
 combat.ai 6981
 comets 1864
-control.station 6875
+control.station 6876
 devil-run.unhidden 70
 disable.person.ships 5566
 disable.spaceport.repeatables 5863
 expert.crew.members 6272
 flare.play 4814
-fleet.mercy 79
+fleet.mercy 80
 free.worlds.5.years.later 375
 galactic.capital.investment 6970
 gegno.pirates 6153
@@ -376,7 +376,7 @@ landing.images.android 351
 landing.images.highres 5023
 licenses 5984
 mission.helper 6405
-more.arfectas 5691
+more.arfectas 5692
 more.boarding.missions 6123
 more.person.ships 5134
 navy.licenses 579
