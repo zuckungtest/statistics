@@ -329,8 +329,8 @@
 		<td>5960</td>
 		<td>5978</td>
 		<td>5996</td>
-		<td>6012</td>
-		<td>+ 16</td>
+		<td>6013</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>247073</td>
-		<td>643</td>
+		<td>247074</td>
+		<td>644</td>
 	</tr>
 </table>
 </sub></sup>
@@ -718,8 +718,8 @@
 		<td>5960</td>
 		<td>5978</td>
 		<td>5996</td>
-		<td>6012</td>
-		<td>+ 16</td>
+		<td>6013</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>247073</td>
-		<td>643</td>
+		<td>247074</td>
+		<td>644</td>
 	</tr>
 </table>
 </sub></sup>
