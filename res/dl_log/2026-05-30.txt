@@ -4,12 +4,12 @@ v1.0.1-fleet.mercy | downloads: 67
 v1.0.0-fleet.mercy | downloads: 65
 v1.0.4-vague.improvements | downloads: 286
 v1.0.28-additional.command.buttons.radial | downloads: 447
-v1.1.11-captureable.person.ships | downloads: 497
+v1.1.11-captureable.person.ships | downloads: 498
 v1.0.14-uniques | downloads: 307
-v1.0.11-mission.helper | downloads: 369
+v1.0.11-mission.helper | downloads: 370
 v1.0.10-expert.crew.members | downloads: 340
 v1.0.8-control.station | downloads: 550
-v1.0.7-ship.merging | downloads: 348
+v1.0.7-ship.merging | downloads: 349
 v1.0.3-vague.improvements | downloads: 31
 v1.0.12-combat.ai | downloads: 959
 v1.0.4-job.coloring | downloads: 725
@@ -122,7 +122,7 @@ v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 410
 v1.0.4-show.reputation | downloads: 55
 v1.0.4-mission.helper | downloads: 35
-v1.0.3-more.person.ships | downloads: 4775
+v1.0.3-more.person.ships | downloads: 4777
 v1.0.3-control.station | downloads: 40
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 4
@@ -337,7 +337,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 336
-# TOTAL DOWNLOADS: 250757
+# TOTAL DOWNLOADS: 250762
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -349,7 +349,7 @@ avgi.licenses 233
 better.starts 7235
 boss.loot 6670
 bunrodea.missions 7485
-captureable.person.ships 6539
+captureable.person.ships 6540
 coalition.shopping 6871
 combat.ai 7047
 comets 1929
@@ -375,10 +375,10 @@ landing.images 5506
 landing.images.android 351
 landing.images.highres 5077
 licenses 6054
-mission.helper 6470
+mission.helper 6471
 more.arfectas 5745
 more.boarding.missions 6182
-more.person.ships 5188
+more.person.ships 5190
 navy.licenses 579
 no.more.mereti.mines 4994
 outfits.weapon.slot 5391
@@ -388,7 +388,7 @@ planet.map 4796
 planet.pluto 197
 quarg.farm 5867
 real.fluff 96
-ship.merging 5610
+ship.merging 5611
 show.reputation 5850
 snowfeather.robotics 5558
 space.fauna 5019
