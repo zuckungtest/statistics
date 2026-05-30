@@ -21,8 +21,8 @@
 		<td>7565</td>
 		<td>7580</td>
 		<td>7596</td>
-		<td>7613</td>
-		<td>+ 17</td>
+		<td>7614</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>7199</td>
 		<td>7214</td>
 		<td>7231</td>
-		<td>7250</td>
-		<td>+ 19</td>
+		<td>7251</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -351,8 +351,8 @@
 		<td>5712</td>
 		<td>5726</td>
 		<td>5741</td>
-		<td>5758</td>
-		<td>+ 17</td>
+		<td>5760</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -439,8 +439,8 @@
 		<td>5573</td>
 		<td>5589</td>
 		<td>5606</td>
-		<td>5627</td>
-		<td>+ 21</td>
+		<td>5628</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -505,8 +505,8 @@
 		<td>5639</td>
 		<td>5653</td>
 		<td>5669</td>
-		<td>5686</td>
-		<td>+ 17</td>
+		<td>5687</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>249357</td>
-		<td>843</td>
+		<td>249363</td>
+		<td>849</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>7565</td>
 		<td>7580</td>
 		<td>7596</td>
-		<td>7613</td>
-		<td>+ 17</td>
+		<td>7614</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -575,8 +575,8 @@
 		<td>7199</td>
 		<td>7214</td>
 		<td>7231</td>
-		<td>7250</td>
-		<td>+ 19</td>
+		<td>7251</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -773,8 +773,8 @@
 		<td>5712</td>
 		<td>5726</td>
 		<td>5741</td>
-		<td>5758</td>
-		<td>+ 17</td>
+		<td>5760</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -784,8 +784,8 @@
 		<td>5639</td>
 		<td>5653</td>
 		<td>5669</td>
-		<td>5686</td>
-		<td>+ 17</td>
+		<td>5687</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -817,8 +817,8 @@
 		<td>5573</td>
 		<td>5589</td>
 		<td>5606</td>
-		<td>5627</td>
-		<td>+ 21</td>
+		<td>5628</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>249357</td>
-		<td>843</td>
+		<td>249363</td>
+		<td>849</td>
 	</tr>
 </table>
 </sub></sup>
