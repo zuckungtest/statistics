@@ -3,13 +3,13 @@ v1.1.8-hai.side.mission.unlocker | downloads: 62
 v1.0.1-fleet.mercy | downloads: 78
 v1.0.0-fleet.mercy | downloads: 66
 v1.0.4-vague.improvements | downloads: 296
-v1.0.28-additional.command.buttons.radial | downloads: 457
+v1.0.28-additional.command.buttons.radial | downloads: 458
 v1.1.11-captureable.person.ships | downloads: 509
-v1.0.14-uniques | downloads: 317
+v1.0.14-uniques | downloads: 318
 v1.0.11-mission.helper | downloads: 384
 v1.0.10-expert.crew.members | downloads: 353
 v1.0.8-control.station | downloads: 561
-v1.0.7-ship.merging | downloads: 362
+v1.0.7-ship.merging | downloads: 363
 v1.0.3-vague.improvements | downloads: 31
 v1.0.12-combat.ai | downloads: 971
 v1.0.4-job.coloring | downloads: 738
@@ -104,7 +104,7 @@ v1.0.5-show.reputation | downloads: 3067
 v1.0.3-paint.your.ships | downloads: 5060
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 6771
-v1.0.5-better.starts | downloads: 6703
+v1.0.5-better.starts | downloads: 6704
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
 v1.0.5-mission.helper | downloads: 11
@@ -302,7 +302,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 1618
+v1.0.2-more.arfectas | downloads: 1620
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -337,16 +337,16 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 336
-# TOTAL DOWNLOADS: 251405
+# TOTAL DOWNLOADS: 251411
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 7613
+additional.command.buttons.radial 7614
 automata.destruction.0percent 6901
 automata.in.human.space 6409
 avgi.licenses 233
-better.starts 7250
+better.starts 7251
 boss.loot 6683
 bunrodea.missions 7500
 captureable.person.ships 6554
@@ -376,7 +376,7 @@ landing.images.android 351
 landing.images.highres 5091
 licenses 6070
 mission.helper 6488
-more.arfectas 5758
+more.arfectas 5760
 more.boarding.missions 6195
 more.person.ships 5204
 navy.licenses 579
@@ -388,12 +388,12 @@ planet.map 4809
 planet.pluto 197
 quarg.farm 5881
 real.fluff 96
-ship.merging 5627
+ship.merging 5628
 show.reputation 5863
 snowfeather.robotics 5572
 space.fauna 5033
 too.many.asteroids 3963
 tribute.republic 4880
 unique.fix 46
-uniques 5686
+uniques 5687
 vague.improvements 1839
