@@ -87,8 +87,8 @@
 		<td>6504</td>
 		<td>6518</td>
 		<td>6535</td>
-		<td>6549</td>
-		<td>+ 14</td>
+		<td>6550</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -120,8 +120,8 @@
 		<td>1893</td>
 		<td>1908</td>
 		<td>1924</td>
-		<td>1940</td>
-		<td>+ 16</td>
+		<td>1941</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -208,8 +208,8 @@
 		<td>6175</td>
 		<td>6190</td>
 		<td>6208</td>
-		<td>6221</td>
-		<td>+ 13</td>
+		<td>6222</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -219,8 +219,8 @@
 		<td>5240</td>
 		<td>5254</td>
 		<td>5270</td>
-		<td>5283</td>
-		<td>+ 13</td>
+		<td>5284</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -296,8 +296,8 @@
 		<td>5845</td>
 		<td>5860</td>
 		<td>5875</td>
-		<td>5888</td>
-		<td>+ 13</td>
+		<td>5890</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -329,8 +329,8 @@
 		<td>6013</td>
 		<td>6031</td>
 		<td>6050</td>
-		<td>6065</td>
-		<td>+ 15</td>
+		<td>6066</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -461,8 +461,8 @@
 		<td>5524</td>
 		<td>5538</td>
 		<td>5554</td>
-		<td>5567</td>
-		<td>+ 13</td>
+		<td>5568</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>249160</td>
-		<td>646</td>
+		<td>249168</td>
+		<td>654</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>6504</td>
 		<td>6518</td>
 		<td>6535</td>
-		<td>6549</td>
-		<td>+ 14</td>
+		<td>6550</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -696,8 +696,8 @@
 		<td>6175</td>
 		<td>6190</td>
 		<td>6208</td>
-		<td>6221</td>
-		<td>+ 13</td>
+		<td>6222</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -718,8 +718,8 @@
 		<td>6013</td>
 		<td>6031</td>
 		<td>6050</td>
-		<td>6065</td>
-		<td>+ 15</td>
+		<td>6066</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -740,8 +740,8 @@
 		<td>5845</td>
 		<td>5860</td>
 		<td>5875</td>
-		<td>5888</td>
-		<td>+ 13</td>
+		<td>5890</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -828,8 +828,8 @@
 		<td>5524</td>
 		<td>5538</td>
 		<td>5554</td>
-		<td>5567</td>
-		<td>+ 13</td>
+		<td>5568</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -883,8 +883,8 @@
 		<td>5240</td>
 		<td>5254</td>
 		<td>5270</td>
-		<td>5283</td>
-		<td>+ 13</td>
+		<td>5284</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -1015,8 +1015,8 @@
 		<td>1893</td>
 		<td>1908</td>
 		<td>1924</td>
-		<td>1940</td>
-		<td>+ 16</td>
+		<td>1941</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>249160</td>
-		<td>646</td>
+		<td>249168</td>
+		<td>654</td>
 	</tr>
 </table>
 </sub></sup>
