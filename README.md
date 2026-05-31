@@ -340,8 +340,8 @@
 		<td>6447</td>
 		<td>6465</td>
 		<td>6488</td>
-		<td>6508</td>
-		<td>+ 20</td>
+		<td>6509</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>250148</td>
-		<td>785</td>
+		<td>250149</td>
+		<td>786</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>6447</td>
 		<td>6465</td>
 		<td>6488</td>
-		<td>6508</td>
-		<td>+ 20</td>
+		<td>6509</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>250148</td>
-		<td>785</td>
+		<td>250149</td>
+		<td>786</td>
 	</tr>
 </table>
 </sub></sup>
