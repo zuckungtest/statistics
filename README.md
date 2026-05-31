@@ -21,8 +21,8 @@
 		<td>7580</td>
 		<td>7596</td>
 		<td>7614</td>
-		<td>7625</td>
-		<td>+ 11</td>
+		<td>7626</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>6649</td>
 		<td>6666</td>
 		<td>6683</td>
-		<td>6694</td>
-		<td>+ 11</td>
+		<td>6695</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -186,8 +186,8 @@
 		<td>113</td>
 		<td>128</td>
 		<td>144</td>
-		<td>159</td>
-		<td>+ 15</td>
+		<td>160</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>249894</td>
-		<td>531</td>
+		<td>249897</td>
+		<td>534</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>7580</td>
 		<td>7596</td>
 		<td>7614</td>
-		<td>7625</td>
-		<td>+ 11</td>
+		<td>7626</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -641,8 +641,8 @@
 		<td>6649</td>
 		<td>6666</td>
 		<td>6683</td>
-		<td>6694</td>
-		<td>+ 11</td>
+		<td>6695</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -1048,8 +1048,8 @@
 		<td>113</td>
 		<td>128</td>
 		<td>144</td>
-		<td>159</td>
-		<td>+ 15</td>
+		<td>160</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>249894</td>
-		<td>531</td>
+		<td>249897</td>
+		<td>534</td>
 	</tr>
 </table>
 </sub></sup>
