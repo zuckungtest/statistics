@@ -6,7 +6,7 @@ v1.0.4-vague.improvements | downloads: 311
 v1.0.28-additional.command.buttons.radial | downloads: 471
 v1.1.11-captureable.person.ships | downloads: 521
 v1.0.14-uniques | downloads: 332
-v1.0.11-mission.helper | downloads: 399
+v1.0.11-mission.helper | downloads: 400
 v1.0.10-expert.crew.members | downloads: 365
 v1.0.8-control.station | downloads: 575
 v1.0.7-ship.merging | downloads: 379
@@ -337,7 +337,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 336
-# TOTAL DOWNLOADS: 252196
+# TOTAL DOWNLOADS: 252197
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -375,7 +375,7 @@ landing.images 5537
 landing.images.android 351
 landing.images.highres 5107
 licenses 6088
-mission.helper 6508
+mission.helper 6509
 more.arfectas 5777
 more.boarding.missions 6212
 more.person.ships 5221
