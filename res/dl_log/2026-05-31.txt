@@ -1,9 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.1.8-hai.side.mission.unlocker | downloads: 70
-v1.0.1-fleet.mercy | downloads: 93
+v1.0.1-fleet.mercy | downloads: 94
 v1.0.0-fleet.mercy | downloads: 66
 v1.0.4-vague.improvements | downloads: 306
-v1.0.28-additional.command.buttons.radial | downloads: 466
+v1.0.28-additional.command.buttons.radial | downloads: 467
 v1.1.11-captureable.person.ships | downloads: 517
 v1.0.14-uniques | downloads: 327
 v1.0.11-mission.helper | downloads: 393
@@ -23,7 +23,7 @@ v1.1.6-more.boarding.missions | downloads: 2270
 v1.1.6-hai.side.mission.unlocker | downloads: 12
 v1.1.4-space.fauna | downloads: 2020
 v1.0.10-mission.helper | downloads: 2074
-v1.0.8-boss.loot | downloads: 2644
+v1.0.8-boss.loot | downloads: 2645
 v1.0.7-control.station | downloads: 2217
 v1.0.6-show.reputation | downloads: 2244
 v1.0.6-ship.merging | downloads: 1949
@@ -337,17 +337,17 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 336
-# TOTAL DOWNLOADS: 251942
+# TOTAL DOWNLOADS: 251945
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 7625
+additional.command.buttons.radial 7626
 automata.destruction.0percent 6912
 automata.in.human.space 6420
 avgi.licenses 233
 better.starts 7264
-boss.loot 6694
+boss.loot 6695
 bunrodea.missions 7511
 captureable.person.ships 6565
 coalition.shopping 6896
@@ -359,7 +359,7 @@ disable.person.ships 5649
 disable.spaceport.repeatables 5950
 expert.crew.members 6360
 flare.play 4891
-fleet.mercy 159
+fleet.mercy 160
 free.worlds.5.years.later 375
 galactic.capital.investment 7058
 gegno.pirates 6237
