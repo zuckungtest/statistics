@@ -21,8 +21,8 @@
 		<td>7614</td>
 		<td>7632</td>
 		<td>7654</td>
-		<td>7668</td>
-		<td>+ 14</td>
+		<td>7669</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -65,8 +65,8 @@
 		<td>6683</td>
 		<td>6701</td>
 		<td>6719</td>
-		<td>6732</td>
-		<td>+ 13</td>
+		<td>6733</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -230,8 +230,8 @@
 		<td>1569</td>
 		<td>1589</td>
 		<td>1606</td>
-		<td>1616</td>
-		<td>+ 10</td>
+		<td>1617</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -340,8 +340,8 @@
 		<td>6488</td>
 		<td>6510</td>
 		<td>6526</td>
-		<td>6536</td>
-		<td>+ 10</td>
+		<td>6537</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -505,8 +505,8 @@
 		<td>5687</td>
 		<td>5706</td>
 		<td>5726</td>
-		<td>5737</td>
-		<td>+ 11</td>
+		<td>5738</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>251493</td>
-		<td>511</td>
+		<td>251498</td>
+		<td>516</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>7614</td>
 		<td>7632</td>
 		<td>7654</td>
-		<td>7668</td>
-		<td>+ 14</td>
+		<td>7669</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -641,8 +641,8 @@
 		<td>6683</td>
 		<td>6701</td>
 		<td>6719</td>
-		<td>6732</td>
-		<td>+ 13</td>
+		<td>6733</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -663,8 +663,8 @@
 		<td>6488</td>
 		<td>6510</td>
 		<td>6526</td>
-		<td>6536</td>
-		<td>+ 10</td>
+		<td>6537</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -784,8 +784,8 @@
 		<td>5687</td>
 		<td>5706</td>
 		<td>5726</td>
-		<td>5737</td>
-		<td>+ 11</td>
+		<td>5738</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -1037,8 +1037,8 @@
 		<td>1569</td>
 		<td>1589</td>
 		<td>1606</td>
-		<td>1616</td>
-		<td>+ 10</td>
+		<td>1617</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>fleet.mercy</td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>251493</td>
-		<td>511</td>
+		<td>251498</td>
+		<td>516</td>
 	</tr>
 </table>
 </sub></sup>
