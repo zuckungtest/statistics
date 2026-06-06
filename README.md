@@ -21,8 +21,8 @@
 		<td>7686</td>
 		<td>7701</td>
 		<td>7720</td>
-		<td>7741</td>
-		<td>+ 21</td>
+		<td>7742</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -483,8 +483,8 @@
 		<td>4029</td>
 		<td>4045</td>
 		<td>4068</td>
-		<td>4089</td>
-		<td>+ 21</td>
+		<td>4090</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>255006</td>
-		<td>1033</td>
+		<td>255008</td>
+		<td>1035</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>7686</td>
 		<td>7701</td>
 		<td>7720</td>
-		<td>7741</td>
-		<td>+ 21</td>
+		<td>7742</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -993,8 +993,8 @@
 		<td>4029</td>
 		<td>4045</td>
 		<td>4068</td>
-		<td>4089</td>
-		<td>+ 21</td>
+		<td>4090</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>255006</td>
-		<td>1033</td>
+		<td>255008</td>
+		<td>1035</td>
 	</tr>
 </table>
 </sub></sup>
