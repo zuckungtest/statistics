@@ -76,8 +76,8 @@
 		<td>7869</td>
 		<td>7888</td>
 		<td>7905</td>
-		<td>7926</td>
-		<td>+ 21</td>
+		<td>7927</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -98,8 +98,8 @@
 		<td>7225</td>
 		<td>7244</td>
 		<td>7263</td>
-		<td>7287</td>
-		<td>+ 24</td>
+		<td>7288</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -197,8 +197,8 @@
 		<td>7410</td>
 		<td>7430</td>
 		<td>7449</td>
-		<td>7474</td>
-		<td>+ 25</td>
+		<td>7475</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -208,8 +208,8 @@
 		<td>6572</td>
 		<td>6590</td>
 		<td>6608</td>
-		<td>6631</td>
-		<td>+ 23</td>
+		<td>6632</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -296,8 +296,8 @@
 		<td>6229</td>
 		<td>6249</td>
 		<td>6266</td>
-		<td>6288</td>
-		<td>+ 22</td>
+		<td>6289</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -406,8 +406,8 @@
 		<td>5870</td>
 		<td>5887</td>
 		<td>5903</td>
-		<td>5924</td>
-		<td>+ 21</td>
+		<td>5925</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>267652</td>
-		<td>991</td>
+		<td>267658</td>
+		<td>997</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>7869</td>
 		<td>7888</td>
 		<td>7905</td>
-		<td>7926</td>
-		<td>+ 21</td>
+		<td>7927</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -597,8 +597,8 @@
 		<td>7410</td>
 		<td>7430</td>
 		<td>7449</td>
-		<td>7474</td>
-		<td>+ 25</td>
+		<td>7475</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -630,8 +630,8 @@
 		<td>7225</td>
 		<td>7244</td>
 		<td>7263</td>
-		<td>7287</td>
-		<td>+ 24</td>
+		<td>7288</td>
+		<td>+ 25</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -696,8 +696,8 @@
 		<td>6572</td>
 		<td>6590</td>
 		<td>6608</td>
-		<td>6631</td>
-		<td>+ 23</td>
+		<td>6632</td>
+		<td>+ 24</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -740,8 +740,8 @@
 		<td>6229</td>
 		<td>6249</td>
 		<td>6266</td>
-		<td>6288</td>
-		<td>+ 22</td>
+		<td>6289</td>
+		<td>+ 23</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -839,8 +839,8 @@
 		<td>5870</td>
 		<td>5887</td>
 		<td>5903</td>
-		<td>5924</td>
-		<td>+ 21</td>
+		<td>5925</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>267652</td>
-		<td>991</td>
+		<td>267658</td>
+		<td>997</td>
 	</tr>
 </table>
 </sub></sup>
