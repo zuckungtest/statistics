@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.13-combat.ai | downloads: 224
+v1.0.13-combat.ai | downloads: 225
 v1.0.4-paint.your.ships | downloads: 279
 v1.0.15-uniques | downloads: 308
 v1.0.9-boss.loot | downloads: 327
 v1.1.8-hai.side.mission.unlocker | downloads: 371
 v1.0.1-fleet.mercy | downloads: 434
 v1.0.0-fleet.mercy | downloads: 67
-v1.0.4-vague.improvements | downloads: 597
+v1.0.4-vague.improvements | downloads: 598
 v1.0.28-additional.command.buttons.radial | downloads: 798
-v1.1.11-captureable.person.ships | downloads: 824
+v1.1.11-captureable.person.ships | downloads: 825
 v1.0.14-uniques | downloads: 337
 v1.0.11-mission.helper | downloads: 745
 v1.0.10-expert.crew.members | downloads: 688
-v1.0.8-control.station | downloads: 893
+v1.0.8-control.station | downloads: 894
 v1.0.7-ship.merging | downloads: 713
 v1.0.3-vague.improvements | downloads: 32
 v1.0.12-combat.ai | downloads: 1115
@@ -23,7 +23,7 @@ v1.1.13-galactic.capital.investment | downloads: 2070
 v1.1.12-galactic.capital.investment | downloads: 374
 v1.0.0-heavy.traffic | downloads: 184
 v1.1.7-hai.side.mission.unlocker | downloads: 2042
-v1.1.6-more.boarding.missions | downloads: 2678
+v1.1.6-more.boarding.missions | downloads: 2679
 v1.1.6-hai.side.mission.unlocker | downloads: 12
 v1.1.4-space.fauna | downloads: 2393
 v1.0.10-mission.helper | downloads: 2167
@@ -77,7 +77,7 @@ v1.0.4-planet.map | downloads: 4481
 v1.0.4-no.more.mereti.mines | downloads: 4922
 v1.0.4-jump.gates | downloads: 5430
 v1.0.4-gegno.pirates | downloads: 3054
-v1.0.3-tribute.republic | downloads: 4862
+v1.0.3-tribute.republic | downloads: 4863
 v1.0.3-more.arfectas | downloads: 4503
 v1.0.3-kor.efret.shipyard | downloads: 5505
 v1.0.2-highrollers.ltd | downloads: 5087
@@ -108,7 +108,7 @@ v1.0.5-show.reputation | downloads: 3068
 v1.0.3-paint.your.ships | downloads: 5199
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 7218
-v1.0.5-better.starts | downloads: 7139
+v1.0.5-better.starts | downloads: 7140
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
 v1.0.5-mission.helper | downloads: 11
@@ -126,7 +126,7 @@ v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 410
 v1.0.4-show.reputation | downloads: 55
 v1.0.4-mission.helper | downloads: 35
-v1.0.3-more.person.ships | downloads: 5185
+v1.0.3-more.person.ships | downloads: 5186
 v1.0.3-control.station | downloads: 40
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 4
@@ -306,7 +306,7 @@ v1.1.1-hai.side.mission.unlocker | downloads: 1
 v1.1.1-more.boarding.missions | downloads: 2
 v1.1-hai.side.mission.unlocker | downloads: 1
 v1.0-hai.side.mission.unlocker | downloads: 1
-v1.0.2-more.arfectas | downloads: 1661
+v1.0.2-more.arfectas | downloads: 1662
 v1.0.1-more.arfectas | downloads: 1
 v1.0.1-snowfeather.robotics | downloads: 2
 v1.0.1-real.fluff | downloads: 2
@@ -341,7 +341,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 340
-# TOTAL DOWNLOADS: 270454
+# TOTAL DOWNLOADS: 270463
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -350,14 +350,14 @@ additional.command.buttons.radial 8050
 automata.destruction.0percent 7313
 automata.in.human.space 6811
 avgi.licenses 233
-better.starts 7686
+better.starts 7687
 boss.loot 7127
 bunrodea.missions 7947
-captureable.person.ships 6964
+captureable.person.ships 6965
 coalition.shopping 7305
-combat.ai 7526
+combat.ai 7527
 comets 2360
-control.station 7382
+control.station 7383
 devil-run.unhidden 70
 disable.person.ships 6015
 disable.spaceport.repeatables 6324
@@ -380,9 +380,9 @@ landing.images.android 351
 landing.images.highres 5484
 licenses 6528
 mission.helper 6948
-more.arfectas 6166
-more.boarding.missions 6618
-more.person.ships 5598
+more.arfectas 6167
+more.boarding.missions 6619
+more.person.ships 5599
 navy.licenses 579
 no.more.mereti.mines 5387
 outfits.weapon.slot 5804
@@ -397,7 +397,7 @@ show.reputation 6281
 snowfeather.robotics 5972
 space.fauna 5417
 too.many.asteroids 4395
-tribute.republic 5260
+tribute.republic 5261
 unique.fix 46
 uniques 6110
-vague.improvements 2238
+vague.improvements 2239
