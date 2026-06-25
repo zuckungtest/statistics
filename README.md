@@ -21,8 +21,8 @@
 		<td>8033</td>
 		<td>8050</td>
 		<td>8068</td>
-		<td>8072</td>
-		<td>+ 4</td>
+		<td>8073</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>7667</td>
 		<td>7687</td>
 		<td>7703</td>
-		<td>7707</td>
-		<td>+ 4</td>
+		<td>7708</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -109,8 +109,8 @@
 		<td>7509</td>
 		<td>7527</td>
 		<td>7547</td>
-		<td>7551</td>
-		<td>+ 4</td>
+		<td>7552</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -120,8 +120,8 @@
 		<td>2343</td>
 		<td>2360</td>
 		<td>2376</td>
-		<td>2380</td>
-		<td>+ 4</td>
+		<td>2381</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>269373</td>
-		<td>201</td>
+		<td>269377</td>
+		<td>205</td>
 	</tr>
 </table>
 </sub></sup>
@@ -553,8 +553,8 @@
 		<td>8033</td>
 		<td>8050</td>
 		<td>8068</td>
-		<td>8072</td>
-		<td>+ 4</td>
+		<td>8073</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -575,8 +575,8 @@
 		<td>7667</td>
 		<td>7687</td>
 		<td>7703</td>
-		<td>7707</td>
-		<td>+ 4</td>
+		<td>7708</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -586,8 +586,8 @@
 		<td>7509</td>
 		<td>7527</td>
 		<td>7547</td>
-		<td>7551</td>
-		<td>+ 4</td>
+		<td>7552</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -1015,8 +1015,8 @@
 		<td>2343</td>
 		<td>2360</td>
 		<td>2376</td>
-		<td>2380</td>
-		<td>+ 4</td>
+		<td>2381</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>269373</td>
-		<td>201</td>
+		<td>269377</td>
+		<td>205</td>
 	</tr>
 </table>
 </sub></sup>
