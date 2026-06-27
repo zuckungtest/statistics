@@ -1,8 +1,8 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.13-combat.ai | downloads: 283
-v1.0.4-paint.your.ships | downloads: 333
-v1.0.15-uniques | downloads: 363
-v1.0.9-boss.loot | downloads: 384
+v1.0.4-paint.your.ships | downloads: 334
+v1.0.15-uniques | downloads: 365
+v1.0.9-boss.loot | downloads: 385
 v1.1.8-hai.side.mission.unlocker | downloads: 421
 v1.0.1-fleet.mercy | downloads: 491
 v1.0.0-fleet.mercy | downloads: 67
@@ -23,7 +23,7 @@ v1.1.13-galactic.capital.investment | downloads: 2140
 v1.1.12-galactic.capital.investment | downloads: 374
 v1.0.0-heavy.traffic | downloads: 184
 v1.1.7-hai.side.mission.unlocker | downloads: 2054
-v1.1.6-more.boarding.missions | downloads: 2744
+v1.1.6-more.boarding.missions | downloads: 2745
 v1.1.6-hai.side.mission.unlocker | downloads: 12
 v1.1.4-space.fauna | downloads: 2455
 v1.0.10-mission.helper | downloads: 2179
@@ -126,7 +126,7 @@ v1.0.6-human.labels | downloads: 41
 v1.0.5-quarg.farm | downloads: 410
 v1.0.4-show.reputation | downloads: 55
 v1.0.4-mission.helper | downloads: 35
-v1.0.3-more.person.ships | downloads: 5249
+v1.0.3-more.person.ships | downloads: 5250
 v1.0.3-control.station | downloads: 40
 v1.0.2-paint.your.ships | downloads: 47
 v1.0.2-control.station | downloads: 4
@@ -341,7 +341,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 340
-# TOTAL DOWNLOADS: 273463
+# TOTAL DOWNLOADS: 273469
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -351,7 +351,7 @@ automata.destruction.0percent 7379
 automata.in.human.space 6876
 avgi.licenses 233
 better.starts 7752
-boss.loot 7196
+boss.loot 7197
 bunrodea.missions 8014
 captureable.person.ships 7028
 coalition.shopping 7370
@@ -381,12 +381,12 @@ landing.images.highres 5547
 licenses 6595
 mission.helper 7015
 more.arfectas 6230
-more.boarding.missions 6684
-more.person.ships 5662
+more.boarding.missions 6685
+more.person.ships 5663
 navy.licenses 579
 no.more.mereti.mines 5448
 outfits.weapon.slot 5867
-paint.your.ships 6008
+paint.your.ships 6009
 pirate.warlords 6
 planet.map 5254
 planet.pluto 197
@@ -399,5 +399,5 @@ space.fauna 5479
 too.many.asteroids 4463
 tribute.republic 5327
 unique.fix 46
-uniques 6177
+uniques 6179
 vague.improvements 2303
