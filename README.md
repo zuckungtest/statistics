@@ -65,8 +65,8 @@
 		<td>7144</td>
 		<td>7161</td>
 		<td>7178</td>
-		<td>7196</td>
-		<td>+ 18</td>
+		<td>7197</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -362,8 +362,8 @@
 		<td>6636</td>
 		<td>6654</td>
 		<td>6670</td>
-		<td>6684</td>
-		<td>+ 14</td>
+		<td>6685</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -373,8 +373,8 @@
 		<td>5615</td>
 		<td>5633</td>
 		<td>5649</td>
-		<td>5662</td>
-		<td>+ 13</td>
+		<td>5663</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -406,8 +406,8 @@
 		<td>5960</td>
 		<td>5977</td>
 		<td>5994</td>
-		<td>6008</td>
-		<td>+ 14</td>
+		<td>6009</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -505,8 +505,8 @@
 		<td>6127</td>
 		<td>6146</td>
 		<td>6162</td>
-		<td>6177</td>
-		<td>+ 15</td>
+		<td>6179</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>271415</td>
-		<td>666</td>
+		<td>271421</td>
+		<td>672</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>7144</td>
 		<td>7161</td>
 		<td>7178</td>
-		<td>7196</td>
-		<td>+ 18</td>
+		<td>7197</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -707,8 +707,8 @@
 		<td>6636</td>
 		<td>6654</td>
 		<td>6670</td>
-		<td>6684</td>
-		<td>+ 14</td>
+		<td>6685</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -784,8 +784,8 @@
 		<td>6127</td>
 		<td>6146</td>
 		<td>6162</td>
-		<td>6177</td>
-		<td>+ 15</td>
+		<td>6179</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -839,8 +839,8 @@
 		<td>5960</td>
 		<td>5977</td>
 		<td>5994</td>
-		<td>6008</td>
-		<td>+ 14</td>
+		<td>6009</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -905,8 +905,8 @@
 		<td>5615</td>
 		<td>5633</td>
 		<td>5649</td>
-		<td>5662</td>
-		<td>+ 13</td>
+		<td>5663</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>271415</td>
-		<td>666</td>
+		<td>271421</td>
+		<td>672</td>
 	</tr>
 </table>
 </sub></sup>
