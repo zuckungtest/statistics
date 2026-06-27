@@ -43,8 +43,8 @@
 		<td>6826</td>
 		<td>6844</td>
 		<td>6861</td>
-		<td>6867</td>
-		<td>+ 6</td>
+		<td>6868</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -54,8 +54,8 @@
 		<td>7703</td>
 		<td>7721</td>
 		<td>7737</td>
-		<td>7744</td>
-		<td>+ 7</td>
+		<td>7745</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -164,8 +164,8 @@
 		<td>6798</td>
 		<td>6817</td>
 		<td>6834</td>
-		<td>6841</td>
-		<td>+ 7</td>
+		<td>6842</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -208,8 +208,8 @@
 		<td>6669</td>
 		<td>6687</td>
 		<td>6706</td>
-		<td>6712</td>
-		<td>+ 6</td>
+		<td>6713</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -274,8 +274,8 @@
 		<td>6090</td>
 		<td>6107</td>
 		<td>6125</td>
-		<td>6132</td>
-		<td>+ 7</td>
+		<td>6133</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -329,8 +329,8 @@
 		<td>6544</td>
 		<td>6563</td>
 		<td>6580</td>
-		<td>6587</td>
-		<td>+ 7</td>
+		<td>6588</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -527,8 +527,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>271066</td>
-		<td>317</td>
+		<td>271072</td>
+		<td>323</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>7703</td>
 		<td>7721</td>
 		<td>7737</td>
-		<td>7744</td>
-		<td>+ 7</td>
+		<td>7745</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -674,8 +674,8 @@
 		<td>6826</td>
 		<td>6844</td>
 		<td>6861</td>
-		<td>6867</td>
-		<td>+ 6</td>
+		<td>6868</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -685,8 +685,8 @@
 		<td>6798</td>
 		<td>6817</td>
 		<td>6834</td>
-		<td>6841</td>
-		<td>+ 7</td>
+		<td>6842</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -696,8 +696,8 @@
 		<td>6669</td>
 		<td>6687</td>
 		<td>6706</td>
-		<td>6712</td>
-		<td>+ 6</td>
+		<td>6713</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -718,8 +718,8 @@
 		<td>6544</td>
 		<td>6563</td>
 		<td>6580</td>
-		<td>6587</td>
-		<td>+ 7</td>
+		<td>6588</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -806,8 +806,8 @@
 		<td>6090</td>
 		<td>6107</td>
 		<td>6125</td>
-		<td>6132</td>
-		<td>+ 7</td>
+		<td>6133</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -1059,8 +1059,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>271066</td>
-		<td>317</td>
+		<td>271072</td>
+		<td>323</td>
 	</tr>
 </table>
 </sub></sup>
