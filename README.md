@@ -109,8 +109,8 @@
 		<td>7598</td>
 		<td>7621</td>
 		<td>7640</td>
-		<td>7656</td>
-		<td>+ 16</td>
+		<td>7657</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -186,8 +186,8 @@
 		<td>560</td>
 		<td>578</td>
 		<td>592</td>
-		<td>609</td>
-		<td>+ 17</td>
+		<td>610</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -197,8 +197,8 @@
 		<td>7567</td>
 		<td>7587</td>
 		<td>7600</td>
-		<td>7616</td>
-		<td>+ 16</td>
+		<td>7617</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -307,8 +307,8 @@
 		<td>5983</td>
 		<td>6001</td>
 		<td>6014</td>
-		<td>6030</td>
-		<td>+ 16</td>
+		<td>6031</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>273530</td>
-		<td>677</td>
+		<td>273534</td>
+		<td>681</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>7598</td>
 		<td>7621</td>
 		<td>7640</td>
-		<td>7656</td>
-		<td>+ 16</td>
+		<td>7657</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -608,8 +608,8 @@
 		<td>7567</td>
 		<td>7587</td>
 		<td>7600</td>
-		<td>7616</td>
-		<td>+ 16</td>
+		<td>7617</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -861,8 +861,8 @@
 		<td>5983</td>
 		<td>6001</td>
 		<td>6014</td>
-		<td>6030</td>
-		<td>+ 16</td>
+		<td>6031</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -1059,8 +1059,8 @@
 		<td>560</td>
 		<td>578</td>
 		<td>592</td>
-		<td>609</td>
-		<td>+ 17</td>
+		<td>610</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>273530</td>
-		<td>677</td>
+		<td>273534</td>
+		<td>681</td>
 	</tr>
 </table>
 </sub></sup>
