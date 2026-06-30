@@ -1,8 +1,9 @@
 # DOWNLOADS FOR EACH RELEASE:
+v1.0.12-mission.helper | downloads: 0
 v1.0.2-heavy.traffic | downloads: 2
-v1.0.2-fleet.mercy | downloads: 9
+v1.0.2-fleet.mercy | downloads: 10
 v1.0.0-ship.cores | downloads: 6
-v1.0.13-combat.ai | downloads: 342
+v1.0.13-combat.ai | downloads: 343
 v1.0.4-paint.your.ships | downloads: 375
 v1.0.15-uniques | downloads: 413
 v1.0.9-boss.loot | downloads: 435
@@ -22,7 +23,7 @@ v1.0.12-combat.ai | downloads: 1115
 v1.0.4-job.coloring | downloads: 1198
 v1.0.1-heavy.traffic | downloads: 1936
 v1.0.3-job.coloring | downloads: 822
-v1.1.13-galactic.capital.investment | downloads: 2191
+v1.1.13-galactic.capital.investment | downloads: 2192
 v1.1.12-galactic.capital.investment | downloads: 374
 v1.0.0-heavy.traffic | downloads: 184
 v1.1.7-hai.side.mission.unlocker | downloads: 2054
@@ -88,7 +89,7 @@ v1.0.2-automata.in.human.space | downloads: 6392
 v1.0.2-automata.destruction.0percent | downloads: 5812
 v1.0.1-kestrel.unlocks | downloads: 5334
 v1.0.1-disable.person.ships | downloads: 5558
-v1.0.5-landing.images | downloads: 5455
+v1.0.5-landing.images | downloads: 5456
 v1.0.3-landing.images.highres | downloads: 5190
 v1.0.25-additional.command.buttons.radial | downloads: 330
 v1.1.9-galactic.capital.investment | downloads: 959
@@ -343,8 +344,8 @@ v1.0-additional.command.buttons | downloads: 1
 v1.1-galactic.capital.investment | downloads: 29
 
 
-# NUMBER OF RELEASES: 343
-# TOTAL DOWNLOADS: 275578
+# NUMBER OF RELEASES: 344
+# TOTAL DOWNLOADS: 275582
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -358,7 +359,7 @@ boss.loot 7247
 bunrodea.missions 8062
 captureable.person.ships 7073
 coalition.shopping 7417
-combat.ai 7656
+combat.ai 7657
 comets 2471
 control.station 7494
 devil-run.unhidden 70
@@ -366,9 +367,9 @@ disable.person.ships 6115
 disable.spaceport.repeatables 6428
 expert.crew.members 6901
 flare.play 5368
-fleet.mercy 609
+fleet.mercy 610
 free.worlds.5.years.later 375
-galactic.capital.investment 7616
+galactic.capital.investment 7617
 gegno.pirates 6775
 hai.side.mission.unlocker 5798
 heavy.traffic 2122
@@ -378,7 +379,7 @@ job.coloring 2542
 jump.gates 6183
 kestrel.unlocks 5916
 kor.efret.shipyard 6413
-landing.images 6030
+landing.images 6031
 landing.images.android 351
 landing.images.highres 5593
 licenses 6643
