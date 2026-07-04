@@ -153,8 +153,8 @@
 		<td>6441</td>
 		<td>6454</td>
 		<td>6473</td>
-		<td>6491</td>
-		<td>+ 18</td>
+		<td>6492</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>276595</td>
-		<td>732</td>
+		<td>276596</td>
+		<td>733</td>
 	</tr>
 </table>
 </sub></sup>
@@ -740,8 +740,8 @@
 		<td>6441</td>
 		<td>6454</td>
 		<td>6473</td>
-		<td>6491</td>
-		<td>+ 18</td>
+		<td>6492</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>276595</td>
-		<td>732</td>
+		<td>276596</td>
+		<td>733</td>
 	</tr>
 </table>
 </sub></sup>
