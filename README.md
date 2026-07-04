@@ -131,8 +131,8 @@
 		<td>7507</td>
 		<td>7523</td>
 		<td>7543</td>
-		<td>7556</td>
-		<td>+ 13</td>
+		<td>7557</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -406,8 +406,8 @@
 		<td>6067</td>
 		<td>6079</td>
 		<td>6101</td>
-		<td>6114</td>
-		<td>+ 13</td>
+		<td>6115</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -428,8 +428,8 @@
 		<td>6420</td>
 		<td>6432</td>
 		<td>6458</td>
-		<td>6468</td>
-		<td>+ 10</td>
+		<td>6469</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -439,8 +439,8 @@
 		<td>10</td>
 		<td>13</td>
 		<td>14</td>
-		<td>14</td>
-		<td></td>
+		<td>17</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -494,8 +494,8 @@
 		<td>4528</td>
 		<td>4541</td>
 		<td>4563</td>
-		<td>4575</td>
-		<td>+ 12</td>
+		<td>4576</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>276389</td>
-		<td>526</td>
+		<td>276396</td>
+		<td>533</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>7507</td>
 		<td>7523</td>
 		<td>7543</td>
-		<td>7556</td>
-		<td>+ 13</td>
+		<td>7557</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -762,8 +762,8 @@
 		<td>6420</td>
 		<td>6432</td>
 		<td>6458</td>
-		<td>6468</td>
-		<td>+ 10</td>
+		<td>6469</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -850,8 +850,8 @@
 		<td>6067</td>
 		<td>6079</td>
 		<td>6101</td>
-		<td>6114</td>
-		<td>+ 13</td>
+		<td>6115</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -1004,8 +1004,8 @@
 		<td>4528</td>
 		<td>4541</td>
 		<td>4563</td>
-		<td>4575</td>
-		<td>+ 12</td>
+		<td>4576</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -1070,8 +1070,8 @@
 		<td>10</td>
 		<td>13</td>
 		<td>14</td>
-		<td>14</td>
-		<td></td>
+		<td>17</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>276389</td>
-		<td>526</td>
+		<td>276396</td>
+		<td>533</td>
 	</tr>
 </table>
 </sub></sup>
