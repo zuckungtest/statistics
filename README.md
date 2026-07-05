@@ -21,8 +21,8 @@
 		<td>8191</td>
 		<td>8217</td>
 		<td>8235</td>
-		<td>8249</td>
-		<td>+ 14</td>
+		<td>8250</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -109,8 +109,8 @@
 		<td>7686</td>
 		<td>7710</td>
 		<td>7726</td>
-		<td>7743</td>
-		<td>+ 17</td>
+		<td>7744</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -186,8 +186,8 @@
 		<td>645</td>
 		<td>668</td>
 		<td>684</td>
-		<td>699</td>
-		<td>+ 15</td>
+		<td>701</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -219,8 +219,8 @@
 		<td>5824</td>
 		<td>5841</td>
 		<td>5856</td>
-		<td>5871</td>
-		<td>+ 15</td>
+		<td>5872</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -230,8 +230,8 @@
 		<td>2159</td>
 		<td>2181</td>
 		<td>2197</td>
-		<td>2215</td>
-		<td>+ 18</td>
+		<td>2216</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -340,8 +340,8 @@
 		<td>7111</td>
 		<td>7135</td>
 		<td>7154</td>
-		<td>7171</td>
-		<td>+ 17</td>
+		<td>7172</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -439,8 +439,8 @@
 		<td>13</td>
 		<td>14</td>
 		<td>18</td>
-		<td>22</td>
-		<td>+ 4</td>
+		<td>23</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -516,8 +516,8 @@
 		<td>6258</td>
 		<td>6280</td>
 		<td>6295</td>
-		<td>6313</td>
-		<td>+ 18</td>
+		<td>6314</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -527,8 +527,8 @@
 		<td>2375</td>
 		<td>2394</td>
 		<td>2410</td>
-		<td>2425</td>
-		<td>+ 15</td>
+		<td>2426</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>277308</td>
-		<td>712</td>
+		<td>277318</td>
+		<td>722</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>8191</td>
 		<td>8217</td>
 		<td>8235</td>
-		<td>8249</td>
-		<td>+ 14</td>
+		<td>8250</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -597,8 +597,8 @@
 		<td>7686</td>
 		<td>7710</td>
 		<td>7726</td>
-		<td>7743</td>
-		<td>+ 17</td>
+		<td>7744</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -663,8 +663,8 @@
 		<td>7111</td>
 		<td>7135</td>
 		<td>7154</td>
-		<td>7171</td>
-		<td>+ 17</td>
+		<td>7172</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -795,8 +795,8 @@
 		<td>6258</td>
 		<td>6280</td>
 		<td>6295</td>
-		<td>6313</td>
-		<td>+ 18</td>
+		<td>6314</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -894,8 +894,8 @@
 		<td>5824</td>
 		<td>5841</td>
 		<td>5856</td>
-		<td>5871</td>
-		<td>+ 15</td>
+		<td>5872</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -1037,8 +1037,8 @@
 		<td>2375</td>
 		<td>2394</td>
 		<td>2410</td>
-		<td>2425</td>
-		<td>+ 15</td>
+		<td>2426</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1048,8 +1048,8 @@
 		<td>2159</td>
 		<td>2181</td>
 		<td>2197</td>
-		<td>2215</td>
-		<td>+ 18</td>
+		<td>2216</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>fleet.mercy</td>
@@ -1059,8 +1059,8 @@
 		<td>645</td>
 		<td>668</td>
 		<td>684</td>
-		<td>699</td>
-		<td>+ 15</td>
+		<td>701</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -1070,8 +1070,8 @@
 		<td>13</td>
 		<td>14</td>
 		<td>18</td>
-		<td>22</td>
-		<td>+ 4</td>
+		<td>23</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>277308</td>
-		<td>712</td>
+		<td>277318</td>
+		<td>722</td>
 	</tr>
 </table>
 </sub></sup>
