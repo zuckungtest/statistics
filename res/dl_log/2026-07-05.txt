@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.1-ship.cores | downloads: 4
-v1.0.12-mission.helper | downloads: 99
-v1.0.2-heavy.traffic | downloads: 95
-v1.0.2-fleet.mercy | downloads: 97
+v1.0.1-ship.cores | downloads: 5
+v1.0.12-mission.helper | downloads: 100
+v1.0.2-heavy.traffic | downloads: 96
+v1.0.2-fleet.mercy | downloads: 99
 v1.0.0-ship.cores | downloads: 18
-v1.0.13-combat.ai | downloads: 428
+v1.0.13-combat.ai | downloads: 429
 v1.0.4-paint.your.ships | downloads: 459
-v1.0.15-uniques | downloads: 498
+v1.0.15-uniques | downloads: 499
 v1.0.9-boss.loot | downloads: 516
-v1.1.8-hai.side.mission.unlocker | downloads: 537
+v1.1.8-hai.side.mission.unlocker | downloads: 538
 v1.0.1-fleet.mercy | downloads: 535
 v1.0.0-fleet.mercy | downloads: 67
-v1.0.4-vague.improvements | downloads: 772
-v1.0.28-additional.command.buttons.radial | downloads: 984
+v1.0.4-vague.improvements | downloads: 773
+v1.0.28-additional.command.buttons.radial | downloads: 985
 v1.1.11-captureable.person.ships | downloads: 997
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 857
@@ -346,12 +346,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 345
-# TOTAL DOWNLOADS: 279356
+# TOTAL DOWNLOADS: 279366
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 8249
+additional.command.buttons.radial 8250
 automata.destruction.0percent 7505
 automata.in.human.space 6998
 avgi.licenses 233
@@ -360,7 +360,7 @@ boss.loot 7328
 bunrodea.missions 8146
 captureable.person.ships 7149
 coalition.shopping 7502
-combat.ai 7743
+combat.ai 7744
 comets 2556
 control.station 7577
 devil-run.unhidden 70
@@ -368,12 +368,12 @@ disable.person.ships 6189
 disable.spaceport.repeatables 6507
 expert.crew.members 6988
 flare.play 5442
-fleet.mercy 699
+fleet.mercy 701
 free.worlds.5.years.later 375
 galactic.capital.investment 7708
 gegno.pirates 6866
-hai.side.mission.unlocker 5871
-heavy.traffic 2215
+hai.side.mission.unlocker 5872
+heavy.traffic 2216
 highrollers.ltd 5501
 human.labels 5818
 job.coloring 2628
@@ -384,7 +384,7 @@ landing.images 6110
 landing.images.android 351
 landing.images.highres 5669
 licenses 6732
-mission.helper 7171
+mission.helper 7172
 more.arfectas 6356
 more.boarding.missions 6817
 more.person.ships 5782
@@ -397,7 +397,7 @@ planet.map 5368
 planet.pluto 197
 quarg.farm 6488
 real.fluff 96
-ship.cores 22
+ship.cores 23
 ship.merging 6283
 show.reputation 6469
 snowfeather.robotics 6163
@@ -405,5 +405,5 @@ space.fauna 5595
 too.many.asteroids 4597
 tribute.republic 5442
 unique.fix 46
-uniques 6313
-vague.improvements 2425
+uniques 6314
+vague.improvements 2426
