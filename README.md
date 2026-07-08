@@ -406,8 +406,8 @@
 		<td>6134</td>
 		<td>6147</td>
 		<td>6162</td>
-		<td>6168</td>
-		<td>+ 6</td>
+		<td>6169</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>279008</td>
-		<td>311</td>
+		<td>279009</td>
+		<td>312</td>
 	</tr>
 </table>
 </sub></sup>
@@ -850,8 +850,8 @@
 		<td>6134</td>
 		<td>6147</td>
 		<td>6162</td>
-		<td>6168</td>
-		<td>+ 6</td>
+		<td>6169</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>279008</td>
-		<td>311</td>
+		<td>279009</td>
+		<td>312</td>
 	</tr>
 </table>
 </sub></sup>
