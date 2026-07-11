@@ -3,7 +3,7 @@ v1.0.3-ship.cores | downloads: 7
 v1.1.14-galactic.capital.investment | downloads: 72
 v1.0.2-ship.cores | downloads: 8
 v1.0.1-ship.cores | downloads: 8
-v1.0.12-mission.helper | downloads: 196
+v1.0.12-mission.helper | downloads: 197
 v1.0.2-heavy.traffic | downloads: 190
 v1.0.2-fleet.mercy | downloads: 189
 v1.0.0-ship.cores | downloads: 18
@@ -37,7 +37,7 @@ v1.1.4-space.fauna | downloads: 2648
 v1.0.10-mission.helper | downloads: 2179
 v1.0.8-boss.loot | downloads: 2762
 v1.0.7-control.station | downloads: 2322
-v1.0.6-show.reputation | downloads: 2923
+v1.0.6-show.reputation | downloads: 2925
 v1.0.6-ship.merging | downloads: 2054
 v1.0.1-comets | downloads: 2411
 v1.0.6-gegno.pirates | downloads: 3009
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 277672
+# TOTAL DOWNLOADS: 277675
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -387,7 +387,7 @@ landing.images 6192
 landing.images.android 351
 landing.images.highres 5747
 licenses 6830
-mission.helper 7271
+mission.helper 7272
 more.arfectas 6442
 more.boarding.missions 6900
 more.person.ships 5863
@@ -402,7 +402,7 @@ quarg.farm 6573
 real.fluff 96
 ship.cores 41
 ship.merging 6372
-show.reputation 6556
+show.reputation 6558
 snowfeather.robotics 6249
 space.fauna 5672
 too.many.asteroids 4684
