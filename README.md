@@ -340,8 +340,8 @@
 		<td>7222</td>
 		<td>7240</td>
 		<td>7255</td>
-		<td>7271</td>
-		<td>+ 16</td>
+		<td>7272</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td>6516</td>
 		<td>6529</td>
 		<td>6542</td>
-		<td>6556</td>
-		<td>+ 14</td>
+		<td>6558</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>275624</td>
-		<td>600</td>
+		<td>275627</td>
+		<td>603</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>7222</td>
 		<td>7240</td>
 		<td>7255</td>
-		<td>7271</td>
-		<td>+ 16</td>
+		<td>7272</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -762,8 +762,8 @@
 		<td>6516</td>
 		<td>6529</td>
 		<td>6542</td>
-		<td>6556</td>
-		<td>+ 14</td>
+		<td>6558</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>275624</td>
-		<td>600</td>
+		<td>275627</td>
+		<td>603</td>
 	</tr>
 </table>
 </sub></sup>
