@@ -65,8 +65,8 @@
 		<td>7388</td>
 		<td>7402</td>
 		<td>7420</td>
-		<td>7434</td>
-		<td>+ 14</td>
+		<td>7435</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -197,8 +197,8 @@
 		<td>7786</td>
 		<td>7807</td>
 		<td>7833</td>
-		<td>7850</td>
-		<td>+ 17</td>
+		<td>7851</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -230,8 +230,8 @@
 		<td>2283</td>
 		<td>2297</td>
 		<td>2314</td>
-		<td>2327</td>
-		<td>+ 13</td>
+		<td>2328</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -340,8 +340,8 @@
 		<td>7240</td>
 		<td>7255</td>
 		<td>7277</td>
-		<td>7291</td>
-		<td>+ 14</td>
+		<td>7292</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -494,8 +494,8 @@
 		<td>4659</td>
 		<td>4672</td>
 		<td>4688</td>
-		<td>4701</td>
-		<td>+ 13</td>
+		<td>4702</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -516,8 +516,8 @@
 		<td>6375</td>
 		<td>6388</td>
 		<td>6407</td>
-		<td>6419</td>
-		<td>+ 12</td>
+		<td>6420</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>276383</td>
-		<td>549</td>
+		<td>276389</td>
+		<td>555</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>7786</td>
 		<td>7807</td>
 		<td>7833</td>
-		<td>7850</td>
-		<td>+ 17</td>
+		<td>7851</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -652,8 +652,8 @@
 		<td>7388</td>
 		<td>7402</td>
 		<td>7420</td>
-		<td>7434</td>
-		<td>+ 14</td>
+		<td>7435</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -663,8 +663,8 @@
 		<td>7240</td>
 		<td>7255</td>
 		<td>7277</td>
-		<td>7291</td>
-		<td>+ 14</td>
+		<td>7292</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -784,8 +784,8 @@
 		<td>6375</td>
 		<td>6388</td>
 		<td>6407</td>
-		<td>6419</td>
-		<td>+ 12</td>
+		<td>6420</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -993,8 +993,8 @@
 		<td>4659</td>
 		<td>4672</td>
 		<td>4688</td>
-		<td>4701</td>
-		<td>+ 13</td>
+		<td>4702</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -1037,8 +1037,8 @@
 		<td>2283</td>
 		<td>2297</td>
 		<td>2314</td>
-		<td>2327</td>
-		<td>+ 13</td>
+		<td>2328</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>276383</td>
-		<td>549</td>
+		<td>276389</td>
+		<td>555</td>
 	</tr>
 </table>
 </sub></sup>
