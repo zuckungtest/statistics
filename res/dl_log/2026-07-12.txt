@@ -1,16 +1,16 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-ship.cores | downloads: 10
-v1.1.14-galactic.capital.investment | downloads: 94
+v1.1.14-galactic.capital.investment | downloads: 95
 v1.0.2-ship.cores | downloads: 8
 v1.0.1-ship.cores | downloads: 8
-v1.0.12-mission.helper | downloads: 216
-v1.0.2-heavy.traffic | downloads: 207
+v1.0.12-mission.helper | downloads: 217
+v1.0.2-heavy.traffic | downloads: 208
 v1.0.2-fleet.mercy | downloads: 205
 v1.0.0-ship.cores | downloads: 18
 v1.0.13-combat.ai | downloads: 542
 v1.0.4-paint.your.ships | downloads: 560
-v1.0.15-uniques | downloads: 604
-v1.0.9-boss.loot | downloads: 622
+v1.0.15-uniques | downloads: 605
+v1.0.9-boss.loot | downloads: 623
 v1.1.8-hai.side.mission.unlocker | downloads: 636
 v1.0.1-fleet.mercy | downloads: 536
 v1.0.0-fleet.mercy | downloads: 68
@@ -80,7 +80,7 @@ v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2580
 v1.1.2-disable.spaceport.repeatables | downloads: 31
 v1.0.7-coalition.shopping | downloads: 6856
-v1.0.5-too.many.asteroids | downloads: 3050
+v1.0.5-too.many.asteroids | downloads: 3051
 v1.0.4-planet.map | downloads: 4728
 v1.0.4-no.more.mereti.mines | downloads: 5186
 v1.0.4-jump.gates | downloads: 5724
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 278431
+# TOTAL DOWNLOADS: 278437
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -359,7 +359,7 @@ automata.destruction.0percent 7605
 automata.in.human.space 7100
 avgi.licenses 233
 better.starts 7995
-boss.loot 7434
+boss.loot 7435
 bunrodea.missions 8254
 captureable.person.ships 7245
 coalition.shopping 7609
@@ -373,10 +373,10 @@ expert.crew.members 7105
 flare.play 5536
 fleet.mercy 809
 free.worlds.5.years.later 375
-galactic.capital.investment 7850
+galactic.capital.investment 7851
 gegno.pirates 6972
 hai.side.mission.unlocker 5970
-heavy.traffic 2327
+heavy.traffic 2328
 highrollers.ltd 5598
 human.labels 5917
 job.coloring 2737
@@ -387,7 +387,7 @@ landing.images 6209
 landing.images.android 351
 landing.images.highres 5762
 licenses 6847
-mission.helper 7291
+mission.helper 7292
 more.arfectas 6458
 more.boarding.missions 6919
 more.person.ships 5882
@@ -405,8 +405,8 @@ ship.merging 6390
 show.reputation 6576
 snowfeather.robotics 6266
 space.fauna 5690
-too.many.asteroids 4701
+too.many.asteroids 4702
 tribute.republic 5533
 unique.fix 46
-uniques 6419
+uniques 6420
 vague.improvements 2524
