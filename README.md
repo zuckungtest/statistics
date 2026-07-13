@@ -21,8 +21,8 @@
 		<td>8325</td>
 		<td>8342</td>
 		<td>8362</td>
-		<td>8382</td>
-		<td>+ 20</td>
+		<td>8383</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -197,8 +197,8 @@
 		<td>7807</td>
 		<td>7833</td>
 		<td>7857</td>
-		<td>7873</td>
-		<td>+ 16</td>
+		<td>7874</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -241,8 +241,8 @@
 		<td>5572</td>
 		<td>5587</td>
 		<td>5604</td>
-		<td>5615</td>
-		<td>+ 11</td>
+		<td>5616</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>277221</td>
-		<td>581</td>
+		<td>277224</td>
+		<td>584</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>8325</td>
 		<td>8342</td>
 		<td>8362</td>
-		<td>8382</td>
-		<td>+ 20</td>
+		<td>8383</td>
+		<td>+ 21</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -608,8 +608,8 @@
 		<td>7807</td>
 		<td>7833</td>
 		<td>7857</td>
-		<td>7873</td>
-		<td>+ 16</td>
+		<td>7874</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -949,8 +949,8 @@
 		<td>5572</td>
 		<td>5587</td>
 		<td>5604</td>
-		<td>5615</td>
-		<td>+ 11</td>
+		<td>5616</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>277221</td>
-		<td>581</td>
+		<td>277224</td>
+		<td>584</td>
 	</tr>
 </table>
 </sub></sup>
