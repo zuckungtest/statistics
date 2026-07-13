@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-ship.cores | downloads: 16
-v1.1.14-galactic.capital.investment | downloads: 117
+v1.1.14-galactic.capital.investment | downloads: 118
 v1.0.2-ship.cores | downloads: 8
 v1.0.1-ship.cores | downloads: 8
 v1.0.12-mission.helper | downloads: 242
@@ -15,7 +15,7 @@ v1.1.8-hai.side.mission.unlocker | downloads: 653
 v1.0.1-fleet.mercy | downloads: 536
 v1.0.0-fleet.mercy | downloads: 68
 v1.0.4-vague.improvements | downloads: 887
-v1.0.28-additional.command.buttons.radial | downloads: 1116
+v1.0.28-additional.command.buttons.radial | downloads: 1117
 v1.1.11-captureable.person.ships | downloads: 1109
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 859
@@ -88,7 +88,7 @@ v1.0.4-gegno.pirates | downloads: 3054
 v1.0.3-tribute.republic | downloads: 5151
 v1.0.3-more.arfectas | downloads: 4771
 v1.0.3-kor.efret.shipyard | downloads: 5815
-v1.0.2-highrollers.ltd | downloads: 5377
+v1.0.2-highrollers.ltd | downloads: 5378
 v1.0.2-automata.in.human.space | downloads: 6592
 v1.0.2-automata.destruction.0percent | downloads: 5985
 v1.0.1-kestrel.unlocks | downloads: 5532
@@ -349,12 +349,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 279270
+# TOTAL DOWNLOADS: 279273
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 8382
+additional.command.buttons.radial 8383
 automata.destruction.0percent 7623
 automata.in.human.space 7116
 avgi.licenses 233
@@ -373,11 +373,11 @@ expert.crew.members 7124
 flare.play 5552
 fleet.mercy 827
 free.worlds.5.years.later 375
-galactic.capital.investment 7873
+galactic.capital.investment 7874
 gegno.pirates 6989
 hai.side.mission.unlocker 5987
 heavy.traffic 2347
-highrollers.ltd 5615
+highrollers.ltd 5616
 human.labels 5934
 job.coloring 2756
 jump.gates 6384
