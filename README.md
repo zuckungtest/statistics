@@ -54,8 +54,8 @@
 		<td>7985</td>
 		<td>8002</td>
 		<td>8016</td>
-		<td>8022</td>
-		<td>+ 6</td>
+		<td>8023</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -395,8 +395,8 @@
 		<td>6078</td>
 		<td>6094</td>
 		<td>6106</td>
-		<td>6113</td>
-		<td>+ 7</td>
+		<td>6114</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>277531</td>
-		<td>307</td>
+		<td>277533</td>
+		<td>309</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>7985</td>
 		<td>8002</td>
 		<td>8016</td>
-		<td>8022</td>
-		<td>+ 6</td>
+		<td>8023</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -872,8 +872,8 @@
 		<td>6078</td>
 		<td>6094</td>
 		<td>6106</td>
-		<td>6113</td>
-		<td>+ 7</td>
+		<td>6114</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>277531</td>
-		<td>307</td>
+		<td>277533</td>
+		<td>309</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1090,7 +1090,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-07-04</td>
 		<td>2026-07-05</td>
 		<td>2026-07-06</td>
 		<td>2026-07-07</td>
@@ -1099,10 +1098,10 @@
 		<td>2026-07-10</td>
 		<td>2026-07-11</td>
 		<td>2026-07-12</td>
+		<td>2026-07-13</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>124</td>
 		<td>56</td>
 		<td>74</td>
 		<td>71</td>
@@ -1111,10 +1110,10 @@
 		<td>82</td>
 		<td>87</td>
 		<td>198</td>
+		<td>50</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>29</td>
 		<td>13</td>
 		<td>22</td>
 		<td>24</td>
@@ -1123,6 +1122,7 @@
 		<td>24</td>
 		<td>32</td>
 		<td>19</td>
+		<td>21</td>
 	</tr>
 </table>
 <br>
@@ -1136,8 +1136,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>27611</td>
-		<td>6985</td>
+		<td>27661</td>
+		<td>7006</td>
 		<td>407</td>
 		<td>53</td>
 	</tr>
@@ -1150,8 +1150,8 @@
 	</tr>
 	<tr>
 		<td>276</td>
-		<td>100.04</td>
-		<td>25.31</td>
+		<td>100.22</td>
+		<td>25.38</td>
 		<td></td>
 		<td></td>
 	</tr>
