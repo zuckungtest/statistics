@@ -120,8 +120,8 @@
 		<td>2648</td>
 		<td>2663</td>
 		<td>2678</td>
-		<td>2692</td>
-		<td>+ 14</td>
+		<td>2693</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>277942</td>
-		<td>718</td>
+		<td>277943</td>
+		<td>719</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1015,8 +1015,8 @@
 		<td>2648</td>
 		<td>2663</td>
 		<td>2678</td>
-		<td>2692</td>
-		<td>+ 14</td>
+		<td>2693</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>277942</td>
-		<td>718</td>
+		<td>277943</td>
+		<td>719</td>
 	</tr>
 </table>
 </sub></sup>
