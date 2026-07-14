@@ -116,7 +116,7 @@ v1.0.5-show.reputation | downloads: 3068
 v1.0.3-paint.your.ships | downloads: 5211
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 7551
-v1.0.5-better.starts | downloads: 7475
+v1.0.5-better.starts | downloads: 7476
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
 v1.0.5-mission.helper | downloads: 11
@@ -138,7 +138,7 @@ v1.0.3-more.person.ships | downloads: 5491
 v1.0.3-control.station | downloads: 40
 v1.0.2-paint.your.ships | downloads: 48
 v1.0.2-control.station | downloads: 4
-v1.0.1-outfits.weapon.slot | downloads: 5735
+v1.0.1-outfits.weapon.slot | downloads: 5736
 v1.0.2-combat.ai | downloads: 46
 v1.0.1-combat.ai | downloads: 3
 v1.0.0-combat.ai | downloads: 74
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 279580
+# TOTAL DOWNLOADS: 279582
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -358,7 +358,7 @@ additional.command.buttons.radial 8391
 automata.destruction.0percent 7630
 automata.in.human.space 7123
 avgi.licenses 233
-better.starts 8022
+better.starts 8023
 boss.loot 7458
 bunrodea.missions 8280
 captureable.person.ships 7268
@@ -393,7 +393,7 @@ more.boarding.missions 6944
 more.person.ships 5904
 navy.licenses 580
 no.more.mereti.mines 5675
-outfits.weapon.slot 6113
+outfits.weapon.slot 6114
 paint.your.ships 6260
 pirate.warlords 6
 planet.map 5478
