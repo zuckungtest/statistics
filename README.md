@@ -428,8 +428,8 @@
 		<td>6594</td>
 		<td>6606</td>
 		<td>6620</td>
-		<td>6626</td>
-		<td>+ 6</td>
+		<td>6627</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>278251</td>
-		<td>308</td>
+		<td>278252</td>
+		<td>309</td>
 	</tr>
 </table>
 </sub></sup>
@@ -751,8 +751,8 @@
 		<td>6594</td>
 		<td>6606</td>
 		<td>6620</td>
-		<td>6626</td>
-		<td>+ 6</td>
+		<td>6627</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>278251</td>
-		<td>308</td>
+		<td>278252</td>
+		<td>309</td>
 	</tr>
 </table>
 </sub></sup>
