@@ -120,8 +120,8 @@
 		<td>2678</td>
 		<td>2693</td>
 		<td>2709</td>
-		<td>2720</td>
-		<td>+ 11</td>
+		<td>2721</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -439,8 +439,8 @@
 		<td>50</td>
 		<td>53</td>
 		<td>55</td>
-		<td>57</td>
-		<td>+ 2</td>
+		<td>59</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>279166</td>
-		<td>461</td>
+		<td>279169</td>
+		<td>464</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1015,8 +1015,8 @@
 		<td>2678</td>
 		<td>2693</td>
 		<td>2709</td>
-		<td>2720</td>
-		<td>+ 11</td>
+		<td>2721</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1070,8 +1070,8 @@
 		<td>50</td>
 		<td>53</td>
 		<td>55</td>
-		<td>57</td>
-		<td>+ 2</td>
+		<td>59</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>279166</td>
-		<td>461</td>
+		<td>279169</td>
+		<td>464</td>
 	</tr>
 </table>
 </sub></sup>
