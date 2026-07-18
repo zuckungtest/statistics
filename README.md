@@ -54,8 +54,8 @@
 		<td>8052</td>
 		<td>8067</td>
 		<td>8083</td>
-		<td>8094</td>
-		<td>+ 11</td>
+		<td>8095</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>7483</td>
 		<td>7499</td>
 		<td>7516</td>
-		<td>7526</td>
-		<td>+ 10</td>
+		<td>7527</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -450,8 +450,8 @@
 		<td>6443</td>
 		<td>6458</td>
 		<td>6474</td>
-		<td>6486</td>
-		<td>+ 12</td>
+		<td>6487</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -483,8 +483,8 @@
 		<td>5736</td>
 		<td>5751</td>
 		<td>5766</td>
-		<td>5776</td>
-		<td>+ 10</td>
+		<td>5777</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -516,8 +516,8 @@
 		<td>6469</td>
 		<td>6485</td>
 		<td>6502</td>
-		<td>6512</td>
-		<td>+ 10</td>
+		<td>6513</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -527,8 +527,8 @@
 		<td>2575</td>
 		<td>2590</td>
 		<td>2606</td>
-		<td>2618</td>
-		<td>+ 12</td>
+		<td>2619</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>280665</td>
-		<td>491</td>
+		<td>280671</td>
+		<td>497</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>8052</td>
 		<td>8067</td>
 		<td>8083</td>
-		<td>8094</td>
-		<td>+ 11</td>
+		<td>8095</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -652,8 +652,8 @@
 		<td>7483</td>
 		<td>7499</td>
 		<td>7516</td>
-		<td>7526</td>
-		<td>+ 10</td>
+		<td>7527</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -784,8 +784,8 @@
 		<td>6469</td>
 		<td>6485</td>
 		<td>6502</td>
-		<td>6512</td>
-		<td>+ 10</td>
+		<td>6513</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -795,8 +795,8 @@
 		<td>6443</td>
 		<td>6458</td>
 		<td>6474</td>
-		<td>6486</td>
-		<td>+ 12</td>
+		<td>6487</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -927,8 +927,8 @@
 		<td>5736</td>
 		<td>5751</td>
 		<td>5766</td>
-		<td>5776</td>
-		<td>+ 10</td>
+		<td>5777</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -1026,8 +1026,8 @@
 		<td>2575</td>
 		<td>2590</td>
 		<td>2606</td>
-		<td>2618</td>
-		<td>+ 12</td>
+		<td>2619</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>280665</td>
-		<td>491</td>
+		<td>280671</td>
+		<td>497</td>
 	</tr>
 </table>
 </sub></sup>
