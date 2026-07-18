@@ -9,19 +9,19 @@ v1.0.2-fleet.mercy | downloads: 301
 v1.0.0-ship.cores | downloads: 18
 v1.0.13-combat.ai | downloads: 644
 v1.0.4-paint.your.ships | downloads: 652
-v1.0.15-uniques | downloads: 697
-v1.0.9-boss.loot | downloads: 714
+v1.0.15-uniques | downloads: 698
+v1.0.9-boss.loot | downloads: 715
 v1.1.8-hai.side.mission.unlocker | downloads: 725
 v1.0.1-fleet.mercy | downloads: 536
 v1.0.0-fleet.mercy | downloads: 68
-v1.0.4-vague.improvements | downloads: 963
+v1.0.4-vague.improvements | downloads: 964
 v1.0.28-additional.command.buttons.radial | downloads: 1198
 v1.1.11-captureable.person.ships | downloads: 1184
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 859
 v1.0.10-expert.crew.members | downloads: 1098
 v1.0.8-control.station | downloads: 1272
-v1.0.7-ship.merging | downloads: 1109
+v1.0.7-ship.merging | downloads: 1110
 v1.0.3-vague.improvements | downloads: 33
 v1.0.12-combat.ai | downloads: 1116
 v1.0.4-job.coloring | downloads: 1490
@@ -33,7 +33,7 @@ v1.0.0-heavy.traffic | downloads: 184
 v1.1.7-hai.side.mission.unlocker | downloads: 2054
 v1.1.6-more.boarding.missions | downloads: 3069
 v1.1.6-hai.side.mission.unlocker | downloads: 12
-v1.1.4-space.fauna | downloads: 2752
+v1.1.4-space.fauna | downloads: 2753
 v1.0.10-mission.helper | downloads: 2179
 v1.0.8-boss.loot | downloads: 2762
 v1.0.7-control.station | downloads: 2322
@@ -116,7 +116,7 @@ v1.0.5-show.reputation | downloads: 3068
 v1.0.3-paint.your.ships | downloads: 5211
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 7622
-v1.0.5-better.starts | downloads: 7547
+v1.0.5-better.starts | downloads: 7548
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
 v1.0.5-mission.helper | downloads: 11
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 282714
+# TOTAL DOWNLOADS: 282720
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -358,8 +358,8 @@ additional.command.buttons.radial 8464
 automata.destruction.0percent 7699
 automata.in.human.space 7191
 avgi.licenses 233
-better.starts 8094
-boss.loot 7526
+better.starts 8095
+boss.loot 7527
 bunrodea.missions 8351
 captureable.person.ships 7336
 coalition.shopping 7700
@@ -401,12 +401,12 @@ planet.pluto 197
 quarg.farm 6676
 real.fluff 96
 ship.cores 64
-ship.merging 6486
+ship.merging 6487
 show.reputation 6670
 snowfeather.robotics 6354
-space.fauna 5776
+space.fauna 5777
 too.many.asteroids 4793
 tribute.republic 5620
 unique.fix 46
-uniques 6512
-vague.improvements 2618
+uniques 6513
+vague.improvements 2619
