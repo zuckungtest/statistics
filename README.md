@@ -285,8 +285,8 @@
 		<td>6178</td>
 		<td>6191</td>
 		<td>6198</td>
-		<td>6211</td>
-		<td>+ 13</td>
+		<td>6212</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>282011</td>
-		<td>668</td>
+		<td>282012</td>
+		<td>669</td>
 	</tr>
 </table>
 </sub></sup>
@@ -861,8 +861,8 @@
 		<td>6178</td>
 		<td>6191</td>
 		<td>6198</td>
-		<td>6211</td>
-		<td>+ 13</td>
+		<td>6212</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>282011</td>
-		<td>668</td>
+		<td>282012</td>
+		<td>669</td>
 	</tr>
 </table>
 </sub></sup>
