@@ -91,7 +91,7 @@ v1.0.3-kor.efret.shipyard | downloads: 5914
 v1.0.2-highrollers.ltd | downloads: 5473
 v1.0.2-automata.in.human.space | downloads: 6703
 v1.0.2-automata.destruction.0percent | downloads: 6086
-v1.0.1-kestrel.unlocks | downloads: 5629
+v1.0.1-kestrel.unlocks | downloads: 5630
 v1.0.1-disable.person.ships | downloads: 5827
 v1.0.5-landing.images | downloads: 5748
 v1.0.3-landing.images.highres | downloads: 5472
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 284060
+# TOTAL DOWNLOADS: 284061
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -381,7 +381,7 @@ highrollers.ltd 5711
 human.labels 6032
 job.coloring 2861
 jump.gates 6482
-kestrel.unlocks 6211
+kestrel.unlocks 6212
 kor.efret.shipyard 6716
 landing.images 6323
 landing.images.android 351
