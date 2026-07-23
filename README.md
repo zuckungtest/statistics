@@ -54,8 +54,8 @@
 		<td>8137</td>
 		<td>8151</td>
 		<td>8166</td>
-		<td>8177</td>
-		<td>+ 11</td>
+		<td>8178</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -109,8 +109,8 @@
 		<td>7999</td>
 		<td>8015</td>
 		<td>8030</td>
-		<td>8041</td>
-		<td>+ 11</td>
+		<td>8042</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -318,8 +318,8 @@
 		<td>5875</td>
 		<td>5890</td>
 		<td>5904</td>
-		<td>5913</td>
-		<td>+ 9</td>
+		<td>5914</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>283839</td>
-		<td>433</td>
+		<td>283842</td>
+		<td>436</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>8137</td>
 		<td>8151</td>
 		<td>8166</td>
-		<td>8177</td>
-		<td>+ 11</td>
+		<td>8178</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -597,8 +597,8 @@
 		<td>7999</td>
 		<td>8015</td>
 		<td>8030</td>
-		<td>8041</td>
-		<td>+ 11</td>
+		<td>8042</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -916,8 +916,8 @@
 		<td>5875</td>
 		<td>5890</td>
 		<td>5904</td>
-		<td>5913</td>
-		<td>+ 9</td>
+		<td>5914</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>283839</td>
-		<td>433</td>
+		<td>283842</td>
+		<td>436</td>
 	</tr>
 </table>
 </sub></sup>
