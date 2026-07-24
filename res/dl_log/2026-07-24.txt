@@ -3,7 +3,7 @@ v1.0.3-ship.cores | downloads: 42
 v1.1.14-galactic.capital.investment | downloads: 292
 v1.0.2-ship.cores | downloads: 8
 v1.0.1-ship.cores | downloads: 8
-v1.0.12-mission.helper | downloads: 418
+v1.0.12-mission.helper | downloads: 419
 v1.0.2-heavy.traffic | downloads: 391
 v1.0.2-fleet.mercy | downloads: 383
 v1.0.0-ship.cores | downloads: 18
@@ -33,7 +33,7 @@ v1.0.0-heavy.traffic | downloads: 184
 v1.1.7-hai.side.mission.unlocker | downloads: 2054
 v1.1.6-more.boarding.missions | downloads: 3151
 v1.1.6-hai.side.mission.unlocker | downloads: 12
-v1.1.4-space.fauna | downloads: 2825
+v1.1.4-space.fauna | downloads: 2826
 v1.0.10-mission.helper | downloads: 2179
 v1.0.8-boss.loot | downloads: 2762
 v1.0.7-control.station | downloads: 2322
@@ -129,7 +129,7 @@ v1.1.8-captureable.person.ships | downloads: 48
 v1.1.7-galactic.capital.investment | downloads: 28
 v1.1.5-more.boarding.missions | downloads: 3345
 v1.1.5-hai.side.mission.unlocker | downloads: 2837
-v1.0.6-snowfeather.robotics | downloads: 5959
+v1.0.6-snowfeather.robotics | downloads: 5960
 v1.0.6-human.labels | downloads: 43
 v1.0.5-quarg.farm | downloads: 410
 v1.0.4-show.reputation | downloads: 55
@@ -142,7 +142,7 @@ v1.0.1-outfits.weapon.slot | downloads: 5880
 v1.0.2-combat.ai | downloads: 46
 v1.0.1-combat.ai | downloads: 3
 v1.0.0-combat.ai | downloads: 74
-v1.0.1-licenses | downloads: 7028
+v1.0.1-licenses | downloads: 7029
 v1.0.0-licenses | downloads: 3
 v1.0.3-mission.helper | downloads: 96
 v1.0.1-flare.play | downloads: 119
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 286578
+# TOTAL DOWNLOADS: 286582
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -386,8 +386,8 @@ kor.efret.shipyard 6770
 landing.images 6375
 landing.images.android 351
 landing.images.highres 5928
-licenses 7031
-mission.helper 7493
+licenses 7032
+mission.helper 7494
 more.arfectas 6624
 more.boarding.missions 7091
 more.person.ships 6042
@@ -403,8 +403,8 @@ real.fluff 96
 ship.cores 76
 ship.merging 6569
 show.reputation 6755
-snowfeather.robotics 6428
-space.fauna 5849
+snowfeather.robotics 6429
+space.fauna 5850
 too.many.asteroids 4878
 tribute.republic 5696
 unique.fix 46
