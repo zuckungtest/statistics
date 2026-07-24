@@ -329,8 +329,8 @@
 		<td>6987</td>
 		<td>7003</td>
 		<td>7020</td>
-		<td>7031</td>
-		<td>+ 11</td>
+		<td>7032</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -340,8 +340,8 @@
 		<td>7448</td>
 		<td>7464</td>
 		<td>7481</td>
-		<td>7493</td>
-		<td>+ 12</td>
+		<td>7494</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -472,8 +472,8 @@
 		<td>6391</td>
 		<td>6406</td>
 		<td>6420</td>
-		<td>6428</td>
-		<td>+ 8</td>
+		<td>6429</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -483,8 +483,8 @@
 		<td>5812</td>
 		<td>5826</td>
 		<td>5841</td>
-		<td>5849</td>
-		<td>+ 8</td>
+		<td>5850</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>284529</td>
-		<td>432</td>
+		<td>284533</td>
+		<td>436</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>7448</td>
 		<td>7464</td>
 		<td>7481</td>
-		<td>7493</td>
-		<td>+ 12</td>
+		<td>7494</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -729,8 +729,8 @@
 		<td>6987</td>
 		<td>7003</td>
 		<td>7020</td>
-		<td>7031</td>
-		<td>+ 11</td>
+		<td>7032</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -828,8 +828,8 @@
 		<td>6391</td>
 		<td>6406</td>
 		<td>6420</td>
-		<td>6428</td>
-		<td>+ 8</td>
+		<td>6429</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -927,8 +927,8 @@
 		<td>5812</td>
 		<td>5826</td>
 		<td>5841</td>
-		<td>5849</td>
-		<td>+ 8</td>
+		<td>5850</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>284529</td>
-		<td>432</td>
+		<td>284533</td>
+		<td>436</td>
 	</tr>
 </table>
 </sub></sup>
