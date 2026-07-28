@@ -9,7 +9,7 @@ v1.0.2-fleet.mercy | downloads: 447
 v1.0.0-ship.cores | downloads: 18
 v1.0.13-combat.ai | downloads: 812
 v1.0.4-paint.your.ships | downloads: 790
-v1.0.15-uniques | downloads: 841
+v1.0.15-uniques | downloads: 842
 v1.0.9-boss.loot | downloads: 867
 v1.1.8-hai.side.mission.unlocker | downloads: 859
 v1.0.1-fleet.mercy | downloads: 537
@@ -90,7 +90,7 @@ v1.0.3-more.arfectas | downloads: 4962
 v1.0.3-kor.efret.shipyard | downloads: 6026
 v1.0.2-highrollers.ltd | downloads: 5581
 v1.0.2-automata.in.human.space | downloads: 6810
-v1.0.2-automata.destruction.0percent | downloads: 6188
+v1.0.2-automata.destruction.0percent | downloads: 6189
 v1.0.1-kestrel.unlocks | downloads: 5734
 v1.0.1-disable.person.ships | downloads: 5929
 v1.0.5-landing.images | downloads: 5859
@@ -349,13 +349,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 289391
+# TOTAL DOWNLOADS: 289393
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
 additional.command.buttons.radial 8635
-automata.destruction.0percent 7859
+automata.destruction.0percent 7860
 automata.in.human.space 7334
 avgi.licenses 233
 better.starts 8264
@@ -408,5 +408,5 @@ space.fauna 5907
 too.many.asteroids 4945
 tribute.republic 5750
 unique.fix 46
-uniques 6656
+uniques 6657
 vague.improvements 2764
