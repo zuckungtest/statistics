@@ -32,8 +32,8 @@
 		<td>7821</td>
 		<td>7839</td>
 		<td>7851</td>
-		<td>7859</td>
-		<td>+ 8</td>
+		<td>7860</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -516,8 +516,8 @@
 		<td>6618</td>
 		<td>6633</td>
 		<td>6648</td>
-		<td>6656</td>
-		<td>+ 8</td>
+		<td>6657</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>287342</td>
-		<td>374</td>
+		<td>287344</td>
+		<td>376</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>7821</td>
 		<td>7839</td>
 		<td>7851</td>
-		<td>7859</td>
-		<td>+ 8</td>
+		<td>7860</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -784,8 +784,8 @@
 		<td>6618</td>
 		<td>6633</td>
 		<td>6648</td>
-		<td>6656</td>
-		<td>+ 8</td>
+		<td>6657</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>287342</td>
-		<td>374</td>
+		<td>287344</td>
+		<td>376</td>
 	</tr>
 </table>
 </sub></sup>
