@@ -88,7 +88,7 @@ v1.0.4-gegno.pirates | downloads: 3054
 v1.0.3-tribute.republic | downloads: 5361
 v1.0.3-more.arfectas | downloads: 4971
 v1.0.3-kor.efret.shipyard | downloads: 6035
-v1.0.2-highrollers.ltd | downloads: 5590
+v1.0.2-highrollers.ltd | downloads: 5591
 v1.0.2-automata.in.human.space | downloads: 6819
 v1.0.2-automata.destruction.0percent | downloads: 6199
 v1.0.1-kestrel.unlocks | downloads: 5743
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 289847
+# TOTAL DOWNLOADS: 289848
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -377,7 +377,7 @@ galactic.capital.investment 8119
 gegno.pirates 7212
 hai.side.mission.unlocker 6203
 heavy.traffic 2591
-highrollers.ltd 5828
+highrollers.ltd 5829
 human.labels 6159
 job.coloring 2998
 jump.gates 6605
