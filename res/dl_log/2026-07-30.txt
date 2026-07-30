@@ -20,11 +20,11 @@ v1.1.11-captureable.person.ships | downloads: 1367
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 859
 v1.0.10-expert.crew.members | downloads: 1270
-v1.0.8-control.station | downloads: 1464
+v1.0.8-control.station | downloads: 1465
 v1.0.7-ship.merging | downloads: 1279
 v1.0.3-vague.improvements | downloads: 33
 v1.0.12-combat.ai | downloads: 1116
-v1.0.4-job.coloring | downloads: 1669
+v1.0.4-job.coloring | downloads: 1670
 v1.0.1-heavy.traffic | downloads: 1936
 v1.0.3-job.coloring | downloads: 823
 v1.1.13-galactic.capital.investment | downloads: 2330
@@ -89,7 +89,7 @@ v1.0.3-tribute.republic | downloads: 5375
 v1.0.3-more.arfectas | downloads: 4986
 v1.0.3-kor.efret.shipyard | downloads: 6051
 v1.0.2-highrollers.ltd | downloads: 5606
-v1.0.2-automata.in.human.space | downloads: 6837
+v1.0.2-automata.in.human.space | downloads: 6838
 v1.0.2-automata.destruction.0percent | downloads: 6215
 v1.0.1-kestrel.unlocks | downloads: 5761
 v1.0.1-disable.person.ships | downloads: 5953
@@ -349,14 +349,14 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 290595
+# TOTAL DOWNLOADS: 290598
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
 additional.command.buttons.radial 8660
 automata.destruction.0percent 7887
-automata.in.human.space 7361
+automata.in.human.space 7362
 avgi.licenses 233
 better.starts 8291
 boss.loot 7708
@@ -365,7 +365,7 @@ captureable.person.ships 7520
 coalition.shopping 7875
 combat.ai 8154
 comets 2939
-control.station 7965
+control.station 7966
 devil-run.unhidden 70
 disable.person.ships 6522
 disable.spaceport.repeatables 1157
@@ -379,7 +379,7 @@ hai.side.mission.unlocker 6218
 heavy.traffic 2606
 highrollers.ltd 5844
 human.labels 6175
-job.coloring 3014
+job.coloring 3015
 jump.gates 6619
 kestrel.unlocks 6343
 kor.efret.shipyard 6853
