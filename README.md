@@ -43,8 +43,8 @@
 		<td>7327</td>
 		<td>7334</td>
 		<td>7349</td>
-		<td>7361</td>
-		<td>+ 12</td>
+		<td>7362</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -131,8 +131,8 @@
 		<td>7928</td>
 		<td>7937</td>
 		<td>7953</td>
-		<td>7965</td>
-		<td>+ 12</td>
+		<td>7966</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -263,8 +263,8 @@
 		<td>2981</td>
 		<td>2989</td>
 		<td>3002</td>
-		<td>3014</td>
-		<td>+ 12</td>
+		<td>3015</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>288546</td>
-		<td>535</td>
+		<td>288549</td>
+		<td>538</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>7928</td>
 		<td>7937</td>
 		<td>7953</td>
-		<td>7965</td>
-		<td>+ 12</td>
+		<td>7966</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -696,8 +696,8 @@
 		<td>7327</td>
 		<td>7334</td>
 		<td>7349</td>
-		<td>7361</td>
-		<td>+ 12</td>
+		<td>7362</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -1004,8 +1004,8 @@
 		<td>2981</td>
 		<td>2989</td>
 		<td>3002</td>
-		<td>3014</td>
-		<td>+ 12</td>
+		<td>3015</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>288546</td>
-		<td>535</td>
+		<td>288549</td>
+		<td>538</td>
 	</tr>
 </table>
 </sub></sup>
