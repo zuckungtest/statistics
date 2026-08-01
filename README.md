@@ -98,8 +98,8 @@
 		<td>7863</td>
 		<td>7879</td>
 		<td>7895</td>
-		<td>7903</td>
-		<td>+ 8</td>
+		<td>7904</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -351,8 +351,8 @@
 		<td>6697</td>
 		<td>6713</td>
 		<td>6725</td>
-		<td>6734</td>
-		<td>+ 9</td>
+		<td>6735</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -395,8 +395,8 @@
 		<td>6328</td>
 		<td>6344</td>
 		<td>6357</td>
-		<td>6364</td>
-		<td>+ 7</td>
+		<td>6365</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>289648</td>
-		<td>348</td>
+		<td>289651</td>
+		<td>351</td>
 	</tr>
 </table>
 </sub></sup>
@@ -641,8 +641,8 @@
 		<td>7863</td>
 		<td>7879</td>
 		<td>7895</td>
-		<td>7903</td>
-		<td>+ 8</td>
+		<td>7904</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -773,8 +773,8 @@
 		<td>6697</td>
 		<td>6713</td>
 		<td>6725</td>
-		<td>6734</td>
-		<td>+ 9</td>
+		<td>6735</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -861,8 +861,8 @@
 		<td>6328</td>
 		<td>6344</td>
 		<td>6357</td>
-		<td>6364</td>
-		<td>+ 7</td>
+		<td>6365</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>289648</td>
-		<td>348</td>
+		<td>289651</td>
+		<td>351</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1090,7 +1090,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-07-22</td>
 		<td>2026-07-23</td>
 		<td>2026-07-24</td>
 		<td>2026-07-25</td>
@@ -1099,10 +1098,10 @@
 		<td>2026-07-28</td>
 		<td>2026-07-29</td>
 		<td>2026-07-30</td>
+		<td>2026-07-31</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>49</td>
 		<td>44</td>
 		<td>107</td>
 		<td>95</td>
@@ -1111,10 +1110,10 @@
 		<td>87</td>
 		<td>99</td>
 		<td>80</td>
+		<td>97</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>21</td>
 		<td>18</td>
 		<td>24</td>
 		<td>23</td>
@@ -1123,6 +1122,7 @@
 		<td>22</td>
 		<td>23</td>
 		<td>22</td>
+		<td>21</td>
 	</tr>
 </table>
 <br>
@@ -1136,8 +1136,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>28988</td>
-		<td>7345</td>
+		<td>29085</td>
+		<td>7366</td>
 		<td>407</td>
 		<td>53</td>
 	</tr>
@@ -1150,8 +1150,8 @@
 	</tr>
 	<tr>
 		<td>294</td>
-		<td>98.60</td>
-		<td>24.98</td>
+		<td>98.93</td>
+		<td>25.05</td>
 		<td></td>
 		<td></td>
 	</tr>
