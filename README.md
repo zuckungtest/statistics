@@ -32,8 +32,8 @@
 		<td>7877</td>
 		<td>7891</td>
 		<td>7905</td>
-		<td>7919</td>
-		<td>+ 14</td>
+		<td>7920</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -109,8 +109,8 @@
 		<td>8143</td>
 		<td>8159</td>
 		<td>8173</td>
-		<td>8188</td>
-		<td>+ 15</td>
+		<td>8189</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -186,8 +186,8 @@
 		<td>1067</td>
 		<td>1085</td>
 		<td>1095</td>
-		<td>1111</td>
-		<td>+ 16</td>
+		<td>1112</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>289990</td>
-		<td>690</td>
+		<td>289993</td>
+		<td>693</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>8143</td>
 		<td>8159</td>
 		<td>8173</td>
-		<td>8188</td>
-		<td>+ 15</td>
+		<td>8189</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -630,8 +630,8 @@
 		<td>7877</td>
 		<td>7891</td>
 		<td>7905</td>
-		<td>7919</td>
-		<td>+ 14</td>
+		<td>7920</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -1059,8 +1059,8 @@
 		<td>1067</td>
 		<td>1085</td>
 		<td>1095</td>
-		<td>1111</td>
-		<td>+ 16</td>
+		<td>1112</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>289990</td>
-		<td>690</td>
+		<td>289993</td>
+		<td>693</td>
 	</tr>
 </table>
 </sub></sup>
