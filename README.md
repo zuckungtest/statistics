@@ -21,8 +21,8 @@
 		<td>8664</td>
 		<td>8677</td>
 		<td>8692</td>
-		<td>8707</td>
-		<td>+ 15</td>
+		<td>8708</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -362,8 +362,8 @@
 		<td>7186</td>
 		<td>7197</td>
 		<td>7212</td>
-		<td>7225</td>
-		<td>+ 13</td>
+		<td>7226</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -516,8 +516,8 @@
 		<td>6689</td>
 		<td>6699</td>
 		<td>6715</td>
-		<td>6729</td>
-		<td>+ 14</td>
+		<td>6730</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>290649</td>
-		<td>604</td>
+		<td>290652</td>
+		<td>607</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>8664</td>
 		<td>8677</td>
 		<td>8692</td>
-		<td>8707</td>
-		<td>+ 15</td>
+		<td>8708</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -718,8 +718,8 @@
 		<td>7186</td>
 		<td>7197</td>
 		<td>7212</td>
-		<td>7225</td>
-		<td>+ 13</td>
+		<td>7226</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -784,8 +784,8 @@
 		<td>6689</td>
 		<td>6699</td>
 		<td>6715</td>
-		<td>6729</td>
-		<td>+ 14</td>
+		<td>6730</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>290649</td>
-		<td>604</td>
+		<td>290652</td>
+		<td>607</td>
 	</tr>
 </table>
 </sub></sup>
