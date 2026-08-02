@@ -3,7 +3,7 @@ v1.0.3-ship.cores | downloads: 58
 v1.1.14-galactic.capital.investment | downloads: 427
 v1.0.2-ship.cores | downloads: 8
 v1.0.1-ship.cores | downloads: 8
-v1.0.12-mission.helper | downloads: 563
+v1.0.12-mission.helper | downloads: 564
 v1.0.2-heavy.traffic | downloads: 530
 v1.0.2-fleet.mercy | downloads: 518
 v1.0.0-ship.cores | downloads: 18
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 292504
+# TOTAL DOWNLOADS: 292505
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -387,7 +387,7 @@ landing.images 6496
 landing.images.android 351
 landing.images.highres 6046
 licenses 7167
-mission.helper 7638
+mission.helper 7639
 more.arfectas 6751
 more.boarding.missions 7220
 more.person.ships 6164
