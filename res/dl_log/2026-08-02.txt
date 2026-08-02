@@ -9,13 +9,13 @@ v1.0.2-fleet.mercy | downloads: 523
 v1.0.0-ship.cores | downloads: 18
 v1.0.13-combat.ai | downloads: 890
 v1.0.4-paint.your.ships | downloads: 858
-v1.0.15-uniques | downloads: 914
+v1.0.15-uniques | downloads: 915
 v1.0.9-boss.loot | downloads: 944
 v1.1.8-hai.side.mission.unlocker | downloads: 928
 v1.0.1-fleet.mercy | downloads: 537
 v1.0.0-fleet.mercy | downloads: 68
 v1.0.4-vague.improvements | downloads: 1179
-v1.0.28-additional.command.buttons.radial | downloads: 1441
+v1.0.28-additional.command.buttons.radial | downloads: 1442
 v1.1.11-captureable.person.ships | downloads: 1413
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 859
@@ -31,7 +31,7 @@ v1.1.13-galactic.capital.investment | downloads: 2330
 v1.1.12-galactic.capital.investment | downloads: 374
 v1.0.0-heavy.traffic | downloads: 184
 v1.1.7-hai.side.mission.unlocker | downloads: 2054
-v1.1.6-more.boarding.missions | downloads: 3285
+v1.1.6-more.boarding.missions | downloads: 3286
 v1.1.6-hai.side.mission.unlocker | downloads: 13
 v1.1.4-space.fauna | downloads: 2950
 v1.0.10-mission.helper | downloads: 2179
@@ -349,12 +349,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 292698
+# TOTAL DOWNLOADS: 292701
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 8707
+additional.command.buttons.radial 8708
 automata.destruction.0percent 7936
 automata.in.human.space 7409
 avgi.licenses 233
@@ -389,7 +389,7 @@ landing.images.highres 6050
 licenses 7172
 mission.helper 7644
 more.arfectas 6755
-more.boarding.missions 7225
+more.boarding.missions 7226
 more.person.ships 6168
 navy.licenses 580
 no.more.mereti.mines 5930
@@ -408,5 +408,5 @@ space.fauna 5974
 too.many.asteroids 5018
 tribute.republic 5814
 unique.fix 46
-uniques 6729
+uniques 6730
 vague.improvements 2834
