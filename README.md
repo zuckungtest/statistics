@@ -340,8 +340,8 @@
 		<td>7594</td>
 		<td>7607</td>
 		<td>7627</td>
-		<td>7638</td>
-		<td>+ 11</td>
+		<td>7639</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>290455</td>
-		<td>410</td>
+		<td>290456</td>
+		<td>411</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>7594</td>
 		<td>7607</td>
 		<td>7627</td>
-		<td>7638</td>
-		<td>+ 11</td>
+		<td>7639</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>290455</td>
-		<td>410</td>
+		<td>290456</td>
+		<td>411</td>
 	</tr>
 </table>
 </sub></sup>
