@@ -3,7 +3,7 @@ v1.0.3-ship.cores | downloads: 59
 v1.1.14-galactic.capital.investment | downloads: 464
 v1.0.2-ship.cores | downloads: 8
 v1.0.1-ship.cores | downloads: 8
-v1.0.12-mission.helper | downloads: 603
+v1.0.12-mission.helper | downloads: 604
 v1.0.2-heavy.traffic | downloads: 570
 v1.0.2-fleet.mercy | downloads: 558
 v1.0.0-ship.cores | downloads: 18
@@ -20,7 +20,7 @@ v1.1.11-captureable.person.ships | downloads: 1443
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 859
 v1.0.10-expert.crew.members | downloads: 1348
-v1.0.8-control.station | downloads: 1546
+v1.0.8-control.station | downloads: 1547
 v1.0.7-ship.merging | downloads: 1353
 v1.0.3-vague.improvements | downloads: 33
 v1.0.12-combat.ai | downloads: 1117
@@ -78,11 +78,11 @@ v1.0.12-uniques | downloads: 223
 v1.0.5-control.station | downloads: 359
 v1.0.1-boss.loot | downloads: 321
 v1.1.3-space.fauna | downloads: 2580
-v1.1.2-disable.spaceport.repeatables | downloads: 361
+v1.1.2-disable.spaceport.repeatables | downloads: 362
 v1.0.7-coalition.shopping | downloads: 7203
-v1.0.5-too.many.asteroids | downloads: 3399
+v1.0.5-too.many.asteroids | downloads: 3400
 v1.0.4-planet.map | downloads: 5025
-v1.0.4-no.more.mereti.mines | downloads: 5492
+v1.0.4-no.more.mereti.mines | downloads: 5494
 v1.0.4-jump.gates | downloads: 6052
 v1.0.4-gegno.pirates | downloads: 3054
 v1.0.3-tribute.republic | downloads: 5446
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 294121
+# TOTAL DOWNLOADS: 294127
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -365,10 +365,10 @@ captureable.person.ships 7596
 coalition.shopping 7956
 combat.ai 8240
 comets 3021
-control.station 8047
+control.station 8048
 devil-run.unhidden 70
 disable.person.ships 6592
-disable.spaceport.repeatables 1230
+disable.spaceport.repeatables 1231
 expert.crew.members 7453
 flare.play 5853
 fleet.mercy 1163
@@ -387,12 +387,12 @@ landing.images 6531
 landing.images.android 351
 landing.images.highres 6078
 licenses 7205
-mission.helper 7678
+mission.helper 7679
 more.arfectas 6787
 more.boarding.missions 7256
 more.person.ships 6200
 navy.licenses 580
-no.more.mereti.mines 5957
+no.more.mereti.mines 5959
 outfits.weapon.slot 6415
 paint.your.ships 6567
 pirate.warlords 6
@@ -405,7 +405,7 @@ ship.merging 6731
 show.reputation 6917
 snowfeather.robotics 6582
 space.fauna 6005
-too.many.asteroids 5050
+too.many.asteroids 5051
 tribute.republic 5844
 unique.fix 46
 uniques 6760
