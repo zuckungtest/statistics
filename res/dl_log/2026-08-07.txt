@@ -3,7 +3,7 @@ v1.0.3-ship.cores | downloads: 67
 v1.1.14-galactic.capital.investment | downloads: 480
 v1.0.2-ship.cores | downloads: 8
 v1.0.1-ship.cores | downloads: 8
-v1.0.12-mission.helper | downloads: 618
+v1.0.12-mission.helper | downloads: 621
 v1.0.2-heavy.traffic | downloads: 586
 v1.0.2-fleet.mercy | downloads: 574
 v1.0.0-ship.cores | downloads: 18
@@ -19,7 +19,7 @@ v1.0.28-additional.command.buttons.radial | downloads: 1497
 v1.1.11-captureable.person.ships | downloads: 1466
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 860
-v1.0.10-expert.crew.members | downloads: 1362
+v1.0.10-expert.crew.members | downloads: 1363
 v1.0.8-control.station | downloads: 1570
 v1.0.7-ship.merging | downloads: 1370
 v1.0.3-vague.improvements | downloads: 33
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 294925
+# TOTAL DOWNLOADS: 294929
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -369,7 +369,7 @@ control.station 8071
 devil-run.unhidden 70
 disable.person.ships 6612
 disable.spaceport.repeatables 1253
-expert.crew.members 7467
+expert.crew.members 7468
 flare.play 5867
 fleet.mercy 1179
 free.worlds.5.years.later 375
@@ -387,7 +387,7 @@ landing.images 6545
 landing.images.android 351
 landing.images.highres 6091
 licenses 7221
-mission.helper 7694
+mission.helper 7697
 more.arfectas 6801
 more.boarding.missions 7273
 more.person.ships 6214
