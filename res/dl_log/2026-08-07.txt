@@ -19,7 +19,7 @@ v1.0.28-additional.command.buttons.radial | downloads: 1510
 v1.1.11-captureable.person.ships | downloads: 1477
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 860
-v1.0.10-expert.crew.members | downloads: 1373
+v1.0.10-expert.crew.members | downloads: 1374
 v1.0.8-control.station | downloads: 1581
 v1.0.7-ship.merging | downloads: 1380
 v1.0.3-vague.improvements | downloads: 33
@@ -39,7 +39,7 @@ v1.0.8-boss.loot | downloads: 2762
 v1.0.7-control.station | downloads: 2322
 v1.0.6-show.reputation | downloads: 3308
 v1.0.6-ship.merging | downloads: 2054
-v1.0.1-comets | downloads: 2823
+v1.0.1-comets | downloads: 2824
 v1.0.6-gegno.pirates | downloads: 3383
 v1.0.5-gegno.pirates | downloads: 10
 v1.0.2-job.coloring | downloads: 442
@@ -85,11 +85,11 @@ v1.0.4-planet.map | downloads: 5048
 v1.0.4-no.more.mereti.mines | downloads: 5517
 v1.0.4-jump.gates | downloads: 6076
 v1.0.4-gegno.pirates | downloads: 3054
-v1.0.3-tribute.republic | downloads: 5469
+v1.0.3-tribute.republic | downloads: 5470
 v1.0.3-more.arfectas | downloads: 5078
-v1.0.3-kor.efret.shipyard | downloads: 6150
+v1.0.3-kor.efret.shipyard | downloads: 6151
 v1.0.2-highrollers.ltd | downloads: 5700
-v1.0.2-automata.in.human.space | downloads: 6951
+v1.0.2-automata.in.human.space | downloads: 6952
 v1.0.2-automata.destruction.0percent | downloads: 6316
 v1.0.1-kestrel.unlocks | downloads: 5857
 v1.0.1-disable.person.ships | downloads: 6052
@@ -349,14 +349,14 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 295387
+# TOTAL DOWNLOADS: 295392
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
 additional.command.buttons.radial 8776
 automata.destruction.0percent 7999
-automata.in.human.space 7475
+automata.in.human.space 7476
 avgi.licenses 233
 better.starts 8409
 boss.loot 7820
@@ -364,12 +364,12 @@ bunrodea.missions 8645
 captureable.person.ships 7630
 coalition.shopping 7987
 combat.ai 8274
-comets 3056
+comets 3057
 control.station 8082
 devil-run.unhidden 70
 disable.person.ships 6622
 disable.spaceport.repeatables 1263
-expert.crew.members 7478
+expert.crew.members 7479
 flare.play 5876
 fleet.mercy 1189
 free.worlds.5.years.later 375
@@ -382,7 +382,7 @@ human.labels 6273
 job.coloring 3117
 jump.gates 6719
 kestrel.unlocks 6439
-kor.efret.shipyard 6952
+kor.efret.shipyard 6953
 landing.images 6555
 landing.images.android 351
 landing.images.highres 6101
@@ -406,7 +406,7 @@ show.reputation 6941
 snowfeather.robotics 6607
 space.fauna 6028
 too.many.asteroids 5079
-tribute.republic 5867
+tribute.republic 5868
 unique.fix 46
 uniques 6784
 vague.improvements 2889
