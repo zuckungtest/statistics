@@ -10,7 +10,7 @@ v1.0.0-ship.cores | downloads: 19
 v1.0.13-combat.ai | downloads: 962
 v1.0.4-paint.your.ships | downloads: 920
 v1.0.15-uniques | downloads: 973
-v1.0.9-boss.loot | downloads: 1014
+v1.0.9-boss.loot | downloads: 1015
 v1.1.8-hai.side.mission.unlocker | downloads: 985
 v1.0.1-fleet.mercy | downloads: 537
 v1.0.0-fleet.mercy | downloads: 68
@@ -115,7 +115,7 @@ v1.0.7-human.labels | downloads: 5869
 v1.0.5-show.reputation | downloads: 3068
 v1.0.3-paint.your.ships | downloads: 5212
 v1.1.9-captureable.person.ships | downloads: 1540
-v1.0.9-bunrodea.missions | downloads: 7922
+v1.0.9-bunrodea.missions | downloads: 7923
 v1.0.5-better.starts | downloads: 7866
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 295594
+# TOTAL DOWNLOADS: 295596
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -359,8 +359,8 @@ automata.destruction.0percent 8003
 automata.in.human.space 7481
 avgi.licenses 233
 better.starts 8413
-boss.loot 7826
-bunrodea.missions 8651
+boss.loot 7827
+bunrodea.missions 8652
 captureable.person.ships 7634
 coalition.shopping 7991
 combat.ai 8278
