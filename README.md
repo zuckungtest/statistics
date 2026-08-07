@@ -43,8 +43,8 @@
 		<td>7437</td>
 		<td>7451</td>
 		<td>7459</td>
-		<td>7475</td>
-		<td>+ 16</td>
+		<td>7476</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -120,8 +120,8 @@
 		<td>3015</td>
 		<td>3032</td>
 		<td>3042</td>
-		<td>3056</td>
-		<td>+ 14</td>
+		<td>3057</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -164,8 +164,8 @@
 		<td>7449</td>
 		<td>7459</td>
 		<td>7463</td>
-		<td>7478</td>
-		<td>+ 15</td>
+		<td>7479</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -296,8 +296,8 @@
 		<td>6925</td>
 		<td>6934</td>
 		<td>6938</td>
-		<td>6952</td>
-		<td>+ 14</td>
+		<td>6953</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -505,8 +505,8 @@
 		<td>5840</td>
 		<td>5849</td>
 		<td>5853</td>
-		<td>5867</td>
-		<td>+ 14</td>
+		<td>5868</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>293338</td>
-		<td>688</td>
+		<td>293343</td>
+		<td>693</td>
 	</tr>
 </table>
 </sub></sup>
@@ -685,8 +685,8 @@
 		<td>7449</td>
 		<td>7459</td>
 		<td>7463</td>
-		<td>7478</td>
-		<td>+ 15</td>
+		<td>7479</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -696,8 +696,8 @@
 		<td>7437</td>
 		<td>7451</td>
 		<td>7459</td>
-		<td>7475</td>
-		<td>+ 16</td>
+		<td>7476</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -740,8 +740,8 @@
 		<td>6925</td>
 		<td>6934</td>
 		<td>6938</td>
-		<td>6952</td>
-		<td>+ 14</td>
+		<td>6953</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -971,8 +971,8 @@
 		<td>5840</td>
 		<td>5849</td>
 		<td>5853</td>
-		<td>5867</td>
-		<td>+ 14</td>
+		<td>5868</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -1015,8 +1015,8 @@
 		<td>3015</td>
 		<td>3032</td>
 		<td>3042</td>
-		<td>3056</td>
-		<td>+ 14</td>
+		<td>3057</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>293338</td>
-		<td>688</td>
+		<td>293343</td>
+		<td>693</td>
 	</tr>
 </table>
 </sub></sup>
