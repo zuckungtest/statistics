@@ -65,8 +65,8 @@
 		<td>7785</td>
 		<td>7799</td>
 		<td>7805</td>
-		<td>7826</td>
-		<td>+ 21</td>
+		<td>7827</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>8609</td>
 		<td>8624</td>
 		<td>8630</td>
-		<td>8651</td>
-		<td>+ 21</td>
+		<td>8652</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>293545</td>
-		<td>895</td>
+		<td>293547</td>
+		<td>897</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>8609</td>
 		<td>8624</td>
 		<td>8630</td>
-		<td>8651</td>
-		<td>+ 21</td>
+		<td>8652</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -652,8 +652,8 @@
 		<td>7785</td>
 		<td>7799</td>
 		<td>7805</td>
-		<td>7826</td>
-		<td>+ 21</td>
+		<td>7827</td>
+		<td>+ 22</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>293545</td>
-		<td>895</td>
+		<td>293547</td>
+		<td>897</td>
 	</tr>
 </table>
 </sub></sup>
