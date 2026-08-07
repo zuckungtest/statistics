@@ -164,8 +164,8 @@
 		<td>7449</td>
 		<td>7459</td>
 		<td>7463</td>
-		<td>7467</td>
-		<td>+ 4</td>
+		<td>7468</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -340,8 +340,8 @@
 		<td>7673</td>
 		<td>7684</td>
 		<td>7689</td>
-		<td>7694</td>
-		<td>+ 5</td>
+		<td>7697</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>292876</td>
-		<td>226</td>
+		<td>292880</td>
+		<td>230</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>7673</td>
 		<td>7684</td>
 		<td>7689</td>
-		<td>7694</td>
-		<td>+ 5</td>
+		<td>7697</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -685,8 +685,8 @@
 		<td>7449</td>
 		<td>7459</td>
 		<td>7463</td>
-		<td>7467</td>
-		<td>+ 4</td>
+		<td>7468</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>292876</td>
-		<td>226</td>
+		<td>292880</td>
+		<td>230</td>
 	</tr>
 </table>
 </sub></sup>
