@@ -54,8 +54,8 @@
 		<td>8394</td>
 		<td>8416</td>
 		<td>8442</td>
-		<td>8456</td>
-		<td>+ 14</td>
+		<td>8457</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -87,8 +87,8 @@
 		<td>7613</td>
 		<td>7637</td>
 		<td>7663</td>
-		<td>7676</td>
-		<td>+ 13</td>
+		<td>7677</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -120,8 +120,8 @@
 		<td>3042</td>
 		<td>3066</td>
 		<td>3091</td>
-		<td>3104</td>
-		<td>+ 13</td>
+		<td>3105</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>295535</td>
-		<td>614</td>
+		<td>295538</td>
+		<td>617</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>8394</td>
 		<td>8416</td>
 		<td>8442</td>
-		<td>8456</td>
-		<td>+ 14</td>
+		<td>8457</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -674,8 +674,8 @@
 		<td>7613</td>
 		<td>7637</td>
 		<td>7663</td>
-		<td>7676</td>
-		<td>+ 13</td>
+		<td>7677</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -1015,8 +1015,8 @@
 		<td>3042</td>
 		<td>3066</td>
 		<td>3091</td>
-		<td>3104</td>
-		<td>+ 13</td>
+		<td>3105</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>295535</td>
-		<td>614</td>
+		<td>295538</td>
+		<td>617</td>
 	</tr>
 </table>
 </sub></sup>
