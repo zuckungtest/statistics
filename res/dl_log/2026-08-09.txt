@@ -16,7 +16,7 @@ v1.0.1-fleet.mercy | downloads: 537
 v1.0.0-fleet.mercy | downloads: 68
 v1.0.4-vague.improvements | downloads: 1283
 v1.0.28-additional.command.buttons.radial | downloads: 1560
-v1.1.11-captureable.person.ships | downloads: 1523
+v1.1.11-captureable.person.ships | downloads: 1524
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 860
 v1.0.10-expert.crew.members | downloads: 1424
@@ -39,7 +39,7 @@ v1.0.8-boss.loot | downloads: 2762
 v1.0.7-control.station | downloads: 2322
 v1.0.6-show.reputation | downloads: 3354
 v1.0.6-ship.merging | downloads: 2054
-v1.0.1-comets | downloads: 2871
+v1.0.1-comets | downloads: 2872
 v1.0.6-gegno.pirates | downloads: 3433
 v1.0.5-gegno.pirates | downloads: 10
 v1.0.2-job.coloring | downloads: 442
@@ -116,7 +116,7 @@ v1.0.5-show.reputation | downloads: 3068
 v1.0.3-paint.your.ships | downloads: 5212
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 7965
-v1.0.5-better.starts | downloads: 7909
+v1.0.5-better.starts | downloads: 7910
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
 v1.0.5-mission.helper | downloads: 11
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 297584
+# TOTAL DOWNLOADS: 297587
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -358,13 +358,13 @@ additional.command.buttons.radial 8826
 automata.destruction.0percent 8046
 automata.in.human.space 7524
 avgi.licenses 233
-better.starts 8456
+better.starts 8457
 boss.loot 7871
 bunrodea.missions 8694
-captureable.person.ships 7676
+captureable.person.ships 7677
 coalition.shopping 8033
 combat.ai 8323
-comets 3104
+comets 3105
 control.station 8134
 devil-run.unhidden 70
 disable.person.ships 6666
