@@ -1,6 +1,6 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.3-ship.cores | downloads: 74
-v1.1.14-galactic.capital.investment | downloads: 533
+v1.1.14-galactic.capital.investment | downloads: 534
 v1.0.2-ship.cores | downloads: 8
 v1.0.1-ship.cores | downloads: 8
 v1.0.12-mission.helper | downloads: 679
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 297303
+# TOTAL DOWNLOADS: 297304
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -373,7 +373,7 @@ expert.crew.members 7523
 flare.play 5914
 fleet.mercy 1231
 free.worlds.5.years.later 375
-galactic.capital.investment 8290
+galactic.capital.investment 8291
 gegno.pirates 7374
 hai.side.mission.unlocker 6358
 heavy.traffic 2758
