@@ -31,7 +31,7 @@ v1.1.13-galactic.capital.investment | downloads: 2331
 v1.1.12-galactic.capital.investment | downloads: 374
 v1.0.0-heavy.traffic | downloads: 184
 v1.1.7-hai.side.mission.unlocker | downloads: 2054
-v1.1.6-more.boarding.missions | downloads: 3411
+v1.1.6-more.boarding.missions | downloads: 3412
 v1.1.6-hai.side.mission.unlocker | downloads: 13
 v1.1.4-space.fauna | downloads: 3065
 v1.0.10-mission.helper | downloads: 2179
@@ -285,7 +285,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 1689
+v1.0.1-automata.destruction.0percent | downloads: 1690
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -349,13 +349,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 298567
+# TOTAL DOWNLOADS: 298569
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
 additional.command.buttons.radial 8853
-automata.destruction.0percent 8071
+automata.destruction.0percent 8072
 automata.in.human.space 7548
 avgi.licenses 233
 better.starts 8483
@@ -389,7 +389,7 @@ landing.images.highres 6167
 licenses 7297
 mission.helper 7786
 more.arfectas 6880
-more.boarding.missions 7351
+more.boarding.missions 7352
 more.person.ships 6287
 navy.licenses 580
 no.more.mereti.mines 6043
