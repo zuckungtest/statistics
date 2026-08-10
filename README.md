@@ -32,8 +32,8 @@
 		<td>8007</td>
 		<td>8033</td>
 		<td>8056</td>
-		<td>8071</td>
-		<td>+ 15</td>
+		<td>8072</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -362,8 +362,8 @@
 		<td>7292</td>
 		<td>7318</td>
 		<td>7341</td>
-		<td>7351</td>
-		<td>+ 10</td>
+		<td>7352</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>296518</td>
-		<td>549</td>
+		<td>296520</td>
+		<td>551</td>
 	</tr>
 </table>
 </sub></sup>
@@ -630,8 +630,8 @@
 		<td>8007</td>
 		<td>8033</td>
 		<td>8056</td>
-		<td>8071</td>
-		<td>+ 15</td>
+		<td>8072</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -718,8 +718,8 @@
 		<td>7292</td>
 		<td>7318</td>
 		<td>7341</td>
-		<td>7351</td>
-		<td>+ 10</td>
+		<td>7352</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>296518</td>
-		<td>549</td>
+		<td>296520</td>
+		<td>551</td>
 	</tr>
 </table>
 </sub></sup>
