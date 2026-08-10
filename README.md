@@ -76,8 +76,8 @@
 		<td>8656</td>
 		<td>8682</td>
 		<td>8704</td>
-		<td>8720</td>
-		<td>+ 16</td>
+		<td>8721</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -120,8 +120,8 @@
 		<td>3066</td>
 		<td>3091</td>
 		<td>3115</td>
-		<td>3131</td>
-		<td>+ 16</td>
+		<td>3132</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -263,8 +263,8 @@
 		<td>3127</td>
 		<td>3160</td>
 		<td>3182</td>
-		<td>3193</td>
-		<td>+ 11</td>
+		<td>3194</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -428,8 +428,8 @@
 		<td>6951</td>
 		<td>6978</td>
 		<td>6999</td>
-		<td>7013</td>
-		<td>+ 14</td>
+		<td>7015</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -505,8 +505,8 @@
 		<td>5875</td>
 		<td>5899</td>
 		<td>5921</td>
-		<td>5933</td>
-		<td>+ 12</td>
+		<td>5934</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -527,8 +527,8 @@
 		<td>2900</td>
 		<td>2925</td>
 		<td>2947</td>
-		<td>2959</td>
-		<td>+ 12</td>
+		<td>2960</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>296612</td>
-		<td>643</td>
+		<td>296619</td>
+		<td>650</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>8656</td>
 		<td>8682</td>
 		<td>8704</td>
-		<td>8720</td>
-		<td>+ 16</td>
+		<td>8721</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -751,8 +751,8 @@
 		<td>6951</td>
 		<td>6978</td>
 		<td>6999</td>
-		<td>7013</td>
-		<td>+ 14</td>
+		<td>7015</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -971,8 +971,8 @@
 		<td>5875</td>
 		<td>5899</td>
 		<td>5921</td>
-		<td>5933</td>
-		<td>+ 12</td>
+		<td>5934</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -1004,8 +1004,8 @@
 		<td>3127</td>
 		<td>3160</td>
 		<td>3182</td>
-		<td>3193</td>
-		<td>+ 11</td>
+		<td>3194</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1015,8 +1015,8 @@
 		<td>3066</td>
 		<td>3091</td>
 		<td>3115</td>
-		<td>3131</td>
-		<td>+ 16</td>
+		<td>3132</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1026,8 +1026,8 @@
 		<td>2900</td>
 		<td>2925</td>
 		<td>2947</td>
-		<td>2959</td>
-		<td>+ 12</td>
+		<td>2960</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>296612</td>
-		<td>643</td>
+		<td>296619</td>
+		<td>650</td>
 	</tr>
 </table>
 </sub></sup>
