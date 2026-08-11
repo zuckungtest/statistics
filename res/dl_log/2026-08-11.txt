@@ -4,7 +4,7 @@ v1.1.14-galactic.capital.investment | downloads: 573
 v1.0.2-ship.cores | downloads: 8
 v1.0.1-ship.cores | downloads: 8
 v1.0.12-mission.helper | downloads: 724
-v1.0.2-heavy.traffic | downloads: 679
+v1.0.2-heavy.traffic | downloads: 680
 v1.0.2-fleet.mercy | downloads: 666
 v1.0.0-ship.cores | downloads: 19
 v1.0.13-combat.ai | downloads: 1049
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 299214
+# TOTAL DOWNLOADS: 299215
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -376,7 +376,7 @@ free.worlds.5.years.later 375
 galactic.capital.investment 8330
 gegno.pirates 7419
 hai.side.mission.unlocker 6397
-heavy.traffic 2799
+heavy.traffic 2800
 highrollers.ltd 6015
 human.labels 6355
 job.coloring 3207
