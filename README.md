@@ -230,8 +230,8 @@
 		<td>2750</td>
 		<td>2772</td>
 		<td>2791</td>
-		<td>2799</td>
-		<td>+ 8</td>
+		<td>2800</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>297165</td>
-		<td>393</td>
+		<td>297166</td>
+		<td>394</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1037,8 +1037,8 @@
 		<td>2750</td>
 		<td>2772</td>
 		<td>2791</td>
-		<td>2799</td>
-		<td>+ 8</td>
+		<td>2800</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>297165</td>
-		<td>393</td>
+		<td>297166</td>
+		<td>394</td>
 	</tr>
 </table>
 </sub></sup>
