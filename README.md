@@ -439,8 +439,8 @@
 		<td>111</td>
 		<td>111</td>
 		<td>112</td>
-		<td>114</td>
-		<td>+ 2</td>
+		<td>115</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>298369</td>
-		<td>667</td>
+		<td>298370</td>
+		<td>668</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1070,8 +1070,8 @@
 		<td>111</td>
 		<td>111</td>
 		<td>112</td>
-		<td>114</td>
-		<td>+ 2</td>
+		<td>115</td>
+		<td>+ 3</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>298369</td>
-		<td>667</td>
+		<td>298370</td>
+		<td>668</td>
 	</tr>
 </table>
 </sub></sup>
