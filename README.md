@@ -54,8 +54,8 @@
 		<td>8469</td>
 		<td>8489</td>
 		<td>8511</td>
-		<td>8529</td>
-		<td>+ 18</td>
+		<td>8530</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -263,8 +263,8 @@
 		<td>3182</td>
 		<td>3197</td>
 		<td>3220</td>
-		<td>3237</td>
-		<td>+ 17</td>
+		<td>3238</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -296,8 +296,8 @@
 		<td>7006</td>
 		<td>7023</td>
 		<td>7043</td>
-		<td>7058</td>
-		<td>+ 15</td>
+		<td>7059</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -340,8 +340,8 @@
 		<td>7773</td>
 		<td>7792</td>
 		<td>7812</td>
-		<td>7830</td>
-		<td>+ 18</td>
+		<td>7831</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>298431</td>
-		<td>729</td>
+		<td>298435</td>
+		<td>733</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>8469</td>
 		<td>8489</td>
 		<td>8511</td>
-		<td>8529</td>
-		<td>+ 18</td>
+		<td>8530</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -663,8 +663,8 @@
 		<td>7773</td>
 		<td>7792</td>
 		<td>7812</td>
-		<td>7830</td>
-		<td>+ 18</td>
+		<td>7831</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -740,8 +740,8 @@
 		<td>7006</td>
 		<td>7023</td>
 		<td>7043</td>
-		<td>7058</td>
-		<td>+ 15</td>
+		<td>7059</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -1004,8 +1004,8 @@
 		<td>3182</td>
 		<td>3197</td>
 		<td>3220</td>
-		<td>3237</td>
-		<td>+ 17</td>
+		<td>3238</td>
+		<td>+ 18</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>298431</td>
-		<td>729</td>
+		<td>298435</td>
+		<td>733</td>
 	</tr>
 </table>
 </sub></sup>
