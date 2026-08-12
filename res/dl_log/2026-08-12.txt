@@ -3,7 +3,7 @@ v1.0.3-ship.cores | downloads: 79
 v1.1.14-galactic.capital.investment | downloads: 599
 v1.0.2-ship.cores | downloads: 8
 v1.0.1-ship.cores | downloads: 8
-v1.0.12-mission.helper | downloads: 754
+v1.0.12-mission.helper | downloads: 755
 v1.0.2-heavy.traffic | downloads: 709
 v1.0.2-fleet.mercy | downloads: 697
 v1.0.0-ship.cores | downloads: 20
@@ -24,7 +24,7 @@ v1.0.8-control.station | downloads: 1699
 v1.0.7-ship.merging | downloads: 1488
 v1.0.3-vague.improvements | downloads: 33
 v1.0.12-combat.ai | downloads: 1117
-v1.0.4-job.coloring | downloads: 1892
+v1.0.4-job.coloring | downloads: 1893
 v1.0.1-heavy.traffic | downloads: 1936
 v1.0.3-job.coloring | downloads: 823
 v1.1.13-galactic.capital.investment | downloads: 2331
@@ -87,7 +87,7 @@ v1.0.4-jump.gates | downloads: 6184
 v1.0.4-gegno.pirates | downloads: 3054
 v1.0.3-tribute.republic | downloads: 5572
 v1.0.3-more.arfectas | downloads: 5176
-v1.0.3-kor.efret.shipyard | downloads: 6256
+v1.0.3-kor.efret.shipyard | downloads: 6257
 v1.0.2-highrollers.ltd | downloads: 5803
 v1.0.2-automata.in.human.space | downloads: 7065
 v1.0.2-automata.destruction.0percent | downloads: 6418
@@ -116,7 +116,7 @@ v1.0.5-show.reputation | downloads: 3068
 v1.0.3-paint.your.ships | downloads: 5212
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 8034
-v1.0.5-better.starts | downloads: 7982
+v1.0.5-better.starts | downloads: 7983
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
 v1.0.5-mission.helper | downloads: 11
@@ -349,7 +349,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 300480
+# TOTAL DOWNLOADS: 300484
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -358,7 +358,7 @@ additional.command.buttons.radial 8894
 automata.destruction.0percent 8111
 automata.in.human.space 7589
 avgi.licenses 233
-better.starts 8529
+better.starts 8530
 boss.loot 7939
 bunrodea.missions 8763
 captureable.person.ships 7739
@@ -379,15 +379,15 @@ hai.side.mission.unlocker 6424
 heavy.traffic 2829
 highrollers.ltd 6041
 human.labels 6382
-job.coloring 3237
+job.coloring 3238
 jump.gates 6827
 kestrel.unlocks 6544
-kor.efret.shipyard 7058
+kor.efret.shipyard 7059
 landing.images 6665
 landing.images.android 351
 landing.images.highres 6209
 licenses 7342
-mission.helper 7830
+mission.helper 7831
 more.arfectas 6921
 more.boarding.missions 7394
 more.person.ships 6327
