@@ -21,8 +21,8 @@
 		<td>8858</td>
 		<td>8880</td>
 		<td>8896</td>
-		<td>8903</td>
-		<td>+ 7</td>
+		<td>8904</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>8077</td>
 		<td>8097</td>
 		<td>8113</td>
-		<td>8121</td>
-		<td>+ 8</td>
+		<td>8125</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>298888</td>
-		<td>360</td>
+		<td>298893</td>
+		<td>365</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>8858</td>
 		<td>8880</td>
 		<td>8896</td>
-		<td>8903</td>
-		<td>+ 7</td>
+		<td>8904</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -630,8 +630,8 @@
 		<td>8077</td>
 		<td>8097</td>
 		<td>8113</td>
-		<td>8121</td>
-		<td>+ 8</td>
+		<td>8125</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>298888</td>
-		<td>360</td>
+		<td>298893</td>
+		<td>365</td>
 	</tr>
 </table>
 </sub></sup>
