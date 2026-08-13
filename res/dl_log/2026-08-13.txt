@@ -3,7 +3,7 @@ v1.0.8-human.labels | downloads: 6
 v1.0.3-ship.cores | downloads: 82
 v1.1.14-galactic.capital.investment | downloads: 624
 v1.0.2-ship.cores | downloads: 9
-v1.0.1-ship.cores | downloads: 8
+v1.0.1-ship.cores | downloads: 9
 v1.0.12-mission.helper | downloads: 776
 v1.0.2-heavy.traffic | downloads: 726
 v1.0.2-fleet.mercy | downloads: 715
@@ -350,7 +350,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 349
-# TOTAL DOWNLOADS: 301340
+# TOTAL DOWNLOADS: 301341
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -401,7 +401,7 @@ planet.map 5904
 planet.pluto 197
 quarg.farm 7072
 real.fluff 96
-ship.cores 119
+ship.cores 120
 ship.merging 6888
 show.reputation 7065
 snowfeather.robotics 6731
