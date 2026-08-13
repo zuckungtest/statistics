@@ -15,7 +15,7 @@ v1.1.8-hai.side.mission.unlocker | downloads: 1099
 v1.0.1-fleet.mercy | downloads: 537
 v1.0.0-fleet.mercy | downloads: 68
 v1.0.4-vague.improvements | downloads: 1353
-v1.0.28-additional.command.buttons.radial | downloads: 1637
+v1.0.28-additional.command.buttons.radial | downloads: 1638
 v1.1.11-captureable.person.ships | downloads: 1596
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 860
@@ -90,7 +90,7 @@ v1.0.3-more.arfectas | downloads: 5185
 v1.0.3-kor.efret.shipyard | downloads: 6268
 v1.0.2-highrollers.ltd | downloads: 5812
 v1.0.2-automata.in.human.space | downloads: 7074
-v1.0.2-automata.destruction.0percent | downloads: 6427
+v1.0.2-automata.destruction.0percent | downloads: 6431
 v1.0.1-kestrel.unlocks | downloads: 5973
 v1.0.1-disable.person.ships | downloads: 6164
 v1.0.5-landing.images | downloads: 6099
@@ -349,13 +349,13 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 348
-# TOTAL DOWNLOADS: 300937
+# TOTAL DOWNLOADS: 300942
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 8903
-automata.destruction.0percent 8121
+additional.command.buttons.radial 8904
+automata.destruction.0percent 8125
 automata.in.human.space 7598
 avgi.licenses 233
 better.starts 8541
