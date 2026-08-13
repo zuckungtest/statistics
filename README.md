@@ -197,8 +197,8 @@
 		<td>8322</td>
 		<td>8340</td>
 		<td>8359</td>
-		<td>8377</td>
-		<td>+ 18</td>
+		<td>8378</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>299145</td>
-		<td>617</td>
+		<td>299146</td>
+		<td>618</td>
 	</tr>
 </table>
 </sub></sup>
@@ -608,8 +608,8 @@
 		<td>8322</td>
 		<td>8340</td>
 		<td>8359</td>
-		<td>8377</td>
-		<td>+ 18</td>
+		<td>8378</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>299145</td>
-		<td>617</td>
+		<td>299146</td>
+		<td>618</td>
 	</tr>
 </table>
 </sub></sup>
