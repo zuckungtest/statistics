@@ -6,7 +6,7 @@ v1.0.2-ship.cores | downloads: 9
 v1.0.1-ship.cores | downloads: 9
 v1.0.12-mission.helper | downloads: 795
 v1.0.2-heavy.traffic | downloads: 744
-v1.0.2-fleet.mercy | downloads: 733
+v1.0.2-fleet.mercy | downloads: 734
 v1.0.0-ship.cores | downloads: 20
 v1.0.13-combat.ai | downloads: 1115
 v1.0.4-paint.your.ships | downloads: 1060
@@ -139,7 +139,7 @@ v1.0.3-more.person.ships | downloads: 5949
 v1.0.3-control.station | downloads: 40
 v1.0.2-paint.your.ships | downloads: 48
 v1.0.2-control.station | downloads: 4
-v1.0.1-outfits.weapon.slot | downloads: 6203
+v1.0.1-outfits.weapon.slot | downloads: 6204
 v1.0.2-combat.ai | downloads: 46
 v1.0.1-combat.ai | downloads: 3
 v1.0.0-combat.ai | downloads: 74
@@ -350,7 +350,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 349
-# TOTAL DOWNLOADS: 302160
+# TOTAL DOWNLOADS: 302162
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -372,7 +372,7 @@ disable.person.ships 6760
 disable.spaceport.repeatables 1406
 expert.crew.members 7625
 flare.play 6013
-fleet.mercy 1338
+fleet.mercy 1339
 free.worlds.5.years.later 375
 galactic.capital.investment 8402
 gegno.pirates 7486
@@ -394,7 +394,7 @@ more.boarding.missions 7432
 more.person.ships 6362
 navy.licenses 580
 no.more.mereti.mines 6116
-outfits.weapon.slot 6581
+outfits.weapon.slot 6582
 paint.your.ships 6737
 pirate.warlords 6
 planet.map 5922
