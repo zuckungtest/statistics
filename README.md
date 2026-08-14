@@ -186,8 +186,8 @@
 		<td>1285</td>
 		<td>1304</td>
 		<td>1323</td>
-		<td>1338</td>
-		<td>+ 15</td>
+		<td>1339</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -395,8 +395,8 @@
 		<td>6533</td>
 		<td>6549</td>
 		<td>6567</td>
-		<td>6581</td>
-		<td>+ 14</td>
+		<td>6582</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>300111</td>
-		<td>675</td>
+		<td>300113</td>
+		<td>677</td>
 	</tr>
 </table>
 </sub></sup>
@@ -861,8 +861,8 @@
 		<td>6533</td>
 		<td>6549</td>
 		<td>6567</td>
-		<td>6581</td>
-		<td>+ 14</td>
+		<td>6582</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -1059,8 +1059,8 @@
 		<td>1285</td>
 		<td>1304</td>
 		<td>1323</td>
-		<td>1338</td>
-		<td>+ 15</td>
+		<td>1339</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>300111</td>
-		<td>675</td>
+		<td>300113</td>
+		<td>677</td>
 	</tr>
 </table>
 </sub></sup>
