@@ -1,11 +1,11 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.5-vague.improvements | downloads: 103
-v1.0.8-human.labels | downloads: 139
+v1.0.5-vague.improvements | downloads: 104
+v1.0.8-human.labels | downloads: 140
 v1.0.3-ship.cores | downloads: 85
 v1.1.14-galactic.capital.investment | downloads: 758
 v1.0.2-ship.cores | downloads: 9
 v1.0.1-ship.cores | downloads: 9
-v1.0.12-mission.helper | downloads: 912
+v1.0.12-mission.helper | downloads: 913
 v1.0.2-heavy.traffic | downloads: 859
 v1.0.2-fleet.mercy | downloads: 840
 v1.0.0-ship.cores | downloads: 20
@@ -351,7 +351,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 350
-# TOTAL DOWNLOADS: 307239
+# TOTAL DOWNLOADS: 307242
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -380,7 +380,7 @@ gegno.pirates 7599
 hai.side.mission.unlocker 6566
 heavy.traffic 2979
 highrollers.ltd 6182
-human.labels 6532
+human.labels 6533
 job.coloring 3389
 jump.gates 6973
 kestrel.unlocks 6689
@@ -389,7 +389,7 @@ landing.images 6811
 landing.images.android 351
 landing.images.highres 6353
 licenses 7497
-mission.helper 7988
+mission.helper 7989
 more.arfectas 7067
 more.boarding.missions 7545
 more.person.ships 6469
@@ -411,4 +411,4 @@ too.many.asteroids 5346
 tribute.republic 6109
 unique.fix 46
 uniques 7032
-vague.improvements 3146
+vague.improvements 3147
