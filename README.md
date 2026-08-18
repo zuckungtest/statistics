@@ -252,8 +252,8 @@
 		<td>6455</td>
 		<td>6484</td>
 		<td>6507</td>
-		<td>6532</td>
-		<td>+ 25</td>
+		<td>6533</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -340,8 +340,8 @@
 		<td>7911</td>
 		<td>7939</td>
 		<td>7963</td>
-		<td>7988</td>
-		<td>+ 25</td>
+		<td>7989</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -527,8 +527,8 @@
 		<td>3071</td>
 		<td>3098</td>
 		<td>3121</td>
-		<td>3146</td>
-		<td>+ 25</td>
+		<td>3147</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>305190</td>
-		<td>1136</td>
+		<td>305193</td>
+		<td>1139</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>7911</td>
 		<td>7939</td>
 		<td>7963</td>
-		<td>7988</td>
-		<td>+ 25</td>
+		<td>7989</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -894,8 +894,8 @@
 		<td>6455</td>
 		<td>6484</td>
 		<td>6507</td>
-		<td>6532</td>
-		<td>+ 25</td>
+		<td>6533</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -1026,8 +1026,8 @@
 		<td>3071</td>
 		<td>3098</td>
 		<td>3121</td>
-		<td>3146</td>
-		<td>+ 25</td>
+		<td>3147</td>
+		<td>+ 26</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>305190</td>
-		<td>1136</td>
+		<td>305193</td>
+		<td>1139</td>
 	</tr>
 </table>
 </sub></sup>
