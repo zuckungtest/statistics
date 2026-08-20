@@ -131,8 +131,8 @@
 		<td>8323</td>
 		<td>8349</td>
 		<td>8377</td>
-		<td>8382</td>
-		<td>+ 5</td>
+		<td>8383</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>306656</td>
-		<td>177</td>
+		<td>306657</td>
+		<td>178</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>8323</td>
 		<td>8349</td>
 		<td>8377</td>
-		<td>8382</td>
-		<td>+ 5</td>
+		<td>8383</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>306656</td>
-		<td>177</td>
+		<td>306657</td>
+		<td>178</td>
 	</tr>
 </table>
 </sub></sup>
