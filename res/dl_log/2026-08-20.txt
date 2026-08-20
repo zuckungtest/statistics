@@ -22,7 +22,7 @@ v1.1.11-captureable.person.ships | downloads: 1762
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 860
 v1.0.10-expert.crew.members | downloads: 1668
-v1.0.8-control.station | downloads: 1881
+v1.0.8-control.station | downloads: 1882
 v1.0.7-ship.merging | downloads: 1679
 v1.0.3-vague.improvements | downloads: 33
 v1.0.12-combat.ai | downloads: 1118
@@ -351,7 +351,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 350
-# TOTAL DOWNLOADS: 308705
+# TOTAL DOWNLOADS: 308706
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -367,7 +367,7 @@ captureable.person.ships 7915
 coalition.shopping 8277
 combat.ai 8584
 comets 3348
-control.station 8382
+control.station 8383
 devil-run.unhidden 70
 disable.person.ships 6894
 disable.spaceport.repeatables 1541
