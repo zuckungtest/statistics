@@ -32,8 +32,8 @@
 		<td>8238</td>
 		<td>8263</td>
 		<td>8289</td>
-		<td>8305</td>
-		<td>+ 16</td>
+		<td>8306</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -54,8 +54,8 @@
 		<td>8659</td>
 		<td>8684</td>
 		<td>8711</td>
-		<td>8726</td>
-		<td>+ 15</td>
+		<td>8727</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -164,8 +164,8 @@
 		<td>7713</td>
 		<td>7740</td>
 		<td>7768</td>
-		<td>7786</td>
-		<td>+ 18</td>
+		<td>7787</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>307190</td>
-		<td>711</td>
+		<td>307193</td>
+		<td>714</td>
 	</tr>
 </table>
 </sub></sup>
@@ -586,8 +586,8 @@
 		<td>8659</td>
 		<td>8684</td>
 		<td>8711</td>
-		<td>8726</td>
-		<td>+ 15</td>
+		<td>8727</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -630,8 +630,8 @@
 		<td>8238</td>
 		<td>8263</td>
 		<td>8289</td>
-		<td>8305</td>
-		<td>+ 16</td>
+		<td>8306</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -685,8 +685,8 @@
 		<td>7713</td>
 		<td>7740</td>
 		<td>7768</td>
-		<td>7786</td>
-		<td>+ 18</td>
+		<td>7787</td>
+		<td>+ 19</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>307190</td>
-		<td>711</td>
+		<td>307193</td>
+		<td>714</td>
 	</tr>
 </table>
 </sub></sup>
