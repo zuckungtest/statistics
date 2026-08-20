@@ -21,7 +21,7 @@ v1.0.28-additional.command.buttons.radial | downloads: 1828
 v1.1.11-captureable.person.ships | downloads: 1773
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 860
-v1.0.10-expert.crew.members | downloads: 1681
+v1.0.10-expert.crew.members | downloads: 1682
 v1.0.8-control.station | downloads: 1894
 v1.0.7-ship.merging | downloads: 1691
 v1.0.3-vague.improvements | downloads: 33
@@ -118,7 +118,7 @@ v1.0.5-show.reputation | downloads: 3068
 v1.0.3-paint.your.ships | downloads: 5212
 v1.1.9-captureable.person.ships | downloads: 1540
 v1.0.9-bunrodea.missions | downloads: 8230
-v1.0.5-better.starts | downloads: 8179
+v1.0.5-better.starts | downloads: 8180
 v1.0.4-control.station | downloads: 185
 v1.0.6-mission.helper | downloads: 66
 v1.0.5-mission.helper | downloads: 11
@@ -287,7 +287,7 @@ v1.0.1-too.many.asteroids | downloads: 2
 v1.0.1-quarg.farm | downloads: 120
 v1.0.1-expert.crew.members | downloads: 3
 v1.0.1-better.starts | downloads: 107
-v1.0.1-automata.destruction.0percent | downloads: 1707
+v1.0.1-automata.destruction.0percent | downloads: 1708
 v1.0.1-additional.command.buttons | downloads: 1
 v1.1.2-captureable.person.ships | downloads: 1
 v1.1.1-captureable.person.ships | downloads: 1
@@ -351,16 +351,16 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 350
-# TOTAL DOWNLOADS: 309239
+# TOTAL DOWNLOADS: 309242
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
 additional.command.buttons.radial 9094
-automata.destruction.0percent 8305
+automata.destruction.0percent 8306
 automata.in.human.space 7775
 avgi.licenses 233
-better.starts 8726
+better.starts 8727
 boss.loot 8132
 bunrodea.missions 8959
 captureable.person.ships 7926
@@ -371,7 +371,7 @@ control.station 8395
 devil-run.unhidden 70
 disable.person.ships 6904
 disable.spaceport.repeatables 1551
-expert.crew.members 7786
+expert.crew.members 7787
 flare.play 6166
 fleet.mercy 1491
 free.worlds.5.years.later 375
