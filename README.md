@@ -450,8 +450,8 @@
 		<td>7029</td>
 		<td>7055</td>
 		<td>7083</td>
-		<td>7095</td>
-		<td>+ 12</td>
+		<td>7096</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>308222</td>
-		<td>531</td>
+		<td>308223</td>
+		<td>532</td>
 	</tr>
 </table>
 </sub></sup>
@@ -795,8 +795,8 @@
 		<td>7029</td>
 		<td>7055</td>
 		<td>7083</td>
-		<td>7095</td>
-		<td>+ 12</td>
+		<td>7096</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>308222</td>
-		<td>531</td>
+		<td>308223</td>
+		<td>532</td>
 	</tr>
 </table>
 </sub></sup>
