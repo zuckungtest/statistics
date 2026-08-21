@@ -23,7 +23,7 @@ v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 860
 v1.0.10-expert.crew.members | downloads: 1706
 v1.0.8-control.station | downloads: 1918
-v1.0.7-ship.merging | downloads: 1714
+v1.0.7-ship.merging | downloads: 1715
 v1.0.3-vague.improvements | downloads: 33
 v1.0.12-combat.ai | downloads: 1118
 v1.0.4-job.coloring | downloads: 2113
@@ -351,7 +351,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 350
-# TOTAL DOWNLOADS: 310271
+# TOTAL DOWNLOADS: 310272
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -403,7 +403,7 @@ planet.pluto 197
 quarg.farm 7266
 real.fluff 96
 ship.cores 129
-ship.merging 7095
+ship.merging 7096
 show.reputation 7259
 snowfeather.robotics 6920
 space.fauna 6332
