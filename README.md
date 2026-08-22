@@ -186,8 +186,8 @@
 		<td>1475</td>
 		<td>1503</td>
 		<td>1529</td>
-		<td>1536</td>
-		<td>+ 7</td>
+		<td>1537</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -307,8 +307,8 @@
 		<td>6838</td>
 		<td>6863</td>
 		<td>6887</td>
-		<td>6892</td>
-		<td>+ 5</td>
+		<td>6893</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -318,8 +318,8 @@
 		<td>6379</td>
 		<td>6403</td>
 		<td>6427</td>
-		<td>6436</td>
-		<td>+ 9</td>
+		<td>6437</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -329,8 +329,8 @@
 		<td>7524</td>
 		<td>7551</td>
 		<td>7579</td>
-		<td>7584</td>
-		<td>+ 5</td>
+		<td>7585</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -340,8 +340,8 @@
 		<td>8020</td>
 		<td>8048</td>
 		<td>8076</td>
-		<td>8081</td>
-		<td>+ 5</td>
+		<td>8082</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>309157</td>
-		<td>249</td>
+		<td>309162</td>
+		<td>254</td>
 	</tr>
 </table>
 </sub></sup>
@@ -663,8 +663,8 @@
 		<td>8020</td>
 		<td>8048</td>
 		<td>8076</td>
-		<td>8081</td>
-		<td>+ 5</td>
+		<td>8082</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -729,8 +729,8 @@
 		<td>7524</td>
 		<td>7551</td>
 		<td>7579</td>
-		<td>7584</td>
-		<td>+ 5</td>
+		<td>7585</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -850,8 +850,8 @@
 		<td>6838</td>
 		<td>6863</td>
 		<td>6887</td>
-		<td>6892</td>
-		<td>+ 5</td>
+		<td>6893</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -916,8 +916,8 @@
 		<td>6379</td>
 		<td>6403</td>
 		<td>6427</td>
-		<td>6436</td>
-		<td>+ 9</td>
+		<td>6437</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -1059,8 +1059,8 @@
 		<td>1475</td>
 		<td>1503</td>
 		<td>1529</td>
-		<td>1536</td>
-		<td>+ 7</td>
+		<td>1537</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>309157</td>
-		<td>249</td>
+		<td>309162</td>
+		<td>254</td>
 	</tr>
 </table>
 </sub></sup>
