@@ -7,7 +7,7 @@ v1.0.2-ship.cores | downloads: 9
 v1.0.1-ship.cores | downloads: 9
 v1.0.12-mission.helper | downloads: 1005
 v1.0.2-heavy.traffic | downloads: 945
-v1.0.2-fleet.mercy | downloads: 931
+v1.0.2-fleet.mercy | downloads: 932
 v1.0.0-ship.cores | downloads: 20
 v1.0.13-combat.ai | downloads: 1320
 v1.0.4-paint.your.ships | downloads: 1258
@@ -20,7 +20,7 @@ v1.0.4-vague.improvements | downloads: 1388
 v1.0.28-additional.command.buttons.radial | downloads: 1875
 v1.1.11-captureable.person.ships | downloads: 1813
 v1.0.14-uniques | downloads: 338
-v1.0.11-mission.helper | downloads: 860
+v1.0.11-mission.helper | downloads: 861
 v1.0.10-expert.crew.members | downloads: 1727
 v1.0.8-control.station | downloads: 1937
 v1.0.7-ship.merging | downloads: 1739
@@ -95,8 +95,8 @@ v1.0.2-automata.in.human.space | downloads: 7293
 v1.0.2-automata.destruction.0percent | downloads: 6638
 v1.0.1-kestrel.unlocks | downloads: 6189
 v1.0.1-disable.person.ships | downloads: 6368
-v1.0.5-landing.images | downloads: 6317
-v1.0.3-landing.images.highres | downloads: 6033
+v1.0.5-landing.images | downloads: 6318
+v1.0.3-landing.images.highres | downloads: 6034
 v1.0.25-additional.command.buttons.radial | downloads: 330
 v1.1.9-galactic.capital.investment | downloads: 959
 v1.0.1-ship.merging | downloads: 274
@@ -144,7 +144,7 @@ v1.0.1-outfits.weapon.slot | downloads: 6397
 v1.0.2-combat.ai | downloads: 46
 v1.0.1-combat.ai | downloads: 3
 v1.0.0-combat.ai | downloads: 74
-v1.0.1-licenses | downloads: 7581
+v1.0.1-licenses | downloads: 7582
 v1.0.0-licenses | downloads: 3
 v1.0.3-mission.helper | downloads: 96
 v1.0.1-flare.play | downloads: 119
@@ -351,7 +351,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 350
-# TOTAL DOWNLOADS: 311206
+# TOTAL DOWNLOADS: 311211
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -373,7 +373,7 @@ disable.person.ships 6943
 disable.spaceport.repeatables 1592
 expert.crew.members 7832
 flare.play 6208
-fleet.mercy 1536
+fleet.mercy 1537
 free.worlds.5.years.later 375
 galactic.capital.investment 8600
 gegno.pirates 7687
@@ -385,11 +385,11 @@ job.coloring 3479
 jump.gates 7058
 kestrel.unlocks 6771
 kor.efret.shipyard 7295
-landing.images 6892
+landing.images 6893
 landing.images.android 351
-landing.images.highres 6436
-licenses 7584
-mission.helper 8081
+landing.images.highres 6437
+licenses 7585
+mission.helper 8082
 more.arfectas 7151
 more.boarding.missions 7631
 more.person.ships 6551
