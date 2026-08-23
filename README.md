@@ -527,8 +527,8 @@
 		<td>3204</td>
 		<td>3230</td>
 		<td>3262</td>
-		<td>3270</td>
-		<td>+ 8</td>
+		<td>3271</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>310520</td>
-		<td>273</td>
+		<td>310521</td>
+		<td>274</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1026,8 +1026,8 @@
 		<td>3204</td>
 		<td>3230</td>
 		<td>3262</td>
-		<td>3270</td>
-		<td>+ 8</td>
+		<td>3271</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>310520</td>
-		<td>273</td>
+		<td>310521</td>
+		<td>274</td>
 	</tr>
 </table>
 </sub></sup>
