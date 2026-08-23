@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.5-vague.improvements | downloads: 227
+v1.0.5-vague.improvements | downloads: 228
 v1.0.8-human.labels | downloads: 260
 v1.0.3-ship.cores | downloads: 92
 v1.1.14-galactic.capital.investment | downloads: 874
@@ -351,7 +351,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 350
-# TOTAL DOWNLOADS: 312569
+# TOTAL DOWNLOADS: 312570
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -411,4 +411,4 @@ too.many.asteroids 5465
 tribute.republic 6215
 unique.fix 46
 uniques 7147
-vague.improvements 3270
+vague.improvements 3271
