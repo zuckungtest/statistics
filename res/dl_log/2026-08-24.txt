@@ -17,7 +17,7 @@ v1.1.8-hai.side.mission.unlocker | downloads: 1369
 v1.0.1-fleet.mercy | downloads: 537
 v1.0.0-fleet.mercy | downloads: 68
 v1.0.4-vague.improvements | downloads: 1388
-v1.0.28-additional.command.buttons.radial | downloads: 1936
+v1.0.28-additional.command.buttons.radial | downloads: 1937
 v1.1.11-captureable.person.ships | downloads: 1873
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 861
@@ -351,12 +351,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 350
-# TOTAL DOWNLOADS: 313873
+# TOTAL DOWNLOADS: 313874
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 9202
+additional.command.buttons.radial 9203
 automata.destruction.0percent 8412
 automata.in.human.space 7875
 avgi.licenses 233
