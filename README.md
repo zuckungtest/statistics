@@ -21,8 +21,8 @@
 		<td>9135</td>
 		<td>9163</td>
 		<td>9195</td>
-		<td>9214</td>
-		<td>+ 19</td>
+		<td>9215</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -340,8 +340,8 @@
 		<td>8076</td>
 		<td>8106</td>
 		<td>8134</td>
-		<td>8144</td>
-		<td>+ 10</td>
+		<td>8145</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -461,8 +461,8 @@
 		<td>7275</td>
 		<td>7303</td>
 		<td>7333</td>
-		<td>7338</td>
-		<td>+ 5</td>
+		<td>7339</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>312182</td>
-		<td>553</td>
+		<td>312185</td>
+		<td>556</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>9135</td>
 		<td>9163</td>
 		<td>9195</td>
-		<td>9214</td>
-		<td>+ 19</td>
+		<td>9215</td>
+		<td>+ 20</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -663,8 +663,8 @@
 		<td>8076</td>
 		<td>8106</td>
 		<td>8134</td>
-		<td>8144</td>
-		<td>+ 10</td>
+		<td>8145</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -762,8 +762,8 @@
 		<td>7275</td>
 		<td>7303</td>
 		<td>7333</td>
-		<td>7338</td>
-		<td>+ 5</td>
+		<td>7339</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>312182</td>
-		<td>553</td>
+		<td>312185</td>
+		<td>556</td>
 	</tr>
 </table>
 </sub></sup>
