@@ -5,7 +5,7 @@ v1.0.3-ship.cores | downloads: 95
 v1.1.14-galactic.capital.investment | downloads: 912
 v1.0.2-ship.cores | downloads: 9
 v1.0.1-ship.cores | downloads: 9
-v1.0.12-mission.helper | downloads: 1067
+v1.0.12-mission.helper | downloads: 1068
 v1.0.2-heavy.traffic | downloads: 1016
 v1.0.2-fleet.mercy | downloads: 1004
 v1.0.0-ship.cores | downloads: 20
@@ -17,7 +17,7 @@ v1.1.8-hai.side.mission.unlocker | downloads: 1378
 v1.0.1-fleet.mercy | downloads: 537
 v1.0.0-fleet.mercy | downloads: 68
 v1.0.4-vague.improvements | downloads: 1388
-v1.0.28-additional.command.buttons.radial | downloads: 1948
+v1.0.28-additional.command.buttons.radial | downloads: 1949
 v1.1.11-captureable.person.ships | downloads: 1883
 v1.0.14-uniques | downloads: 338
 v1.0.11-mission.helper | downloads: 861
@@ -39,7 +39,7 @@ v1.1.4-space.fauna | downloads: 3384
 v1.0.10-mission.helper | downloads: 2179
 v1.0.8-boss.loot | downloads: 2762
 v1.0.7-control.station | downloads: 2322
-v1.0.6-show.reputation | downloads: 3705
+v1.0.6-show.reputation | downloads: 3706
 v1.0.6-ship.merging | downloads: 2056
 v1.0.1-comets | downloads: 3239
 v1.0.6-gegno.pirates | downloads: 3811
@@ -351,12 +351,12 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 350
-# TOTAL DOWNLOADS: 314231
+# TOTAL DOWNLOADS: 314234
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 9214
+additional.command.buttons.radial 9215
 automata.destruction.0percent 8422
 automata.in.human.space 7885
 avgi.licenses 233
@@ -389,7 +389,7 @@ landing.images 6958
 landing.images.android 351
 landing.images.highres 6502
 licenses 7658
-mission.helper 8144
+mission.helper 8145
 more.arfectas 7211
 more.boarding.missions 7688
 more.person.ships 6608
@@ -404,7 +404,7 @@ quarg.farm 7345
 real.fluff 96
 ship.cores 133
 ship.merging 7182
-show.reputation 7338
+show.reputation 7339
 snowfeather.robotics 6998
 space.fauna 6408
 too.many.asteroids 5495
