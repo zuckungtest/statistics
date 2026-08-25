@@ -12,7 +12,7 @@ v1.0.0-ship.cores | downloads: 20
 v1.0.13-combat.ai | downloads: 1420
 v1.0.4-paint.your.ships | downloads: 1324
 v1.0.15-uniques | downloads: 1366
-v1.0.9-boss.loot | downloads: 1459
+v1.0.9-boss.loot | downloads: 1460
 v1.1.8-hai.side.mission.unlocker | downloads: 1403
 v1.0.1-fleet.mercy | downloads: 537
 v1.0.0-fleet.mercy | downloads: 68
@@ -42,7 +42,7 @@ v1.0.7-control.station | downloads: 2322
 v1.0.6-show.reputation | downloads: 3713
 v1.0.6-ship.merging | downloads: 2056
 v1.0.1-comets | downloads: 3267
-v1.0.6-gegno.pirates | downloads: 3837
+v1.0.6-gegno.pirates | downloads: 3838
 v1.0.5-gegno.pirates | downloads: 10
 v1.0.2-job.coloring | downloads: 442
 v1.0.7-boss.loot | downloads: 809
@@ -85,7 +85,7 @@ v1.0.7-coalition.shopping | downloads: 7675
 v1.0.5-too.many.asteroids | downloads: 3850
 v1.0.4-planet.map | downloads: 5417
 v1.0.4-no.more.mereti.mines | downloads: 5902
-v1.0.4-jump.gates | downloads: 6509
+v1.0.4-jump.gates | downloads: 6510
 v1.0.4-gegno.pirates | downloads: 3054
 v1.0.3-tribute.republic | downloads: 5851
 v1.0.3-more.arfectas | downloads: 5449
@@ -351,7 +351,7 @@ v1.1-galactic.capital.investment | downloads: 29
 
 
 # NUMBER OF RELEASES: 350
-# TOTAL DOWNLOADS: 315103
+# TOTAL DOWNLOADS: 315106
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -361,7 +361,7 @@ automata.destruction.0percent 8449
 automata.in.human.space 7911
 avgi.licenses 233
 better.starts 8870
-boss.loot 8271
+boss.loot 8272
 bunrodea.missions 9097
 captureable.person.ships 8062
 coalition.shopping 8428
@@ -376,13 +376,13 @@ flare.play 6302
 fleet.mercy 1638
 free.worlds.5.years.later 375
 galactic.capital.investment 8698
-gegno.pirates 7784
+gegno.pirates 7785
 hai.side.mission.unlocker 6739
 heavy.traffic 3161
 highrollers.ltd 6355
 human.labels 6716
 job.coloring 3584
-jump.gates 7152
+jump.gates 7153
 kestrel.unlocks 6869
 kor.efret.shipyard 7387
 landing.images 6984
