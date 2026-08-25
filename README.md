@@ -65,8 +65,8 @@
 		<td>8199</td>
 		<td>8228</td>
 		<td>8255</td>
-		<td>8271</td>
-		<td>+ 16</td>
+		<td>8272</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -208,8 +208,8 @@
 		<td>7710</td>
 		<td>7742</td>
 		<td>7769</td>
-		<td>7784</td>
-		<td>+ 15</td>
+		<td>7785</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -274,8 +274,8 @@
 		<td>7082</td>
 		<td>7111</td>
 		<td>7137</td>
-		<td>7152</td>
-		<td>+ 15</td>
+		<td>7153</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>313054</td>
-		<td>527</td>
+		<td>313057</td>
+		<td>530</td>
 	</tr>
 </table>
 </sub></sup>
@@ -652,8 +652,8 @@
 		<td>8199</td>
 		<td>8228</td>
 		<td>8255</td>
-		<td>8271</td>
-		<td>+ 16</td>
+		<td>8272</td>
+		<td>+ 17</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -707,8 +707,8 @@
 		<td>7710</td>
 		<td>7742</td>
 		<td>7769</td>
-		<td>7784</td>
-		<td>+ 15</td>
+		<td>7785</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -806,8 +806,8 @@
 		<td>7082</td>
 		<td>7111</td>
 		<td>7137</td>
-		<td>7152</td>
-		<td>+ 15</td>
+		<td>7153</td>
+		<td>+ 16</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>313054</td>
-		<td>527</td>
+		<td>313057</td>
+		<td>530</td>
 	</tr>
 </table>
 </sub></sup>
