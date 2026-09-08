@@ -21,8 +21,8 @@
 		<td>9388</td>
 		<td>9402</td>
 		<td>9411</td>
-		<td>9420</td>
-		<td>+ 9</td>
+		<td>9422</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -54,8 +54,8 @@
 		<td>9025</td>
 		<td>9040</td>
 		<td>9049</td>
-		<td>9057</td>
-		<td>+ 8</td>
+		<td>9058</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -98,8 +98,8 @@
 		<td>8581</td>
 		<td>8598</td>
 		<td>8609</td>
-		<td>8618</td>
-		<td>+ 9</td>
+		<td>8622</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -439,8 +439,8 @@
 		<td>148</td>
 		<td>149</td>
 		<td>149</td>
-		<td>149</td>
-		<td></td>
+		<td>150</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -538,8 +538,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>320800</td>
-		<td>367</td>
+		<td>320808</td>
+		<td>375</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +564,8 @@
 		<td>9388</td>
 		<td>9402</td>
 		<td>9411</td>
-		<td>9420</td>
-		<td>+ 9</td>
+		<td>9422</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -586,8 +586,8 @@
 		<td>9025</td>
 		<td>9040</td>
 		<td>9049</td>
-		<td>9057</td>
-		<td>+ 8</td>
+		<td>9058</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -623,6 +623,17 @@
 		<td>+ 8</td>
 	</tr>
 	<tr>
+		<td>coalition.shopping</td>
+		<td>8532</td>
+		<td>8545</td>
+		<td>8559</td>
+		<td>8581</td>
+		<td>8598</td>
+		<td>8609</td>
+		<td>8622</td>
+		<td>+ 13</td>
+	</tr>
+	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>8548</td>
 		<td>8562</td>
@@ -632,17 +643,6 @@
 		<td>8614</td>
 		<td>8622</td>
 		<td>+ 8</td>
-	</tr>
-	<tr>
-		<td>coalition.shopping</td>
-		<td>8532</td>
-		<td>8545</td>
-		<td>8559</td>
-		<td>8581</td>
-		<td>8598</td>
-		<td>8609</td>
-		<td>8618</td>
-		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -1070,8 +1070,8 @@
 		<td>148</td>
 		<td>149</td>
 		<td>149</td>
-		<td>149</td>
-		<td></td>
+		<td>150</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1081,8 +1081,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>320800</td>
-		<td>367</td>
+		<td>320808</td>
+		<td>375</td>
 	</tr>
 </table>
 </sub></sup>
