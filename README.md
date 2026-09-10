@@ -21,8 +21,8 @@
 		<td>9411</td>
 		<td>9424</td>
 		<td>9437</td>
-		<td>9446</td>
-		<td>+ 9</td>
+		<td>9448</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -32,8 +32,8 @@
 		<td>8614</td>
 		<td>8624</td>
 		<td>8638</td>
-		<td>8648</td>
-		<td>+ 10</td>
+		<td>8651</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -43,8 +43,8 @@
 		<td>8060</td>
 		<td>8070</td>
 		<td>8082</td>
-		<td>8090</td>
-		<td>+ 8</td>
+		<td>8094</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -54,8 +54,8 @@
 		<td>9049</td>
 		<td>9060</td>
 		<td>9072</td>
-		<td>9079</td>
-		<td>+ 7</td>
+		<td>9081</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -65,8 +65,8 @@
 		<td>8450</td>
 		<td>8461</td>
 		<td>8477</td>
-		<td>8485</td>
-		<td>+ 8</td>
+		<td>8487</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -76,8 +76,8 @@
 		<td>9278</td>
 		<td>9289</td>
 		<td>9301</td>
-		<td>9312</td>
-		<td>+ 11</td>
+		<td>9314</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -87,8 +87,8 @@
 		<td>8216</td>
 		<td>8226</td>
 		<td>8238</td>
-		<td>8246</td>
-		<td>+ 8</td>
+		<td>8248</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -98,8 +98,8 @@
 		<td>8609</td>
 		<td>8624</td>
 		<td>8643</td>
-		<td>8653</td>
-		<td>+ 10</td>
+		<td>8655</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -109,8 +109,8 @@
 		<td>8919</td>
 		<td>8930</td>
 		<td>8943</td>
-		<td>8953</td>
-		<td>+ 10</td>
+		<td>8956</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -120,8 +120,8 @@
 		<td>3663</td>
 		<td>3674</td>
 		<td>3686</td>
-		<td>3693</td>
-		<td>+ 7</td>
+		<td>3695</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -131,8 +131,8 @@
 		<td>8707</td>
 		<td>8717</td>
 		<td>8728</td>
-		<td>8737</td>
-		<td>+ 9</td>
+		<td>8742</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -142,8 +142,8 @@
 		<td>7176</td>
 		<td>7186</td>
 		<td>7197</td>
-		<td>7203</td>
-		<td>+ 6</td>
+		<td>7205</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -153,8 +153,8 @@
 		<td>1828</td>
 		<td>1838</td>
 		<td>1849</td>
-		<td>1857</td>
-		<td>+ 8</td>
+		<td>1859</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -164,8 +164,8 @@
 		<td>8106</td>
 		<td>8115</td>
 		<td>8127</td>
-		<td>8135</td>
-		<td>+ 8</td>
+		<td>8138</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -175,8 +175,8 @@
 		<td>6449</td>
 		<td>6458</td>
 		<td>6469</td>
-		<td>6474</td>
-		<td>+ 5</td>
+		<td>6476</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>fleet.mercy</td>
@@ -186,8 +186,8 @@
 		<td>1814</td>
 		<td>1823</td>
 		<td>1834</td>
-		<td>1843</td>
-		<td>+ 9</td>
+		<td>1845</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -197,8 +197,8 @@
 		<td>8887</td>
 		<td>8898</td>
 		<td>8912</td>
-		<td>8922</td>
-		<td>+ 10</td>
+		<td>8924</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -208,8 +208,8 @@
 		<td>7963</td>
 		<td>7972</td>
 		<td>7984</td>
-		<td>7993</td>
-		<td>+ 9</td>
+		<td>7995</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -219,8 +219,8 @@
 		<td>6894</td>
 		<td>6904</td>
 		<td>6915</td>
-		<td>6923</td>
-		<td>+ 8</td>
+		<td>6925</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -230,8 +230,8 @@
 		<td>3337</td>
 		<td>3349</td>
 		<td>3361</td>
-		<td>3369</td>
-		<td>+ 8</td>
+		<td>3371</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -241,8 +241,8 @@
 		<td>6509</td>
 		<td>6518</td>
 		<td>6530</td>
-		<td>6535</td>
-		<td>+ 5</td>
+		<td>6537</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -252,8 +252,8 @@
 		<td>6872</td>
 		<td>6883</td>
 		<td>6898</td>
-		<td>6904</td>
-		<td>+ 6</td>
+		<td>6906</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -263,8 +263,8 @@
 		<td>3774</td>
 		<td>3785</td>
 		<td>3799</td>
-		<td>3805</td>
-		<td>+ 6</td>
+		<td>3807</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -274,8 +274,8 @@
 		<td>7319</td>
 		<td>7329</td>
 		<td>7340</td>
-		<td>7347</td>
-		<td>+ 7</td>
+		<td>7349</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -285,8 +285,8 @@
 		<td>7030</td>
 		<td>7040</td>
 		<td>7052</td>
-		<td>7060</td>
-		<td>+ 8</td>
+		<td>7062</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -296,8 +296,8 @@
 		<td>7559</td>
 		<td>7569</td>
 		<td>7582</td>
-		<td>7592</td>
-		<td>+ 10</td>
+		<td>7594</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -307,8 +307,8 @@
 		<td>7150</td>
 		<td>7159</td>
 		<td>7171</td>
-		<td>7177</td>
-		<td>+ 6</td>
+		<td>7179</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -318,8 +318,8 @@
 		<td>6676</td>
 		<td>6686</td>
 		<td>6697</td>
-		<td>6702</td>
-		<td>+ 5</td>
+		<td>6704</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -329,8 +329,8 @@
 		<td>7871</td>
 		<td>7882</td>
 		<td>7896</td>
-		<td>7906</td>
-		<td>+ 10</td>
+		<td>7908</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -340,8 +340,8 @@
 		<td>8371</td>
 		<td>8383</td>
 		<td>8400</td>
-		<td>8409</td>
-		<td>+ 9</td>
+		<td>8412</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -351,8 +351,8 @@
 		<td>7362</td>
 		<td>7372</td>
 		<td>7384</td>
-		<td>7393</td>
-		<td>+ 9</td>
+		<td>7395</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -362,8 +362,8 @@
 		<td>7851</td>
 		<td>7860</td>
 		<td>7873</td>
-		<td>7882</td>
-		<td>+ 9</td>
+		<td>7884</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -373,8 +373,8 @@
 		<td>6748</td>
 		<td>6757</td>
 		<td>6768</td>
-		<td>6774</td>
-		<td>+ 6</td>
+		<td>6776</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -384,8 +384,8 @@
 		<td>6498</td>
 		<td>6507</td>
 		<td>6519</td>
-		<td>6525</td>
-		<td>+ 6</td>
+		<td>6527</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -395,8 +395,8 @@
 		<td>6986</td>
 		<td>6995</td>
 		<td>7010</td>
-		<td>7016</td>
-		<td>+ 6</td>
+		<td>7018</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -406,8 +406,8 @@
 		<td>7141</td>
 		<td>7151</td>
 		<td>7164</td>
-		<td>7170</td>
-		<td>+ 6</td>
+		<td>7172</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -417,8 +417,19 @@
 		<td>6295</td>
 		<td>6304</td>
 		<td>6315</td>
-		<td>6320</td>
-		<td>+ 5</td>
+		<td>6322</td>
+		<td>+ 7</td>
+	</tr>
+	<tr>
+		<td>portable.outfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>2</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -428,8 +439,8 @@
 		<td>7496</td>
 		<td>7505</td>
 		<td>7517</td>
-		<td>7525</td>
-		<td>+ 8</td>
+		<td>7527</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -439,8 +450,8 @@
 		<td>149</td>
 		<td>150</td>
 		<td>150</td>
-		<td>151</td>
-		<td>+ 1</td>
+		<td>152</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -450,8 +461,8 @@
 		<td>7336</td>
 		<td>7346</td>
 		<td>7357</td>
-		<td>7366</td>
-		<td>+ 9</td>
+		<td>7368</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -461,8 +472,8 @@
 		<td>7495</td>
 		<td>7505</td>
 		<td>7519</td>
-		<td>7526</td>
-		<td>+ 7</td>
+		<td>7528</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -472,8 +483,8 @@
 		<td>7147</td>
 		<td>7156</td>
 		<td>7167</td>
-		<td>7175</td>
-		<td>+ 8</td>
+		<td>7177</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -483,8 +494,8 @@
 		<td>6547</td>
 		<td>6556</td>
 		<td>6567</td>
-		<td>6572</td>
-		<td>+ 5</td>
+		<td>6574</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -494,8 +505,8 @@
 		<td>5651</td>
 		<td>5661</td>
 		<td>5673</td>
-		<td>5681</td>
-		<td>+ 8</td>
+		<td>5683</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -505,8 +516,8 @@
 		<td>6378</td>
 		<td>6387</td>
 		<td>6399</td>
-		<td>6405</td>
-		<td>+ 6</td>
+		<td>6407</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -516,8 +527,8 @@
 		<td>7332</td>
 		<td>7342</td>
 		<td>7354</td>
-		<td>7360</td>
-		<td>+ 6</td>
+		<td>7362</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -527,8 +538,8 @@
 		<td>3460</td>
 		<td>3470</td>
 		<td>3484</td>
-		<td>3492</td>
-		<td>+ 8</td>
+		<td>3495</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -538,8 +549,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>321831</td>
-		<td>353</td>
+		<td>321936</td>
+		<td>458</td>
 	</tr>
 </table>
 </sub></sup>
@@ -564,8 +575,8 @@
 		<td>9411</td>
 		<td>9424</td>
 		<td>9437</td>
-		<td>9446</td>
-		<td>+ 9</td>
+		<td>9448</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -575,8 +586,8 @@
 		<td>9278</td>
 		<td>9289</td>
 		<td>9301</td>
-		<td>9312</td>
-		<td>+ 11</td>
+		<td>9314</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -586,8 +597,8 @@
 		<td>9049</td>
 		<td>9060</td>
 		<td>9072</td>
-		<td>9079</td>
-		<td>+ 7</td>
+		<td>9081</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -597,8 +608,8 @@
 		<td>8919</td>
 		<td>8930</td>
 		<td>8943</td>
-		<td>8953</td>
-		<td>+ 10</td>
+		<td>8956</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -608,8 +619,8 @@
 		<td>8887</td>
 		<td>8898</td>
 		<td>8912</td>
-		<td>8922</td>
-		<td>+ 10</td>
+		<td>8924</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -619,8 +630,8 @@
 		<td>8707</td>
 		<td>8717</td>
 		<td>8728</td>
-		<td>8737</td>
-		<td>+ 9</td>
+		<td>8742</td>
+		<td>+ 14</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -630,8 +641,8 @@
 		<td>8609</td>
 		<td>8624</td>
 		<td>8643</td>
-		<td>8653</td>
-		<td>+ 10</td>
+		<td>8655</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -641,8 +652,8 @@
 		<td>8614</td>
 		<td>8624</td>
 		<td>8638</td>
-		<td>8648</td>
-		<td>+ 10</td>
+		<td>8651</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -652,8 +663,8 @@
 		<td>8450</td>
 		<td>8461</td>
 		<td>8477</td>
-		<td>8485</td>
-		<td>+ 8</td>
+		<td>8487</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -663,8 +674,8 @@
 		<td>8371</td>
 		<td>8383</td>
 		<td>8400</td>
-		<td>8409</td>
-		<td>+ 9</td>
+		<td>8412</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -674,8 +685,8 @@
 		<td>8216</td>
 		<td>8226</td>
 		<td>8238</td>
-		<td>8246</td>
-		<td>+ 8</td>
+		<td>8248</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>expert.crew.members</td>
@@ -685,8 +696,8 @@
 		<td>8106</td>
 		<td>8115</td>
 		<td>8127</td>
-		<td>8135</td>
-		<td>+ 8</td>
+		<td>8138</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -696,8 +707,8 @@
 		<td>8060</td>
 		<td>8070</td>
 		<td>8082</td>
-		<td>8090</td>
-		<td>+ 8</td>
+		<td>8094</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -707,8 +718,8 @@
 		<td>7963</td>
 		<td>7972</td>
 		<td>7984</td>
-		<td>7993</td>
-		<td>+ 9</td>
+		<td>7995</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -718,8 +729,8 @@
 		<td>7871</td>
 		<td>7882</td>
 		<td>7896</td>
-		<td>7906</td>
-		<td>+ 10</td>
+		<td>7908</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -729,8 +740,8 @@
 		<td>7851</td>
 		<td>7860</td>
 		<td>7873</td>
-		<td>7882</td>
-		<td>+ 9</td>
+		<td>7884</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>kor.efret.shipyard</td>
@@ -740,8 +751,8 @@
 		<td>7559</td>
 		<td>7569</td>
 		<td>7582</td>
-		<td>7592</td>
-		<td>+ 10</td>
+		<td>7594</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>show.reputation</td>
@@ -751,8 +762,8 @@
 		<td>7495</td>
 		<td>7505</td>
 		<td>7519</td>
-		<td>7526</td>
-		<td>+ 7</td>
+		<td>7528</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -762,8 +773,8 @@
 		<td>7496</td>
 		<td>7505</td>
 		<td>7517</td>
-		<td>7525</td>
-		<td>+ 8</td>
+		<td>7527</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -773,8 +784,8 @@
 		<td>7362</td>
 		<td>7372</td>
 		<td>7384</td>
-		<td>7393</td>
-		<td>+ 9</td>
+		<td>7395</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -784,8 +795,8 @@
 		<td>7336</td>
 		<td>7346</td>
 		<td>7357</td>
-		<td>7366</td>
-		<td>+ 9</td>
+		<td>7368</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>uniques</td>
@@ -795,8 +806,8 @@
 		<td>7332</td>
 		<td>7342</td>
 		<td>7354</td>
-		<td>7360</td>
-		<td>+ 6</td>
+		<td>7362</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -806,8 +817,8 @@
 		<td>7319</td>
 		<td>7329</td>
 		<td>7340</td>
-		<td>7347</td>
-		<td>+ 7</td>
+		<td>7349</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -817,8 +828,8 @@
 		<td>7176</td>
 		<td>7186</td>
 		<td>7197</td>
-		<td>7203</td>
-		<td>+ 6</td>
+		<td>7205</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images</td>
@@ -828,8 +839,8 @@
 		<td>7150</td>
 		<td>7159</td>
 		<td>7171</td>
-		<td>7177</td>
-		<td>+ 6</td>
+		<td>7179</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -839,8 +850,8 @@
 		<td>7147</td>
 		<td>7156</td>
 		<td>7167</td>
-		<td>7175</td>
-		<td>+ 8</td>
+		<td>7177</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>paint.your.ships</td>
@@ -850,8 +861,8 @@
 		<td>7141</td>
 		<td>7151</td>
 		<td>7164</td>
-		<td>7170</td>
-		<td>+ 6</td>
+		<td>7172</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>kestrel.unlocks</td>
@@ -861,8 +872,8 @@
 		<td>7030</td>
 		<td>7040</td>
 		<td>7052</td>
-		<td>7060</td>
-		<td>+ 8</td>
+		<td>7062</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>outfits.weapon.slot</td>
@@ -872,8 +883,8 @@
 		<td>6986</td>
 		<td>6995</td>
 		<td>7010</td>
-		<td>7016</td>
-		<td>+ 6</td>
+		<td>7018</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -883,8 +894,8 @@
 		<td>6894</td>
 		<td>6904</td>
 		<td>6915</td>
-		<td>6923</td>
-		<td>+ 8</td>
+		<td>6925</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -894,8 +905,8 @@
 		<td>6872</td>
 		<td>6883</td>
 		<td>6898</td>
-		<td>6904</td>
-		<td>+ 6</td>
+		<td>6906</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -905,8 +916,8 @@
 		<td>6748</td>
 		<td>6757</td>
 		<td>6768</td>
-		<td>6774</td>
-		<td>+ 6</td>
+		<td>6776</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -916,8 +927,8 @@
 		<td>6676</td>
 		<td>6686</td>
 		<td>6697</td>
-		<td>6702</td>
-		<td>+ 5</td>
+		<td>6704</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>space.fauna</td>
@@ -927,8 +938,8 @@
 		<td>6547</td>
 		<td>6556</td>
 		<td>6567</td>
-		<td>6572</td>
-		<td>+ 5</td>
+		<td>6574</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -938,8 +949,8 @@
 		<td>6509</td>
 		<td>6518</td>
 		<td>6530</td>
-		<td>6535</td>
-		<td>+ 5</td>
+		<td>6537</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>no.more.mereti.mines</td>
@@ -949,8 +960,8 @@
 		<td>6498</td>
 		<td>6507</td>
 		<td>6519</td>
-		<td>6525</td>
-		<td>+ 6</td>
+		<td>6527</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -960,8 +971,8 @@
 		<td>6449</td>
 		<td>6458</td>
 		<td>6469</td>
-		<td>6474</td>
-		<td>+ 5</td>
+		<td>6476</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>tribute.republic</td>
@@ -971,8 +982,8 @@
 		<td>6378</td>
 		<td>6387</td>
 		<td>6399</td>
-		<td>6405</td>
-		<td>+ 6</td>
+		<td>6407</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -982,8 +993,8 @@
 		<td>6295</td>
 		<td>6304</td>
 		<td>6315</td>
-		<td>6320</td>
-		<td>+ 5</td>
+		<td>6322</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>too.many.asteroids</td>
@@ -993,8 +1004,8 @@
 		<td>5651</td>
 		<td>5661</td>
 		<td>5673</td>
-		<td>5681</td>
-		<td>+ 8</td>
+		<td>5683</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -1004,8 +1015,8 @@
 		<td>3774</td>
 		<td>3785</td>
 		<td>3799</td>
-		<td>3805</td>
-		<td>+ 6</td>
+		<td>3807</td>
+		<td>+ 8</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1015,8 +1026,8 @@
 		<td>3663</td>
 		<td>3674</td>
 		<td>3686</td>
-		<td>3693</td>
-		<td>+ 7</td>
+		<td>3695</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>vague.improvements</td>
@@ -1026,8 +1037,8 @@
 		<td>3460</td>
 		<td>3470</td>
 		<td>3484</td>
-		<td>3492</td>
-		<td>+ 8</td>
+		<td>3495</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1037,8 +1048,8 @@
 		<td>3337</td>
 		<td>3349</td>
 		<td>3361</td>
-		<td>3369</td>
-		<td>+ 8</td>
+		<td>3371</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -1048,8 +1059,8 @@
 		<td>1828</td>
 		<td>1838</td>
 		<td>1849</td>
-		<td>1857</td>
-		<td>+ 8</td>
+		<td>1859</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>fleet.mercy</td>
@@ -1059,8 +1070,8 @@
 		<td>1814</td>
 		<td>1823</td>
 		<td>1834</td>
-		<td>1843</td>
-		<td>+ 9</td>
+		<td>1845</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -1070,8 +1081,19 @@
 		<td>149</td>
 		<td>150</td>
 		<td>150</td>
-		<td>151</td>
-		<td>+ 1</td>
+		<td>152</td>
+		<td>+ 2</td>
+	</tr>
+	<tr>
+		<td>portable.outfitter</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>2</td>
+		<td>+ 2</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1081,8 +1103,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>321831</td>
-		<td>353</td>
+		<td>321936</td>
+		<td>458</td>
 	</tr>
 </table>
 </sub></sup>
