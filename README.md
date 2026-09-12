@@ -428,8 +428,8 @@
 		<td>0</td>
 		<td>3</td>
 		<td>15</td>
-		<td>19</td>
-		<td>+ 4</td>
+		<td>20</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -549,8 +549,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>323139</td>
-		<td>430</td>
+		<td>323140</td>
+		<td>431</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1092,8 +1092,8 @@
 		<td>0</td>
 		<td>3</td>
 		<td>15</td>
-		<td>19</td>
-		<td>+ 4</td>
+		<td>20</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -1103,8 +1103,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>323139</td>
-		<td>430</td>
+		<td>323140</td>
+		<td>431</td>
 	</tr>
 </table>
 </sub></sup>
