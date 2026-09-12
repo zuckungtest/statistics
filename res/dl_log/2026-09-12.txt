@@ -1,5 +1,5 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.0.0-portable.outfitter | downloads: 19
+v1.0.0-portable.outfitter | downloads: 20
 v1.0.8-coalition.shopping | downloads: 121
 v1.0.10-boss.loot | downloads: 126
 v1.0.5-vague.improvements | downloads: 478
@@ -354,7 +354,7 @@ v1.1-galactic.capital.investment | downloads: 30
 
 
 # NUMBER OF RELEASES: 353
-# TOTAL DOWNLOADS: 325188
+# TOTAL DOWNLOADS: 325189
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -403,7 +403,7 @@ paint.your.ships 7199
 pirate.warlords 6
 planet.map 6343
 planet.pluto 197
-portable.outfitter 19
+portable.outfitter 20
 quarg.farm 7553
 real.fluff 96
 ship.cores 153
