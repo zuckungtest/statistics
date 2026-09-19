@@ -131,8 +131,8 @@
 		<td>8829</td>
 		<td>8839</td>
 		<td>8852</td>
-		<td>8864</td>
-		<td>+ 12</td>
+		<td>8865</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -164,8 +164,8 @@
 		<td>8211</td>
 		<td>8223</td>
 		<td>8234</td>
-		<td>8243</td>
-		<td>+ 9</td>
+		<td>8244</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>flare.play</td>
@@ -186,8 +186,8 @@
 		<td>1924</td>
 		<td>1937</td>
 		<td>1947</td>
-		<td>1956</td>
-		<td>+ 9</td>
+		<td>1957</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>galactic.capital.investment</td>
@@ -197,8 +197,8 @@
 		<td>9014</td>
 		<td>9026</td>
 		<td>9037</td>
-		<td>9048</td>
-		<td>+ 11</td>
+		<td>9049</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>gegno.pirates</td>
@@ -219,8 +219,8 @@
 		<td>6995</td>
 		<td>7005</td>
 		<td>7015</td>
-		<td>7024</td>
-		<td>+ 9</td>
+		<td>7025</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -252,8 +252,8 @@
 		<td>6981</td>
 		<td>6990</td>
 		<td>7002</td>
-		<td>7012</td>
-		<td>+ 10</td>
+		<td>7013</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>job.coloring</td>
@@ -340,8 +340,8 @@
 		<td>8497</td>
 		<td>8510</td>
 		<td>8523</td>
-		<td>8532</td>
-		<td>+ 9</td>
+		<td>8533</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -406,8 +406,8 @@
 		<td>7251</td>
 		<td>7260</td>
 		<td>7270</td>
-		<td>7278</td>
-		<td>+ 8</td>
+		<td>7279</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>planet.map</td>
@@ -450,8 +450,8 @@
 		<td>156</td>
 		<td>157</td>
 		<td>160</td>
-		<td>160</td>
-		<td></td>
+		<td>161</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>ship.merging</td>
@@ -472,8 +472,8 @@
 		<td>7602</td>
 		<td>7613</td>
 		<td>7627</td>
-		<td>7641</td>
-		<td>+ 14</td>
+		<td>7642</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -538,8 +538,8 @@
 		<td>3566</td>
 		<td>3577</td>
 		<td>3587</td>
-		<td>3596</td>
-		<td>+ 9</td>
+		<td>3597</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -549,8 +549,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>326795</td>
-		<td>429</td>
+		<td>326806</td>
+		<td>440</td>
 	</tr>
 </table>
 </sub></sup>
@@ -619,8 +619,8 @@
 		<td>9014</td>
 		<td>9026</td>
 		<td>9037</td>
-		<td>9048</td>
-		<td>+ 11</td>
+		<td>9049</td>
+		<td>+ 12</td>
 	</tr>
 	<tr>
 		<td>control.station</td>
@@ -630,8 +630,8 @@
 		<td>8829</td>
 		<td>8839</td>
 		<td>8852</td>
-		<td>8864</td>
-		<td>+ 12</td>
+		<td>8865</td>
+		<td>+ 13</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -674,8 +674,8 @@
 		<td>8497</td>
 		<td>8510</td>
 		<td>8523</td>
-		<td>8532</td>
-		<td>+ 9</td>
+		<td>8533</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>captureable.person.ships</td>
@@ -696,8 +696,8 @@
 		<td>8211</td>
 		<td>8223</td>
 		<td>8234</td>
-		<td>8243</td>
-		<td>+ 9</td>
+		<td>8244</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -762,8 +762,8 @@
 		<td>7602</td>
 		<td>7613</td>
 		<td>7627</td>
-		<td>7641</td>
-		<td>+ 14</td>
+		<td>7642</td>
+		<td>+ 15</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -850,8 +850,8 @@
 		<td>7251</td>
 		<td>7260</td>
 		<td>7270</td>
-		<td>7278</td>
-		<td>+ 8</td>
+		<td>7279</td>
+		<td>+ 9</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -894,8 +894,8 @@
 		<td>6995</td>
 		<td>7005</td>
 		<td>7015</td>
-		<td>7024</td>
-		<td>+ 9</td>
+		<td>7025</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>human.labels</td>
@@ -905,8 +905,8 @@
 		<td>6981</td>
 		<td>6990</td>
 		<td>7002</td>
-		<td>7012</td>
-		<td>+ 10</td>
+		<td>7013</td>
+		<td>+ 11</td>
 	</tr>
 	<tr>
 		<td>more.person.ships</td>
@@ -1037,8 +1037,8 @@
 		<td>3566</td>
 		<td>3577</td>
 		<td>3587</td>
-		<td>3596</td>
-		<td>+ 9</td>
+		<td>3597</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>heavy.traffic</td>
@@ -1070,8 +1070,8 @@
 		<td>1924</td>
 		<td>1937</td>
 		<td>1947</td>
-		<td>1956</td>
-		<td>+ 9</td>
+		<td>1957</td>
+		<td>+ 10</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -1081,8 +1081,8 @@
 		<td>156</td>
 		<td>157</td>
 		<td>160</td>
-		<td>160</td>
-		<td></td>
+		<td>161</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>portable.outfitter</td>
@@ -1103,8 +1103,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>326795</td>
-		<td>429</td>
+		<td>326806</td>
+		<td>440</td>
 	</tr>
 </table>
 </sub></sup>
