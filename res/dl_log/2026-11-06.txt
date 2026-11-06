@@ -1,13 +1,13 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.14-mission.helper | downloads: 4
 v1.0.9-ship.merging | downloads: 10
-v1.0.30-additional.command.buttons.radial | downloads: 22
-v1.0.13-mission.helper | downloads: 535
+v1.0.30-additional.command.buttons.radial | downloads: 26
+v1.0.13-mission.helper | downloads: 539
 v1.0.8-ship.merging | downloads: 495
 v1.0.29-additional.command.buttons.radial | downloads: 492
 v1.0.7-show.reputation | downloads: 573
 v1.0.9-control.station | downloads: 653
-v1.0.0-portable.outfitter | downloads: 481
+v1.0.0-portable.outfitter | downloads: 482
 v1.0.8-coalition.shopping | downloads: 762
 v1.0.10-boss.loot | downloads: 768
 v1.0.5-vague.improvements | downloads: 1047
@@ -17,7 +17,7 @@ v1.1.14-galactic.capital.investment | downloads: 1875
 v1.0.2-ship.cores | downloads: 11
 v1.0.1-ship.cores | downloads: 10
 v1.0.12-mission.helper | downloads: 1568
-v1.0.2-heavy.traffic | downloads: 1912
+v1.0.2-heavy.traffic | downloads: 1913
 v1.0.2-fleet.mercy | downloads: 1915
 v1.0.0-ship.cores | downloads: 21
 v1.0.13-combat.ai | downloads: 2354
@@ -53,7 +53,7 @@ v1.0.7-control.station | downloads: 2325
 v1.0.6-show.reputation | downloads: 3986
 v1.0.6-ship.merging | downloads: 2057
 v1.0.1-comets | downloads: 4078
-v1.0.6-gegno.pirates | downloads: 4691
+v1.0.6-gegno.pirates | downloads: 4692
 v1.0.5-gegno.pirates | downloads: 11
 v1.0.2-job.coloring | downloads: 443
 v1.0.7-boss.loot | downloads: 815
@@ -155,7 +155,7 @@ v1.0.1-outfits.weapon.slot | downloads: 7249
 v1.0.2-combat.ai | downloads: 48
 v1.0.1-combat.ai | downloads: 4
 v1.0.0-combat.ai | downloads: 74
-v1.0.1-licenses | downloads: 8605
+v1.0.1-licenses | downloads: 8606
 v1.0.0-licenses | downloads: 3
 v1.0.3-mission.helper | downloads: 96
 v1.0.1-flare.play | downloads: 119
@@ -362,12 +362,12 @@ v1.1-galactic.capital.investment | downloads: 31
 
 
 # NUMBER OF RELEASES: 361
-# TOTAL DOWNLOADS: 353559
+# TOTAL DOWNLOADS: 353571
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 10158
+additional.command.buttons.radial 10162
 automata.destruction.0percent 9282
 automata.in.human.space 8714
 avgi.licenses 234
@@ -387,9 +387,9 @@ flare.play 7034
 fleet.mercy 2524
 free.worlds.5.years.later 376
 galactic.capital.investment 9646
-gegno.pirates 8641
+gegno.pirates 8642
 hai.side.mission.unlocker 7506
-heavy.traffic 4035
+heavy.traffic 4036
 highrollers.ltd 7102
 human.labels 7509
 job.coloring 4500
@@ -399,8 +399,8 @@ kor.efret.shipyard 8238
 landing.images 7792
 landing.images.android 351
 landing.images.highres 7280
-licenses 8608
-mission.helper 9196
+licenses 8609
+mission.helper 9200
 more.arfectas 7994
 more.boarding.missions 8525
 more.person.ships 7345
@@ -411,7 +411,7 @@ paint.your.ships 7769
 pirate.warlords 6
 planet.map 6845
 planet.pluto 197
-portable.outfitter 481
+portable.outfitter 482
 quarg.farm 8135
 real.fluff 96
 ship.cores 252
