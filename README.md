@@ -21,8 +21,8 @@
 		<td>10134</td>
 		<td>10147</td>
 		<td>10155</td>
-		<td>10158</td>
-		<td>+ 3</td>
+		<td>10162</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -208,8 +208,8 @@
 		<td>8621</td>
 		<td>8635</td>
 		<td>8638</td>
-		<td>8641</td>
-		<td>+ 3</td>
+		<td>8642</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>hai.side.mission.unlocker</td>
@@ -230,8 +230,8 @@
 		<td>4021</td>
 		<td>4030</td>
 		<td>4032</td>
-		<td>4035</td>
-		<td>+ 3</td>
+		<td>4036</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>highrollers.ltd</td>
@@ -329,8 +329,8 @@
 		<td>8590</td>
 		<td>8601</td>
 		<td>8605</td>
-		<td>8608</td>
-		<td>+ 3</td>
+		<td>8609</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>mission.helper</td>
@@ -340,8 +340,8 @@
 		<td>9171</td>
 		<td>9186</td>
 		<td>9193</td>
-		<td>9196</td>
-		<td>+ 3</td>
+		<td>9200</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>more.arfectas</td>
@@ -428,8 +428,8 @@
 		<td>464</td>
 		<td>476</td>
 		<td>478</td>
-		<td>481</td>
-		<td>+ 3</td>
+		<td>482</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -549,8 +549,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>351508</td>
-		<td>123</td>
+		<td>351520</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
@@ -575,8 +575,8 @@
 		<td>10134</td>
 		<td>10147</td>
 		<td>10155</td>
-		<td>10158</td>
-		<td>+ 3</td>
+		<td>10162</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>bunrodea.missions</td>
@@ -663,8 +663,8 @@
 		<td>9171</td>
 		<td>9186</td>
 		<td>9193</td>
-		<td>9196</td>
-		<td>+ 3</td>
+		<td>9200</td>
+		<td>+ 7</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -718,8 +718,8 @@
 		<td>8621</td>
 		<td>8635</td>
 		<td>8638</td>
-		<td>8641</td>
-		<td>+ 3</td>
+		<td>8642</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>licenses</td>
@@ -729,8 +729,8 @@
 		<td>8590</td>
 		<td>8601</td>
 		<td>8605</td>
-		<td>8608</td>
-		<td>+ 3</td>
+		<td>8609</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>more.boarding.missions</td>
@@ -1048,8 +1048,8 @@
 		<td>4021</td>
 		<td>4030</td>
 		<td>4032</td>
-		<td>4035</td>
-		<td>+ 3</td>
+		<td>4036</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>fleet.mercy</td>
@@ -1081,8 +1081,8 @@
 		<td>464</td>
 		<td>476</td>
 		<td>478</td>
-		<td>481</td>
-		<td>+ 3</td>
+		<td>482</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>ship.cores</td>
@@ -1103,8 +1103,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>351508</td>
-		<td>123</td>
+		<td>351520</td>
+		<td>135</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1112,7 +1112,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-10-27</td>
 		<td>2026-10-28</td>
 		<td>2026-10-29</td>
 		<td>2026-10-30</td>
@@ -1121,10 +1120,10 @@
 		<td>2026-11-02</td>
 		<td>2026-11-03</td>
 		<td>2026-11-04</td>
+		<td>2026-11-05</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>122</td>
 		<td>110</td>
 		<td>38</td>
 		<td>36</td>
@@ -1133,10 +1132,10 @@
 		<td>43</td>
 		<td>62</td>
 		<td>100</td>
+		<td>31</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>25</td>
 		<td>23</td>
 		<td>13</td>
 		<td>18</td>
@@ -1145,6 +1144,7 @@
 		<td>23</td>
 		<td>31</td>
 		<td>29</td>
+		<td>17</td>
 	</tr>
 </table>
 <br>
@@ -1158,8 +1158,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>38454</td>
-		<td>9917</td>
+		<td>38485</td>
+		<td>9934</td>
 		<td>407</td>
 		<td>53</td>
 	</tr>
@@ -1172,8 +1172,8 @@
 	</tr>
 	<tr>
 		<td>391</td>
-		<td>98.35</td>
-		<td>25.36</td>
+		<td>98.43</td>
+		<td>25.41</td>
 		<td></td>
 		<td></td>
 	</tr>
