@@ -1,15 +1,15 @@
 # DOWNLOADS FOR EACH RELEASE:
 v1.0.14-mission.helper | downloads: 6
-v1.0.9-ship.merging | downloads: 27
-v1.0.30-additional.command.buttons.radial | downloads: 43
+v1.0.9-ship.merging | downloads: 30
+v1.0.30-additional.command.buttons.radial | downloads: 45
 v1.0.13-mission.helper | downloads: 569
 v1.0.8-ship.merging | downloads: 509
 v1.0.29-additional.command.buttons.radial | downloads: 506
-v1.0.7-show.reputation | downloads: 598
+v1.0.7-show.reputation | downloads: 599
 v1.0.9-control.station | downloads: 675
 v1.0.0-portable.outfitter | downloads: 500
 v1.0.8-coalition.shopping | downloads: 785
-v1.0.10-boss.loot | downloads: 789
+v1.0.10-boss.loot | downloads: 790
 v1.0.5-vague.improvements | downloads: 1065
 v1.0.8-human.labels | downloads: 1129
 v1.0.3-ship.cores | downloads: 210
@@ -22,9 +22,9 @@ v1.0.2-fleet.mercy | downloads: 1938
 v1.0.0-ship.cores | downloads: 21
 v1.0.13-combat.ai | downloads: 2379
 v1.0.4-paint.your.ships | downloads: 2110
-v1.0.15-uniques | downloads: 2181
+v1.0.15-uniques | downloads: 2182
 v1.0.9-boss.loot | downloads: 1580
-v1.1.8-hai.side.mission.unlocker | downloads: 2183
+v1.1.8-hai.side.mission.unlocker | downloads: 2184
 v1.0.1-fleet.mercy | downloads: 539
 v1.0.0-fleet.mercy | downloads: 70
 v1.0.4-vague.improvements | downloads: 1390
@@ -37,7 +37,7 @@ v1.0.8-control.station | downloads: 2279
 v1.0.7-ship.merging | downloads: 2196
 v1.0.3-vague.improvements | downloads: 35
 v1.0.12-combat.ai | downloads: 1119
-v1.0.4-job.coloring | downloads: 3174
+v1.0.4-job.coloring | downloads: 3175
 v1.0.1-heavy.traffic | downloads: 1938
 v1.0.3-job.coloring | downloads: 824
 v1.1.13-galactic.capital.investment | downloads: 2337
@@ -53,7 +53,7 @@ v1.0.7-control.station | downloads: 2325
 v1.0.6-show.reputation | downloads: 3986
 v1.0.6-ship.merging | downloads: 2057
 v1.0.1-comets | downloads: 4097
-v1.0.6-gegno.pirates | downloads: 4714
+v1.0.6-gegno.pirates | downloads: 4715
 v1.0.5-gegno.pirates | downloads: 11
 v1.0.2-job.coloring | downloads: 443
 v1.0.7-boss.loot | downloads: 815
@@ -104,7 +104,7 @@ v1.0.3-kor.efret.shipyard | downloads: 7454
 v1.0.2-highrollers.ltd | downloads: 6882
 v1.0.2-automata.in.human.space | downloads: 8209
 v1.0.2-automata.destruction.0percent | downloads: 7425
-v1.0.1-kestrel.unlocks | downloads: 7126
+v1.0.1-kestrel.unlocks | downloads: 7127
 v1.0.1-disable.person.ships | downloads: 7119
 v1.0.5-landing.images | downloads: 7238
 v1.0.3-landing.images.highres | downloads: 6897
@@ -147,7 +147,7 @@ v1.0.6-human.labels | downloads: 45
 v1.0.5-quarg.farm | downloads: 411
 v1.0.4-show.reputation | downloads: 56
 v1.0.4-mission.helper | downloads: 36
-v1.0.3-more.person.ships | downloads: 6951
+v1.0.3-more.person.ships | downloads: 6952
 v1.0.3-control.station | downloads: 41
 v1.0.2-paint.your.ships | downloads: 49
 v1.0.2-control.station | downloads: 5
@@ -362,17 +362,17 @@ v1.1-galactic.capital.investment | downloads: 31
 
 
 # NUMBER OF RELEASES: 361
-# TOTAL DOWNLOADS: 354575
+# TOTAL DOWNLOADS: 354588
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
 additional.command.buttons 95
-additional.command.buttons.radial 10193
+additional.command.buttons.radial 10195
 automata.destruction.0percent 9309
 automata.in.human.space 8733
 avgi.licenses 234
 better.starts 9818
-boss.loot 9194
+boss.loot 9195
 bunrodea.missions 10035
 captureable.person.ships 8881
 coalition.shopping 9351
@@ -387,14 +387,14 @@ flare.play 7052
 fleet.mercy 2547
 free.worlds.5.years.later 376
 galactic.capital.investment 9667
-gegno.pirates 8664
-hai.side.mission.unlocker 7524
+gegno.pirates 8665
+hai.side.mission.unlocker 7525
 heavy.traffic 4060
 highrollers.ltd 7120
 human.labels 7528
-job.coloring 4523
+job.coloring 4524
 jump.gates 7975
-kestrel.unlocks 7708
+kestrel.unlocks 7709
 kor.efret.shipyard 8257
 landing.images 7813
 landing.images.android 351
@@ -403,7 +403,7 @@ licenses 8634
 mission.helper 9232
 more.arfectas 8016
 more.boarding.missions 8550
-more.person.ships 7364
+more.person.ships 7365
 navy.licenses 580
 no.more.mereti.mines 7077
 outfits.weapon.slot 7651
@@ -415,12 +415,12 @@ portable.outfitter 500
 quarg.farm 8154
 real.fluff 96
 ship.cores 252
-ship.merging 8123
-show.reputation 8220
+ship.merging 8126
+show.reputation 8221
 snowfeather.robotics 7792
 space.fauna 7149
 too.many.asteroids 6363
 tribute.republic 6951
 unique.fix 46
-uniques 8003
+uniques 8004
 vague.improvements 4116
