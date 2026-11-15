@@ -5,8 +5,8 @@ v1.0.30-additional.command.buttons.radial | downloads: 63
 v1.0.13-mission.helper | downloads: 604
 v1.0.8-ship.merging | downloads: 523
 v1.0.29-additional.command.buttons.radial | downloads: 520
-v1.0.7-show.reputation | downloads: 629
-v1.0.9-control.station | downloads: 708
+v1.0.7-show.reputation | downloads: 630
+v1.0.9-control.station | downloads: 710
 v1.0.0-portable.outfitter | downloads: 523
 v1.0.8-coalition.shopping | downloads: 819
 v1.0.10-boss.loot | downloads: 819
@@ -37,7 +37,7 @@ v1.0.8-control.station | downloads: 2279
 v1.0.7-ship.merging | downloads: 2196
 v1.0.3-vague.improvements | downloads: 35
 v1.0.12-combat.ai | downloads: 1119
-v1.0.4-job.coloring | downloads: 3204
+v1.0.4-job.coloring | downloads: 3205
 v1.0.1-heavy.traffic | downloads: 1938
 v1.0.3-job.coloring | downloads: 824
 v1.1.13-galactic.capital.investment | downloads: 2337
@@ -106,7 +106,7 @@ v1.0.2-automata.in.human.space | downloads: 8235
 v1.0.2-automata.destruction.0percent | downloads: 7441
 v1.0.1-kestrel.unlocks | downloads: 7151
 v1.0.1-disable.person.ships | downloads: 7132
-v1.0.5-landing.images | downloads: 7263
+v1.0.5-landing.images | downloads: 7264
 v1.0.3-landing.images.highres | downloads: 6916
 v1.0.25-additional.command.buttons.radial | downloads: 331
 v1.1.9-galactic.capital.investment | downloads: 960
@@ -129,7 +129,7 @@ v1.0.5-show.reputation | downloads: 3070
 v1.0.3-paint.your.ships | downloads: 5214
 v1.1.9-captureable.person.ships | downloads: 1542
 v1.0.9-bunrodea.missions | downloads: 9337
-v1.0.5-better.starts | downloads: 9293
+v1.0.5-better.starts | downloads: 9294
 v1.0.4-control.station | downloads: 186
 v1.0.6-mission.helper | downloads: 67
 v1.0.5-mission.helper | downloads: 12
@@ -362,7 +362,7 @@ v1.1-galactic.capital.investment | downloads: 31
 
 
 # NUMBER OF RELEASES: 361
-# TOTAL DOWNLOADS: 355786
+# TOTAL DOWNLOADS: 355792
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
@@ -371,14 +371,14 @@ additional.command.buttons.radial 10227
 automata.destruction.0percent 9336
 automata.in.human.space 8759
 avgi.licenses 234
-better.starts 9843
+better.starts 9844
 boss.loot 9224
 bunrodea.missions 10067
 captureable.person.ships 8911
 coalition.shopping 9385
 combat.ai 9745
 comets 4354
-control.station 9498
+control.station 9500
 devil-run.unhidden 70
 disable.person.ships 7748
 disable.spaceport.repeatables 2442
@@ -392,11 +392,11 @@ hai.side.mission.unlocker 7544
 heavy.traffic 4089
 highrollers.ltd 7138
 human.labels 7552
-job.coloring 4553
+job.coloring 4554
 jump.gates 8003
 kestrel.unlocks 7733
 kor.efret.shipyard 8286
-landing.images 7838
+landing.images 7839
 landing.images.android 351
 landing.images.highres 7319
 licenses 8664
@@ -416,7 +416,7 @@ quarg.farm 8181
 real.fluff 96
 ship.cores 252
 ship.merging 8154
-show.reputation 8251
+show.reputation 8252
 snowfeather.robotics 7816
 space.fauna 7172
 too.many.asteroids 6391
