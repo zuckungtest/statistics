@@ -54,8 +54,8 @@
 		<td>9830</td>
 		<td>9836</td>
 		<td>9839</td>
-		<td>9843</td>
-		<td>+ 4</td>
+		<td>9844</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>boss.loot</td>
@@ -131,8 +131,8 @@
 		<td>9484</td>
 		<td>9488</td>
 		<td>9494</td>
-		<td>9498</td>
-		<td>+ 4</td>
+		<td>9500</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -263,8 +263,8 @@
 		<td>4540</td>
 		<td>4544</td>
 		<td>4550</td>
-		<td>4553</td>
-		<td>+ 3</td>
+		<td>4554</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>jump.gates</td>
@@ -307,8 +307,8 @@
 		<td>7829</td>
 		<td>7832</td>
 		<td>7835</td>
-		<td>7838</td>
-		<td>+ 3</td>
+		<td>7839</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>landing.images.highres</td>
@@ -472,8 +472,8 @@
 		<td>8237</td>
 		<td>8243</td>
 		<td>8248</td>
-		<td>8251</td>
-		<td>+ 3</td>
+		<td>8252</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -549,8 +549,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>353735</td>
-		<td>185</td>
+		<td>353741</td>
+		<td>191</td>
 	</tr>
 </table>
 </sub></sup>
@@ -597,8 +597,8 @@
 		<td>9830</td>
 		<td>9836</td>
 		<td>9839</td>
-		<td>9843</td>
-		<td>+ 4</td>
+		<td>9844</td>
+		<td>+ 5</td>
 	</tr>
 	<tr>
 		<td>combat.ai</td>
@@ -630,8 +630,8 @@
 		<td>9484</td>
 		<td>9488</td>
 		<td>9494</td>
-		<td>9498</td>
-		<td>+ 4</td>
+		<td>9500</td>
+		<td>+ 6</td>
 	</tr>
 	<tr>
 		<td>coalition.shopping</td>
@@ -762,8 +762,8 @@
 		<td>8237</td>
 		<td>8243</td>
 		<td>8248</td>
-		<td>8251</td>
-		<td>+ 3</td>
+		<td>8252</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>quarg.farm</td>
@@ -828,8 +828,8 @@
 		<td>7829</td>
 		<td>7832</td>
 		<td>7835</td>
-		<td>7838</td>
-		<td>+ 3</td>
+		<td>7839</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>snowfeather.robotics</td>
@@ -1015,8 +1015,8 @@
 		<td>4540</td>
 		<td>4544</td>
 		<td>4550</td>
-		<td>4553</td>
-		<td>+ 3</td>
+		<td>4554</td>
+		<td>+ 4</td>
 	</tr>
 	<tr>
 		<td>comets</td>
@@ -1103,8 +1103,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>353735</td>
-		<td>185</td>
+		<td>353741</td>
+		<td>191</td>
 	</tr>
 </table>
 </sub></sup>
@@ -1112,7 +1112,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2026-11-05</td>
 		<td>2026-11-06</td>
 		<td>2026-11-07</td>
 		<td>2026-11-08</td>
@@ -1121,10 +1120,10 @@
 		<td>2026-11-11</td>
 		<td>2026-11-12</td>
 		<td>2026-11-13</td>
+		<td>2026-11-14</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>31</td>
 		<td>95</td>
 		<td>77</td>
 		<td>49</td>
@@ -1133,10 +1132,10 @@
 		<td>78</td>
 		<td>84</td>
 		<td>57</td>
+		<td>147</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
-		<td>17</td>
 		<td>33</td>
 		<td>29</td>
 		<td>25</td>
@@ -1145,6 +1144,7 @@
 		<td>26</td>
 		<td>25</td>
 		<td>29</td>
+		<td>45</td>
 	</tr>
 </table>
 <br>
@@ -1158,8 +1158,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>39123</td>
-		<td>10172</td>
+		<td>39270</td>
+		<td>10217</td>
 		<td>407</td>
 		<td>53</td>
 	</tr>
@@ -1172,8 +1172,8 @@
 	</tr>
 	<tr>
 		<td>400</td>
-		<td>97.81</td>
-		<td>25.43</td>
+		<td>98.17</td>
+		<td>25.54</td>
 		<td></td>
 		<td></td>
 	</tr>
